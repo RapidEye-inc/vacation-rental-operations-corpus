@@ -1,0 +1,29 @@
+# How Many Inspectors Do You Need for 500 Vacation Rentals?
+
+Source: https://rapideyeinspections.com/blog/how-many-inspectors-for-500-vacation-rentals/
+
+_If you physically inspect every turnover, 500 vacation rentals need 6 to 10 inspectors. If you spot-check, 2 to 3. The math, both models, and the variable that decides which you can afford._
+
+# How Many **Inspectors** Do You Need for 500 Vacation Rentals?
+
+According to RapidEye's analysis of turnover operations, there is no single inspector headcount for 500 vacation rentals, because the number is driven by how much you inspect, not how many units you own. The math is straightforward once you separate the two models.
+
+## The math behind the number
+
+The per-inspector capacity is the lever, and it is set mostly by geography. A portfolio of clustered condos lets an inspector hit the top of the range; large homes spread across a market drag it down. The full breakdown is in [how many properties an inspector can QC per day](https://rapideyeinspections.com/blog/how-many-properties-can-inspector-qc-per-day/).
+
+## Three models, three headcounts
+
+That third column is the point. The reason large operators spot-check is not that they think most turnovers don't need checking; it is that inspecting all of them by hand would take 6 to 10 inspectors they can't justify. Photo and video review of every clean gives the coverage of the first model at the headcount of the second.
+
+At 500 units, "inspect every turnover" and "keep the team small" look like a tradeoff, and operators pick small. **RapidEye reviews the turnover photos and video from every clean and surfaces only the ones that need a human**, so a 2-to-3-person team gets full-portfolio coverage instead of a 20% sample. You stop choosing between cost and coverage. [Start a free trial](https://rapideyeinspections.com/#contact).
+
+## FAQ
+
+Related
+
+## Sources
+
+- RapidEye. [How Many Properties Can an Inspector QC Per Day?](https://rapideyeinspections.com/blog/how-many-properties-can-inspector-qc-per-day/) Per-inspector daily capacity (6 to 10 mixed, up to 12 clustered, 1 to 2 spread-out), the figure the headcount math divides by.https://rapideyeinspections.com/blog/how-many-properties-can-inspector-qc-per-day/
+
+- RapidEye. [How Many Cleaners Do You Need for 100 Vacation Rentals?](https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/) Turnover volume at occupancy used to size the weekly inspection load.https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/

@@ -1,0 +1,57 @@
+# Haitian Creole Cleaning Vocabulary for Vacation Rental Turnovers
+
+Source: https://rapideyeinspections.com/blog/haitian-creole-cleaning-vocabulary-vacation-rentals/
+
+_Haitian Creole is Florida's third most-spoken language and the first language of much of the South Florida cleaning workforce. The essential turnover vocabulary, verified, for managers who don't speak it._
+
+# Haitian Creole cleaning vocabulary for turnovers
+
+In much of Florida, your cleaning team's first language is Haitian Creole, yet almost no operational resources exist for it. Here is the essential, verified turnover vocabulary for managers who don't speak it.
+
+Haitian Creole speakers in Florida, making it the state's third most-spoken language after English and Spanish. According to [Axios Tampa Bay](https://www.axios.com/local/tampa-bay/2025/06/06/haitian-third-most-spoken-language-florida-english-and-spanish) (June 2025), citing Census data.
+
+### Greetings and courtesy
+
+### The cleaning core
+
+### Rooms and the house
+
+### Things in the property
+
+### Problems and timing
+
+### Use this as a verified starting point
+
+Every term above was checked against published Haitian Creole dictionaries and phrasebooks, but this is a core set, not an exhaustive SOP. Haitian Creole is a full language with French and West African roots, written in a standardized phonetic spelling, and regional usage varies. For full sentences and property-specific instructions, confirm the exact wording with your own team members, who will appreciate the effort either way. For the broader system this fits into, see the [guide to managing a team you don't share a language with](https://rapideyeinspections.com/blog/how-to-manage-spanish-speaking-cleaning-team/).
+
+### When the vocabulary runs out, use photos
+
+Here is the honest part: there is far less ready-made bilingual turnover material in Haitian Creole than in Spanish, so you will hit the edge of any word list quickly. That is exactly why the most reliable tool for a Haitian Creole-speaking team is not text at all, it is a picture of the finished result. A reference photo of a correctly staged bed or a stocked bathroom communicates the standard with zero translation, in any language. RapidEye is built on that idea: cleaners document each turnover with photos, and the AI compares against a baseline, so quality control never depends on a shared language. See [how to build photo-based instructions](https://rapideyeinspections.com/blog/photo-cleaning-instructions-non-english-speakers/).
+
+## Frequently asked questions
+
+Because in much of Florida, your cleaning team speaks it. According to Axios, citing Census data, Haitian Creole is Florida's third most-spoken language after English and Spanish, with roughly 426,000 speakers statewide, concentrated in Miami, Fort Lauderdale, Orlando, and Tampa. For vacation rental operators in those markets, a Haitian Creole-speaking cleaning team is common, yet almost no operational resources exist for it. A small, respectful working vocabulary goes a long way.
+
+No. The same playbook that works for a Spanish-speaking team works here: a handful of core words, a translation-friendly channel like WhatsApp, and above all photo-based standards that need no translation at all. Haitian Creole has fewer ready-made bilingual turnover tools than Spanish, which makes visual instructions and reference photos even more valuable. Learn the essential vocabulary, then let pictures carry the rest.
+
+Haitian Creole uses a standardized phonetic spelling: letters consistently represent the same sounds, so once you learn the system, words are read much as they are written. It is a distinct language with French and West African roots, not a dialect of French. Because regional and individual usage varies, the safest approach is to confirm exact wording with your own team members, who will appreciate the effort regardless.
+
+### Sources
+
+### Related reading
+
+#### How to Manage a Spanish-Speaking Cleaning Team
+
+The full playbook for running a team you don't share a language with.
+
+#### Cleaning Instructions With Photos Instead of Words
+
+The visual approach that matters most where bilingual tools are scarce.
+
+#### Spanish Cleaning Vocabulary for Turnovers
+
+The same reference for the other major cleaning-workforce language.
+
+#### How to Communicate With Cleaners Who Don't Speak English
+
+WhatsApp translation, voice notes, and photo confirmation.

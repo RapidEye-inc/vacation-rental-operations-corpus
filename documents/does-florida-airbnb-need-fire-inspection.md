@@ -1,0 +1,59 @@
+# Does My Florida Airbnb Need a Fire Inspection?
+
+Source: https://rapideyeinspections.com/blog/does-florida-airbnb-need-fire-inspection/
+
+_Whether your Florida vacation rental needs a fire inspection depends on your municipality. Miami-Dade, Osceola, Panama City Beach, Monroe County, Fort Lauderdale, and Largo all require one. Here's what each market requires._
+
+# Does My Florida Airbnb Need a Fire Inspection?
+
+**It depends on your municipality.** Florida state law (DBPR) does not require a mandatory opening inspection for vacation rentals, unlike hotels. But most major STR markets in Florida require their own local fire or safety inspection before you can operate. If you're in Miami-Dade, Osceola County, Panama City Beach, Monroe County, Fort Lauderdale, or Largo, the answer is yes.
+
+## State level: no mandatory inspection
+
+According to [Chapter 509, Florida Statutes](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.032.html), vacation rentals are classified as "public lodging establishments" and must be licensed by the DBPR. However, unlike hotels and restaurants, vacation rentals do not require a mandatory opening inspection. DBPR has the authority to inspect before or after licensing, and will inspect if they receive complaints, but there is no scheduled inspection requirement at the state level.
+
+The one state-level exception: buildings three stories or higher require a Certificate of Balcony Inspection every three years.
+
+## What major markets require
+
+The real inspection requirements come from local ordinances. Here's what each major Florida STR market requires:
+
+According to [Miami-Dade County (Section 33-28)](https://www.miamidade.gov/building/standards/residential-short-term-vacation-rentals.asp), a Certificate of Use is required before listing. The CU application triggers a property inspection. Total cost: **$246.78** (CU + inspection + surcharge). Annual renewal at the same cost.
+
+STR license requires an initial inspection. According to multiple consistent sources, the inspection fee is **$160**, with **$100** for re-inspections. A floor plan showing safety device locations must be submitted with the application.
+
+According to [PCB Ordinance 1632](https://www.pcbfl.gov/departments/fire-department/fire-inspections/short-term-rentals) (effective February 2024), all vacation rentals must pass a fire department life safety inspection to receive a Vacation Rental Certificate.
+
+According to the [Monroe County Special Vacation Rental Program](https://www.monroecounty-fl.gov/701/Special-Vacation-Rental-Program), both initial and renewal permits require a Fire and Life Safety Inspection. Fees: **$125** (1BR), **$250** (2-3BR), **$400** (4+BR).
+
+According to Fort Lauderdale Ordinance C-16-25, all STRs must pass a **mandatory annual safety inspection** for a Certificate of Compliance. Re-inspections cost **$100** each. One of the strictest programs in the state.
+
+According to the [City of Largo](https://largo.com/connect/living_in_largo/new_short-term_rentals.php), two separate inspections are required: a compliance inspection (Community Standards, 727-587-6799) then a life safety inspection (Fire Dept, 727-587-6740). **Annual high-hazard renewal** ($100).
+
+## What inspectors check
+
+The specifics vary by municipality, but across the markets above, fire and safety inspections commonly verify:
+
+- **Smoke detectors** present and functional in required locations
+
+- **CO detectors** where required
+
+- **Fire extinguishers** on each floor, properly rated and tagged
+
+- **Egress:** unobstructed exits and escape routes
+
+- **Posted information:** evacuation diagrams, emergency contacts, occupancy limits
+
+- **Pool safety** features (where applicable)
+
+### Sources
+
+[Miami-Dade County Residential Short-Term Vacation Rentals](https://www.miamidade.gov/building/standards/residential-short-term-vacation-rentals.asp) (verified April 2026)https://www.miamidade.gov/building/standards/residential-short-term-vacation-rentals.asp
+
+[Monroe County Special Vacation Rental Program](https://www.monroecounty-fl.gov/701/Special-Vacation-Rental-Program) (verified April 2026)https://www.monroecounty-fl.gov/701/Special-Vacation-Rental-Program
+
+[Panama City Beach Fire Department STR Requirements](https://www.pcbfl.gov/departments/fire-department/fire-inspections/short-term-rentals) (verified April 2026)https://www.pcbfl.gov/departments/fire-department/fire-inspections/short-term-rentals
+
+[City of Largo Short-Term Vacation Rentals](https://largo.com/connect/living_in_largo/new_short-term_rentals.php) (verified April 2026)https://largo.com/connect/living_in_largo/new_short-term_rentals.php
+
+Fort Lauderdale Ordinance C-16-25 (annual inspection and $100 re-inspection fee confirmed via fortlauderdale.gov, April 2026)

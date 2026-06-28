@@ -1,0 +1,78 @@
+# Tennessee Vacation Rental Management Companies: The 2026 Market in Numbers
+
+Source: https://rapideyeinspections.com/blog/tennessee-vacation-rental-landscape/
+
+_We mapped 107 Tennessee vacation rental management companies from the VRMA directory: the largest operators, top-5 concentration (57%), dominant software, and what the data means. Primary-source figures, cleaned._
+
+# Tennessee Vacation Rental Management Companies: The 2026 Market in Numbers
+
+We pulled every Tennessee member of the national vacation rental managers’ association and ranked the market by the numbers: how many companies, who manages the most units, how concentrated it is, and what software runs it.
+
+**Tennessee is home to 107 VRMA-member vacation rental management companies**, of which 48 disclosed a unit count totaling 3,284 managed units. The market is best described as a pure Smoky Mountain cabin economy.
+
+The largest reporting operator is **Cabins For You** at roughly 608 units. The top five reporting operators control about 57 percent of all units disclosed, the most common property management system among members is Streamline, and the median member company was founded around 2014.
+
+## 01Tennessee at a glance
+
+VRMA member companies headquartered in Tennessee, March 2026.
+
+## 02The largest operators
+
+Ranked by self-reported units managed. Figures are disclosed by the operators themselves.
+
+| # | Operator | Units (self-reported) |
+| --- | --- | --- |
+| 1 | Cabins For YouGatlinburg | 608 |
+| 2 | American Patriot Getaways, LLCPigeon Forge | 465 |
+| 3 | Cabins USA, LLCPigeon Forge | 375 |
+| 4 | Haven Vacation RentalsKnoxville | 230 |
+| 5 | Eagle Property Management, IncPigeon Forge | 190 |
+| 6 | The Lease KillersNashville | 150 |
+| 7 | Auntie Belham's Cabin Rentals, Inc.Pigeon Forge | 110 |
+| 8 | Oak Haven Resort, Inc.Sevierville | 102 |
+| 9 | Mountain Laurel ChaletsGatlinburg | 91 |
+| 10 | Hallson HospitalityNashville | 85 |
+
+## 03How concentrated is the market?
+
+The five largest reporting operators control about **57 percent** of every unit disclosed by Tennessee members. That is unusually concentrated, the mark of a resort-anchored market.
+
+## 04What software runs the market
+
+Most-named property management systems among Tennessee members.
+
+According to the VRMA directory, the unit-heavy incumbents in Tennessee still lean on Streamline and legacy HomeAway/Escapia systems, the same generational pattern we documented across the whole industry in [the PMS market analysis](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/).
+
+## 05What the data says
+
+Tennessee's vacation rental market is almost entirely a Smoky Mountain cabin economy, concentrated in Sevier County around Gatlinburg, Pigeon Forge, and Sevierville. According to the VRMA public member directory (compiled March 2026), 107 Tennessee companies are members. After setting aside the national franchise headquartered in the state (see below), the largest genuinely Tennessee-based operator is Cabins For You at roughly 608 units, followed by American Patriot Getaways, Cabins USA, and Auntie Belham's.
+
+These are cabin specialists, not coastal realty firms or urban apartment operators. The product is a detached log cabin with a hot tub and a mountain view, and the operational rhythm is built around it. The median Tennessee member was founded around 2014, and the top five reporting operators hold about 57 percent of reported units once the franchise total is removed.
+
+## 06Compare other states
+
+Figures come from RapidEye's analysis of the **VRMA (Vacation Rental Management Association) public member directory**, compiled March 2026. Counts cover companies that list a Tennessee headquarters. Unit counts are **self-reported**; only 48 of 107 Tennessee members disclosed one, so the 3,284-unit total is a floor, not a census of every short-term rental in the state.
+
+We de-duplicated companies that appear under multiple brand spellings (keeping the higher figure) and excluded entries whose self-reported totals reflect national franchise networks, timeshare or HOA portfolios, or brands since acquired and folded into a national operator. In Tennessee, the largest excluded entry was iTrip Vacations: Itrip.net (4,500 self-reported units), a national franchise network reported outside the state.
+
+## 07Sources
+
+- VRMA (Vacation Rental Management Association) — Public Member Directory, compiled March 2026 (primary data set).https://www.vrma.org/search/newsearch.asp
+
+- RapidEye — The Largest Short-Term Rental Management Companies (2026).https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/
+
+- RapidEye — The Vacation Rental PMS Market Just Flipped: 40 Years in One Chart.https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/
+
+## 08Frequently asked
+
+### How many vacation rental management companies are in Tennessee?
+
+According to the VRMA public member directory compiled in March 2026, Tennessee has 107 member vacation rental management companies. Of those, 48 disclosed a unit count, together reporting 3,284 managed units.
+
+### Who is the largest vacation rental management company in Tennessee?
+
+Based on self-reported figures in the VRMA directory, the largest reporting operator in Tennessee is Cabins For You with approximately 608 units. The five largest reporting operators together account for about 57 percent of all units disclosed by Tennessee members.
+
+### What property management software do Tennessee vacation rental companies use?
+
+Among Tennessee members that named a property management system, Streamline is the most common, consistent with the broader pattern in which Streamline and legacy HomeAway/Escapia systems still run most unit-heavy incumbents.

@@ -1,0 +1,337 @@
+# Appliance Damage in Short-Term Rentals: Why &quot;It Stopped Working&quot; Claims Fail
+
+Source: https://rapideyeinspections.com/blog/appliance-electronics-damage-short-term-rentals-claims/
+
+_Appliances fail invisibly, and platforms default to "it was probably old." Here's what documentation actually wins these claims, plus real repair and replacement costs._
+
+# Appliance Damage in Short-Term Rentals: Why "It Stopped Working" Claims Fail
+
+A guest checks out. Your cleaner runs the dishwasher and it floods the kitchen. The dryer makes a sound like a cement mixer. Three burners on the stovetop won’t ignite. The TV displays nothing but a black screen.
+
+You know something happened during that stay. But proving it? That’s where appliance damage claims fall apart.
+
+I’ve written about [outdoor amenity damage](https://www.rapideyeinspections.com/blog/outdoor-amenity-damage-vacation-rental-pools-hot-tubs-grills) before, where the challenge is proving function, not just appearance. Appliances present the same fundamental problem, but with a different competing explanation. For outdoor equipment, platforms wonder if weather caused it. For appliances, they wonder if it was just old.
+
+And honestly? They might be right. Appliances do fail. That’s just what they do.
+
+But the difference between a dishwasher that fails at year 8 versus year 12 is potentially $500-1,300 you’re eating. When guest misuse accelerates that failure, you deserve reimbursement. The documentation challenge is proving it.
+
+## The Invisible Damage Problem
+
+Most property damage is visible. Scratches, stains, broken glass, holes in walls. You photograph it, you have evidence.
+
+Appliances fail invisibly:
+
+- A photo of a stove looks identical whether it works perfectly or three burners are dead
+
+- A TV screen that’s off looks the same as one with a fried backlight
+
+- A dishwasher door closed tells you nothing about whether the pump seized
+
+- A dryer sitting there reveals nothing about whether the heating element burned out
+
+When you file a claim saying “the dishwasher doesn’t work anymore,” you’re asking the platform to trust that it worked before this guest arrived. Without evidence of baseline function, they won’t.
+
+## What Platforms Actually Require
+
+Both Airbnb and Vrbo give you **14 days after checkout** to file appliance damage claims. But the evidence standards are where things get complicated.
+
+### Airbnb’s Documentation Requirements
+
+Airbnb’s [Host Damage Protection Terms](https://assets.airbnb.com/help/2026_Host_Damage_Protection_Terms-English.pdf) require “Legitimate and Verifiable Evidence,” including:
+
+- Photos and videos
+
+- A complete inventory with make, model, purchase date, and condition at time of loss
+
+- Repair estimates with justification documents
+
+- Proof of ownership
+
+For appliances, they explicitly exclude losses from “deterioration” and “degradation in condition or loss of function over time due to use, age, lack of maintenance.” This is the “it was probably just old” clause, and it’s what kills most appliance claims.
+
+Payments are based on **Actual Cash Value** (ACV), meaning replacement cost minus depreciation. More on that math below.
+
+### Vrbo’s Process
+
+Vrbo’s [damage deposit claims](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) follow similar timelines but with less explicit documentation guidance. They “encourage” sharing photos or evidence with the guest. In practice, the same principle applies: without proof the appliance worked before and doesn’t work now, you’re unlikely to win.
+
+For the full breakdown of each platform’s process, I’ve covered [Airbnb AirCover claims](https://www.rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide) and [Vrbo damage claims](https://www.rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026) in detail.
+
+## Major Kitchen Appliances
+
+These are your highest-stakes appliance claims. When a refrigerator compressor dies or a glass stovetop cracks, you’re looking at hundreds to thousands of dollars.
+
+### Repair and Replacement Costs
+
+| Appliance | Typical Repair | Replacement (Installed) | Average Lifespan |
+| --- | --- | --- | --- |
+| Dishwasher | [$175-325](https://www.angi.com/articles/how-much-do-dishwasher-repairs-cost.htm) | $500-1,300 | 9-16 years |
+| Refrigerator | [$150-400](https://www.angi.com/articles/how-much-does-refrigerator-repair-cost.htm) | $1,000-3,000 | 10-18 years |
+| Range/Oven | [$130-310](https://www.angi.com/articles/how-much-does-oven-repair-cost.htm) | $350-1,400 | 13-20 years |
+| Garbage Disposal | Replace only | [$200-625](https://www.angi.com/articles/what-s-it-cost-replace-garbage-disposal.htm) | 8-15 years |
+| Glass Stovetop | [Up to $600](https://www.angi.com/articles/how-much-does-oven-repair-cost.htm) | Part of range | N/A |
+| Microwave | [$100-200](https://www.angi.com/articles/microwave-repair-and-what-it-costs.htm) | $150-500 | 8-12 years |
+
+### What Actually Breaks from Guest Misuse
+
+**Dishwashers:** Pump failures from food debris that should have been rinsed. Control board damage from interrupted cycles. Guests running the dishwasher with dishes blocking the spray arms, causing motor strain.
+
+**Garbage Disposals:** The classic: silverware dropped in and ground up. Also bread, rice, and pasta expanding and jamming the mechanism. These are [frequently jammed by items that shouldn’t go in](https://www.angi.com/articles/what-s-it-cost-replace-garbage-disposal.htm).
+
+**Glass Stovetops:** Dropped pans, sliding heavy pots, or cleaning with abrasive materials. A single crack can cost $600 to fix.
+
+**Refrigerators:** Blocked vents from overpacking, compressor strain from leaving the door open, temperature dial adjustments that cause freezing/thawing cycles.
+
+### Why Photo Documentation Fails
+
+A checklist photo of your dishwasher captures “dishwasher exists” and “door closes properly.” It doesn’t capture:
+
+- Whether the pump runs
+
+- Whether it drains correctly
+
+- Whether the spray arms spin
+
+- Whether it completes a cycle without error codes
+
+Same with stovetops. A photo of all four burners shows they exist. It doesn’t show whether they ignite. You need video of someone actually testing each burner.
+
+## Laundry: The Most Common Appliance Damage
+
+Washers and dryers see more guest misuse than any other category. Guests treat them like commercial machines, and they’re not.
+
+### Repair and Replacement Costs
+
+| Appliance | Typical Repair | Motor/Major Repair | Replacement | Average Lifespan |
+| --- | --- | --- | --- | --- |
+| Washer | [$180-250](https://www.angi.com/articles/how-much-washing-machine-repair-costs.htm) | $250-700 | $700-1,300 | 8-16 years |
+| Dryer | [$100-430](https://www.angi.com/articles/dryer-repair-cost.htm) | Varies | $375-1,400 | 10-15 years |
+
+### What Actually Breaks
+
+**Washers:**
+- Overloading causing motor strain and bearing damage
+- Wrong detergent (pods in HE machines, or vice versa)
+- Foreign objects in pockets destroying the pump
+- Running on wrong settings (hot water on cold-only fabrics, damaging seals)
+
+**Dryers:**
+- Overloading causing motor strain and overheating
+- Running while empty (burns out the heating element)
+- Blocked lint traps causing thermal fuse failures
+- Drying prohibited items (shoes, rubber-backed mats)
+
+The dryer situation is actually dangerous. The [National Park Service cites CPSC data](https://www.nps.gov/articles/p52-dryer-fires.htm) showing 15,500 clothes dryer fires annually, with lint buildup and restricted airflow as major contributors. Guest overuse accelerates lint accumulation and airflow problems.
+
+### Documentation That Works
+
+For laundry, you need video showing:
+
+- Washer filling, agitating, and draining
+
+- Dryer heating (you can feel the exhaust vent) and tumbling
+
+- No unusual sounds or error codes
+
+- Lint trap clear and vent airflow normal
+
+This is where [video walkthrough inspections](https://www.rapideyeinspections.com/blog/video-walkthrough-inspections-vs-photos-damage-detection) become essential. A photo of a washer tells you nothing about whether it works.
+
+## Entertainment and Electronics
+
+TVs, sound systems, and gaming consoles present the purest version of the “prove function” problem. A black screen could mean “turned off” or “completely broken.”
+
+### Common Damage Scenarios
+
+**TVs:**
+- Backlight failure from power surges (guests unplugging/plugging during storms)
+- Dead pixels from impact (someone bumped it, the mount wasn’t secure)
+- HDMI port damage from forcing cables
+- Remote lost or broken (minor but constant)
+
+**Sound Systems:**
+- Blown speakers from volume abuse
+- Connection damage from cable yanking
+- Soundbar knocked off mounts
+
+**Gaming Consoles (if you provide them):**
+- Overheating from blocked ventilation
+- Controller damage
+- Disc drive failures from rough handling
+
+### What It Costs
+
+TV replacement costs vary wildly by size and type. Budget a few hundred for a basic 50” up to $1,500+ for larger or smart TVs with premium features. Repairs are rarely economical for modern flat panels.
+
+Soundbar replacement: $100-500 depending on quality.
+
+### Documentation Approach
+
+For electronics, your baseline documentation should show:
+
+- TV powered on, displaying a picture
+
+- All HDMI ports working (switch through inputs)
+
+- Sound system playing audio
+
+- Remotes present and functional
+
+A 15-second video of each item actually working is your evidence. Photos can’t prove function.
+
+## Small Kitchen Appliances: Usually Not Worth the Fight
+
+Coffee makers, blenders, toasters, instant pots. These break constantly in rentals, but the economics rarely justify a claim.
+
+| Item | Replacement Cost | Claim Effort |
+| --- | --- | --- |
+| Coffee maker | $30-150 | High |
+| Toaster | $20-80 | High |
+| Blender | $30-200 | High |
+| Instant Pot | $60-150 | High |
+
+Unless you have a $200+ espresso machine or high-end appliance, the time spent documenting, filing, and following up exceeds the replacement cost. Budget these as consumables and replace as needed.
+
+The exception: if a small appliance failure causes secondary damage (a coffee maker that shorts and scorches the counter, for example), document both the appliance and the resulting damage.
+
+## Climate Control: The Expensive Exception
+
+HVAC systems and thermostats can generate massive repair bills, but they’re also the hardest to attribute to guest misuse.
+
+**What actually happens:**
+- Guests set the thermostat to extremes and leave windows open
+- Filters get clogged from guests who smoke inside (against rules)
+- Portable AC units run continuously at lowest settings, freezing coils
+
+**The challenge:** Proving a guest caused HVAC failure versus normal wear is nearly impossible. HVAC systems have 15-25 year lifespans and complex failure modes. Unless you have clear evidence of misuse (cigarette residue in filters, thermostat set to 50°F for a week), these claims rarely succeed.
+
+Document thermostat settings and filter condition as part of your turnover inspection. It won’t guarantee a successful claim, but it establishes baseline.
+
+## The Depreciation Math You Need to Understand
+
+Even with perfect documentation, platforms calculate reimbursement based on Actual Cash Value, not replacement cost. Here’s what that means:
+
+**Formula:** ACV = Replacement Cost × (Remaining Lifespan / Total Lifespan)
+
+**Example:** A dishwasher that costs $800 to replace, with a 12-year average lifespan, purchased 8 years ago:
+
+ACV = $800 × (4 / 12) = **$267**
+
+You’d get $267 even with airtight documentation, because the appliance had depreciated to that value.
+
+### Lifespan Data Platforms Use
+
+These ranges come from [industry lifespan guides](https://www.mrappliance.com/expert-tips/appliance-life-guide/) and inform how platforms calculate depreciation:
+
+| Appliance | Expected Lifespan Range | Average |
+| --- | --- | --- |
+| Dishwasher | 9-16 years | 12 years |
+| Refrigerator | 10-18 years | 14 years |
+| Washer | 8-16 years | 12 years |
+| Dryer | 10-15 years | 13 years |
+| Electric Range | 13-20 years | 16 years |
+| Gas Range | 15-23 years | 19 years |
+
+### When It’s Worth Fighting
+
+Do the math before investing documentation effort:
+
+- **Newer appliances (1-4 years):** High ACV, worth pursuing
+
+- **Mid-life appliances (5-8 years):** Moderate ACV, pursue for expensive items
+
+- **Older appliances (9+ years):** Low ACV, often not worth the effort unless repair is cheap
+
+A $150 repair on a 10-year-old dishwasher? Just fix it. A $600 glass stovetop replacement on a 3-year-old range? Document thoroughly and file.
+
+## What Documentation Actually Wins These Claims
+
+Appliance claims succeed when you can prove:
+
+- **The appliance worked before the guest arrived** (baseline function)
+
+- **The appliance doesn’t work after they left** (post-stay condition)
+
+- **The timeline eliminates other explanations** (it was this guest)
+
+### Baseline Function Testing
+
+This is where most property managers fail. Photo checklists can verify presence and appearance, but not function. You need:
+
+**Video of each appliance operating:**
+- Stovetop: All burners igniting
+- Oven: Heating up (show the temperature display)
+- Dishwasher: Starting a cycle, water running
+- Washer: Filling and agitating
+- Dryer: Tumbling with heat
+- TV: Powered on, displaying picture
+- Refrigerator: Running, interior light working, temperature display
+
+This takes an extra 2-3 minutes during turnover inspection. For a property with $15,000+ in appliances, that’s reasonable insurance.
+
+### Post-Stay Documentation
+
+When an appliance fails after checkout:
+
+- Video the failure (error codes, no response, unusual sounds)
+
+- Document the same thing you documented at baseline, showing it now fails
+
+- Get a repair tech’s diagnosis in writing
+
+- Keep the repair invoice with detailed notes on what failed
+
+### Training Your Team
+
+Your cleaners and inspectors need to know this matters. I covered team training in detail in [How to Train Your Cleaning Team on Damage Documentation](https://www.rapideyeinspections.com/blog/train-cleaning-team-damage-documentation-vacation-rental), but the key for appliances: they need to actually test things, not just photograph them.
+
+## Smart Appliances: The Future of Proof?
+
+Some modern appliances log usage data that could theoretically prove misuse. Samsung washers and dryers, for example, can [run diagnostics](https://www.samsung.com/us/support/answer/ANS10004796/) showing error codes and cycle history. GE SmartHQ stores recent cycle data.
+
+In theory, this is powerful evidence. A usage log showing a guest ran the dryer 15 times in one day, or that the washer was overloaded repeatedly, would support your claim.
+
+In practice, few hosts know this data exists or how to access it. And it requires smart appliances, which most rental properties don’t have.
+
+If you do have connected appliances, learn how to pull the diagnostic data. It could be the difference between a denied claim and a successful one.
+
+## The Honest Reality
+
+Appliance damage claims are hard. Platforms default to “wear and tear” because appliances do naturally fail, and proving guest-caused acceleration is genuinely difficult.
+
+What changes the odds:
+
+- **Documented baseline function** (video, not just photos)
+
+- **Immediate post-stay documentation** (same appliance, now failing)
+
+- **Professional diagnosis** (repair tech confirming cause)
+
+- **Reasonable depreciation expectations** (know what ACV you’re actually claiming)
+
+We built RapidEye to solve the documentation layer of this problem. When your turnover inspections include video walkthroughs that capture appliances actually operating, you have the baseline evidence that photo checklists can’t provide. You can see [real examples of what our system catches](https://rapideyeinspections.com/showcase/) across different damage types.
+
+## Quick Reference: Appliance Damage Claims
+
+**Timelines:**
+- Airbnb: 14 days to file, 30 days for full documentation
+- Vrbo: 14 days to file damage deposit claim
+
+**Documentation needed:**
+- Baseline video showing appliance functioning
+- Post-stay video showing failure
+- Make, model, purchase date
+- Repair diagnosis and invoice
+
+**Worth claiming:**
+- Newer appliances (high ACV)
+- Expensive repairs ($400+)
+- Clear evidence of misuse
+
+**Usually not worth it:**
+- Old appliances (low ACV)
+- Small appliances under $100
+- Failures without clear causation
+
+Appliances are expensive. Documentation is time-consuming. But when a $2,000 refrigerator fails three stays after installation, having video proof it worked perfectly makes the difference between eating that cost and recovering it.

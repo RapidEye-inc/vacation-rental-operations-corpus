@@ -1,0 +1,66 @@
+The Vacation Rental PMS Market Just Flipped: 40 Years of Software Choice in One Chart
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/
+
+_We analyzed the property management software choice of every VRMA member company by founding year. Streamline and Escapia owned the market for 30 years. In the 2020s cohort, Hostaway and Guesty displaced them in five years._
+
+The median founding year of each PMS's VRMA members, from Barefoot (2004) to Hospitable (2022).
+
+The same finding, in percentages by founding decade
+
+Below, the fossil-record story expressed as share-of-PMS-choice inside each decade's cohort. Streamline and Escapia held combined 47%+ share from the 1990s through the 2010s. In the 2020s, Hostaway and Guesty combined for 40%.
+
+Legacy PMS (on-prem origins, 1990s–2000s)
+
+Cloud-native PMS (post-2015)
+
+Each bar is the PMS share among VRMA member companies founded in that decade who list a named PMS in their public directory profile. "Other / Proprietary" responses excluded from the percentages shown. Research: RapidEye Inspections.
+
+From the 1990s through the 2010s, Streamline and Escapia together never held less than 47% of named PMS share among VRMA members founded that decade. In the 2020s cohort, their combined share fell to 18.5%.
+
+Over the same period, Hostaway went from 4% to 21% and Guesty went from 8% to 19%. A combined 40% of VRMA members founded in the 2020s run Hostaway or Guesty. Zero VRMA members founded in the 1990s run either, because neither existed yet.
+
+Operators pick whatever is the default when they enter the business and they rarely switch. Market share at any moment is a rolling average of every cohort's original choice, weighted by how many companies from that cohort are still in business.
+
+Who serves what size? The PMS ladder.
+
+Median unit count per customer, by PMS. Legacy PMSes dominate the enterprise tier. Cloud-native tools cluster at the small-and-growing end. There is a 50-fold gap between the top and bottom of the ladder.
+
+Track, the enterprise PMS, sits at 161 median units. Hospitable, the solo-host tool, sits at 3. These are different software categories serving fundamentally different buyers, all showing up in the same "property management software" bucket in industry coverage.
+
+The forgotten third: 162 operators still running Escapia
+
+Vrbo consolidated HomeAway's vacation rental software products in 2020, and active development on the HomeAway-era Escapia and V12.NET wound down. Despite that, 162 VRMA members (the third-largest PMS user base in the directory) still list Escapia / HomeAway as their PMS. Together they report 14,391 units.
+
+The third-largest PMS user base in VRMA runs a platform whose active development ended years ago.
+
+Industry coverage focuses on the high-growth cloud PMSes. Meanwhile the largest pocket of stuck-in-place operators is hiding in plain sight.
+
+Methodology
+
+Data source. VRMA (Vacation Rental Management Association) public member directory, compiled April 2026. 5,091 vacation rental management companies with self-reported PMS and founding-year fields.
+
+Field coverage. 30% of companies report a PMS, 49% report a founding year. Decade bars reflect only companies that reported both fields. Sample sizes per decade: Pre-1990 n=67, 1990s n=60, 2000s n=191, 2010s n=248 (excluding 2017 artifact below), 2020s n=168. Total N = 734.
+
+PMS normalization. Raw PMS values contained misspellings, capitalization variants, and multi-vendor responses. "Track," "Track PM," "Track Pulse," and "TrackPMS" are counted as Track. "Ownerrez," "Owner Rez," and "OwnerRez" are all OwnerRez. "Streamline VRS" is Streamline. "HomeAway Software products," "V12.NET," and "Escapia" are grouped as Escapia / HomeAway because HomeAway consolidated them. Responses containing commas (indicating multiple PMSes) or "Other (please specify)" were excluded from the decade bars.
+
+The 2017 spike. 385 VRMA members list 2017 as their founding year (15.6% of all dated records) while neighboring years hover at 28 to 142. This is almost certainly a form-default artifact from a VRMA onboarding change rather than an actual founding wave. We excluded 2017 from the 2010s bar to avoid skewing the decade comparison. Including it does not change the 2020s story.
+
+What this chart does not measure. Total PMS market share across the entire vacation rental industry (VRMA members are a subset), unit-weighted share (a large Track customer counts once just like a small Hospitable customer), or switching behavior (we see each company's current PMS, not their history). The "fossil record" framing assumes low switching, which matches the operator pattern of picking a PMS early and sticking with it, but is not directly measured here.
+
+Related reading
+
+See RapidEye running on your turnover photos
+
+AI damage detection and cleaning verification for vacation rental managers. Plugs into Breezeway, Guesty, and Streamline. 15 minutes to see it on your actual properties.
+
+Sources
+
+- Vacation Rental Management Association. VRMA Member Directory (https://www.vrma.org/). Full directory of 5,091 VRM member companies compiled from the public-facing member listings, April 2026. Self-reported PMS and founding-year fields are the basis for all analysis on this page.
+ https://www.vrma.org/
+
+- RapidEye Inspections. Only 17% of Vacation Rental Management Companies Operate in More Than One State (https://rapideyeinspections.com/blog/vacation-rental-management-single-state-analysis/). Companion analysis of the same VRMA dataset focused on geographic footprint.
+ https://rapideyeinspections.com/blog/vacation-rental-management-single-state-analysis/
+
+- RapidEye Inspections. The Largest Short-Term Rental Management Companies (2026) (https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/). Industry context on the top operators and the M&A timeline that reshaped the vacation rental management category between 2020 and 2026.
+ https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/

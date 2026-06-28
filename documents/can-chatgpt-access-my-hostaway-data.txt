@@ -1,0 +1,27 @@
+Can ChatGPT Access My Hostaway Data?
+
+Source: https://rapideyeinspections.com/blog/can-chatgpt-access-my-hostaway-data/
+
+_Yes, on your terms and read-only. You create a Hostaway API key, run an MCP server or custom GPT Action, and ChatGPT only sees the data your tools expose._
+
+Can ChatGPT access my Hostaway data?
+
+Yes, on your terms and read-only. You create a Hostaway Public API key, run a small MCP server (or expose the API as a custom GPT Action), and ChatGPT only sees the data your tools choose to expose, such as listings and reservations. It cannot change anything unless you deliberately add write tools.
+
+ChatGPT added Model Context Protocol support in September 2025 and connects to remote MCP servers over HTTP, so the path is to host the Hostaway MCP server (or wire the Public API into a custom GPT). You decide which endpoints the server wraps, which is what keeps access scoped: if the server only exposes read tools, that's all ChatGPT can ever do.
+
+Your credentials live in the server's environment, not in the chat, and a read-only server never sends a write request to Hostaway. That combination, your own key plus read-only tools, is what makes connecting safe.
+
+The full guide shows how to build the read-only server and exactly which tools it exposes.
+
+Related
+
+- Can you connect Hostaway to ChatGPT? (https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-chatgpt/)
+
+- Can you connect Hostaway to Claude? (https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-claude/)
+
+- Can you connect Hostaway to Gemini? (https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-gemini/)
+
+- How do I use AI with Hostaway? (https://rapideyeinspections.com/blog/how-to-use-ai-with-hostaway/)
+
+- Does Hostaway have an MCP server? (https://rapideyeinspections.com/blog/does-hostaway-have-an-mcp-server/)

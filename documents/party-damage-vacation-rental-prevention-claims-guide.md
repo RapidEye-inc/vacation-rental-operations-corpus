@@ -1,0 +1,139 @@
+# Party Damage in Your Vacation Rental: Prevention, Documentation, and Getting Reimbursed
+
+Source: https://rapideyeinspections.com/blog/party-damage-vacation-rental-prevention-claims-guide/
+
+_Complete guide to handling unauthorized parties in your STR. Prevention tech, documentation tips, and step-by-step claim filing for Airbnb and Vrbo._
+
+# Party Damage in Your Vacation Rental: Prevention, Documentation, and Getting Reimbursed
+
+Finding out someone threw a party at your rental is one of the worst feelings in property management. Broken furniture, stained carpets, noise complaints from neighbors, maybe even police involvement. It’s expensive, stressful, and makes you question whether this whole business is worth it.
+
+Here’s the thing though. You can prevent most parties. And when they do happen, you can recover your losses if you handle it right. Let me walk you through both sides.
+
+## Airbnb’s Party Ban Actually Works
+
+Some good news first. Airbnb made their party ban [permanent in June 2022](https://www.cnbc.com/2022/06/28/airbnb-makes-its-party-ban-permanent.html), and the numbers show it’s working. According to Airbnb, party reports have [dropped over 50% since 2020](https://news.airbnb.com/cracking-down-on-summer-holiday-parties-with-anti-party-technology/). In 2024, fewer than 0.06% of US reservations resulted in a party report.
+
+Their anti-party tech blocks high-risk bookings automatically. Over Memorial Day and July 4th 2024, it [deterred around 51,000 people](https://news.airbnb.com/cracking-down-on-summer-holiday-parties-with-anti-party-technology/) from booking entire homes in the US. That’s a lot of parties that never happened.
+
+But 0.06% across millions of bookings is still a lot of incidents. And you really don’t want to be one of them.
+
+## Prevention: Monitoring Tech That Actually Helps
+
+The best party defense combines guest screening with real-time monitoring. Here’s what’s available.
+
+### Noise Monitoring
+
+These devices measure decibel levels without recording conversations, which keeps them compliant with both [Airbnb](https://www.airbnb.com/help/article/3061) and [Vrbo](https://help.vrbo.com/articles/What-is-HomeAway-s-policy-on-surveillance-devices-at-a-property) policies. You set thresholds and get alerts when things get loud.
+
+**Popular options:**
+
+| Device | Pricing | Notes |
+| --- | --- | --- |
+| Minut | [$10-20/month per home](https://www.minut.com/pricing) | Also tracks occupancy via device detection |
+| NoiseAware | Contact for pricing | Claims data from 5 million+ reservations |
+| Party Squasher | [$249 first year, $199/year renewal](https://www.partysquasher.com/pricing/) | Focuses on occupancy detection |
+
+Minut’s crowd detection feature counts wireless devices nearby and alerts you when it exceeds your threshold. Worth noting: their system [currently only detects iOS devices](https://support.minut.com/en/articles/5020397-crowd-detect) reliably since Android phones don’t broadcast constantly. Still useful, but not foolproof.
+
+### Guest Screening
+
+Screening services verify identity and check backgrounds before guests book. Some options:
+
+- **Autohost**: FCRA-compliant background checks, [results in 10-15 minutes](https://docs.autohost.ai/docs/knowledge/guest-portal/addons/how-the-background-check-works), usage-based pricing starting around [$0.35-1.25 per verification](https://www.autohost.ai/pricing)
+
+- **Safely**: Checks criminal databases, sex offender registries, even Interpol. [Starts at $5 per screening](https://safely.com/guest-screening/)
+
+- **Truvi** (formerly Superhog): Combines screening with damage protection up to $5 million
+
+No screening is perfect. But someone planning a rager is less likely to submit their ID for a background check.
+
+### House Rules That Matter
+
+Be explicit in your listing:
+
+- No parties or events
+
+- Maximum occupancy (and that you monitor it)
+
+- Quiet hours
+
+- Consequences for violations
+
+Airbnb’s [Community Disturbance Policy](https://www.airbnb.com/help/article/3345) bans “disruptive gatherings regardless of size.” Reference this in your rules.
+
+## When a Party Happens: First 24 Hours
+
+You just got an alert or a neighbor called. Here’s what to do.
+
+**1. Document immediately**
+
+This is the most important step and where most managers mess up. Take photos and videos of everything before you clean anything. Timestamps matter. Get shots of:
+
+- All damage (scratches, stains, broken items)
+
+- Trash and debris
+
+- Evidence of overcrowding
+
+- Anything that shows the scale of what happened
+
+**2. Contact the guest**
+
+Sometimes it’s a misunderstanding. Usually it’s not. Either way, having the conversation on platform messaging creates a paper trail.
+
+**3. Get repair estimates**
+
+You’ll need receipts and quotes for your claim. Start reaching out to contractors immediately, even if repairs aren’t urgent.
+
+## Documentation: The Make-or-Break Factor
+
+Here’s the reality that nobody wants to hear: without solid before-and-after evidence, your claim is probably getting denied.
+
+Platforms need proof that the guest caused the damage. If you can’t show what the property looked like before checkout, they have no way to verify your claim isn’t about pre-existing issues. The Guardian recently [reported on a case](https://www.theguardian.com/technology/2025/aug/02/airbnb-guest-damage-claim-refund-photos) where a guest alleged altered images in a damage claim. The dispute went back and forth until media got involved. That’s the kind of mess you want to avoid.
+
+This is honestly why we built RapidEye. We process turnover photos automatically, comparing every image against your baseline to catch new damage with timestamps. When a claim dispute happens, you have documented proof of the property’s condition before and after the stay. No manual review needed. No he-said-she-said.
+
+Whatever system you use, the point is the same: you need consistent visual documentation of every turnover, not just when something goes wrong.
+
+## Filing Your Claim: Platform-Specific Steps
+
+### Airbnb
+
+Airbnb’s [Host Damage Protection](https://www.airbnb.com/help/article/279) covers up to $3 million for guest-caused damage. Here’s the process:
+
+- Submit your claim through the Resolution Center **within 14 days of checkout**
+
+- Include photos, videos, and repair estimates/receipts
+
+- Guest has 24 hours to respond
+
+- If they decline or don’t respond, escalate for Airbnb review
+
+Important: Host Damage Protection [isn’t insurance](https://www.airbnb.com/help/article/2869). It’s a protection program with specific exclusions like normal wear and tear and “mysterious disappearance.” And Airbnb can only charge a guest’s payment method [up to $500 automatically](https://www.airbnb.com/help/article/2857). Anything above that requires more steps.
+
+### Vrbo
+
+Vrbo gives you [14 days after checkout](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) to file a damage deposit claim. They’ll cover valid claims up to your deposit amount even if they can’t collect from the guest.
+
+Their Accidental Damage Protection (through Generali) offers [coverage from $1,500 to $5,000](https://help.vrbo.com/articles/What-is-Damage-Protection) for $59-119. But note the word “accidental.” Intentional party destruction might not qualify.
+
+## When Platform Claims Fail
+
+Sometimes platforms deny claims or the damage exceeds what they’ll cover. Your options:
+
+**STR-specific insurance**
+
+Standard homeowners policies often [exclude business activity](https://www.proper.insure/blog/does-homeowners-cover-short-term-rentals/), which includes short-term rentals. Dedicated STR insurance runs around [$2,000-3,000 per year](https://www.nasdaq.com/articles/how-much-does-short-term-rental-insurance-cost) on average. Worth it if you’re managing multiple properties.
+
+**Small claims court**
+
+If you have the guest’s information and solid documentation, small claims is an option. Limits vary by state. [California recently raised theirs to $12,500](https://www.sdcourt.ca.gov/sdcourt/smallclaims2) for individuals. Nolo maintains a [50-state chart](https://www.nolo.com/legal-encyclopedia/small-claims-suits-how-much-30031.html) of current limits.
+
+Is it worth the hassle? Depends on the damage amount and how strong your evidence is.
+
+## The Bottom Line
+
+Party damage is scary but manageable. Stack your defenses: screening, monitoring tech, clear rules. When something happens anyway, document obsessively and file claims within the deadline.
+
+The managers who handle this well aren’t the ones who never have parties. They’re the ones who can prove exactly what happened and when.

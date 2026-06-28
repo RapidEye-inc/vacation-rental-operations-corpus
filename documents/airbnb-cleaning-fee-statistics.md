@@ -1,0 +1,46 @@
+# Airbnb Cleaning Fee Statistics (2026): Averages, Trends, and Revenue Impact
+
+Source: https://rapideyeinspections.com/blog/airbnb-cleaning-fee-statistics/
+
+_Airbnb cleaning fee statistics from 685,000+ US listings. Average fees by bedroom count, revenue impact by fee-to-ADR ratio, Superhost data, and platform trends._
+
+# Airbnb Cleaning Fee Statistics (2026)
+
+Average cleaning fees by property size, the fee-to-ADR sweet spot for revenue, Superhost patterns, and how Total Price Display changed the market. Data from 685,000+ US listings.
+
+## Average Cleaning Fees by Property Size
+
+According to AirROI's analysis of 685,000+ US entire-home Airbnb listings using AirDNA data, cleaning fees scale predictably with bedroom count. The percentage of listings charging a fee also rises with property size.
+
+| Bedrooms | Avg Fee | % Charging Fee |
+| --- | --- | --- |
+| Studio | $83 | 58.8% |
+| 1-Bedroom | $102 | 83.4% |
+| 2-Bedroom | $156 | 88.0% |
+| 3-Bedroom | $210 | 91.3% |
+| 4-Bedroom | $285 | 92.8% |
+| 5-Bedroom | $371 | 94.2% |
+| 6-Bedroom | $458 | 94.7% |
+
+## Cleaning Fee Impact on Revenue
+
+The relationship between cleaning fees and revenue is not linear. According to AirROI, there is a clear sweet spot: listings charging 25-50% of their ADR as a cleaning fee earn the most.
+
+| Fee-to-ADR Ratio | Annual Revenue | Occupancy | Avg Rating |
+| --- | --- | --- | --- |
+| No fee | $37,474 | 39.9% | 4.85 |
+| Under 25% | $59,010 | 44.7% | 4.88 |
+| **25-50% (sweet spot)** | **$64,405** | **46.2%** | **4.88** |
+| 50-75% | $57,176 | 46.3% | 4.86 |
+| 75-100% | $51,894 | 44.8% | 4.83 |
+| Over 100% | $44,493 | 41.2% | 4.80 |
+
+## Superhost Cleaning Fee Patterns
+
+## Total Price Display Impact
+
+## What Cleaning Actually Costs
+
+## Sources
+
+## Related Statistics

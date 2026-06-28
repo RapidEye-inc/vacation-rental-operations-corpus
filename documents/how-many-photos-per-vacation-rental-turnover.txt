@@ -1,0 +1,27 @@
+How Many Photos Should Cleaners Take Per Turnover?
+
+Source: https://rapideyeinspections.com/blog/how-many-photos-per-vacation-rental-turnover/
+
+_There is no universal standard. Operators using Breezeway typically require one photo per completed checklist task. A 50-item checklist generates 50+ photos per turnover._
+
+How Many Photos Should Cleaners Take Per Vacation Rental Turnover?
+
+How operators handle it
+
+According to Breezeway (https://www.breezeway.io/blog/vacation-rental-cleaning-practices), their platform works on a task-based approach: "As housekeepers complete their tasks, they take a picture and upload it to the app." Managers can add representative photos to checklists showing how each area should look, and cleaners upload completion photos to verify against those references.
+
+This means the number of photos is determined by your checklist, not by a universal standard. A basic checklist might have 20 items with photos. A thorough one might require 60 or more. According to Breezeway's inspection guide (https://www.breezeway.io/blog/airbnb-inspections), some operators like Big Sky use a 54-point checklist for arrivals, with many items requiring photo documentation.
+
+The review problem
+
+The question is not really how many photos to take. It is who reviews them and how. At scale, the photo volume quickly exceeds what any human can manually review. A 200-unit portfolio doing 120 turnovers per week at 50 photos per turnover generates 6,000 photos per week. Even spending 5 seconds per photo, that is over 8 hours of review time per week dedicated to nothing but looking at turnover photos.
+
+This is why many operators either spot-check a subset of turnovers rather than reviewing every photo, or use technology to flag potential issues automatically.
+
+Related
+
+Sources
+
+- Breezeway. A Complete Guide to the Best Vacation Rental Cleaning Practices (https://www.breezeway.io/blog/vacation-rental-cleaning-practices)
+
+- Breezeway. Differentiating Airbnb Inspections: How to Maximize Your Time in Property (https://www.breezeway.io/blog/airbnb-inspections)

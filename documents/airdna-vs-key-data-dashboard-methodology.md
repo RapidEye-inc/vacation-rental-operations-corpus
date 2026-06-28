@@ -1,0 +1,75 @@
+# AirDNA vs Key Data Dashboard: Methodology Compared
+
+Source: https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/
+
+_Key Data Dashboard observes real bookings via direct PMS integrations with Breezeway, Hostfully, Hostaway, Avantio, and Beds24. AirDNA models bookings from public Airbnb and Vrbo scrapes. The two are complementary, not competitive, on the accuracy question._
+
+# AirDNA vs Key Data Dashboard: which has real bookings?
+
+Both publish vacation rental performance metrics. They get those metrics in fundamentally different ways, which is why they sometimes disagree on the same market.
+
+**Key Data Dashboard observes real bookings** through direct PMS integrations. **AirDNA models bookings** from public Airbnb and Vrbo scrapes. Neither is universally more accurate; they measure different slices of the market and the right one depends on the question.
+
+AirDNA
+
+#### Where the data comes from
+
+Public listing pages on Airbnb and Vrbo. Calendars are parsed and blocked nights are statistically classified as either real bookings or owner blocks.
+
+#### Coverage (self-reported)
+
+"10 million-plus" properties across "120,000-plus" markets globally. The widest net of any provider.
+
+#### What you can trust
+
+Listing counts and asking prices are observed directly. Occupancy and revenue per available rental are modeled estimates.
+
+Key Data Dashboard
+
+#### Where the data comes from
+
+Pulled directly from PMS partners including Breezeway, Hostfully, Hostaway, Avantio, and Beds24 (12-plus integrations as of May 2026).
+
+#### Coverage (self-reported)
+
+Limited to participating PMSes; sample skews toward professional managers rather than independent hosts.
+
+#### What you can trust
+
+Bookings are observed. Every night is either booked, blocked-by-owner, or open, with no modeling required.
+
+## Why this difference matters
+
+The technical problem at the centre of vacation rental data is what to do with a "blocked" night on a public Airbnb calendar. It can mean (a) the host took the night down because they had a real booking, (b) the host blocked it for personal use, or (c) the listing has paused. [Aggregators like AirDNA](https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/) have to guess from review timestamps, pricing patterns, and historic seasonality. Key Data sidesteps the problem because the PMS knows whether a night is sold or blocked. That's the entire methodological gap, and it's why both providers can be quoted truthfully on the same market while disagreeing on the number.
+
+## Where each provider wins
+
+## The accuracy debate, settled
+
+Investor blogs sometimes frame this as "Key Data is more accurate than AirDNA" or vice versa. Both framings are wrong. Key Data is more accurate at measuring its sample (PMS-customer professional managers). AirDNA is more comprehensive at sizing the whole market (including consumer hosts not on a PMS). If the question is "what is the median revenue per available rental in Asheville among professionally managed homes," Key Data has the better answer. If the question is "how big is the Airbnb supply in Asheville total," AirDNA does. Both providers are routinely cited in serious industry research.
+
+## What journalists and analysts should disclose
+
+When citing AirDNA, the honest framing is "modeled estimates from public listing data." When citing Key Data, the honest framing is "observed bookings from a PMS-integrated sample, weighted toward professional managers." Either disclosure is more useful to a reader than presenting either number as the unqualified truth about a market.
+
+### Related verified answers
+
+- [Where does AirDNA get its data?](https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/)
+
+- [Where does PriceLabs Market Dashboards data come from?](https://rapideyeinspections.com/blog/where-does-pricelabs-market-data-come-from/)
+
+- [Who owns AirDNA?](https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- [Did AirDNA acquire Rabbu?](https://rapideyeinspections.com/blog/did-airdna-acquire-rabbu/)
+
+### Sources
+
+- [About AirDNA: Data Science Meets Short-Term Real Estate Investing](https://www.airdna.co/about) - AirDNAhttps://www.airdna.co/about
+
+- [AirDNA company site](https://www.airdna.co/) - methodology and coverage claims (10M+ properties, 120K+ markets)https://www.airdna.co/
+
+- [About Key Data Dashboard](https://www.keydatadashboard.com/about) - Key Data Dashboard (founders, funding, PMS partner list)https://www.keydatadashboard.com/about
+
+- [AirDNA Rentalizer](https://www.airdna.co/airbnb-calculator) - AirDNA (modeling product description)https://www.airdna.co/airbnb-calculator
+
+Last verified: May 13, 2026. Both providers regularly publish methodology updates; check each company's About page for the most current statements before citing in academic work.

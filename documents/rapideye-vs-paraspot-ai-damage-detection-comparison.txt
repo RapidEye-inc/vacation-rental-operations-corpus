@@ -1,0 +1,84 @@
+RapidEye vs. Paraspot: Honest Comparison of AI Damage Detection Tools
+
+Source: https://rapideyeinspections.com/blog/rapideye-vs-paraspot-ai-damage-detection-comparison/
+
+_Comparing RapidEye and Paraspot for AI-powered damage detection. Feature breakdown covering video support, Breezeway integration, and which tool fits your portfolio._
+
+RapidEye vs. Paraspot: Honest Comparison of AI Damage Detection Tools
+
+If you’re comparing AI damage detection tools for short-term rentals, you’ve probably narrowed it down to RapidEye and Paraspot. They’re the two main players using actual computer vision for property inspections rather than just digital checklists.
+
+I co-founded RapidEye, so I know both products well. Here’s a straightforward breakdown of how they compare and which one fits different workflows.
+
+TL;DR: Which One Should You Pick?
+
+If you manage short-term rentals and already use Breezeway, RapidEye is the better fit. It works with your existing photos, requires zero workflow changes, and catches things beyond just damage. If you manage multifamily or long-term rentals on AppFolio or Entrata, Paraspot is built more for that market.
+
+Does RapidEye or Paraspot Work Better for Short-Term Rentals?
+
+RapidEye started in short-term rentals and it’s where we go deepest. We integrate with Breezeway and Streamline, which are the tools most vacation rental managers actually use. If your cleaners are already taking 20-100 photos per turnover through Breezeway, RapidEye analyzes those photos automatically. Nothing changes for your team.
+
+Paraspot takes a broader approach. According to Inman’s review (https://www.inman.com/2025/11/17/paraspot-ai-sees-the-future-of-property-inspection-tech-review/), their primary use case is commercial multifamily, single-family rentals, and student housing, with STR as an adjacent market. Their integrations reflect this: AppFolio, Entrata, Rent Manager, RealPage (https://apps.apple.com/us/app/paraspot-ai/id6751985180), and similar platforms built for traditional property management.
+
+That’s not a knock on Paraspot. It just means their product is optimized for a different customer.
+
+Can I Use AI Damage Detection Without Changing My Workflow?
+
+With RapidEye, yes. That’s the whole point. We pull photos directly from Breezeway and run detection on them. Your cleaners keep doing exactly what they’re doing. No new app, no retraining, no adoption friction.
+
+Paraspot requires you to adopt their guided walkthrough process. Their marketing says most properties can be inspected in under 4 minutes using their mobile app, which supports video, photo, and voice with offline mode (https://apps.apple.com/us/app/paraspot-ai/id6751985180). If you’re starting from scratch and don’t have an existing photo workflow, that’s a reasonable approach. But if you already have Breezeway running across hundreds of properties, asking your cleaning teams to switch to a new app is a real barrier.
+
+Does Paraspot Integrate with Breezeway?
+
+I couldn’t find evidence that it does. Paraspot’s website lists integrations with Buildium, Rent Manager, AppFolio, Rentvine, Propertyware, and Arthur. These are solid for multifamily and long-term rental management, but they’re not the tools most STR operators run on.
+
+RapidEye integrates directly with Breezeway. We pull existing inspection photos and run damage detection on them automatically. For vacation rental managers, this is probably the single biggest differentiator between the two tools.
+
+What Does Each Tool Actually Detect?
+
+Both tools use baseline comparison to find new damage. Paraspot claims their AI is trained on over 7 million data points and compares before-and-after scans to identify discrepancies.
+
+RapidEye does the same baseline damage detection, but we also catch things that go well beyond damage:
+
+- Staging drift: furniture moved out of place, decor shifted around
+
+- Missing items: the throw blanket that walked off, the remote that disappeared
+
+- Setup inconsistencies: anything that doesn’t match how the property should look for the next guest
+
+For vacation rentals, this matters more than people realize. Guest experience depends on the property matching the listing photos. A couch in the wrong spot or missing accent pillows might not be “damage,” but it shows up in reviews and affects repeat bookings.
+
+Which Tool Handles Scale Better?
+
+A property manager with 200 units doing 4 turnovers per month per unit, taking 30 photos per turnover, generates 24,000 photos monthly. Nobody is manually reviewing all of those. Industry data shows (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/) damage claims happen on roughly 0.5-1.5% of bookings, and platforms only approve about 57-68% of claims. The photos that could prove your case are just sitting there, unreviewed.
+
+RapidEye solves this without adding any steps. Your photos are already in Breezeway. We review every single one automatically. We’ve processed over a million photos for a single client.
+
+Paraspot’s guided walkthrough approach means someone needs to perform the inspection for each turnover. For multifamily where you’re doing periodic move-in/move-out inspections, that works. For STR turnovers happening multiple times a week across hundreds of units, adding a step to every single turnover is a harder ask.
+
+Feature Comparison
+
+| Feature | RapidEye | Paraspot |
+| --- | --- | --- |
+| Works with existing photos | Yes (pulls from Breezeway) | Requires their app workflow |
+| Video inspection | Yes | Yes (guided walkthrough) |
+| Breezeway integration | Yes | Not confirmed |
+| Detects staging drift and missing items | Yes | Not specified |
+| STR PMS integrations | Breezeway, Streamline | AdvanceCM |
+| Multifamily PMS integrations | N/A (STR-focused) | AppFolio, Entrata, Rent Manager, RealPage |
+| Baseline comparison | Yes | Yes |
+| Primary market | Short-term rentals | Multifamily, SFR, student housing |
+
+Pricing
+
+Neither of us publishes pricing, which I know is annoying. Paraspot advertises a 7-day free trial. We offer a free trial too. Pricing depends on portfolio size for both tools, so you’ll need to talk to each team.
+
+When Paraspot Might Be the Better Choice
+
+If you manage multifamily or traditional long-term rentals on AppFolio or Entrata, Paraspot is worth looking at. They also market AB 2801 compliance (https://members.aagla.org/news/reminder-ab-2801---new-security-deposit-requirement-effective-july-1st) specifically for California landlords who need photo documentation for security deposit deductions. That’s a legitimate use case that they seem to handle well.
+
+Bottom Line
+
+For short-term rental operators, RapidEye is the clear choice. You get damage detection plus staging and missing item detection, it works with the photos you’re already taking, and your team doesn’t have to change anything. If you’re on Breezeway, we plug in directly.
+
+If you want to see it on your own data, reach out and we’ll run it on your actual Breezeway photos. You’ll see results on your own properties, not a demo.

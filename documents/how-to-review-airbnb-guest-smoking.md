@@ -1,0 +1,125 @@
+# How to Review an Airbnb Guest Who Smoked in Your Property
+
+Source: https://rapideyeinspections.com/blog/how-to-review-airbnb-guest-smoking/
+
+_Cigarette smoke, vaping, or marijuana in your rental? Here's how to write the review, document the evidence, and file the claim under Airbnb's new April 2026 smoke-damage rules. Templates and cost breakdown included._
+
+# How to Review an Airbnb Guest Who Smoked in Your Property
+
+Smoking violations are the most common house rule breach in vacation rentals. They're also one of the hardest to prove. Here's the evidence, the review, and the claim strategy under Airbnb's new April 2026 rules.
+
+## The evidence problem with smoking
+
+Most property damage leaves visible proof. Smoking often doesn't. Odor is subjective, temporary, and impossible to photograph. According to a widely-discussed [Airbnb Community thread](https://community.withairbnb.com/t5/Support-with-your-bookings/How-do-you-prove-smoking-on-your-non-smoking-listing/m-p/1195368), hosts consistently report that "customer service may say they can do nothing because there isn't any evidence left behind."
+
+This means your evidence strategy needs to start before the guest even checks out. Here's what holds up and what doesn't:
+
+Cigarette butts, ash, burn marks on surfaces, smoke detector alerts (Alertify, Minut), professional remediation invoice with dated service, cleaning team written statement documenting odor on arrival
+
+Vape cartridges or pods found in property, residue on windows or mirrors, photos of smoke staining on walls or ceilings, replacement receipts for items that absorbed odor
+
+Your statement that the property "smelled like smoke" without corroboration. Airbnb treats this as subjective without supporting documentation from a professional or detection device.
+
+Photos of "clean" areas claiming they now smell. Photos taken after cleaning (you've destroyed the physical evidence). Guest's social media showing them smoking elsewhere.
+
+**Detection technology matters.** According to [Alertify](https://www.alertify.io/how-to-document-indoor-smoking-violations-for-insurance-or-airbnb-claims/), cigarette smoke detection sensors log timestamped alerts with the exact time, duration, and type of violation. These downloadable reports can be submitted to Airbnb, your insurer, or directly to the guest. [Minut](https://www.minut.com/blog/airbnb-smoking-fee) offers similar monitoring. If you manage multiple properties and smoking is a recurring problem, these sensors pay for themselves after one claim.
+
+### New evidence standard for smoke-odor claims
+
+According to [StaySTRA's analysis](https://staystra.com/airbnb-terms-of-service-update-april-2026/) of Airbnb's updated Host Damage Protection Terms, smoke-odor claims now require professional remediation invoices as the evidence standard. The update also means guests can no longer file minor smoke complaints without solid evidence, cutting both ways.
+
+According to [Host Camp's analysis](https://www.hostcamp.com/blog/airbnbs-new-terms-of-service-update), hosts should ensure smoke-damage remediation is performed by a licensed cleaning or HVAC professional who issues a dated invoice.
+
+## What smoking remediation actually costs
+
+These are the real numbers. Every line item below is a claimable cost through AirCover, as long as you have a receipt or professional invoice.
+
+| Service | Typical Cost | Notes |
+| --- | --- | --- |
+| Professional ozone treatment | $200 - $400 | Industry standard for smoke odor elimination. Per session, per unit. According to [Alertify's cost analysis](https://www.alertify.io/how-much-does-a-smoking-guest-actually-cost-the-real-numbers-for-str-hosts-on-smoking-damage-cost/) |
+| Thermal fogging | $200 - $600 | Alternative to ozone. Better for heavy contamination |
+| DIY ozone machine rental | $40 - $60/day | Cheaper, but no professional invoice for Airbnb claims |
+| Deep cleaning (soft surfaces) | $150 - $300 | Upholstery, curtains, carpet. Smoke absorbs into fabric |
+| HVAC filter replacement | $50 - $150 | Smoke particles circulate through the system |
+| Lost revenue (cancelled bookings) | Varies | Claimable if the property is uninhabitable during remediation |
+
+Total cost for a single smoking incident in a standard 2-bedroom vacation rental: **$400 to $1,000+** depending on severity and whether bookings need to be cancelled during treatment.
+
+## Review templates by scenario
+
+Each smoking situation calls for a different review. The key principle from the [damage review pillar guide](https://rapideyeinspections.com/blog/how-to-review-airbnb-guest-damage/): your review and your claim must tell the same story. If your review says "slight odor" and your claim requests $800 for ozone treatment, you've undermined yourself.
+
+### Cigarette butts, burns, or ash found in property
+
+> "Our property has a strict no-smoking policy stated in our house rules and listing. After [Name]'s stay, our cleaning team found cigarette butts on the balcony and burn marks on the deck railing. The property required professional odor remediation before the next guest could check in. We reported this as a house rule violation. Other hosts with no-smoking policies should be aware."
+
+> "[Name] is a smoker who has no respect for other people's property. Cigarette butts everywhere. Disgusting. Our house REEKS. Never again."
+
+### Strong smoke smell but no visible evidence left behind
+
+> "Our property is non-smoking. After [Name]'s checkout, our cleaning team reported a strong cigarette odor throughout the unit that required professional remediation. We have a dated remediation invoice and cleaning team documentation on file. We reported this as a house rule violation."
+
+> "Pretty sure [Name] smoked inside. The place smelled terrible when the cleaners got there. Can't prove it but I know it happened."
+
+### Vape residue, cartridges, or pods found
+
+> "Our house rules prohibit all smoking and vaping indoors. After [Name]'s stay, we found vape cartridges in the property and oily residue on the bedroom window. While vaping produces less odor than cigarettes, the residue required additional cleaning of glass surfaces and soft furnishings. We would not host [Name] again."
+
+> "Found vape stuff in the bedroom. Kids these days have no respect. Left their trash everywhere."
+
+### Cannabis odor or paraphernalia found
+
+> "Our house rules state no smoking of any kind indoors, including cannabis. After [Name]'s stay, the property had a strong odor that required professional remediation and additional cleaning time before the next guest. We reported this as a house rule violation."
+
+> "[Name] smoked weed in our property. We could smell it from the driveway. Totally illegal and disrespectful."
+
+## Filing the claim
+
+Follow the [timing strategy from the pillar guide](https://rapideyeinspections.com/blog/how-to-review-airbnb-guest-damage/): wait for the guest to review, then file your claim and write your review on the same day. For smoking claims specifically, here's the evidence checklist:
+
+- **Photos of physical evidence** (butts, burns, residue, paraphernalia) taken before any cleaning, with timestamps visible
+
+- **Professional remediation invoice** from a licensed cleaning or HVAC company, dated, with the service description referencing smoke odor elimination
+
+- **Cleaning team statement** documenting the odor on arrival (a text message or email with a timestamp is sufficient)
+
+- **Screenshot of your house rules** showing the no-smoking policy as it appeared in your listing during the guest's stay
+
+- **Receipts for any replacement items** that absorbed the odor and couldn't be remediated (pillows, curtains, upholstery)
+
+- **Detection device report** if you have Alertify, Minut, or similar smoke detection with timestamped alerts
+
+According to [Airbnb's AirCover process](https://www.airbnb.com/help/article/279), the claim must be filed within 14 days of checkout or before the next guest checks in, whichever comes first. The guest has 24 hours to respond. If they don't respond or decline, Airbnb steps in.
+
+One critical detail: you cannot charge a flat "smoking fee" through Airbnb. According to [Hospitable's analysis](https://hospitable.com/airbnb-smoking-fee), what you can claim is actual documented costs: remediation, cleaning, replacement items, and lost revenue. Each needs a receipt.
+
+## Related Guides
+
+## Sources
+
+- [About the updates to our Terms](https://www.airbnb.com/help/article/2877) - Airbnb Help Center
+ https://www.airbnb.com/help/article/2877
+
+- [AirCover for Hosts](https://www.airbnb.com/help/article/279) - Airbnb Help Center
+ https://www.airbnb.com/help/article/279
+
+- [How do you prove smoking on your non-smoking listing?](https://community.withairbnb.com/t5/Support-with-your-bookings/How-do-you-prove-smoking-on-your-non-smoking-listing/m-p/1195368) - Airbnb Community
+ https://community.withairbnb.com/t5/Support-with-your-bookings/How-do-you-prove-smoking-on-your-non-smoking-listing/m-p/1195368
+
+- [Airbnb's April 20 Terms of Service Update: What Actually Changes for Hosts](https://staystra.com/airbnb-terms-of-service-update-april-2026/) - StaySTRA
+ https://staystra.com/airbnb-terms-of-service-update-april-2026/
+
+- [Airbnb's New Terms of Service Update Bans AI Images](https://www.hostcamp.com/blog/airbnbs-new-terms-of-service-update) - Host Camp
+ https://www.hostcamp.com/blog/airbnbs-new-terms-of-service-update
+
+- [How to Document Indoor Smoking Violations for Insurance or Airbnb Claims](https://www.alertify.io/how-to-document-indoor-smoking-violations-for-insurance-or-airbnb-claims/) - Alertify
+ https://www.alertify.io/how-to-document-indoor-smoking-violations-for-insurance-or-airbnb-claims/
+
+- [How Much Does a Smoking Guest Actually Cost?](https://www.alertify.io/how-much-does-a-smoking-guest-actually-cost-the-real-numbers-for-str-hosts-on-smoking-damage-cost/) - Alertify
+ https://www.alertify.io/how-much-does-a-smoking-guest-actually-cost-the-real-numbers-for-str-hosts-on-smoking-damage-cost/
+
+- [Airbnb Smoking Fee: Enforcing a No-Smoking Policy](https://hospitable.com/airbnb-smoking-fee) - Hospitable
+ https://hospitable.com/airbnb-smoking-fee
+
+- [Airbnb Smoking Fee: How to Prevent Smoking in Rentals](https://www.minut.com/blog/airbnb-smoking-fee) - Minut
+ https://www.minut.com/blog/airbnb-smoking-fee

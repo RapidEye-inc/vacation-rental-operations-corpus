@@ -1,0 +1,37 @@
+# How to Keep Your Vacation Rental Staging Consistent
+
+Source: https://rapideyeinspections.com/blog/how-to-keep-vacation-rental-staging-consistent/
+
+_Staging stays consistent when every cleaner works to the same fixed target. Capture a canonical reset state, attach reference photos, and verify against it._
+
+# How to keep your vacation rental staging consistent
+
+Keep staging consistent by giving every cleaner the same fixed target and verifying against it. Capture a canonical reset state per property (reference photos from repeatable angles plus an inventory manifest with exact counts), attach the reference images to the cleaning checklist, and check each turnover's photos against that reference rather than against each cleaner's own idea of done. Consistency is a verification problem, not a motivation problem.
+
+Staging erodes because "done" is undefined and the cast keeps changing. A single property at roughly 70 percent occupancy turns over about 35 times a year, often split across three or four cleaners who each picture the finished room a little differently. Without one fixed reference, each reset pulls the room toward a slightly different version, and the property drifts.
+
+## The consistency stack
+
+- **Define the target once.** Right after a professional reset, capture room-by-room reference photos from fixed angles and an inventory manifest with exact counts.
+
+- **Put the target in front of the cleaner.** Attach the exact-look reference image to each checklist item. [Turno](https://turno.com/features/photo-checklists/) and [Breezeway](https://www.breezeway.io/checklists-mobile-app) both support this.
+
+- **Verify the finished room.** A reference photo is advisory unless someone confirms the reset matched it. Comparing the turnover photos against the reference is what closes the loop.
+
+- **Correct back to standard.** When a turnover diverges, restock or re-stage toward the reference instead of letting the new, slightly-off version become the norm.
+
+The reason verification matters is that reference photos alone rely on the cleaner choosing to look and self-correct, with nothing confirming they did. Pairing the reference with a check on the finished work is the difference between hoping for consistency and measuring it.
+
+### The full guide to staging drift
+
+Why staging drifts in the first place, the six mechanisms behind it, and how to defend a canonical reset state across a whole portfolio.
+
+## Common questions
+
+## Related
+
+## Sources
+
+- Turno, "Photo Checklists" (exact-look reference images on checklist items)https://turno.com/features/photo-checklists/
+
+- Breezeway, "Checklists Mobile App" (attach reference photos, require photo upload to verify completion)https://www.breezeway.io/checklists-mobile-app

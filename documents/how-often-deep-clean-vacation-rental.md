@@ -1,0 +1,38 @@
+# How Often Should You Deep Clean a Vacation Rental?
+
+Source: https://rapideyeinspections.com/blog/how-often-deep-clean-vacation-rental/
+
+_Deep clean vacation rentals every 3 to 6 months. High-occupancy properties (3+ turnovers/week) may need monthly deep cleans. Frequency guidance from Turno, Breezeway, and Operto._
+
+# How Often Should You Deep Clean a Vacation Rental?
+
+## Frequency by occupancy
+
+According to [Blue Coast Cleaning Service](https://bluecoastcleaningservice.com/blog/deep-cleaning-every-vacation-rental/), most properties benefit from a deep clean every three to six months. According to [Operto](https://operto.com/blog/vacation-rental-cleaning/), if a property turns over more than three times a week, monthly deep cleans help catch buildup that turnover cleans miss.
+
+| Occupancy Level | Deep Clean Frequency |
+| --- | --- |
+| Low (under 40%) | Every 6 months |
+| Moderate (40-65%) | Every 3-4 months (quarterly) |
+| High (65%+, 3+ turnovers/week) | Monthly |
+| Seasonal properties | Before and after peak season |
+
+According to [Breezeway](https://www.breezeway.io/blog/dirty-little-secrets-the-ultimate-guide-to-deep-cleaning-your-vacation-rental), Mt. Hood Vacation Rentals by Meredith Lodging schedules deep cleans twice a year. This aligns with the lower end of the range for properties with moderate occupancy.
+
+## Deep clean vs. turnover clean
+
+A turnover clean happens between every guest and covers surfaces, bathrooms, kitchens, linen changes, and restocking. A deep clean goes further: pulling out appliances, scrubbing grout, cleaning inside ovens and refrigerators, washing windows, shampooing carpets, and addressing areas that accumulate grime over many turnovers.
+
+According to [CR Maids](https://crmaids.com/learn-between-deep-cleaning-vs-turnover-cleaning/), deep cleans take 2 to 3 times longer than a standard turnover. For a 3-bedroom property where a turnover takes 5 to 6 hours, a deep clean can take a full day.
+
+### Related
+
+## Sources
+
+- Blue Coast Cleaning Service. [Deep Cleaning Every Vacation Rental](https://bluecoastcleaningservice.com/blog/deep-cleaning-every-vacation-rental/)
+
+- Operto. [Vacation Rental Cleaning and Maintenance 2025](https://operto.com/blog/vacation-rental-cleaning/)
+
+- Breezeway. [The Ultimate Guide to Deep Cleaning Your Vacation Rental](https://www.breezeway.io/blog/dirty-little-secrets-the-ultimate-guide-to-deep-cleaning-your-vacation-rental)
+
+- CR Maids. [Deep Cleaning vs. Turnover Cleaning for Vacation Rentals](https://crmaids.com/learn-between-deep-cleaning-vs-turnover-cleaning/)

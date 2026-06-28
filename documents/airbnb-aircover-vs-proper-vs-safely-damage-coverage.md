@@ -1,0 +1,197 @@
+# Airbnb AirCover vs. Proper Insurance vs. Safely vs. Vrbo: Where Each Actually Pays Out
+
+Source: https://rapideyeinspections.com/blog/airbnb-aircover-vs-proper-vs-safely-damage-coverage/
+
+_Side-by-side comparison of Airbnb AirCover, Proper Insurance, Safely, and Vrbo damage protection. Real payout mechanics, coverage caps, and the scenarios where each platform actually pays and where it leaves you exposed._
+
+The four products answer fundamentally different questions. AirCover is free but uses depreciated value and is legally discretionary. Vrbo's program is underwritten insurance but caps at $5,000 and excludes vandalism. Proper Insurance pays replacement cost with no sub-limit on guest damage and explicitly covers intentional damage. Safely provides replacement cost with $10,000+ content coverage and $1 million liability on a per-booking model.
+
+For most multi-unit operators, the right answer is **AirCover or Vrbo on every booking (free or bundled)** layered with a **third-party policy from Proper or Safely** as the primary protection against high-value damage. The platform programs fill the small-claim floor. The third-party policies fill the high-value ceiling and the exclusion gaps.
+
+## 01 / MatrixSide-by-side comparison
+
+The practical differences are in the details. The matrix below pulls the specs from each product's published terms. Two things matter most: the valuation method (replacement cost vs. Actual Cash Value) and whether intentional damage is covered. Both line items split the products into two distinct tiers.
+
+| Coverage attribute | AirCoverPlatform | VrboPlatform | ProperInsurance | SafelyInsurance |
+| --- | --- | --- | --- | --- |
+| Max property damage coverage | **$3M**Aggregate cap | **$5,000**Top tier | **Policy limit**No sub-limit on guests | **$10,000+**Per booking |
+| Valuation method | ACVDepreciation applied | ACVAdjuster discretion | ReplacementNew for old | ReplacementNew for old |
+| Legal standing | Not insuranceDiscretionary program | InsuranceGenerali underwriter | InsuranceAll-risk policy | InsuranceStated policy |
+| Intentional damage / vandalism | PartialCase-by-case | ExcludedMajor gap | CoveredExplicitly included | Covered |
+| Pet damage | Partial | ExcludedUnauthorized pets | Covered | CoveredPet-friendly included |
+| Theft / missing items | Limited | Excluded | Covered | Covered |
+| Liability coverage | **$1M**Separate program | No | **Varies**Policy dependent | **$1M** |
+| Filing window | **14 days** | **14 days** | **Policy terms** | **Short window** |
+| Guest vs. host pays | **Free to host** | **Guest opt-in**$59–$119 | **Host pays**Annual policy | **Per-booking**Host or pass-through |
+| Avg. recovery on claimed amount | **56.75%**Avada, 20K+ bookings | **68.29%**Avada, 20K+ bookings | **~95%+**Replacement cost | **~95%+**Replacement cost |
+
+The matrix makes the trade-off visible. Platform programs are convenient and free or cheap, but they pay less and exclude more. Third-party insurance costs real money but pays replacement cost and covers the scenarios (vandalism, theft, premium items) where the platform programs leave you exposed.
+
+## 02 / Deep divesHow each product actually pays out
+
+AirCover is the largest-scale platform protection program in short-term rentals, with a $3 million coverage cap and no per-host cost. It is also the product most commonly misunderstood. The Host Damage Protection Terms explicitly state that AirCover is not insurance. Airbnb handles claims on a discretionary basis, meaning they can deny or reduce any claim at their internal judgment. When Airbnb pays, they pay Actual Cash Value, which deducts depreciation based on the item's age. Our companion piece on [how Airbnb calculates damage payouts](https://rapideyeinspections.com/blog/how-much-does-airbnb-pay-damage-claims/) walks through the exact formula and category rates.
+
+Avada Properties' analysis of 20,000-plus Smoky Mountain bookings found that Airbnb hosts recover an average of 56.75 percent of the amounts they claim. That number includes denied claims and partial denials. For an operator at scale, AirCover is the correct floor but should not be treated as comprehensive protection, especially for furniture past year 3 or for any scenario involving intentional damage.
+
+- Free and automatic on every Airbnb booking
+
+- $3M cap is the highest of any platform program
+
+- Separate $1M liability coverage included
+
+- No booking-by-booking opt-in required
+
+- Discretionary, not a legal insurance obligation
+
+- ACV reduces payouts by 15–40% on most items
+
+- Labor costs frequently excluded from payouts
+
+- Average recovery under 57% of claimed amount
+
+Vrbo damage protection is structurally different from AirCover. It is actual insurance underwritten by Generali Global Assistance, purchased by the guest at booking in one of three tiers ($59 / $89 / $119 covering $1,500 / $3,000 / $5,000 respectively). Because it is insurance, claims have legal weight and adjusters are obligated to pay valid losses. That is why Vrbo's average recovery rate is higher than Airbnb's at 68.29 percent.
+
+The problem is the $5,000 cap. A single sofa, a mattress, and some electronics in a party damage scenario can exhaust the top tier. More critically, Vrbo damage protection [explicitly excludes intentional damage and vandalism](https://www.steadily.com/blog/vrbo-damage-protection). For party-prone properties or premium listings, this is a fatal coverage gap. One real case on the BiggerPockets forums: a host with $6,000 in documented party damage (blood, broken windows, destruction) would have received $0 under Vrbo's program because the damage was intentional. The host ultimately recovered through Airbnb AirCover instead.
+
+- Actual insurance with legal claim standing
+
+- Higher recovery rate than AirCover (68% vs. 57%)
+
+- Guest pays the premium, not the host
+
+- Simpler claim process than Airbnb Resolution Center
+
+- $5,000 cap is low for premium properties
+
+- Excludes intentional damage and vandalism
+
+- Excludes theft and missing items
+
+- Excludes unauthorized pet damage
+
+- Wear and tear reclassification at adjuster discretion
+
+Proper Insurance is the most comprehensive third-party STR-specific policy in the market. Its key differentiators are threefold. First, **replacement cost valuation**: Proper pays new-for-old on both buildings and contents, meaning no depreciation deduction. Second, **no sub-limit on guest damage**: where platform programs cap guest-caused damage at a specific dollar amount, Proper treats guest damage as a fully covered peril under the main policy. Third, **explicit coverage for intentional and malicious damage by guests**, which is typically excluded from both Vrbo protection and standard homeowner/landlord policies.
+
+Proper uses a "special form all-risk" coverage structure, meaning every peril is covered unless specifically excluded in the policy. This is the inverse of how most insurance operates (which uses "named peril" structure) and is a meaningful advantage for STR operators dealing with unusual damage scenarios. Pricing is based on an annual policy, which means the math favors properties booking more than ~50 nights per year.
+
+- Replacement cost pays full value, no depreciation
+
+- No sub-limit on guest-caused damage
+
+- Covers intentional damage and vandalism
+
+- All-risk coverage form (strong default position)
+
+- Covers all booking platforms and direct bookings
+
+- Annual policy cost, not per-booking
+
+- Requires underwriting and application process
+
+- Premiums higher than standard landlord policies
+
+- Less useful for low-occupancy properties
+
+Safely operates on a different pricing model than Proper. Instead of an annual policy, Safely charges per-booking, which makes it attractive to operators who want to avoid fixed insurance costs or who manage a mix of owner-direct and platform bookings. Base content coverage is [$10,000 per booking with higher limits available](https://safely.com/) for luxury properties, and the policy includes $1 million in homeowner and property manager liability coverage for guest injuries.
+
+Safely's positioning is similar to Proper on the coverage side, with both offering replacement cost valuation and covering scenarios that platform programs exclude. Safely's distinguishing features are the per-booking pricing model (easier to pass through to guests as a damage waiver fee), integrated guest verification as part of the product, and explicit coverage for pet-caused damage even on pet-friendly listings. For property managers running 100+ units across multiple owners, the per-booking model simplifies accounting and allows the cost to flow through to the guest or owner as a line item.
+
+- Replacement cost valuation (no depreciation)
+
+- $10,000 base content limit, higher available
+
+- $1M liability coverage included
+
+- Per-booking pricing simplifies pass-through
+
+- Integrated guest verification
+
+- Pet damage covered even on pet-friendly listings
+
+- $10K content cap lower than Proper's policy limit
+
+- Per-booking cost adds up at high occupancy
+
+- Less comprehensive than Proper on structure coverage
+
+- Not a replacement for full property insurance
+
+## 03 / ScenariosWho actually pays on real damage events
+
+Here is the same damage scenario run through all four products. The numbers assume adequate documentation and a host with clean baseline photos. Real-world recoveries run 10 to 20 percent below these figures due to partial denials, labor exclusions, and adjuster wear-tear reclassifications.
+
+| Damage scenario | AirCover | Vrbo | Proper | Safely |
+| --- | --- | --- | --- | --- |
+| 3-year-old $1,800 sofa, ruinedUpholstered, guest accident | $1,260 | $1,260 | $1,800 | $1,800 |
+| Pet damage to flooring, $2,400Pet-friendly listing | $1,800 | $0 | $2,400 | $2,400 |
+| Party damage, $6,500 totalIntentional, multiple items | ~$4,500 | $0 | $6,500 | $6,500 |
+| Stolen TV + linens, $1,200Theft, post-checkout | $720 | $0 | $1,200 | $1,200 |
+| Water damage, $18,000Guest caused, flooding | ~$13,000 | $5,000 | $18,000 | $10,000 |
+| Burned mattress, 4 yrs, $900Cigarette burn | $720 | $720 | $900 | $900 |
+
+Two patterns emerge. First, the difference between ACV and replacement cost is roughly $200 to $600 on typical residential items, which adds up fast across a portfolio over time. Second, the intentional-damage and theft exclusions on Vrbo create dollar-for-dollar zeros where the other products all pay. On a party damage claim where Vrbo would pay nothing, Proper and Safely both pay in full and AirCover pays a depreciated amount.
+
+## 04 / Cost mathWhat coverage actually costs at 100 units
+
+For a 100-unit operation at typical STR occupancy (65 percent, ~237 nights per unit per year), here is the approximate annual cost math. Exact pricing varies by region, property value, and underwriting; these figures are directional for a middle-market portfolio.
+
+### Annual coverage cost · 100-unit portfolio
+
+Indicative only. Quote your own portfolio to get real numbers. Pricing varies materially based on property value, loss history, geography, and the specific scope of coverage.
+
+The math only works if the coverage gap it closes is larger than the cost. At 100 units doing 15-20 claims per year (0.71 percent claim frequency on ~2,100 bookings), the average uplift from replacement cost valuation and vandalism coverage runs $40K to $120K annually, depending on how much high-value damage the portfolio sees. For premium listings, party-prone properties, or anyone with furniture past year 5 on most items, the uplift exceeds the policy cost. For budget properties with mostly minor damage, the free AirCover floor is often sufficient.
+
+## 05 / RecommendationWhich product makes sense for your operation
+
+#### AirCover + Vrbo only
+
+Platform programs are sufficient for most small portfolios. Annual insurance costs are hard to justify at this scale unless you have premium listings or high damage history. Use AirCover as the default and let Vrbo's guest-opt-in protection handle Vrbo bookings.
+
+#### AirCover + Safely
+
+Per-booking pricing fits mid-sized portfolios because costs scale with bookings, not fixed annual commitments. Safely fills the replacement-cost gap and covers vandalism. Keep AirCover as the free floor for small claims under the Safely threshold.
+
+#### AirCover + Proper
+
+Proper's annual policy becomes cost-effective at scale because the fixed premium amortizes across more bookings. Proper's all-risk coverage and no-sub-limit structure are the strongest protection available. Use AirCover for small claims that fall below any deductible.
+
+Two adjustments to the above. If your portfolio includes **premium or luxury listings** (ADR above $500), the math favors Proper at any portfolio size because the replacement-cost gap on a single claim can exceed the annual premium. If your portfolio is **party or vandalism prone** (downtown urban, bachelor/bachelorette market, event properties), the Vrbo exclusion gap makes third-party coverage mandatory regardless of portfolio size.
+
+### A note on stacking
+
+None of these products are mutually exclusive. You can file an AirCover claim for a small damage event on an Airbnb booking, then also file a third-party policy claim on the same event if the platform recovery is insufficient. Third-party policies typically act as "excess" coverage above platform programs, meaning they pay the difference between your loss and what the platform recovered. This is the primary reason multi-unit operators usually stack coverage rather than choosing one.
+
+### Related reading in this series
+
+## FAQCommon questions
+
+No. Airbnb's Host Damage Protection Terms explicitly state that AirCover is not insurance. It is a discretionary protection program, meaning Airbnb can deny or reduce claims at their judgment. Proper Insurance and Safely are actual insurance products with different legal standing and regulatory oversight.
+
+AirCover does cover some forms of intentional damage on a case-by-case discretionary basis. Vrbo damage protection explicitly excludes intentional damage and vandalism. Proper Insurance explicitly covers intentional and malicious damage by guests, making it the strongest option for party-prone properties.
+
+Replacement cost pays the full cost to replace a damaged item with a new equivalent, with no deduction for age. Actual Cash Value pays the depreciated value, deducting based on age and category. On a 3-year-old $1,800 sofa, replacement cost pays $1,800 and ACV pays roughly $1,260. Proper and Safely use replacement cost. AirCover uses ACV.
+
+Most multi-unit operators use both. AirCover is free and automatic. Proper is a paid annual policy providing replacement cost and vandalism coverage. At 100 or more units with furniture past year 3, the math usually justifies stacking a third-party policy on top of AirCover.
+
+Vrbo damage protection is purchased by the guest at booking in three tiers maxing at $5,000. It is underwritten by Generali and is actual insurance. Recovery rates are higher than AirCover (68.29% vs. 56.75%), but the low cap and explicit exclusion of intentional damage make it insufficient as a primary protection layer for premium properties.
+
+### Sources & Primary References
+
+- Airbnb. [Host Damage Protection Terms](https://www.airbnb.com/help/article/2869). Defines AirCover's $3M limit, ACV valuation methodology, and discretionary program structure.
+ https://www.airbnb.com/help/article/2869
+
+- Vrbo. [What is Damage Protection](https://help.vrbo.com/articles/What-is-Damage-Protection). Coverage tiers, pricing, and Generali underwriting relationship.
+ https://help.vrbo.com/articles/What-is-Damage-Protection
+
+- Proper Insurance. [Vacation Rental Insurance](https://www.proper.insure/vacation-rental-insurance/). All-risk coverage structure, replacement cost valuation, and intentional damage coverage for guests.
+ https://www.proper.insure/vacation-rental-insurance/
+
+- Safely. [Safely Short-Term Vacation Rental Insurance](https://safely.com/). $10K content coverage, $1M liability, per-booking pricing model, pet damage coverage.
+ https://safely.com/
+
+- Avada Properties. [Airbnb and Vrbo Damage Claims Statistics and Assumptions](https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/). 20,000+ booking analysis with 56.75% Airbnb recovery and 68.29% Vrbo recovery.
+ https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/
+
+- Steadily Insurance. [Vrbo Damage Protection Overview](https://www.steadily.com/blog/vrbo-damage-protection). Third-party analysis of Vrbo exclusions including intentional damage and vandalism.
+ https://www.steadily.com/blog/vrbo-damage-protection

@@ -1,0 +1,390 @@
+Vacation Rental Operational KPIs: The Ops Scorecard for 100+ Unit Portfolios
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-operational-kpis/
+
+_The 12 operational KPIs that 100+ unit vacation rental managers actually track. Verified benchmarks for Ops Failure Rate, Inspection Pass Rate, Turnover Time, Damage Recovery Rate, and more._
+
+Vacation Rental Operational KPIs: The Ops Scorecard for 100+ Unit Portfolios
+
+The 12 operational KPIs a vacation rental manager should track are Inspection Pass Rate, Turnover Time, Damage Detection Rate, Response Time, Ops Failure Rate, Photo Compliance Rate, Cleaner Performance Score, Same-Day Turnover Success Rate, Damage Recovery Rate, Review Rating Trend, Maintenance Ticket Density, and Task Completion Lag. Revenue KPIs like RevPAR and ADR are necessary but insufficient once a portfolio crosses roughly 50 units, because the bottleneck shifts from pricing to execution. This page defines each metric with a formula, a verified benchmark, and the leverage points that move it.
+
+Three tiers, keyed to portfolio size
+
+Must track (50+ units)
+
+The floor. Inspection Pass Rate, Turnover Time, Damage Detection Rate, Response Time. Without these four you are flying blind once the operations manager can no longer personally see every turnover.
+
+Should track (100+ units)
+
+Ops Failure Rate, Photo Compliance Rate, Cleaner Performance Score, Same-Day Turnover Success Rate. These are the metrics a COO or ops director starts putting on a weekly dashboard.
+
+Elite (200+ units)
+
+Damage Recovery Rate, Review Rating Trend, Maintenance Ticket Density, Task Completion Lag. Leading indicators. The signals that separate portfolios that compound from portfolios that plateau.
+
+Inspection Pass Rate
+
+The percentage of turnovers that pass quality control on the first inspection, without rework. The cleanest single indicator of cleaning-team reliability.
+
+Cleaner-onboarding target per our QC scaling framework (https://rapideyeinspections.com/blog/how-to-scale-vacation-rental-quality-control/): consistent 95%+ earns reduced inspection frequency.
+
+Drives it up
+
+- Checklist-based cleaning
+
+- Photo verification per task
+
+- Cleaner onboarding period
+
+Drives it down
+
+- Same-day B2B time pressure
+
+- Substitute cleaners
+
+- Checklist drift
+
+Turnover Time
+
+Median clean-completion time from cleaner start to guest-ready status, by property size. The input to same-day B2B feasibility and cleaning-labor cost.
+
+According to CleanBnB (https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/) and Uplisting (https://www.uplisting.io/blog/airbnb-turnover-cleaning); top operators per ResortCleaning (https://www.resortcleaning.com/blog/strategies-efficient-airbnb-turnover-time-management) hit 90 minutes on smaller units. See our turnover-time reference (https://rapideyeinspections.com/blog/how-long-does-vacation-rental-turnover-take/).
+
+Drives it up (faster)
+
+- Pre-staged linen & supply caddies
+
+- 2-person parallel teams
+
+- Standardized room order
+
+Drives it down
+
+- Laundry bottleneck (60–90 min)
+
+- High-occupancy heavy cleans
+
+- Pet-friendly properties
+
+Damage Detection Rate
+
+The count of damages caught per 100 turnovers. Distinct from damage claim rate: detection is what you find, claim rate is what you file with the platform.
+
+Claim rates from an Avada Properties analysis of 20,000+ bookings (https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/). True damage rate runs higher because minor damages go uncaught or unbilled.
+
+Drives it up
+
+- Photo-based baseline comparison
+
+- Pre-check vs post-check photo diff
+
+- AI inspection review at scale
+
+Drives it down (misses)
+
+- Rushed cleans on B2B nights
+
+- No baseline photos on file
+
+- Cleaner-driven inspection only
+
+Response Time
+
+Median time from guest message to first human reply. Directly tied to Superhost eligibility, search ranking, and booking conversion.
+
+According to Airbnb Help Center (https://www.airbnb.com/help/article/829), Superhost requires a 90% response rate, 4.8 rating, 10+ stays, and <1% cancellation — evaluated quarterly.
+
+Drives it up
+
+- 24/7 messaging rotation
+
+- Templated first-touch replies
+
+- AI-assisted inbox triage
+
+Drives it down
+
+- Overnight inquiry volume
+
+- Single inbox across channels
+
+- Unstaffed shoulder hours
+
+Ops Failure Rate
+
+The percentage of turnovers in which any measurable operational failure occurs: late clean, missed supplies, maintenance miss, or guest-reported issue in the first 24 hours. The single most important ops-health metric according to Opago.
+
+According to Opago (https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss) analysis of their 7,000+ London portfolio.
+
+Drives it down
+
+- Pre-arrival checklists
+
+- Photo-verified turnover
+
+- Dedicated QC inspection
+
+Drives it up
+
+- Same-day B2B volume
+
+- Peak-season staffing gaps
+
+- New cleaners without onboarding
+
+Photo Compliance Rate
+
+The percentage of turnovers where all required verification photos were submitted per the checklist. A leading indicator for Inspection Pass Rate and Damage Detection Rate.
+
+According to Breezeway (https://www.breezeway.io/blog/vacation-rental-cleaning-practices), operators use task-based photo uploads; typical checklists run 20–60 photos per turnover. See our photos-per-turnover reference (https://rapideyeinspections.com/blog/how-many-photos-per-vacation-rental-turnover/).
+
+Drives it up
+
+- App-gated task completion
+
+- Reference photos per task
+
+- Cleaner incentive tied to compliance
+
+Drives it down
+
+- Lengthy checklists (>60 tasks)
+
+- Poor cell service at property
+
+- No enforcement on incomplete
+
+Cleaner Performance Score
+
+A rolling 30- or 90-day composite of each cleaner's pass rate across inspected turnovers. The data-driven basis for reducing inspection frequency, assigning high-revenue properties, and escalation decisions.
+
+Thresholds from our QC scaling framework (https://rapideyeinspections.com/blog/how-to-scale-vacation-rental-quality-control/). 25–30% spot-check rate is the convergence of J-PAL research recommendations and property-management practice.
+
+Drives it up
+
+- Structured onboarding
+
+- Same cleaner, same property
+
+- Real-time pass/fail feedback
+
+Drives it down
+
+- Frequent cleaner substitution
+
+- Property rotation without SOPs
+
+- Delayed inspection feedback
+
+Same-Day Turnover Success Rate
+
+The percentage of back-to-back turnovers completed and passing QC within the check-out-to-check-in window. The stress test for the entire ops stack.
+
+See our back-to-back turnovers framework (https://rapideyeinspections.com/blog/how-to-manage-back-to-back-vacation-rental-turnovers/). A missed same-day forces guest re-accommodation or a refund, usually both.
+
+Drives it up
+
+- Pre-staged linen & supplies
+
+- Zone-based team splits
+
+- 11am checkout / 4pm check-in
+
+Drives it down
+
+- Late checkout grants
+
+- Laundry at property (not pre-staged)
+
+- Peak-season cleaner shortage
+
+Damage Recovery Rate
+
+The percentage of detected damage that is successfully billed to the guest or recovered through AirCover, the Vrbo damage policy, or a damage waiver. Detection without recovery is documentation theater.
+
+According to Avada Properties analysis of 20,000+ bookings (https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/). Recovery rate scales with pre/post baseline photos and filing speed.
+
+Drives it up
+
+- Pre-arrival baseline photos
+
+- Same-day claim filing
+
+- Cited item values (replacement cost)
+
+Drives it down
+
+- No baseline / no attribution
+
+- Late filing past deadlines
+
+- Wear-and-tear misclassification
+
+Review Rating Trend
+
+The rolling 90-day average per listing, not the lifetime snapshot. Lifetime rating is a lagging vanity metric; trend is actionable.
+
+A 0.2-star drop correlates with 5–10% fewer listing page views, per Opago (https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss). Airbnb Superhost floor: 4.8+.
+
+Drives it up
+
+- Cleanliness consistency
+
+- Sub-1hr message response
+
+- Proactive pre-check-in outreach
+
+Drives it down
+
+- Cleanliness misses
+
+- Unresolved maintenance issues
+
+- Listing-reality mismatch
+
+Maintenance Ticket Density
+
+Maintenance tickets opened per property per month. Both too-low and too-high are signals: too low means issues are being missed; too high means the property stock is deteriorating or inspection is generating noise.
+
+According to the Breezeway 2025 State of Work Report (https://www.breezeway.io/2025-state-of-work-report) (350+ hospitality professionals), 73% of operators complete more than 50 tasks per week, and nearly half face last-minute issues daily.
+
+Drives it up (more tickets)
+
+- Turnover-linked inspection
+
+- Low cleaner-to-inspector reporting friction
+
+- Older property stock
+
+Drives it down (fewer)
+
+- Preventive maintenance schedule
+
+- Newer-build portfolio
+
+- Underreporting (bad)
+
+Task Completion Lag
+
+Median hours between task assignment and completion, bucketed by urgency. The metric that catches a silent ops organization quietly falling behind.
+
+Per the Breezeway report, 90% of ops professionals describe their work as constant coordination — untracked lag is where coordination breaks down.
+
+Drives it up (longer lag)
+
+- Single-assignee bottlenecks
+
+- Tickets without deadlines
+
+- No on-call rotation
+
+Drives it down
+
+- Auto-escalation rules
+
+- Urgency-tiered SLAs
+
+- Vendor network pre-approval
+
+The Ops Failure Rate is the single KPI most short-term rental CEOs miss
+
+Revenue metrics get reported weekly. Ops metrics often don't. According to Opago (https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss), the STR operator behind more than 7,000 London properties, the single most under-tracked KPI across their network is what they call the Ops Failure Rate: the share of turnovers where any measurable failure occurs.
+
+The reason it is rarely tracked is that it requires a failure taxonomy. Most portfolios know that turnovers fail. Few have a shared vocabulary for how. The fix is a one-page failure-category list (late, missed supplies, missed maintenance, damage missed, guest-reported issue in first 24 hours) applied consistently to every turnover for 30 days. Once you have the baseline, every Tier 1 and Tier 2 KPI on this page becomes a lever that moves it.
+
+What to actually put on your scorecard
+
+The right dashboard depends on portfolio size. Below 50 units, the operations manager is the dashboard and the metrics are latent in their head. Above 50, that stops scaling. Start with the Tier 1 four; earn the rest.
+
+Weekly ops standup
+
+Operations manager reviews four numbers every Monday. Cleaners with a score drop below 85 get flagged. Any Ops Failure Rate spike gets a root-cause note.
+
+- Inspection Pass Rate
+
+- Turnover Time (by size)
+
+- Damage Detection Rate
+
+- Response Time
+
+Ops director dashboard
+
+Eight metrics on a weekly dashboard. Cleaner performance scorecards go monthly. Ops Failure Rate becomes the north-star ops metric reviewed weekly with the GM.
+
+- All Tier 1 metrics
+
+- Ops Failure Rate
+
+- Photo Compliance Rate
+
+- Cleaner Performance Score
+
+- Same-Day Turnover Success Rate
+
+Executive scorecard
+
+Twelve metrics with tier-level ownership. CEO sees Ops Failure Rate and Review Rating Trend weekly. COO owns the full twelve. Damage Recovery Rate reviewed monthly with finance.
+
+- All Tier 1 & Tier 2 metrics
+
+- Damage Recovery Rate
+
+- Review Rating Trend (90d)
+
+- Maintenance Ticket Density
+
+- Task Completion Lag by urgency
+
+Frequently asked questions
+
+What operational KPIs should a vacation rental manager track?
+
+The core ops KPIs are Inspection Pass Rate, Turnover Time, Damage Detection Rate, Response Time, Ops Failure Rate, Photo Compliance Rate, Cleaner Performance Score, Same-Day Turnover Success Rate, Damage Recovery Rate, Review Rating Trend, Maintenance Ticket Density, and Task Completion Lag. Revenue KPIs like RevPAR and ADR are necessary but insufficient once a portfolio passes roughly 50 units.
+
+What is Ops Failure Rate for short-term rentals?
+
+Ops Failure Rate is the percentage of turnovers where a measurable failure occurs, including late cleans, missed maintenance, supplies missing, or guest-facing issues reported in the first 24 hours. According to Opago (https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss), a short-term rental operator managing over 7,000 London properties, the industry average is roughly 12.5 percent (1 in 8 turnovers), the target for professionally managed portfolios is below 5 percent, and best-in-class operators consistently hit 2 to 3 percent.
+
+What is a good Inspection Pass Rate for a vacation rental portfolio?
+
+A portfolio in good operational health runs an Inspection Pass Rate of 90 percent or higher on the first inspection. Elite operators run above 95 percent. When the rate drops below 85 percent, either the cleaning process or the inspection process is misconfigured, and the fix is usually upstream in cleaner onboarding rather than downstream in more inspections.
+
+How is Damage Recovery Rate different from Damage Detection Rate?
+
+Detection Rate measures how much damage you catch per 100 turnovers. Recovery Rate measures the percentage of caught damage you successfully bill to the responsible guest or claim through AirCover or Vrbo. According to an Avada Properties analysis of 20,000+ bookings, Airbnb damage claims are approved at 56.75 percent and Vrbo at 68.29 percent. A portfolio can have a strong detection rate but a weak recovery rate if documentation is thin or filed outside platform deadlines.
+
+Why are operational KPIs different from revenue KPIs like RevPAR and ADR?
+
+Revenue KPIs measure pricing and demand. Operational KPIs measure execution. A portfolio with strong revenue metrics can still bleed margin and guest trust through failed turnovers. A 0.2-star rating drop from operational failures correlates with a 5 to 10 percent reduction in listing page views, which directly collapses RevPAR. The two sets of metrics are complementary.
+
+Inspection Pass Rate, Damage Detection Rate, and Photo Compliance Rate are things RapidEye produces as a byproduct
+
+Our AI reviews every turnover photo against the baseline and flags the damages cleaners miss. Three of the twelve metrics on this page get computed automatically. See the real detections showcase (https://rapideyeinspections.com/showcase) for what the AI catches that inspectors don't.
+
+Related operations references
+
+Sources
+
+- Opago, "5 KPIs That Short Term Rental CEOs Track — And the 1 They Almost Always Miss" (April 2026) (https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss)
+https://www.opago.co/blog/5-kpis-that-short-term-rental-ceos-track---and-the-1-they-almost-always-miss
+
+- Breezeway, "2025 State of Work Report" (350+ hospitality professionals surveyed) (https://www.breezeway.io/2025-state-of-work-report)
+https://www.breezeway.io/2025-state-of-work-report
+
+- Breezeway, "Vacation Rental Cleaning Practices" (task-based photo approach) (https://www.breezeway.io/blog/vacation-rental-cleaning-practices)
+https://www.breezeway.io/blog/vacation-rental-cleaning-practices
+
+- Airbnb, "How to Qualify for Superhost Status" (Help Center article 829) (https://www.airbnb.com/help/article/829)
+https://www.airbnb.com/help/article/829
+
+- CleanBnB, "How Long Should It Take an Airbnb Cleaner to Clean?" (https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/)
+https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/
+
+- Uplisting, "Airbnb Turnover Cleaning Guide" (https://www.uplisting.io/blog/airbnb-turnover-cleaning)
+https://www.uplisting.io/blog/airbnb-turnover-cleaning
+
+- ResortCleaning, "Strategies for Efficient Airbnb Turnover Time Management" (https://www.resortcleaning.com/blog/strategies-efficient-airbnb-turnover-time-management)
+https://www.resortcleaning.com/blog/strategies-efficient-airbnb-turnover-time-management
+
+- Avada Properties, damage-claim rate analysis of 20,000+ bookings (as cited in our guest damage frequency reference (https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/)).

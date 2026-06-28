@@ -1,0 +1,73 @@
+Does Tennessee Require CO Detectors in Vacation Rentals?
+
+Source: https://rapideyeinspections.com/blog/does-tennessee-require-co-detectors-vacation-rentals/
+
+_Yes, if the property has any gas appliance, fireplace, or attached garage. TCA 68-120-112 requires CO detectors within 10 feet of sleeping rooms. Sevier County adds a stricter 15-foot bedroom door rule._
+
+Does Tennessee Require CO Detectors in Vacation Rentals?
+
+Yes, if the property has any fossil-fuel-burning appliance, a fireplace, or an attached garage. According to TCA 68-120-112, CO detectors must be installed within 10 feet of each sleeping room in any short-term rental that meets any of these conditions. In practice, this covers nearly every cabin and vacation rental in Tennessee.
+
+What triggers the requirement
+
+According to TCA 68-120-112 (https://law.justia.com/codes/tennessee/title-68/safety/chapter-120/part-1/section-68-120-112/), CO detectors are required in any building used for sleeping accommodations that has:
+
+- Gas furnace or heater
+
+- Gas water heater
+
+- Propane appliances
+
+- Wood-burning fireplace
+
+- Gas fireplace
+
+- Attached garage
+
+- Any fossil fuel combustion
+
+- All-electric HVAC
+
+- Electric water heater
+
+- No fireplace
+
+- No attached garage
+
+- No combustion appliances
+
+Even if exempt under state law, your municipality may still require them.
+
+The statute defines "fossil fuel" as coal, kerosene, oil, fuel gases, or other petroleum or hydrocarbon products that emit carbon monoxide as a byproduct of combustion. In the Smoky Mountains, where most cabins have gas fireplaces or wood-burning stoves, the vast majority of properties trigger this requirement.
+
+Placement requirements
+
+Measured from the CO detector to the door of the sleeping room
+
+Per the Sevier County Fire Marshal's STRU inspection checklist, revised November 2024
+
+According to TCA 68-120-112 (https://law.justia.com/codes/tennessee/title-68/safety/chapter-120/part-1/section-68-120-112/), CO detectors must be installed following either NFPA standards or manufacturer directions. They may be:
+
+- Hardwired directly to the building's power supply
+
+- Battery-powered with a self-monitored battery
+
+- Plug-in with a plug restrainer device (outlet must not be controlled by a switch other than the main power supply)
+
+Sevier County adds stricter rules
+
+According to the Sevier County Fire Marshal's STRU inspection checklist (https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), the county requires CO detectors within 10 feet of every fuel-burning, natural gas, or propane appliance, AND within 15 feet of the door of all bedrooms. This is a dual-distance requirement: one measured from the appliance, one measured from the bedroom.
+
+For a typical multi-level cabin with a gas fireplace on the main level and bedrooms on multiple floors, this means you may need CO detectors on every level where there is either a fuel-burning appliance or a bedroom.
+
+Penalties
+
+STR provider responsibility
+
+According to TCA 68-120-112, the short-term rental unit provider is responsible for "performance of maintenance, repairs, and tests to ensure that every... carbon monoxide alarm required in the short-term rental unit is operational at all times." This is not a tenant responsibility. The operator must verify CO detector functionality between every guest stay.
+
+Sources
+
+TCA 68-120-112: Smoke alarms and carbon monoxide alarms in residential buildings (https://law.justia.com/codes/tennessee/title-68/safety/chapter-120/part-1/section-68-120-112/) (2024 Tennessee Code via Justia)https://law.justia.com/codes/tennessee/title-68/safety/chapter-120/part-1/section-68-120-112/
+
+Sevier County Fire Marshal STRU Inspection Items (https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf) (Revised November 8, 2024)https://cms5.revize.com/revize/seviercountytn/SCFMO STRU Inspection Items Revised 11.8.24.pdf

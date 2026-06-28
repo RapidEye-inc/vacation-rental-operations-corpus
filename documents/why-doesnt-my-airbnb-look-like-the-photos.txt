@@ -1,0 +1,35 @@
+Why Doesn't My Airbnb Look Like the Listing Photos?
+
+Source: https://rapideyeinspections.com/blog/why-doesnt-my-airbnb-look-like-the-photos/
+
+_If your Airbnb no longer matches its listing photos and nothing broke, the cause is staging drift: small changes across many turnovers that compound over time._
+
+Why doesn't my Airbnb look like the listing photos?
+
+If your Airbnb no longer looks like its listing photos and nothing major broke, the cause is almost always staging drift: hundreds of small, individually invisible changes across many turnovers and cleaners that compound until the property has quietly wandered from its original setup. No single turnover looks wrong. The cumulative result does.
+
+The internet's usual answer is "your photos are outdated, reshoot them." Sometimes that is true. But if the furniture is intact and the finishes are fine, the gap is not stale photography. It is the property slowly diverging from its own staged baseline, one reset at a time, because every cleaner carries a slightly different mental picture of what "done" looks like.
+
+What is actually drifting
+
+- Items move. The throw migrates from the sofa to the armchair. The accent chair faces a little more wrong each time.
+
+- Counts drop. Throw pillows go from five to three. Wine glasses from six to four. Nobody replaces them because nobody knows the original count.
+
+- Replacements stop matching. A broken glass becomes a promo cup. One beige towel joins the white set.
+
+- Layout shifts. A dining chair gets borrowed and never returns. The rug ends up rotated.
+
+This matters because guests booked the photos. According to AvantStay (https://avantstay.com/blog/vacation-rental-not-as-advertised/), platforms treat a substantial gap between the listing and the arrival as misrepresentation: Airbnb gives guests 72 hours to report it for a potential full refund, and Vrbo gives 24 hours with explicit emphasis on photographic evidence. Drift turns your own listing photos into the guest's evidence against you. The fix is not to chase the property down by reshooting; it is to define a canonical reset state and pull every turnover back toward it.
+
+The full guide to staging drift
+
+The six ways drift creeps in, why binary inspections miss it, and how to establish and defend a canonical reset state across a portfolio.
+
+Common questions
+
+Related
+
+Sources
+
+- AvantStay, "Vacation Rental Isn't as Advertised? Your Rights" (Airbnb 72-hour and Vrbo 24-hour misrepresentation windows, photographic evidence)https://avantstay.com/blog/vacation-rental-not-as-advertised/

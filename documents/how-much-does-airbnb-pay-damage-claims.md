@@ -1,0 +1,109 @@
+# How Much Does Airbnb Actually Pay for Damage Claims? The Real Depreciation Math
+
+Source: https://rapideyeinspections.com/blog/how-much-does-airbnb-pay-damage-claims/
+
+_The actual formula Airbnb uses to calculate damage payouts, depreciation rates by item category from insurance industry sources, and worked examples showing real expected payouts for sofas, mattresses, TVs, and appliances._
+
+Airbnb pays Actual Cash Value, not replacement cost. That means the payout on any damaged item is the current cost to replace it minus accumulated depreciation based on the item's age and category. On average, hosts recover roughly 57 percent of the amount they claim, according to Avada Properties' analysis of 20,000-plus bookings.
+
+A three-year-old sofa you paid $1,800 for is not reimbursed at $1,800. Using the insurance-industry standard 10 percent annual depreciation rate for upholstered furniture, you should expect a payout of roughly $1,260, before any deductions for wear and tear, labor exclusions, or partial denials. For items past nine years of age, expect the payout to be capped at 10 percent of replacement cost regardless of condition.
+
+## 01 / FormulaHow Airbnb calculates the payout
+
+Airbnb's [Host Damage Protection Terms](https://www.airbnb.com/help/article/2869) define the eligible loss amount as the lesser of repair cost, replacement cost, or **Actual Cash Value**, which the terms define as "the amount it would cost to repair or replace damaged or destroyed Eligible Property... with material of like kind and quality, with proper deduction for obsolescence and physical depreciation."
+
+That language is directly borrowed from the property insurance industry. ACV has been the standard valuation method in homeowners and commercial property insurance for decades, and it resolves to a simple formula:
+
+Two details that catch property managers off guard. First, **replacement cost is what a new equivalent costs today**, not what you originally paid. If your $1,800 sofa would cost $2,100 to replace at current retail, the math runs against $2,100. Second, **Airbnb does not publish its internal depreciation schedule**. Neither does any insurance carrier. [United Policyholders](https://uphelp.org/claim-guidance-publications/depreciation-basics/), the consumer advocacy group for insurance claimants, states this plainly:
+
+"There is no agreed-upon schedule or set standard for how much insurers can depreciate your personal property. Insurance adjusters use their own personal views on the value of items plus guidelines on depreciation provided by their employer."
+
+The rates adjusters actually apply come from a handful of industry references. The most widely used is [ClaimsPages.com](https://www.claimspages.com/tools/depreciation/), which publishes annual depreciation rates by item category sourced from manufacturers, insurers, and trade associations. These are the rates Airbnb's internal team and any third-party adjuster will reference when calculating your payout.
+
+## 02 / RatesAnnual depreciation rates by category
+
+All rates below are pulled directly from the ClaimsPages.com industry calculators. The residential column is the rate used in homeowners and renters insurance adjustments. The STR-adjusted column is our calculation of the effective rate in a vacation rental running 200-plus occupied nights per year, which is roughly double the use of a typical residential item.
+
+| Category | Item | Residential rate / yr | STR-adjusted rate / yr | Useful life (residential) |
+| --- | --- | --- | --- | --- |
+| Furniture | Upholstered sofa, armchair, ottoman | 10.00% | ~20% | ~10 yr |
+| Leather furniture | 5.00% | ~10% | ~20 yr |  |
+| Solid wood (tables, dressers) | 2.00% | ~4% | ~50 yr |  |
+| Bedding | Mattress | 5.00% | ~10% | ~20 yr |
+| Sheets, pillowcases | 20.00% | ~40% | ~5 yr |  |
+| Appliances | Refrigerator | 6.67% | ~13% | ~15 yr |
+| Washing machine | 8.33% | ~17% | ~12 yr |  |
+| Dishwasher | 10.00% | ~20% | ~10 yr |  |
+| Microwave oven | 12.50% | ~25% | ~8 yr |  |
+| Electronics | HD Television | 10.00% | ~20% | ~10 yr |
+
+Residential rates: [ClaimsPages.com](https://www.claimspages.com/tools/depreciation/) Depreciation Calculator. STR-adjusted figures are our estimates based on a 2x occupancy multiplier, not a published industry standard. Insurance industry convention caps depreciation at 90 percent of replacement cost for items still in functional use.
+
+## 03 / STR adjustmentWhy residential rates understate vacation rental wear
+
+ClaimsPages rates, like every published depreciation schedule, assume residential use: one household, normal daily wear, periodic professional cleaning. A vacation rental doing 200-plus occupied nights per year with different guests each stay burns through soft goods, upholstery, and high-touch items at roughly twice the residential rate. The [industry data on replacement schedules](https://str.rapideyeinspections.com) bears this out: a sofa that lasts 10 years in a home typically survives 4 to 6 years in a high-turnover STR before requiring replacement.
+
+Adjusters handling an AirCover claim will not automatically apply an STR multiplier. They start with residential rates and only adjust downward if you proactively document occupancy and commercial-intensity use. This means two things for property managers filing claims:
+
+**One**, the residential-rate column in the table above is your ceiling, not your floor. You will rarely do better than that number unless the damage is demonstrably not wear-accelerated. **Two**, the STR-adjusted column is closer to the item's actual remaining value, but it is rarely what you will receive on a claim. The gap between those columns is part of what drives the 43 percent average shortfall between claimed and paid amounts.
+
+## 04 / Worked examplesReal payouts on real items
+
+Four scenarios that map to the damage a typical 100-unit operation sees in a given month. All examples use ClaimsPages residential rates. All assume the property manager filed within the 14-day window with adequate documentation and the guest accepted responsibility, so the full ACV is payable. Real-world recoveries tend to run 10 to 20 percent below these numbers due to wear-and-tear reclassifications and labor exclusions.
+
+**Labor is not depreciable in most jurisdictions.** If you need to pay a carpenter $200 to install a replacement door and the door itself depreciates 30 percent, the $200 labor cost should still be reimbursed in full. This is the holding in *Sproull v. State Farm Fire & Cas. Co.* and is enforced in most states, but Airbnb adjusters frequently exclude labor from payouts anyway. Itemize labor separately on every invoice and cite the precedent if it gets deducted.
+
+## 05 / The gapWhy your actual payout is 43% less than you asked for
+
+The Avada Properties analysis of 20,000-plus Smoky Mountains bookings found that Airbnb hosts recover an average of **56.75 percent** of the amounts they claim. Vrbo hosts do slightly better at 68.29 percent. Neither platform pays the full claim. The 43 percent average gap on Airbnb breaks down into four buckets:
+
+Depreciation is the largest reducer and the one you cannot negotiate. The other three are partially controllable. Wear-and-tear reclassifications can be blocked by maintaining baseline photos of the damaged item before the guest stay. Labor exclusions can be challenged by citing *Sproull* and itemizing the invoice. Partial denials for documentation gaps are avoided by following Airbnb's [published claim procedures](https://rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide/) to the letter.
+
+Our post on [why STR damage claims get denied](https://rapideyeinspections.com/blog/why-str-damage-claims-get-denied/) covers the documentation patterns that move a claim from partially-paid into fully-paid. If your operation is consistently recovering below 50 percent of claimed amounts, the issue is almost always in the documentation layer, not the depreciation layer.
+
+## 06 / DecisionWhen the math says "do not file"
+
+The ACV formula has a practical corollary that most published damage guides miss. At scale, filing a claim costs ops time: documenting the damage, gathering receipts, writing the claim narrative, responding to adjuster follow-ups, coordinating with the guest in the Resolution Center, and tracking the payout. A typical AirCover claim consumes 1 to 2 hours of ops coordinator time across the full lifecycle. At a $45 fully loaded hourly cost, that is $45 to $90 of ops cost per claim, before any of the claim value flows back.
+
+Combined with the 57 percent average recovery rate, the break-even filing threshold for most 100-plus unit operators lands somewhere between $150 and $250 in claimed damage. Below that amount, replacing or repairing the item out of pocket is strictly more profitable than filing. We walk through the exact threshold math, including how to calibrate it for your own ops labor cost and recovery rate, in our companion piece on [when an Airbnb damage claim is worth filing](https://rapideyeinspections.com/blog/minimum-airbnb-damage-claim-worth-filing/).
+
+## 07 / Other platformsAirbnb vs. Vrbo vs. third-party insurance
+
+Airbnb is the only major STR platform that uses ACV valuation as its primary payout method. Vrbo damage protection, underwritten by Generali, operates on a capped tier model ($1,500 / $3,000 / $5,000) with adjuster-discretion depreciation. Third-party STR insurance policies from [Proper Insurance](https://www.proper.insure/) and [Safely](https://safely.com/) typically offer **replacement cost** valuation, which pays the full cost to replace the damaged item with no depreciation deducted.
+
+The replacement-cost distinction matters enormously at scale. On a 3-year-old $1,800 sofa, AirCover pays $1,260 and Proper pays $1,800. On a 9-year-old sofa, AirCover pays $180 and Proper pays whatever a new comparable sofa costs. For operators carrying furniture past year 5, the math usually justifies a separate third-party policy on top of AirCover. We compare the platforms in depth in [AirCover vs. Proper vs. Safely](https://rapideyeinspections.com/blog/airbnb-aircover-vs-proper-vs-safely-damage-coverage/).
+
+### Next pieces in this series
+
+## FAQCommon questions
+
+Airbnb pays Actual Cash Value, not replacement cost. The Host Damage Protection Terms state that eligible losses are valued with "proper deduction for obsolescence and physical depreciation." A three-year-old sofa is not reimbursed at today's new-sofa price. Payout is replacement cost minus depreciation based on age and category.
+
+Airbnb does not publish an internal schedule. Adjusters reference industry-standard rates from ClaimsPages.com: upholstered furniture depreciates at 10 percent per year, leather at 5 percent, solid wood at 2 percent. These rates assume residential use and should be adjusted upward for vacation rentals with high occupancy.
+
+According to Avada Properties' analysis of 20,000-plus bookings, Airbnb hosts recover an average of 56.75 percent of the amount they claim. Vrbo hosts recover 68.29 percent. The gap is driven by depreciation deductions, wear-and-tear reclassifications, labor exclusions, and partial denials for documentation gaps.
+
+Airbnb sets no minimum, but most multi-unit operators set internal filing thresholds around $150 to $250 because the ops time required to document, file, and follow up on a small claim often exceeds the expected net recovery. Below that threshold, replacing or repairing the item directly is more cost-effective.
+
+Insurance industry convention caps depreciation at 90 percent of replacement cost for items still in functional use. An upholstered sofa at 10 percent per year hits that cap at nine years. After that point, the item retains at least 10 percent of its replacement value until functionally unusable.
+
+### Related reading on damage claims
+
+### Sources & Primary References
+
+- Airbnb. [Host Damage Protection Terms](https://www.airbnb.com/help/article/2869). Section 4.2 defines Actual Cash Value and the "lesser of" payout rule.
+ https://www.airbnb.com/help/article/2869
+
+- ClaimsPages.com. [Property Depreciation Calculators](https://www.claimspages.com/tools/depreciation/). Industry-standard annual depreciation rates used by property insurance adjusters across residential and commercial claims.
+ https://www.claimspages.com/tools/depreciation/
+
+- Avada Properties. [Airbnb and Vrbo Damage Claims Statistics and Assumptions](https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/). Analysis of 20,000+ Smoky Mountain bookings showing 56.75% Airbnb recovery and 68.29% Vrbo recovery on claimed amounts.
+ https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/
+
+- United Policyholders. [Depreciation Basics](https://uphelp.org/claim-guidance-publications/depreciation-basics/). Consumer advocacy reference confirming that depreciation schedules are not standardized and are negotiable in most claim contexts.
+ https://uphelp.org/claim-guidance-publications/depreciation-basics/
+
+- *Sproull v. State Farm Fire & Casualty Co.*, 2021 IL 126446. Illinois Supreme Court holding that labor costs cannot be depreciated under Actual Cash Value policies. Widely cited across insurance claim jurisdictions.
+
+- Airbnb. [Host Damage Protection overview](https://www.airbnb.com/help/article/279). The consumer-facing page describing the $3 million coverage limit, 14-day filing window, and eligible claim categories.
+ https://www.airbnb.com/help/article/279

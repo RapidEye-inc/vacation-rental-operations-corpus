@@ -1,0 +1,78 @@
+# Hawaii Vacation Rental Management Companies: The 2026 Market in Numbers
+
+Source: https://rapideyeinspections.com/blog/hawaii-vacation-rental-landscape/
+
+_We mapped 106 Hawaii vacation rental management companies from the VRMA directory: the largest operators, top-5 concentration (51%), dominant software, and what the data means. Primary-source figures, cleaned._
+
+# Hawaii Vacation Rental Management Companies: The 2026 Market in Numbers
+
+We pulled every Hawaii member of the national vacation rental managers’ association and ranked the market by the numbers: how many companies, who manages the most units, how concentrated it is, and what software runs it.
+
+**Hawaii is home to 106 VRMA-member vacation rental management companies**, of which 45 disclosed a unit count totaling 6,077 managed units. The market is best described as an island-by-island, resort-condo market.
+
+The largest reporting operator is **Castle Resorts & Hotels** at roughly 1,000 units. The top five reporting operators control about 51 percent of all units disclosed, the most common property management system among members is HomeAway / Escapia (legacy), and the median member company was founded around 2008.
+
+## 01Hawaii at a glance
+
+VRMA member companies headquartered in Hawaii, March 2026.
+
+## 02The largest operators
+
+Ranked by self-reported units managed. Figures are disclosed by the operators themselves.
+
+| # | Operator | Units (self-reported) |
+| --- | --- | --- |
+| 1 | Castle Resorts & HotelsHonolulu | 1,000 |
+| 2 | Outrigger Resorts & HotelsHonolulu | 880 |
+| 3 | AA Oceanfront Rentals and SalesKihei | 500 |
+| 4 | CONDOMINIUM RENTALS HAWAIIKIHEI | 375 |
+| 5 | The Parrish Collection LLCKoloa | 350 |
+| 6 | My Perfect Stays LLCLahaina | 330 |
+| 7 | Rentals Maui IncKihei | 320 |
+| 8 | Kona Coast VacationsKailua Kona | 280 |
+| 9 | Elite Pacific PropertiesHonolulu | 205 |
+| 10 | Chase N Rainbows Real Estate Inc.Lahaina | 205 |
+
+## 03How concentrated is the market?
+
+The five largest reporting operators control about **51 percent** of every unit disclosed by Hawaii members. That is a middle-of-the-road split typical of established markets.
+
+## 04What software runs the market
+
+Most-named property management systems among Hawaii members.
+
+According to the VRMA directory, the unit-heavy incumbents in Hawaii still lean on Streamline and legacy HomeAway/Escapia systems, the same generational pattern we documented across the whole industry in [the PMS market analysis](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/).
+
+## 05What the data says
+
+Hawaii is an island-by-island market dominated by resort-condominium operators. According to the VRMA public member directory (compiled March 2026), 106 Hawaii companies are members. After excluding Marina Hawaii Vacations (see below), the largest reporting short-term rental operator is Castle Resorts & Hotels at roughly 1,000 units, followed by Outrigger Resorts & Hotels.
+
+The inventory is concentrated on Oahu's Waikiki, Maui, Kauai, and the Big Island, and it skews toward condo-resort buildings rather than detached homes. That shows up in the software: legacy HomeAway and Escapia systems, built for large repeatable condo inventories, are the most common here, unlike the Streamline-led mainland markets. The median Hawaii member was founded around 2008, the oldest cohort of any state we mapped.
+
+## 06Compare other states
+
+Figures come from RapidEye's analysis of the **VRMA (Vacation Rental Management Association) public member directory**, compiled March 2026. Counts cover companies that list a Hawaii headquarters. Unit counts are **self-reported**; only 45 of 106 Hawaii members disclosed one, so the 6,077-unit total is a floor, not a census of every short-term rental in the state.
+
+We de-duplicated companies that appear under multiple brand spellings (keeping the higher figure) and excluded entries whose self-reported totals reflect national franchise networks, timeshare or HOA portfolios, or brands since acquired and folded into a national operator. In Hawaii, the largest excluded entry was Hawaiian Properties, Ltd. dba Marina Hawaii Vacations (35,840 self-reported units), a residential and HOA portfolio, not short-term rentals.
+
+## 07Sources
+
+- VRMA (Vacation Rental Management Association) — Public Member Directory, compiled March 2026 (primary data set).https://www.vrma.org/search/newsearch.asp
+
+- RapidEye — The Largest Short-Term Rental Management Companies (2026).https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/
+
+- RapidEye — The Vacation Rental PMS Market Just Flipped: 40 Years in One Chart.https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/
+
+## 08Frequently asked
+
+### How many vacation rental management companies are in Hawaii?
+
+According to the VRMA public member directory compiled in March 2026, Hawaii has 106 member vacation rental management companies. Of those, 45 disclosed a unit count, together reporting 6,077 managed units.
+
+### Who is the largest vacation rental management company in Hawaii?
+
+Based on self-reported figures in the VRMA directory, the largest reporting operator in Hawaii is Castle Resorts & Hotels with approximately 1,000 units. The five largest reporting operators together account for about 51 percent of all units disclosed by Hawaii members.
+
+### What property management software do Hawaii vacation rental companies use?
+
+Among Hawaii members that named a property management system, HomeAway / Escapia (legacy) is the most common, consistent with the broader pattern in which Streamline and legacy HomeAway/Escapia systems still run most unit-heavy incumbents.

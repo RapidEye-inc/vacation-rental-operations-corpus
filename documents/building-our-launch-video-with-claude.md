@@ -1,0 +1,87 @@
+# How I Built RapidEye's Launch Video With Claude
+
+Source: https://rapideyeinspections.com/blog/building-our-launch-video-with-claude/
+
+_I'm not a motion designer. I built every scene in our launch video in one extended session with Claude Code. Six scenes, eleven iterations, the one-line fix that unlocked everything._
+
+# How I built RapidEye's launch video with Claude.
+
+I'm not a motion designer. I built every scene in our launch video in one extended session with Claude Code. Here's every scene, the actual prompts I used, the versions that didn't work, and the one-line code change that fixed the motion across the entire project.
+
+The hero animation from our landing page, exported to a 4K video file. The first scene we built. Everything else followed from this one working.
+
+I needed motion graphics for a launch video. I'm working in After Effects, but instead of building each scene there, I gave Claude a different job: **design each scene as a tiny webpage**, then a small script captures every frame and exports a 4K transparent video file ready to drop into the AE timeline.
+
+Claude wrote 100% of the code. I gave creative direction, dialed sliders in the browser to find the look, and said "render it" when something felt right. The whole thing came together in a long session over two days. This post walks through the scenes, the iterations, and the moment everything almost broke.
+
+## 01Photos falling like dropped balls
+
+### Same scene, four densities.
+
+"30 photos at the top that fall down like you just dropped a bunch of balls. It's in 2D, of course."
+
+Different cuts of the launch video needed different visual densities. Instead of building four versions, Claude wrote one scene with a slider for photo count, gravity, rotation drift, and horizontal wobble. I rendered it four times: 8, 30, 80, and 200. Same physics, different feelings.
+
+The trick was treating every numeric value as a slider. I could tune size, drop spread, and gravity in the browser without touching code, then just say "render it at 30."
+
+## 02Floating up from the bottom
+
+### Three versions to find the right feel.
+
+"Three or four turnover photos floating up from the bottom of the screen, hovering at the bottom half, then floating back down. Two seconds. Should feel like bubbles rising."
+
+The first version used a standard ease-out curve. Mathematically smooth. Visually wrong. I told Claude the photos "stop too much at the top." We tried a heavier ease. Better, but the peak still felt frozen for a moment.
+
+Then I asked for "a tiny bit of movement at the top so it's smooth." Claude added a half-sine wave layered on top of the ease, so the photos keep drifting through the moment they'd otherwise stop. **We named the effect "buoyant"** and ended up reusing it across most of the scenes that followed.
+
+### The bug that broke everything until I told Claude to plot the curve.
+
+I asked Claude to use the same buoyant motion on the integrations panel (next scene). It looked great on entry. The exit had a "pause then snap" feel that I couldn't shake. Claude tried five different intuitive fixes. None of them worked. I sent this:
+
+"I think the best way for you to do this is to somehow show yourself the position over time. If you can graph the position over time, you'll see that in the intro it's smooth, in the exit it's not."
+
+Fifteen minutes later, Claude had built a debug overlay that plotted the velocity curve in real time. The bug was visible in 30 seconds: velocity went to **zero for sixteen percent of the duration**, in the middle. The fix was changing one variable in one line.
+
+The bob's wave was scoped to just the rise phase instead of the full rise+fall. Stretching it across the whole lifetime made the velocity curve continuous. Bob spans the entire lifetime, not just the entrance.
+
+## 03Integration partners scrolling in
+
+### Same scene, before and after the fix.
+
+"A panel showing RapidEye plugs into Guesty, Breezeway, Streamline, Boom. Logos slide in from the sides. Center stays open for the headline."
+
+This is the scene where the bug above was hiding. V2 was iteration two of the panel: cards entered cleanly, then sat still for a beat before snapping out. V5 has the one-line fix from the callout above. Watch the exit on V2 versus V5.
+
+The other thing this scene unlocked: **per-logo scale sliders**. Brand logos come with wildly inconsistent built-in padding (Breezeway is huge, others are tiny). Claude exposed a separate scale slider for each logo. I tuned them in 60 seconds without ever reloading the page.
+
+## 04The flood
+
+### "Things get missed."
+
+"We need it so fast that, before the last one even finishes getting there, the others are starting to go. Right now there's a stop in the middle."
+
+The "things get missed" beat in the launch video. Forty turnover photos with alert badges, popping up across the whole screen, then disappearing fast enough that there's never a moment where everything is just sitting there.
+
+The trick: the exit wave starts *before* the entrance wave finishes. Each photo's exit reads its current state — could still be mid-entrance — and shrinks from there. No jumps. No "all stopped" moment in the middle.
+
+## 05Search bar to call-to-action
+
+### The closing scene of the video.
+
+"A search bar appears, types out rapideyeinspections.com, then morphs into a Book a Demo button. Five seconds."
+
+I wanted the search bar to dissolve into the CTA, not just disappear. After a couple of false starts (the first version had the bar shrinking in place, which felt abrupt), this version slides the bar off-screen left while the button fades up.
+
+The button itself replicates the .hero-cta style from our landing page exactly: same brand-blue background, same hover ring glow, same 200ms transition. People who've been on the site recognize it without knowing why.
+
+## Putting it together
+
+Each scene exported as a transparent ProRes 4444 file ready to drop into After Effects. I added titles, scored it, and that became the launch video. The whole point of the pipeline was that I never had to keyframe anything in AE. The motion was Claude's job. AE was just a compositor.
+
+The biggest lesson from the session, the one that will outlive this video: **when something visual or temporal isn't working, don't reason about it — measure it.** Claude spent an hour guessing at the integrations bug. Sam spent thirty seconds reading a velocity plot. Build the feedback loop before you build the thing.
+
+### Want to use Claude Code yourself?
+
+We've put together a series of guides for vacation rental operators on connecting Claude to the tools you already use — OwnerRez, Hospitable, Seam, Breezeway, and more.
+
+## Related

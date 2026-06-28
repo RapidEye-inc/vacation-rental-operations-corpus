@@ -1,0 +1,35 @@
+# How to Get Cleaners to Stage Every Room the Same Way
+
+Source: https://rapideyeinspections.com/blog/how-to-get-cleaners-to-stage-rooms-the-same-way/
+
+_Cleaners stage rooms differently because done is undefined. Give a per-room reference photo and exact inventory count, then verify the finished room against it._
+
+# How to get cleaners to stage every room the same way
+
+Cleaners stage rooms differently because "done" is undefined. Give them a concrete per-room target: a reference photo taken from a fixed angle plus an exact inventory count, for example five throw pillows and six wine glasses. Attach it to the checklist item, then verify the finished room against the reference. The goal is to remove judgment from the reset, not to ask cleaners to remember how it should look.
+
+When a room has no concrete target, every cleaner fills the gap with their own reasonable judgment, and reasonable people make different choices. One leaves three pillows, another five. One drapes the throw on the sofa, another on the chair. None of them is wrong, which is exactly why the room never looks the same twice.
+
+## Make the target unambiguous
+
+- **Shoot a reference photo per room.** From a fixed, repeatable angle, right after a clean professional reset. This is the single image of "correct."
+
+- **Attach an exact count.** Pair the photo with the numbers that drift: pillows, glassware, towels, decor, remotes, lamps. [Turno](https://turno.com/features/photo-checklists/) and [Breezeway](https://www.breezeway.io/checklists-mobile-app) let you attach reference images to checklist items.
+
+- **Verify against the reference.** A reference photo is advisory unless someone confirms the finished room matched it. The check is what turns "should look like this" into "does look like this."
+
+The inventory count matters because a single reference photo cannot catch everything. A wide shot of a styled shelf will not reveal that the matched glass set quietly dropped from six to four. The manifest catches that kind of attrition, and pairing it with the photo gives the cleaner an unmistakable target and gives you a way to confirm they hit it.
+
+### The full guide to staging drift
+
+The six ways a property drifts from its setup, why binary checklists miss most of them, and how to defend a canonical reset state at scale.
+
+## Common questions
+
+## Related
+
+## Sources
+
+- Turno, "Photo Checklists" (exact-look reference images on checklist items)https://turno.com/features/photo-checklists/
+
+- Breezeway, "Checklists Mobile App" (attach reference photos, require photo upload to verify completion)https://www.breezeway.io/checklists-mobile-app

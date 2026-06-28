@@ -1,0 +1,75 @@
+# Where Does AirDNA Get Its Data?
+
+Source: https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/
+
+_AirDNA scrapes Airbnb and Vrbo public listing pages and runs statistical models to estimate occupancy, ADR, and revenue. According to the company, it tracks 10 million-plus properties across 120,000-plus markets. Methodology, modeling, and limitations explained._
+
+# Where does AirDNA get its data?
+
+A short, sourced answer to the question journalists, analysts, and researchers ask before quoting an AirDNA number.
+
+AirDNA **scrapes Airbnb and Vrbo public listing pages**, parses calendars and reviews, then runs **statistical models** to convert what's visible into estimates of occupancy, average daily rate, and revenue per available rental. The company does not have direct API access to Airbnb's or Vrbo's bookings, so the underlying model has to infer whether a blocked night is a real booking or an owner block.
+
+#### Scrape public listings
+
+AirDNA crawls Airbnb and Vrbo listing pages to capture price, room type, host, amenities, photos, and review counts.
+
+#### Parse calendar availability
+
+For each listing, AirDNA reads which forward nights are available, which are blocked, and at what nightly rate.
+
+#### Classify blocked nights
+
+The hardest step. AirDNA uses statistical models that consider review timestamps, pricing patterns, and historic seasonality to decide whether each blocked night is a real booking or an owner block.
+
+#### Compute aggregate metrics
+
+Per-listing booking estimates roll up to occupancy, ADR, and revenue per available rental for individual properties, neighbourhoods, cities, and metros.
+
+#### Distribute via products
+
+Outputs flow into MarketMinder (market dashboards, $19.95-$99.95/mo) and Rentalizer (property-level revenue projections), AirDNA's two flagship subscription products.
+
+## The blocked-versus-booked classification problem
+
+This is the load-bearing technical challenge of all aggregator-style STR data. Airbnb does not publicly disclose actual bookings; from outside, all you see is "this date is blocked." A blocked night could mean a real paying guest reserved it, the host pulled it for personal use, or the host paused the listing. AirDNA's models try to solve this from review timestamps (a new review near a blocked period implies a stay), price changes (rate hikes near a date often signal demand response), and historical seasonality patterns. [PMS-integrated providers like Key Data](https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/) sidestep this entirely because the PMS knows whether each night is sold or owner-blocked.
+
+## What changed in 2024-2026
+
+Airbnb has, in the last two years, made calendar scraping harder. Several listing-page elements have been moved behind authenticated requests or rate-limited. AirDNA has not publicly described how this has affected its model accuracy, and the company continues to claim "97%" accuracy on its modeled metrics. That figure should be read as the company's own self-reported benchmark, not an independently audited one. For high-stakes citations, prefer language like "AirDNA estimates" or "according to AirDNA modeling."
+
+## Where the data is reliable, where to use caution
+
+**Generally trustworthy:** listing counts, asking prices, location concentration, year-over-year supply changes. These are observed directly and don't require modeling.
+
+**Estimated:** occupancy, revenue per available rental, average daily rate realised (versus listed). These are the outputs of the blocked-versus-booked classifier and inherit its uncertainty.
+
+**Modelled with extra layers:** Rentalizer property-level revenue projections, which are estimates layered on estimates (model the comparable set, model their occupancy, then model what your specific listing would do).
+
+## How journalists should phrase AirDNA citations
+
+The accurate inline form is "according to AirDNA, which tracks short-term rental performance by scraping public Airbnb and Vrbo listings." For a quick reference: "AirDNA estimates" or "AirDNA's MarketMinder shows" both work. Avoid presenting AirDNA numbers as observed bookings; they are modeled estimates from public data.
+
+### Related verified answers
+
+- [AirDNA vs Key Data Dashboard: which has real bookings?](https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/)
+
+- [Who owns AirDNA?](https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- [Did AirDNA acquire Rabbu?](https://rapideyeinspections.com/blog/did-airdna-acquire-rabbu/)
+
+- [Where does PriceLabs Market Dashboards data come from?](https://rapideyeinspections.com/blog/where-does-pricelabs-market-data-come-from/)
+
+### Sources
+
+- [About AirDNA: Data Science Meets Short-Term Real Estate Investing](https://www.airdna.co/about) - AirDNAhttps://www.airdna.co/about
+
+- [AirDNA company site](https://www.airdna.co/) - methodology and coverage claims (10M+ properties, 120K+ markets, 97% accuracy claim)https://www.airdna.co/
+
+- [AirDNA Rentalizer](https://www.airdna.co/airbnb-calculator) - AirDNA (property-level projection product)https://www.airdna.co/airbnb-calculator
+
+- [AirDNA Pricing](https://www.airdna.co/pricing) - AirDNA (MarketMinder subscription tiers)https://www.airdna.co/pricing
+
+- [AirDNA subscription plans](https://help.airdna.co/en/articles/8062197-airdna-subscription-plans) - AirDNA Help Centerhttps://help.airdna.co/en/articles/8062197-airdna-subscription-plans
+
+Last verified: May 13, 2026. AirDNA's "97%" accuracy figure is a company self-report. There is no public independent audit of the methodology. For research where accuracy claims are central, contact AirDNA directly for current methodology documentation.

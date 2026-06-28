@@ -1,0 +1,173 @@
+The Back-to-Back Booking Problem: How to Prove Which Guest Caused the Damage
+
+Source: https://rapideyeinspections.com/blog/back-to-back-booking-damage-attribution-proof/
+
+_When multiple guests cycle through your STR, proving which one caused damage becomes nearly impossible. Here's what actually happens to your claim._
+
+The Back-to-Back Booking Problem: How to Prove Which Guest Caused the Damage
+
+You have a checkout at 11am, check-in at 4pm. Your cleaner finds a stain on the couch during turnover but doesn’t report it. They’re focused on getting the place ready for the next guest. Two days later, that guest checks out. Now your cleaner notices a scratch on the hardwood too.
+
+Which guest caused what?
+
+This is the attribution problem. And it kills more damage claims than missing photos ever will.
+
+Why Attribution Is Different From Documentation
+
+We’ve written plenty about why damage claims get denied (https://www.rapideyeinspections.com/blog/why-str-damage-claims-get-denied) and how to document properly for Airbnb (https://www.rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide) and Vrbo (https://www.rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026). But attribution is a narrower problem that those guides don’t fully solve.
+
+Documentation is about proving damage exists. Attribution is about proving who caused it.
+
+Airbnb’s Host Damage Protection terms (https://assets.airbnb.com/help/2026_Host_Damage_Protection_Terms-English.pdf) are explicit about this. They require evidence that establishes “the time, cause and origin” of the damage. You also have to explain “why the Responsible Guest is responsible” before they’ll even consider your claim.
+
+Notice that language. Not “a guest.” The Responsible Guest.
+
+Vrbo’s process is similar. If a guest disputes your damage charge, Vrbo requests additional documentation from both parties (https://help.vrbo.com/articles/What-happens-if-my-card-on-file-is-charged-for-property-damage) to verify the claim. If you can’t prove timing, the guest’s denial carries just as much weight as your accusation.
+
+How Common Is This Problem?
+
+More common than most people realize.
+
+U.S. short-term rental occupancy landed at 56.9% in 2025 (https://aspenchamber.org/sites/default/files/files/2026-01/Aspen%20Monthly%20Research%20Update%20-%20December%202025%20Review.pdf). Professional operators often run 60% or higher (https://help.airdna.co/en/articles/10261024-2025-u-s-str-market-trends-insights-and-opportunities). Average length of stay hovers around 4 to 4.5 days (https://info.keydatadashboard.com/hubfs/US%20Quarterly%20Reports/2024-Summer-USReport.pdf), with a median of just 3 nights.
+
+Do the math. A property at 60% occupancy with 4-day average stays has roughly 55 turnovers per year. That’s 55 windows where damage could occur. At least a third of those will have same-day or next-day turnovers where the margin for error is measured in hours.
+
+The more properties you manage, the more turnovers you’re running, the more likely you’ll face this exact scenario.
+
+The Four Scenarios (And What You Can Actually Do)
+
+Let me walk through the escalating levels of this problem. Each one has different odds of recovery.
+
+Scenario 1: Damage Caught During Turnover
+
+This is the best case. Your cleaner finishes prepping the property after Guest A checks out and before Guest B arrives. They notice a burn mark on the countertop.
+
+What you can do:
+
+- Have them photograph it immediately with timestamp visible
+
+- Report it in your property management system
+
+- File with the platform before the next guest checks in
+
+- You’re still within the 14-day window and can clearly attribute to Guest A
+
+What usually goes wrong:
+
+The cleaner sees it but doesn’t report it. They’re rushing. They figure someone else will handle it. They’re not sure if it was there before. By the time you find out, Guest B has already stayed.
+
+This is why training your cleaning team on damage documentation (https://www.rapideyeinspections.com/blog/train-cleaning-team-damage-documentation-vacation-rental) matters so much. If they’re not empowered to stop and document, the window closes fast.
+
+Scenario 2: Damage Discovered One Turnover Late
+
+This is the most common scenario I hear about. Guest A checks out. Turnover happens. Guest B stays and checks out. During that second turnover, your cleaner finds damage.
+
+Now you have a problem.
+
+What you can do:
+
+- Check your turnover photos from the previous cleaning. Was the damage visible then?
+
+- If not, you can reasonably argue Guest B caused it
+
+- If the previous photos don’t show the area clearly, you’re stuck guessing
+
+What’s probably already lost:
+
+Your claim against Guest A. Even if they caused it, your cleaner documented the property as ready for Guest B. That documentation now works against you.
+
+I’ve seen forum posts (https://www.reddit.com/r/AirBnB/comments/v739yg/how_do_you_claim_damages_when_you_dont_know_which_guest_is_responsible/) where Airbnb told hosts in this situation to “report both guests for damage and pursue arbitration with both.” That’s a nightmare. You’re now accusing someone who might be innocent, damaging your reputation, and still unlikely to get paid.
+
+What would have prevented this:
+
+Complete visual documentation of the property after every single turnover. Not just photos of the areas your checklist covers, but baseline comparison that would flag new damage automatically.
+
+Scenario 3: Damage Discovered Multiple Turnovers Late
+
+This is the worst case. You find damage and you genuinely have no idea when it happened. Could have been two guests ago. Could have been five.
+
+What you can do:
+
+Honestly? Very little.
+
+You could file against the most recent guest and hope they don’t dispute it. That’s ethically questionable and will likely fail anyway. Platforms look at your documentation history. If you can’t show the property was undamaged before their stay, your claim is weak.
+
+You could try to trace back through your photo archives and find when the damage first appeared. But if you’re taking 50+ photos per turnover across dozens of properties, that’s thousands of images to review manually. Nobody does this.
+
+What’s definitely lost:
+
+Any realistic chance of recovery. You’re also now outside the 14-day window for earlier guests, so those claims are procedurally dead even if you could prove attribution.
+
+What would have prevented this:
+
+Automated comparison between turnovers. If your system flagged the first time that damage appeared, you’d know exactly which stay it came from.
+
+Scenario 4: Damage Noticed Mid-Stay But Not Documented Properly
+
+This one’s tricky. Your cleaner or a mid-stay inspector notices something seems off during a guest’s stay. Maybe a stain that wasn’t there at check-in. But they don’t photograph it. They mention it verbally. They assume it’ll get handled at checkout.
+
+Then checkout comes, and the documentation is incomplete.
+
+What you can do:
+
+- Gather whatever partial documentation exists
+
+- Note the date the damage was first observed (even without photos)
+
+- File the claim and be transparent about what you have
+
+What’s probably already lost:
+
+The strength of your evidence. Airbnb’s terms (https://assets.airbnb.com/help/2026_Host_Damage_Protection_Terms-English.pdf) specifically warn that documents cannot be “doctored or falsified” and must be verifiable. A verbal observation without contemporaneous photos is hard to verify.
+
+What would have prevented this:
+
+A system that captures everything during inspections without relying on human judgment about what’s worth photographing.
+
+Insurance Has the Same Problem
+
+This isn’t just a platform issue. If you’re filing with your STR insurance instead of AirCover or Vrbo’s damage process, you face the same attribution challenge.
+
+Insurance claims require a “date of loss.” Generali’s vacation rental damage form (https://www.generalitravelinsurance.com/content/dam/gga/pdfs/VRD_Claim_Form_Without_Assignment_756122_0824.pdf) asks for the “date of the incident” and a detailed description of how the loss occurred. Safely’s claim process (https://hello.safely.com/support-center/how-to-submit-a-claim) requires submission within 60 days of the date of loss, with photos and invoices.
+
+If you can’t pin the damage to a specific stay, you can’t establish a date of loss. And if you can’t establish a date of loss, your claim has a hole in it before you even submit.
+
+We covered this in more detail in our piece on how documentation affects STR insurance claims (https://www.rapideyeinspections.com/blog/str-insurance-claims-documentation-requirements).
+
+The Tools Landscape
+
+Some property ops tools are starting to address this. Properly explicitly says their verification photos help clients figure out when damage occurred (https://help.getproperly.com/en/articles/5470548-take-verification-photos) by reviewing previous turnovers. RentCheck creates unalterable, time-stamped records (https://apps.apple.com/us/app/rentcheck/id1134017691) of property condition.
+
+But there’s a difference between capturing photos and actually analyzing them.
+
+Taking 50 photos per turnover doesn’t help if nobody’s looking at them. You just have a larger haystack to search through when something goes wrong.
+
+This is what we built RapidEye to solve. Our baseline comparison system (https://www.rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss) automatically flags changes between turnovers. When damage appears, you know exactly which stay it came from because the system already identified when it first showed up.
+
+You don’t have to go hunting through thousands of photos. The attribution is already established.
+
+What Actually Solves This
+
+If you’re running a high-occupancy portfolio with back-to-back bookings, here’s what the attribution problem requires:
+
+- Complete visual documentation of every turnover. Not just checklist items. The whole property, captured consistently.
+
+Complete visual documentation of every turnover. Not just checklist items. The whole property, captured consistently.
+
+- Automated comparison between turnovers. Manual review doesn’t scale. You need something flagging changes before you even know to look.
+
+Automated comparison between turnovers. Manual review doesn’t scale. You need something flagging changes before you even know to look.
+
+- Time-stamped, tamper-proof records. Platforms and insurers want evidence they can trust. Metadata matters.
+
+Time-stamped, tamper-proof records. Platforms and insurers want evidence they can trust. Metadata matters.
+
+- Immediate flagging when damage appears. Finding out days or weeks later puts you in Scenario 3. Finding out same-day keeps you in Scenario 1.
+
+Immediate flagging when damage appears. Finding out days or weeks later puts you in Scenario 3. Finding out same-day keeps you in Scenario 1.
+
+Per-turnover baseline comparison isn’t a nice-to-have for high-occupancy operations. It’s the only way to answer “which guest?” with confidence.
+
+We’ve processed over a million photos for a single property management company. The pattern we see is clear: the operators who can attribute damage to specific stays recover it. The ones who can’t, don’t.
+
+If you’re managing 30+ properties and back-to-back bookings are normal for you, this is worth thinking about. Our honest assessment of whether AI damage detection is right for your portfolio (https://www.rapideyeinspections.com/blog/is-ai-damage-detection-right-for-your-rental-portfolio) might help you decide if the investment makes sense for your situation.

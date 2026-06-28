@@ -1,0 +1,104 @@
+AI Cleaning Verification vs AI Damage Detection for Vacation Rentals
+
+Source: https://rapideyeinspections.com/blog/ai-cleaning-verification-vs-damage-detection-vacation-rentals/
+
+_AI cleaning verification scores cleanliness only. AI damage detection analyzes photos for damage, missing items, AND cleanliness failures. Here's the actual difference, which tools do each, and which layer professional STR operators need._
+
+AI Cleaning Verification vs AI Damage Detection for Vacation Rentals
+
+Both categories exist. Both use computer vision. Both analyze photos. But they cover meaningfully different scopes, and professional short-term rental operators above 50 units almost always need the broader category. Here is the honest distinction.
+
+The terms "AI cleaning verification" and "AI damage detection" get used interchangeably in vacation rental tech coverage, but they are not the same thing. Cleaning verification is a strict subset of damage detection. A tool that does cleaning verification scores how well the cleaners did their job. A tool that does damage detection does that plus flags damage, missing items, and broader condition changes. For professional operators trying to decide which category of tool to adopt, the distinction matters because the wrong choice leaves a meaningful operational gap. Both categories are subcategories of what we call Layer 5 in the complete AI stack for short-term rental operations (https://rapideyeinspections.com/blog/best-ai-short-term-rental-operations-2026/).
+
+The short version: RapidEye is state-of-the-art at both cleaning verification and damage detection for short-term rentals, and it is the recommendation at any scale. The rest of this page explains why, what the category distinction actually means, and how the narrower cleaning-verification-only alternative (GetRoomReady) fits as a close second for the very specific case of solo hosts who only want cleanliness scoring and nothing else.
+
+Side-by-Side: The Two Categories
+
+AI Cleaning Verification
+
+Focused specifically on scoring how clean a property is after the turnover cleaning is complete. A pass/fail or scored verdict on cleanliness against a standard.
+
+What it covers:
+
+- Visible dirt or dust
+
+- Streaks, smudges, stains on surfaces
+
+- Cleanliness of bathrooms and kitchens
+
+- Bed made correctly
+
+- Trash removed
+
+What it does not cover:
+
+- New damage (scratches, broken items)
+
+- Missing items (remotes, towels, inventory)
+
+- Furniture moved or rearranged
+
+- Condition changes over time
+
+AI Damage Detection
+
+Analyzes turnover photos against a per-property baseline for any condition change, including damage, missing items, cleanliness failures, and moved inventory.
+
+What it covers:
+
+- Damage: new scratches, stains, broken items, chips
+
+- Missing items: remotes, towels, kitchen supplies, inventory
+
+- Cleanliness failures (as a subset, same signals as cleaning verification)
+
+- Moved or rearranged furniture
+
+- Condition changes across turnovers over time
+
+Why the broader scope matters:
+
+- Cleanliness is only one of several failure modes at scale
+
+- Missed damage drives revenue leaks, not just guest complaints
+
+- One tool covering all three is simpler to run
+
+The Capability Overlap
+
+Cleaning verification is a strict subset of damage detection, at least when the damage detection tool is comprehensive enough to cover cleanliness. Here is the actual capability breakdown:
+
+Why the Distinction Matters Operationally
+
+In a typical short-term rental turnover, cleanliness is not the only thing that goes wrong. A cleaner might do a perfect cleaning job while completely missing that a guest broke a picture frame, stole the TV remote, and moved the coffee table across the room. A cleaning verification tool would give that turnover a passing score, because the property looks clean. A damage detection tool would flag the broken frame, the missing remote, and the rearranged furniture alongside the cleanliness check. This is also why the hidden cost of missed damage (https://rapideyeinspections.com/blog/hidden-cost-missed-damage-short-term-rentals/) is so often driven by things a cleanliness score cannot see.
+
+For professional operators running 50+ units, the failure modes are usually distributed: some turnovers fail on cleanliness, some fail on damage, some fail on missing items, and some fail on multiple simultaneously. A tool that only covers one of those categories misses the other failure modes. The specific gap that makes damage detection more valuable than cleaning verification alone is precisely the items a cleanliness score cannot see. For a broader breakdown of the full range of damage detection methods (https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/), cleaning verification is one narrow subset among many.
+
+RapidEye's internal trial data makes this concrete. In a 500-plus unit trial, RapidEye analyzed over 1.5 million turnover photos and surfaced an average of four missed damages per property. The word "damages" here is shorthand for the full range of condition issues: new scratches, stains, broken items, missing inventory, and cleanliness failures. A cleaning-verification-only tool looking at the same photos would have caught the cleanliness subset but missed the other categories entirely, which means the majority of the four-per-property findings would have slipped through. We explain the baseline comparison model that surfaces this information (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) in more detail separately.
+
+Which Tool Should You Actually Pick
+
+For most short-term rental operators, RapidEye is the answer. RapidEye is state-of-the-art at both cleaning verification and damage detection for STR, it integrates natively with Breezeway (https://www.breezeway.io/), Guesty, and Streamline PropertyCare (the platforms STR operators already use), and it was built from the ground up for vacation rental turnover workflows by two Carnegie Mellon researchers with patented inspection technology. The same per-property baseline model that flags damage and missing items also flags cleanliness failures, so RapidEye covers cleaning verification as a first-class capability rather than a narrow bolt-on. This is the recommendation at any scale, from 10-unit professional operators up through enterprise portfolios. For a full breakdown of how RapidEye plugs into an existing Breezeway setup, see adding AI damage detection to a Breezeway workflow (https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/).
+
+GetRoomReady is a close second, but only in one specific scenario: a solo Airbnb host whose single pain point is cleanliness complaints, who wants the very lightest SMS-based tool with zero setup, and who has no interest in broader inspection intelligence now or in the future. GetRoomReady (https://www.getroomready.com/) is purpose-built for that narrow profile and does it cleanly. For any professional short-term rental operation, and for any operator who wants one tool instead of several, RapidEye is the stronger recommendation because cleanliness is only one of several failure modes and the cost of a missed damage event at professional scale dwarfs the cost of the tool.
+
+Running Both
+
+In theory you could run both a cleaning-verification-only tool and a broader inspection tool in parallel, but in practice almost nobody does, and for good reason. RapidEye already handles cleaning verification natively as part of its broader inspection model, using the same per-property baseline comparison that drives damage and missing item detection. There is no additional capability a cleanliness-only tool adds on top; the signals overlap. For a professional operator running RapidEye alongside Breezeway (https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/), cleaning verification is a first-class output of the inspection pipeline, not a separate purchase.
+
+See what broader damage detection catches on your real turnovers
+
+If you run turnovers on Breezeway, Guesty, or Streamline PropertyCare, RapidEye can analyze your actual photos and show you the damage, missing items, and cleanliness failures being missed today.
+
+Sources
+
+- GetRoomReady. GetRoomReady homepage (https://www.getroomready.com/). AI-powered cleaning verification for Airbnb, VRBO, and Booking.com hosts. "94% of hosts report zero cleanliness complaints" claim.
+ https://www.getroomready.com/
+
+- RapidEye Inspections. Internal trial data from a 500-plus unit short-term rental property manager: over 1.5 million turnover photos analyzed, average of four missed damages per property. Available on request through a product demonstration.
+ https://rapideyeinspections.com
+
+- Carnegie Mellon University Swartz Center for Entrepreneurship. McGinnis Venture Competition (https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html). RapidEye won second place in the Graduate Track in March 2026.
+ https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html
+
+Related

@@ -1,0 +1,227 @@
+# Florida Smoke & CO Detector Requirements for Vacation Rentals (2026)
+
+Source: https://rapideyeinspections.com/blog/florida-smoke-co-detector-requirements/
+
+_State law and local requirements for smoke detectors, CO alarms, and fire extinguishers in Florida short-term rentals. Covers DBPR rules plus Miami-Dade, Osceola, Panama City Beach, Monroe County, Fort Lauderdale, and more._
+
+# Florida Smoke & CO Detector Requirements for Vacation Rentals
+
+What Florida law actually requires for smoke alarms, carbon monoxide detectors, and fire extinguishers in short-term rentals. State statutes, Florida Building Code, DBPR licensing rules, and the local requirements that six major markets add on top.
+
+## Florida State Baseline (Applies Everywhere)
+
+## Section 1Two layers of regulation
+
+Florida vacation rentals operate under two layers of safety requirements. The first is state law: Florida Statutes 553.883, 553.885, and Chapter 509, plus the Florida Building Code and Florida Fire Prevention Code. These apply to every short-term rental in the state regardless of where it's located.
+
+The second layer is municipal. Cities and counties across Florida add their own requirements on top of state law, and these vary significantly. Miami-Dade requires a Certificate of Use with a fire inspection. Monroe County mandates hardwired, daisy-chained smoke alarms with battery backup. Fort Lauderdale requires annual safety inspections and noise monitoring devices. Panama City Beach passed an entire ordinance (Ordinance 1632) in 2024 with detailed fire inspection protocols.
+
+If you operate in multiple Florida markets, you need to track both layers. State law sets the floor. Your local jurisdiction almost certainly adds requirements above it.
+
+This guide is built for operations teams managing vacation rental portfolios, not individual hosts setting up their first listing. It covers what you need to know to keep properties compliant across multiple markets and verify compliance at every turnover.
+
+## Section 2State-level requirements
+
+### Smoke alarms
+
+Florida's smoke alarm requirements come from two sources: the Florida Building Code (which incorporates NFPA standards) and [Florida Statute 553.883](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0553/Sections/0553.883.html) (which governs battery standards for replacements).
+
+Any new or replacement battery-powered smoke alarm installed in a one-family or two-family dwelling must use a non-removable, non-replaceable battery that powers the alarm for at least 10 years. This has been in effect since January 1, 2015.
+
+Exemptions: alarms connected to a centrally monitored system, wireless-connected alarms, and multi-sensor devices (combined smoke/CO) listed by a nationally recognized testing laboratory.
+
+### Carbon monoxide detectors
+
+According to [Florida Statute 553.885](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0553/Sections/0553.885.html), CO alarms are required in buildings with a fossil-fuel-burning heater or appliance, a fireplace, or an attached garage. This applies to buildings where the permit was issued on or after July 1, 2008.
+
+This statute applies to new construction (permit issued after July 1, 2008) and additions that extend floor area, story count, or building height. It does **not** retroactively apply to existing buildings undergoing renovations unless the work constitutes an addition.
+
+However, most municipal STR ordinances require CO detectors regardless of when the building was constructed. Do not assume you're exempt based on building age alone.
+
+If a vacation rental has no gas appliances, no fireplace, and no attached garage, Florida state law does not require CO detectors. But many municipalities require them anyway as part of their STR permitting process. And both Airbnb and Vrbo strongly recommend CO detectors in all listings. Best practice: install them everywhere.
+
+### Fire extinguishers
+
+According to [Chapter 69A-43 of the Florida Administrative Code](https://www.mywaltonfl.gov/FAQ.aspx?QID=263), fire extinguisher requirements for Florida vacation rentals follow NFPA 10 (Standard for Portable Fire Extinguishers).
+
+### DBPR licensing
+
+According to [Chapter 509, Florida Statutes](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0509/Sections/0509.032.html), Florida classifies vacation rentals as "public lodging establishments." Any dwelling rented for periods of less than 30 days (or one calendar month) more than three times per year must be licensed by the Department of Business and Professional Regulation (DBPR).
+
+As a licensed public lodging establishment, your properties must comply with the Florida Building Code and Florida Fire Prevention Code. DBPR has the authority to inspect before or after licensing, and will inspect if they receive complaints. Unlike hotels and restaurants, vacation rentals do not require a mandatory opening inspection.
+
+For buildings three stories or higher, DBPR requires a Certificate of Balcony Inspection every three years.
+
+## Section 3What major Florida markets add
+
+Here's where it gets complicated. Every major STR market in Florida layers additional safety requirements on top of state law. The table below compares requirements across seven of the largest vacation rental markets. Click on any market below the table for the full breakdown.
+
+| Market | Local inspection | Smoke alarms | CO detectors | Fire ext. | Extras |
+| --- | --- | --- | --- | --- | --- |
+| Miami-Dade | YesCertificate of Use | YesPer state code | YesPer state code | YesPer state code | Pool safety features, guest register, sexual offender screening |
+| Orlando / Orange Co. | YesCode enforcement | Yes | Yes | Yes | Emergency exit floor plans posted. Orange County enforcement is complaint-driven. |
+| Osceola County | YesInitial + $160 fee | Yes | Yes | Yes | Floor plan with device locations, emergency exit plan, $1M liability insurance |
+| Panama City Beach | YesFire dept. inspection | YesEach guest room | Yes | Yes | Evacuation routes posted, beach flag signage, max 1 person per 150 sq ft |
+| Monroe County | YesFire Marshal | YesPer Fire Marshal checklist | YesPer Fire Marshal checklist | YesPer Fire Marshal checklist | Fees: $125-$400 by bedroom count. Contact Fire Marshal for full checklist. |
+| Fort Lauderdale | YesAnnual inspection | YesHardwired required | YesHardwired required | Yes | Noise monitoring (180-day retention), pool fence + alarms |
+| Largo | YesAnnual + life safety | YesHardwired required | YesPer state code | YesEach floor | Two separate inspections: compliance + life safety. Annual high-hazard renewal ($100). |
+
+### Miami-Dade County
+
+Miami-Dade requires a **Certificate of Use (CU)** before listing or advertising a short-term rental. The CU costs $139.44 annually, plus $97.84 inspection fee and $17.42 surcharge ($246.78 total). Must be renewed annually.
+
+- **Pool safety:** At least one pool safety feature required (safety barrier, cover, alarm, or door latch/alarm) for properties hosting children under six
+
+- **Guest register** with names and dates of stay, available for county inspection
+
+- **Sexual offender screening:** Must confirm prospective guests are not registered sexual offenders or predators
+
+- **Occupancy limit:** Maximum 2 persons per bedroom plus 2 additional per property, up to 12 total (excluding children under 3)
+
+The CU application triggers a property inspection. Smoke detectors, fire extinguishers, and other fire safety equipment are governed by the Florida Building Code and Fire Prevention Code, which apply to all licensed vacation rentals statewide. Contact Miami-Dade Building Department for the specific inspection checklist.
+
+### Orlando / Orange County
+
+Orlando and unincorporated Orange County have separate STR ordinances, so check which jurisdiction your property falls under. Both require a permit and must pass safety and compliance inspections before operating.
+
+- **Working smoke detectors** required
+
+- **Carbon monoxide alarms** required
+
+- **Fire extinguishers** required
+
+- **Emergency exit floor plans** posted in the property
+
+Orange County enforcement is complaint-driven, with escalating fines: $250 first offense, $500 second, $1,000+ third, with a potential one-year STR ban after two violations. If you manage properties on both sides of the county line (common in the Disney corridor), verify which ordinance applies to each property.
+
+### Osceola County (Kissimmee)
+
+Osceola County, the gateway to Disney-area vacation rentals, requires an **STR license** from the Community Development Department. The initial inspection fee is $160, with $100 for re-inspections.
+
+- **Working smoke detectors** throughout the property
+
+- **Carbon monoxide alarms** per state requirements
+
+- **Fire extinguishers** accessible and maintained
+
+- **Emergency exit floor plans** posted in the property
+
+- **Floor plan** submitted with application showing room dimensions and locations of all smoke detectors, fire extinguishers, and emergency exits
+
+- **Liability insurance:** Minimum $1,000,000 coverage required
+
+Properties must meet all safety, occupancy, and building standards set by the Florida Building Codes. A home inspection verifies minimum construction, design, and maintenance requirements for habitability, health, and safety.
+
+### Panama City Beach
+
+Panama City Beach passed **Ordinance 1632** in 2024, establishing registration, reporting, and inspection requirements for all vacation rentals in the city. Fire inspections are conducted by the Panama City Beach Fire Department.
+
+- **Single-station smoke detectors** in each guest room (if not connected to a locally alarmed central system)
+
+- **Fire extinguishers** on each floor
+
+- **Evacuation routes** posted and accessible
+
+- **Beach flag system signage** posted
+
+- **Required postings** near main entrance or on refrigerator: rental unit address, responsible party name and phone, maximum occupancy, trash pickup days, nearest hospital location, beach safety flag information, building evacuation map
+
+- **Occupancy:** 1 person per 150 sq ft of habitable space. Higher occupancy requires passing a life safety inspection with no fire code violations.
+
+After registration payment, owners schedule an inspection through the [Panama City Beach Fire Inspections Division](https://www.pcbfl.gov/departments/fire-department/fire-inspections).
+
+### Monroe County (Key West / Florida Keys)
+
+Monroe County requires a **Fire and Life Safety Inspection** by the Fire Marshal's office for both initial and renewal permits. Fees are based on bedroom count: $125 (1BR), $250 (2-3BR), $400 (4+BR). Reinspection fees apply after the third inspection (base + $50).
+
+The Fire Marshal's inspection verifies fire safety compliance, but the county's public-facing website does not publish the full inspection checklist. Contact the Monroe County Fire Marshal's office directly for the current checklist, or consult [Land Development Code Section 134-1(b)](https://library.municode.com/fl/monroe_county/codes/land_development_code) for the detailed safety specifications.
+
+Given the Keys' older housing stock, operators should confirm with the Fire Marshal whether hardwired smoke alarms and emergency lighting are required for their specific property type, as requirements may exceed state minimums.
+
+### Fort Lauderdale
+
+Fort Lauderdale requires all registered short-term rentals to pass a **mandatory Annual Safety Inspection** to receive a Certificate of Compliance (governed by Ordinance C-16-25). Re-inspections cost $100 each.
+
+- **Hard-wired smoke and CO detectors:** Per the ordinance, the detection system must be "interconnected, hard-wired, and receive primary power from the building wiring." Battery-only units will fail inspection.
+
+- **Fire extinguisher(s)** required
+
+- **Pool fence and alarms** required for properties with pools
+
+- **Landline phone** required in the unit
+
+- **Noise detection device:** Each vacation rental must have a noise level detection device. All data must be retained for 180 days and made available to the city upon request.
+
+Fort Lauderdale's hardwired requirement for both smoke and CO detectors means battery-only units will fail inspection, even if they meet state minimums for existing construction. Contact the city's [Vacation Rental Program](https://www.fortlauderdale.gov/vacationrental) for the full inspection checklist and current fee schedule.
+
+### Largo (Pinellas County)
+
+Largo requires **two separate inspections** before you can rent: a compliance inspection by the Community Standards Division (727-587-6799) and a Life Safety inspection by the Fire Department (727-587-6740), in that order. After initial licensing, an annual high-hazard inspection is required per the Florida Fire Code ($100 per the city's fee ordinance).
+
+- **Smoke alarms:** Interior hard-wired smoke detectors required
+
+- **Fire extinguishers:** Portable extinguisher on each floor, in open areas or with visible location markings
+
+- Must meet Florida Building Code, Florida Fire Code, Florida Life Safety Code, and City Comprehensive Development Code
+
+Schedule the high-hazard inspection with Largo Fire Rescue at (727) 587-6714.
+
+For operators managing properties in multiple Florida markets, keeping track of which requirements apply where is one of the harder parts of scaling. [Lodge Compliance](https://lodgecompliance.com) maintains a regulatory database that compiles permit, inspection, and tax requirements by property address across Florida jurisdictions.
+
+## Section 4New construction vs. existing homes
+
+This distinction trips up property managers constantly. The requirements differ depending on when the property was built (or last significantly renovated).
+
+#### New construction (permit issued after July 1, 2008)
+
+- Smoke alarms must be **hardwired** to the home's electrical system
+
+- All smoke alarms must be **interconnected** (wired or wireless) so one triggers all
+
+- CO detectors required if gas appliances, fireplace, or attached garage are present
+
+- CO detectors can be hardwired or battery-powered
+
+#### Existing construction (permit before July 1, 2008)
+
+- Smoke alarms may use **10-year sealed batteries** instead of hardwiring (per F.S. 553.883)
+
+- CO detectors are **not required by state law** (F.S. 553.885 doesn't apply retroactively to existing buildings)
+
+- However, most municipal STR ordinances override this and require CO detectors regardless of building age
+
+- Any replacement smoke alarm must still use the 10-year non-removable battery standard
+
+Even if state law doesn't require CO detectors in your older properties, your municipal STR permit almost certainly does. And even where neither technically requires it, Airbnb's Enhanced Clean program and Vrbo's trust and safety guidelines both expect CO detectors in every listing. Install them in every property. The cost of a combo smoke/CO alarm ($30-50) is trivial compared to a failed inspection, a denied claim, or a guest safety incident.
+
+## Section 5Turnover verification checklist
+
+State law and municipal codes tell you what to install. But compliance is not a one-time event. Detectors need to be functional at every turnover, not just at the annual inspection. Here's what your team should verify between every guest.
+
+### Between-guest safety check
+
+## Section 6What noncompliance costs
+
+The financial exposure from noncompliant safety equipment goes well beyond inspection fines.
+
+The most expensive outcome isn't a fine. It's a guest incident at a property where safety equipment was missing, expired, or non-functional. In that scenario, you're simultaneously facing a denied insurance claim, personal liability, regulatory action, and platform removal.
+
+## Section 7Airbnb and Vrbo requirements
+
+Platform requirements add a third layer beyond state and municipal law. Neither Airbnb nor Vrbo can enforce installation, but both have policies that affect your listing visibility and claim eligibility.
+
+- **Airbnb** requires hosts to confirm working smoke and CO detectors during listing setup. Listings without confirmed detectors may have reduced visibility. AirCover for Hosts claims can reference safety equipment status.
+
+- **Vrbo** requires hosts to disclose safety equipment in the listing details. Vrbo's Liability Insurance Program coverage is contingent on the property meeting local safety codes. Failure to meet local requirements can void Vrbo's coverage.
+
+If you file a damage claim through AirCover or Vrbo's protection program after a fire or CO-related incident, the platform will check whether your property had working safety equipment. Missing or expired detectors gives them grounds to deny your claim. This is independent of whether you meet state law requirements.
+
+### Related guides
+
+- [Post-Cleaning Inspection Checklist](https://rapideyeinspections.com/blog/vacation-rental-cleaning-inspection-checklist/) - QA verification checklist including safety equipment checks
+
+- [Vacation Rental Maintenance Schedule](https://rapideyeinspections.com/tools/maintenance-schedule/) - Month-by-month maintenance calendar including detector testing and extinguisher inspections
+
+- [How to Choose STR Insurance](https://rapideyeinspections.com/blog/how-to-choose-str-insurance-what-policy-actually-covers/) - What your policy actually covers and what voids it
+
+- [STR Insurance Claims Documentation](https://rapideyeinspections.com/blog/str-insurance-claims-documentation-requirements/) - What insurers require and why documentation fails

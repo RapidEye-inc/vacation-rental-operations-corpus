@@ -1,0 +1,105 @@
+# How Hotels Detect Room Damage at Checkout (2026)
+
+Source: https://rapideyeinspections.com/blog/how-hotels-detect-room-damage/
+
+_How hotels actually detect room damage: the two-step housekeeping inspection, the card authorization hold ($50-200/night), and the shift to AI vision at checkout. Plus why vacation rentals are converging on the same playbook._
+
+# How hotels detect room damage at checkout
+
+The two-step housekeeping inspection, the card authorization hold that backs it, and the move to AI vision at checkout. Plus why vacation rentals are converging on the same playbook.
+
+Hotels detect room damage through a **two-step human inspection at every checkout**: the room attendant self-inspects while cleaning, then a housekeeping supervisor performs a separate check and makes the final decision to release the room, documenting condition with photos and quick function tests. The financial backstop is the **card authorization hold** placed at check-in, typically $50 to $200 per night, which the hotel can charge against if damage is found and documented. Increasingly, hotels are layering AI vision over that checkout step to flag damage from a single phone photo, the same shift vacation rentals are making with AI baseline comparison. In both industries, the deciding factor in a damage dispute is identical: time-stamped photographic proof of the room's condition.
+
+## Step one: the human inspection chain
+
+Before any technology enters the picture, hotel damage detection is a people process, and a deliberately redundant one. Damage is caught as a byproduct of the turnover inspection that every room goes through between guests. According to hotel housekeeping inspection standards documented by operations resources like [LuxOps](https://www.luxops.fr/en/blog/housekeeping-room-inspection) and [the Hospitality Institute](https://hospitality.institute/bha306/guest-room-public-area-inspections-hotels/), a well-run property separates self-inspection from supervisor inspection: the room attendant owns the first check, and the supervisor owns the release decision.
+
+#### Attendant self-inspection
+
+The room attendant inspects as they clean, checking surfaces, linens, fixtures, and amenities against a checklist. Anything out of place, a stain, a burn, a chipped surface, a missing item, gets noted while the attendant is still in the room.
+
+#### Supervisor inspection and release
+
+A housekeeping supervisor performs an independent inspection and makes the final call on whether the room is guest-ready. This second set of eyes is the control point: the supervisor, not the attendant, releases the room. Many properties score rooms on a structured checklist before release.
+
+#### Documentation and function tests
+
+Condition is recorded with photos and quick function tests of electronics, plumbing, HVAC, and locks. According to hotel inspection guidance, a time-stamped condition record at turnover is what holds up later during damage disputes and brand audits, evidence rather than a subjective, after-the-fact account.
+
+The weakness in this model is the same one that plagues every human inspection process: it depends on sampling and attention. A supervisor releasing dozens of rooms a shift cannot give each one forensic scrutiny, and minor damage that is not caught at turnover becomes nearly impossible to attribute to a specific guest later.
+
+## Step two: the financial backstop
+
+Detection only matters if the hotel can act on it, and the mechanism for that is the **authorization hold**. At check-in, hotels place a temporary hold on the guest's credit card to cover incidentals, which explicitly includes room damage alongside the minibar and room service. According to [Engine](https://engine.com/business-travel-guide/hotel-credit-card-authorization) and [SoFi](https://www.sofi.com/learn/content/hotel-credit-card-hold/), most hotels hold roughly $50 to $200 per night, with upscale and resort properties holding more. The hold is not a charge; it is pre-authorized headroom the hotel can convert into a charge if it finds and documents damage.
+
+When a guest disputes a damage charge, it becomes a card dispute, and here documentation is everything. Chargeback guidance for hotels from firms like [Chargebacks911](https://chargebacks911.com/hotel-chargebacks/) and [Canary Technologies](https://www.canarytechnologies.com/post/best-practices-for-hotels-to-avoid-chargebacks) consistently emphasizes the same point: the property's ability to win a disputed charge rests on the strength of its evidence. A time-stamped photo showing the room was sound before the stay and damaged after is persuasive. A staff member's written note, weeks later, is not. That asymmetry is the entire reason damage detection is moving toward systematic photo documentation.
+
+## The shift to AI vision at checkout
+
+Hotels are now beginning to automate the part of this process humans are worst at: looking at every room, in detail, at volume. The emerging pattern is AI vision applied at checkout, where a housekeeper or supervisor captures the room with a phone or tablet and a model reads the image for surface damage, missing items, and maintenance triggers, then routes flags to a person. In August 2025, [CNBC](https://www.cnbc.com/2025/08/03/ai-audit-coming-for-hotel-room-checkout-travel-costs.html) reported on the prospect of an AI "algorithmic audit" arriving at hotel room checkout.
+
+One distinction matters. Unlike rental car companies, which have pushed AI damage scanning all the way to automated billing, most hotels keep a human in the loop: AI flags, a person decides. We covered the fully automated end of that spectrum in our look at [what car rental companies know about damage detection](https://rapideyeinspections.com/blog/car-rental-damage-detection-vs-vacation-rentals/). Hotels are deliberately a step behind that, using AI to widen coverage and standardize evidence rather than to auto-charge guests, which is also the more defensible posture in a dispute.
+
+## How vacation rentals solve the same problem
+
+Vacation rentals face an identical problem with a different shape. There is no front desk and no supervisor walking the floor; there is a cleaner who turns the property and, often, photos that pile up in an operations platform faster than anyone can review them. The financial backstop is different too: instead of a card hold, short-term rental operators rely on security deposits, damage waivers, and platform programs like Airbnb's AirCover, with claims adjudicated by the platform rather than the property.
+
+That adjudication is harder to win than many hosts expect. According to an analysis of more than 20,000 bookings by [Avada Properties](https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/), damage claims are approved roughly 56.75% of the time on Airbnb and 68.29% of the time on Vrbo, and the deciding factor, again, is the quality of documented before-and-after evidence. The vacation rental answer to that has been AI baseline comparison: software that ingests turnover photos, builds a per-room baseline, and automatically flags changes after each stay, so the proof exists before anyone needs it.
+
+| Dimension | Hotels | Vacation rentals |
+| --- | --- | --- |
+| Who inspects | Attendant self-check, then supervisor release | Cleaner, plus an in-person inspector at some operators |
+| Financial backstop | Card authorization hold ($50–200/night) | Security deposit, damage waiver, or AirCover |
+| Who adjudicates disputes | The card network (chargeback) | The booking platform |
+| Proof that wins | Time-stamped checkout photos and condition record | Time-stamped turnover photos, often unreviewed |
+| AI status | Flagging at checkout, human approves; billing not automated | Baseline comparison auto-flags changes between turns |
+
+### Two industries, one answer: photographic proof of condition.
+
+Strip away the front desk and the card hold and the booking platform, and hotels and vacation rentals are solving the same problem with the same emerging tool. Both depend on catching damage at turnover. Both lose disputes without documented, time-stamped evidence. And both are moving from human sampling to AI verification of photos, because the photo is the proof and there are too many of them for people to review. The detection method is converging even though the business models are not.
+
+## What this means for operators
+
+The lesson that travels across both industries is simple: the value is not in taking photos, which everyone already does, it is in **reviewing every one of them** and turning them into a baseline that proves condition. Human inspection, hotel or rental, samples. AI does not have to.
+
+This is exactly the gap RapidEye was built to close on the short-term rental side. It plugs into the operations platform an operator already uses, ingests the turnover photos already being captured, builds a per-room baseline, and flags damage, missing items, and cleanliness issues automatically. In a trial with a 500-plus-unit operator it reviewed more than 1.5 million photos and surfaced an average of four overlooked damages per property. If you want the deeper version of the technology question, see [whether AI can detect property damage from photos](https://rapideyeinspections.com/blog/ai-property-damage-detection-from-photos/), and for the hotel tech angle, [which hotel PMS platforms are open and AI-ready](https://rapideyeinspections.com/blog/hotel-pms-open-api-comparison/).
+
+## Frequently asked questions
+
+With a two-step inspection. The room attendant self-inspects while cleaning, then a housekeeping supervisor performs a separate check and makes the final decision to release the room, documenting condition with photos and quick function tests. A time-stamped condition record at turnover is what holds up later if a charge is disputed.
+
+Yes. Hotels place a card authorization hold at check-in, typically $50 to $200 per night, to cover incidentals including damage. If damage is found and documented, the hotel can charge the card on file or bill the guest. Whether the charge survives a dispute depends on the strength of the hotel's time-stamped evidence.
+
+Increasingly. Hotels are layering AI vision over the checkout inspection to flag damage from a phone photo, then routing flags to a human for the final call. CNBC reported in August 2025 on the prospect of an AI "algorithmic audit" at hotel checkout. Unlike car rental, most hotels have not automated the billing decision.
+
+Hotels use a supervisor release plus a card hold; vacation rentals use cleaner photos, deposits or waivers, and platform programs like AirCover adjudicated by the booking platform. Vacation rentals are adopting AI baseline comparison, while hotels are adopting AI flagging at checkout. Both are converging on photographic proof of condition.
+
+Time-stamped photographic evidence of the room's condition. A documented before-and-after record beats a staff member's written account, which is why both hotels and vacation rental operators are moving toward systematic photo documentation and AI verification of it.
+
+## Sources
+
+- [LuxOps – Hotel Room Inspection Checklist: Housekeeping Supervisor SOP](https://www.luxops.fr/en/blog/housekeeping-room-inspection) – the self-inspection versus supervisor-release model.
+ https://www.luxops.fr/en/blog/housekeeping-room-inspection
+
+- [Hospitality Institute – Guest Room and Public Area Inspections in Hotels](https://hospitality.institute/bha306/guest-room-public-area-inspections-hotels/) – the turnover inspection process and documentation.
+ https://hospitality.institute/bha306/guest-room-public-area-inspections-hotels/
+
+- [Engine – Hotel Credit Card Authorization Holds](https://engine.com/business-travel-guide/hotel-credit-card-authorization) – typical incidental hold amounts per night.
+ https://engine.com/business-travel-guide/hotel-credit-card-authorization
+
+- [SoFi – Guide to Hotel Credit Card Holds](https://www.sofi.com/learn/content/hotel-credit-card-hold/) – the $50 to $200 per night range and how holds work.
+ https://www.sofi.com/learn/content/hotel-credit-card-hold/
+
+- [CNBC (August 2025) – The AI "algorithmic audit" could be coming to hotel room checkout](https://www.cnbc.com/2025/08/03/ai-audit-coming-for-hotel-room-checkout-travel-costs.html).
+ https://www.cnbc.com/2025/08/03/ai-audit-coming-for-hotel-room-checkout-travel-costs.html
+
+- [Chargebacks911 – Hotel Chargebacks: Causes, Rules and How to Win Disputes](https://chargebacks911.com/hotel-chargebacks/) – the role of documentation in winning disputes.
+ https://chargebacks911.com/hotel-chargebacks/
+
+- [Canary Technologies – Best Practices for Hotels to Avoid Chargebacks](https://www.canarytechnologies.com/post/best-practices-for-hotels-to-avoid-chargebacks) – evidence and documentation best practices.
+ https://www.canarytechnologies.com/post/best-practices-for-hotels-to-avoid-chargebacks
+
+- [Avada Properties](https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/) – analysis of 20,000+ bookings: 56.75% Airbnb / 68.29% Vrbo damage-claim approval rates.
+ https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/
+
+RapidEye is AI inspection intelligence for property operators. It plugs into the platform a team already uses, reads the turnover photos and operational data already being captured, and flags damage and cleaning issues people miss. Built by two Carnegie Mellon researchers on patented inspection technology. [See what it can find →](https://rapideyeinspections.com/#contact)

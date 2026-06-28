@@ -1,0 +1,99 @@
+# Vacation Rental Party Statistics (2026): Frequency, Damage Costs, and Prevention
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-party-statistics/
+
+_Airbnb and vacation rental party statistics: how often parties happen, average damage costs, Airbnb's anti-party technology results, and prevention tool adoption rates._
+
+Industry Data
+Vacation Rental Party Statistics (2026)
+How often unauthorized parties happen, what they cost property owners, and how Airbnb's anti-party technology has changed the landscape.
+6 sources verified
+Primary data only
+Updated May 2026
+53.1%
+of hosts experienced an unauthorized party in 2 years
+Lodgify, 170+ hosts
+$1,560
+average damage per party incident
+860K+
+guests blocked by Airbnb anti-party screening in one year
+Airbnb Newsroom, 2024
+Party Frequency
+of hosts experienced at least one unauthorized party in the previous two years.
+According to
+Lodgify
+, survey of 170+ hosts managing 2,242 properties.
+In 2024, fewer than
+0.035%
+of stays worldwide led to a party allegation on Airbnb.
+Airbnb Newsroom
+, 2024.
+In 2022,
+0.039%
+of global Airbnb reservations resulted in an allegation of a party.
+, June 2022.
+In the US specifically, fewer than
+0.06%
+of reservations resulted in a party report in 2024.
+Party Damage Costs
+Unauthorized parties cause an average of
+$1,560 in damages
+per incident. Combined damages from surveyed hosts exceeded
+$270,000
+.
+, 170+ hosts.
+Some hosts reported
+$5,000 to $25,000+
+in party-related damages, not including legal fees and lost revenue.
+, same survey.
+Airbnb Anti-Party Technology
+55% global drop
+in parties reported on Airbnb between August 2020 and August 2022.
+CNBC
+, September 2023.
+Over
+860,000 guests
+worldwide were blocked or redirected from booking in the first year of reservation screening (May 2023 to May 2024).
+In 2021, over
+6,600 guests
+were suspended from Airbnb for attempting to violate the party ban.
+, 2022.
+Prevention Tool Adoption
+Only
+42%
+of hosts use any party prevention tools. Of those,
+84%
+use security cameras and only
+14%
+use noise detectors.
+31.6%
+of hosts surveyed had no short-term rental insurance at all.
+Before COVID, house parties occurred in about
+1 in every 200 reservations
+. Since the pandemic, there has been almost a
+47% increase
+in noise events across North America.
+NoiseAware
+, via Rental Scale-Up, 2021.
+Sources
+Lodgify.
+Unauthorized Parties Survey. 170+ hosts, 2,242 properties. 2023.
+https://www.lodgify.com/blog/unauthorized-parties-survey/
+Airbnb Newsroom.
+Cracking Down on Summer Holiday Parties. 2024.
+https://news.airbnb.com/cracking-down-on-summer-holiday-parties-with-anti-party-technology/
+Official Codification of Party Ban. June 2022.
+https://news.airbnb.com/official-codification-of-party-ban/
+CNBC.
+Airbnb Party Preventer Reduced Parties 55% in Two Years. September 2023.
+https://www.cnbc.com/2023/09/19/airbnb-party-preventer-naba-banerjee-reduced-parties-55percent-in-two-years.html
+Airbnb Cracks Down on Holiday Weekend Parties. 2024.
+https://news.airbnb.com/airbnb-cracks-down-on-holiday-weekend-parties-with-anti-party-technology/
+NoiseAware / Rental Scale-Up.
+Noise Monitoring for Rentals. 2021.
+https://www.rentalscaleup.com/noiseaware-noise-monitoring-rentals/
+Related Statistics
+Airbnb Damage Claim Statistics (2026)
+Short-Term Rental Insurance Statistics (2026)
+Airbnb Security Deposit Statistics (2026)
+Vacation Rental Staffing Statistics (2026)

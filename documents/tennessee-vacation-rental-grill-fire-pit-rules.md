@@ -1,0 +1,65 @@
+# Tennessee Vacation Rental Grill and Fire Pit Rules
+
+Source: https://rapideyeinspections.com/blog/tennessee-vacation-rental-grill-fire-pit-rules/
+
+_Sevier County bans charcoal grills on cabin decks and requires gas grills to have a 60-minute shutoff timer, non-combustible mat, and 18-inch railing clearance. Here are the exact rules from the fire marshal._
+
+# Tennessee Vacation Rental Grill and Fire Pit Rules
+
+Grill and fire pit violations are among the most common failure points during Sevier County STRU fire inspections. According to the [Sevier County Fire Marshal's STRU inspection checklist (revised November 2024)](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), the rules vary significantly depending on the fuel type, and several requirements catch property owners off guard.
+
+## Charcoal grills: banned on structures
+
+- Charcoal grill on any deck surface
+
+- Charcoal grill on any porch or patio attached to the structure
+
+- Any open-flame cooking device on the structure
+
+- Charcoal grill on the ground, at least 10 feet from the structure
+
+- Charcoal grill at least 10 feet from any combustible surface
+
+- Exception possible with Fire Code Official approval
+
+According to the [Sevier County Fire Marshal's checklist](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), "charcoal grills or other open flame cooking devices are NOT permitted on any surface of the structure" and must be "10 feet from structure and any combustible surface." For most Smoky Mountain cabins built on elevated decks, this effectively means charcoal grills must be placed on the ground away from the cabin.
+
+## Gas and propane grills: four requirements
+
+Natural gas and propane grills are permitted on decks but must meet all four of these requirements:
+
+Required for every gas/propane grill on a deck
+
+The non-combustible mat protects the deck surface from grease drips and heat. Standard grill mats designed for this purpose are available at most home improvement stores. The mat should extend at least several inches beyond the grill footprint on all sides.
+
+The grill must be physically secured to the deck so guests cannot reposition it closer to the railing or structure. This typically means bolting the grill stand to the deck or using a security cable.
+
+## Fire pits: same rules apply by fuel type
+
+According to the [Sevier County Fire Marshal's checklist](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), fire pit rules mirror the grill rules by fuel type:
+
+- **Wood-burning fire pits:** "No open burning devices such as fire pits are permitted on any combustible surfaces of the structure at any time." This means no wood-burning fire pits on decks, porches, or any surface attached to the cabin.
+
+- **Natural gas and propane fire pits on decks:** Same four requirements as gas grills: non-combustible mat, 60-minute shut-off timer on the gas line, secured to the deck, and 18 inches from railings or structure.
+
+## What your turnover team should check
+
+Guests commonly move grills closer to tables or railings for convenience, unplug gas timers, and shift fire pits to preferred locations. After every checkout, verify:
+
+- Gas grill is in its designated secured position (check that mounting bolts are tight)
+
+- Grill is at least 18 inches from railings and structure walls
+
+- 60-minute timer is connected and functioning on the gas line
+
+- Non-combustible mat is in place under the grill
+
+- No charcoal grills or portable open-flame devices have been left on the property by guests
+
+- Fire pit is in its secured position with all four requirements met
+
+- Propane tanks are properly connected (no leaks, valves closed when not in use)
+
+### Sources
+
+[Sevier County Fire Marshal's Office STRU Inspection Items](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf) (Revised November 8, 2024)https://cms5.revize.com/revize/seviercountytn/SCFMO STRU Inspection Items Revised 11.8.24.pdf

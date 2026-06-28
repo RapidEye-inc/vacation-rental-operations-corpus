@@ -1,0 +1,103 @@
+What AI Tools Work with Breezeway? (2026 Guide)
+
+Source: https://rapideyeinspections.com/blog/ai-tools-that-work-with-breezeway/
+
+_Every AI tool that integrates with Breezeway for short-term rental operations in 2026. Pricing (PriceLabs), messaging (Hospitable, Enso Connect), and AI damage detection (RapidEye), plus Breezeway's own AI features._
+
+What AI Tools Work with Breezeway?
+
+A complete 2026 guide to the AI tools that integrate with Breezeway for short-term rental operations: pricing, messaging, damage detection, and Breezeway's own AI features. Specifically covers what each tool does, which plug natively into the platform, and what is missing if you only run Breezeway.
+
+Breezeway itself has added AI-powered workflow automation to its own platform for task management and checklist generation. For capabilities Breezeway does not cover, professional short-term rental operators layer specialized AI tools on top. The standard companion stack for Breezeway users is PriceLabs for dynamic pricing, Hospitable or Enso Connect for guest messaging, and RapidEye for AI damage detection on the turnover photos Breezeway already collects.
+
+RapidEye is the native AI damage detection integration for Breezeway. Photos uploaded to Breezeway are analyzed directly by RapidEye with no workflow change for cleaners or inspectors. Paraspot, the other AI inspection vendor sometimes mentioned in the space, does not list a Breezeway integration and is primarily built for long-term rental workflows.
+
+About Breezeway. Breezeway is the dominant property operations and experience platform for professional short-term rental managers. According to Breezeway's own marketing, the platform powers operations for 270,000-plus properties across 90 countries and positions itself as "a Smart Operating System powered by AI." Breezeway's core value is task management, checklist execution, and photo documentation of turnovers. It is not a damage detection system.
+
+If you run turnovers through Breezeway (https://www.breezeway.io/) today, the platform handles cleaner dispatch, checklist completion, and photo collection. What it does not do is analyze the photos it collects. Every uploaded photo sits in Breezeway waiting for a human to look at it, which at mid-market scale means most photos are never reviewed. That is the specific gap the companion AI stack around Breezeway exists to fill, and why the hidden cost of missed damage (https://rapideyeinspections.com/blog/hidden-cost-missed-damage-short-term-rentals/) compounds the most in exactly this workflow. Here is the honest breakdown of what plugs in, organized by category. We cover the full multi-category AI landscape in the complete AI stack for short-term rental operations (https://rapideyeinspections.com/blog/best-ai-short-term-rental-operations-2026/); this page focuses specifically on what plugs into Breezeway.
+
+Dynamic Pricing AI
+
+Breezeway does not handle pricing. Professional operators use a dedicated dynamic pricing tool that ingests booking data from the PMS (Hostaway, Guesty, Hospitable) and adjusts nightly rates automatically.
+
+PriceLabs
+
+Category leader for dynamic pricing in short-term rentals. Ingests occupancy, competitor rates, and demand signals; produces nightly price recommendations. Integrates with all the PMS platforms Breezeway users typically run.
+
+Beyond
+
+Simpler, more guided dynamic pricing alternative to PriceLabs. Good fit for operators who want pricing to work out of the box without deep configuration.
+
+Guest Messaging AI
+
+Breezeway added guest messaging capabilities, but professional operators running Hostaway or Guesty often layer a dedicated messaging AI on top. The best tools in this category automate 70 to 90 percent of guest replies and escalate anything ambiguous to humans.
+
+Hospitable
+
+The most mature messaging automation layer for short-term rental operators. Covers check-in instructions, in-stay questions, review requests, and escalation.
+
+Enso Connect
+
+Guest experience platform that goes beyond reply automation into upsells, in-stay engagement, and digital guidebooks. Complementary to Breezeway's ops focus.
+
+Aeve AI and Host Buddy AI
+
+Newer entrants in the AI messaging category with more aggressive automation claims (reportedly 70 to 90 percent of messages handled automatically). Still early-stage but worth evaluating.
+
+AI Damage Detection and Photo Review
+
+This is the category Breezeway itself does not cover. Breezeway collects turnover photos but does not analyze them with AI for damage, missing items, or cleanliness failures. Photos sit in the platform for human review, and at mid-market scale, most of them never get reviewed. RapidEye is the AI layer that closes this gap through native Breezeway integration. For a full walkthrough of what this looks like operationally, see how AI damage detection fits into an existing Breezeway workflow (https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/) and how automated damage detection actually works (https://rapideyeinspections.com/blog/how-automated-damage-detection-works/).
+
+RapidEye
+
+The native AI damage detection platform for Breezeway, built specifically around the Breezeway turnover photo workflow. RapidEye analyzes turnover photos stored in Breezeway, compares them against a per-property learned baseline (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/), and flags damage, missing items, and cleanliness failures that cleaners and inspectors missed. No workflow change required for the cleaning team. The platform was built by two Carnegie Mellon researchers with patented inspection technology at the core of the product, and won second place in the Graduate Track of CMU's McGinnis Venture Competition in March 2026. In a trial with one 500-plus unit property manager using Breezeway for operations, RapidEye analyzed over 1.5 million turnover photos and surfaced an average of four missed damages per property that had been overlooked by the cleaning team and in-person inspector.
+
+Paraspot
+
+AI inspection tool primarily built for long-term rental tenant self-inspection workflows (move-in and move-out reports). Paraspot's (https://www.paraspot.ai/) PMS integrations are concentrated in long-term rental software: Buildium, AppFolio, RentManager, Rentvine, Propertyware, and Arthur. Breezeway is not on the list. For Breezeway operators specifically, Paraspot is not the right tool (https://rapideyeinspections.com/blog/does-paraspot-work-for-short-term-rentals/). For a head-to-head comparison, see RapidEye vs Paraspot (https://rapideyeinspections.com/blog/rapideye-vs-paraspot-ai-damage-detection-comparison/).
+
+GetRoomReady
+
+Narrow AI tool focused specifically on cleaning verification (cleanliness scoring only), not broader damage detection. Uses an SMS-based distribution model targeting Airbnb, VRBO, and Booking.com hosts directly rather than integrating with ops platforms. Does not plug into Breezeway.
+
+Breezeway's Own AI Features
+
+Breezeway has been building AI into its own platform as well. The core native AI capabilities center on workflow automation and task management.
+
+Breezeway AI-Powered Workflows
+
+According to Breezeway's own marketing, the platform uses AI-powered workflows to automate and control service touch points across the turnover process. This is task and checklist automation, not computer vision analysis of photos. For operators who want to offload routine decisions about which task to assign, when to schedule, and which properties need attention, Breezeway's native AI is genuinely useful. For operators who need the photos their cleaners upload to actually get analyzed for damage, RapidEye is still the required layer on top.
+
+The Minimum AI Stack for a Professional Breezeway User
+
+If you run Breezeway today and want to build out an AI stack around it, the minimum recommended setup for a professional short-term rental operator above 50 units looks like this (we cover the broader version in the complete 2026 AI stack for STR operations (https://rapideyeinspections.com/blog/best-ai-short-term-rental-operations-2026/)):
+
+Pricing: PriceLabs or Beyond, integrated through your PMS.
+
+Messaging: Hospitable or Enso Connect, running alongside Breezeway.
+
+Operations and tasks: Breezeway itself, with its built-in AI workflow automation enabled.
+
+AI damage detection: RapidEye, integrated natively with Breezeway, analyzing the turnover photos your cleaning team is already uploading.
+
+This four-tool stack covers every major AI category professional short-term rental operators should be running in 2026. The only stack layer that has historically been missing is damage detection, which is exactly the layer RapidEye was built to fill for Breezeway users specifically.
+
+See RapidEye running on your Breezeway photos
+
+Book a 15-minute demo and we will run the analysis on your actual turnover photos from Breezeway.
+
+Sources
+
+- Breezeway. Breezeway homepage (https://www.breezeway.io/). "Smart Operating System powered by AI" positioning, 270,000-plus property coverage, and AI-powered workflow features.
+ https://www.breezeway.io/
+
+- Paraspot. Paraspot homepage (https://www.paraspot.ai/). PMS integration list (Buildium, AppFolio, RentManager, Rentvine, Propertyware, Arthur). No Breezeway, Guesty, or Hostaway integration listed.
+ https://www.paraspot.ai/
+
+- GetRoomReady. GetRoomReady homepage (https://www.getroomready.com/). AI-powered cleaning verification for Airbnb, VRBO, and Booking.com hosts.
+ https://www.getroomready.com/
+
+- Carnegie Mellon University Swartz Center for Entrepreneurship. McGinnis Venture Competition (https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html). RapidEye won second place in the Graduate Track in March 2026.
+ https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html
+
+Related

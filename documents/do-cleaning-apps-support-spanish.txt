@@ -1,0 +1,91 @@
+Which Vacation Rental Cleaning Apps Support Spanish? (2026)
+
+Source: https://rapideyeinspections.com/blog/do-cleaning-apps-support-spanish/
+
+_Breezeway, Turno, Properly, and Rinsebase all run in Spanish for cleaners. The real question is whether the field app your cleaner uses is in Spanish, not just the office dashboard. A verified 2026 comparison._
+
+Which cleaning apps support Spanish?
+
+Good news: most major vacation rental cleaning apps now run in Spanish for cleaners. The real question is whether the field app your team taps through is in Spanish, not just the office dashboard. A verified 2026 comparison.
+
+Spanish support, compared
+
+Every app below was verified against the company's own documentation or app store listing in 2026. The "cleaner app in Spanish" column is the one that matters: it is the field-facing app your team uses on the job, not the back-office dashboard.
+
+| App | Cleaner app in Spanish | Languages supported | What stands out |
+| --- | --- | --- | --- |
+| Breezeway | Yes | Spanish, English, Danish, German, Polish | Full operations platform; field app works offline for weak-Wi-Fi properties |
+| Turno | Yes | English, Spanish, French, Portuguese, Italian, German | Cleaner and host apps both localized; each user picks their own language |
+| Properly | Yes | 9 languages incl. Spanish, French, Italian, German, Portuguese | Built around visual step-by-step photo instructions that sidestep language |
+| Rinsebase | Yes | English, Spanish | Built natively bilingual; entire crew app in Spanish on every plan |
+| RapidEyeOurs | By design | Language-independent (photo / video) | No text workflow for the cleaner; they capture, the AI reads the result |
+
+Verified June 2026 against each company's documentation and app store listings. Language lists can change; confirm current support before buying.
+
+The distinction that actually matters
+
+"Does it support Spanish" is the wrong question, because almost every vendor will say yes. The right question is which part supports Spanish. Software has two faces: the office-facing dashboard the manager uses to assign work and review results, and the field-facing mobile app the cleaner uses on the job. These are often localized separately.
+
+A tool can translate its marketing site and admin panel while leaving the cleaner's mobile screens in English. That helps nobody on your team. When you evaluate any cleaning app, open the cleaner app on a phone, switch the language to Spanish, and walk through a full turnover as if you were the cleaner. If every screen, button, and checklist item is in Spanish, the support is real. If you hit English partway through, it is marketing.
+
+A closer look at each
+
+Breezeway
+
+According to Breezeway, its app has run in Spanish since November 2022, alongside English, Danish, German, and Polish, and the mobile app works offline, which matters at properties with weak Wi-Fi. Because Breezeway is a full property-operations platform, the Spanish field app sits inside the same system your team may already use for scheduling, checklists, and inspections, so adding language support does not mean adding a new tool. If you are already a Breezeway operator with a Spanish-speaking team, switching your cleaners' app language is a setting, not a migration.
+
+Turno (formerly TurnoverBnB)
+
+According to Turno, both the Cleaner app and the Host app are fully supported in six languages: English, Spanish, French, Portuguese, Italian, and German. Language is selected per user, so a Spanish-speaking cleaner runs the entire app in Spanish while the host runs it in English from the same shared job. Turno's marketplace model also means many of the independent cleaners already on the platform work in Spanish.
+
+Properly
+
+Properly supports nine languages including Spanish, but its real differentiator is that it was built around visual, step-by-step photo instructions. Each task is a photo with an annotated pin, so the cleaner is following pictures more than text. That design choice makes Properly unusually language-robust: even where a word is unfamiliar, the image carries the instruction. It is the closest of these tools to the photo-first philosophy.
+
+Rinsebase
+
+Rinsebase took the most direct approach: according to the company, the entire crew-facing app is in Spanish, "every screen, every button, every notification, every checklist item," built natively alongside the English version rather than bolted on as a translation, and included on every plan at no extra cost. If a fully bilingual experience is your top priority and you are choosing a new cleaning-management tool from scratch, it is the most language-first option of the group.
+
+What to check before you buy
+
+Set the cleaner-facing mobile app to Spanish and complete a full turnover yourself. Confirm every screen stays in Spanish from start to finish.
+
+The app's buttons may be in Spanish, but do your custom checklist items and task notes translate too, or do they appear in whatever language you typed them? Visual-first tools and auto-translation features handle this differently.
+
+Many properties have poor Wi-Fi. A field app that needs a live connection to load Spanish strings will fail at the worst moment. Offline support is not a language feature, but it is a field-reality feature.
+
+The most language-proof instruction is a reference photo of the finished result. Whichever app you choose, pair its Spanish text with images. See how to build photo-based instructions (https://rapideyeinspections.com/blog/photo-cleaning-instructions-non-english-speakers/).
+
+Where RapidEye fits
+
+RapidEye is not a turnover-task app and does not compete with the tools above; it is the verification layer that sits on top of them. The cleaner's job in RapidEye is purely visual: capture photos or a short video walkthrough of the property. There is no text workflow to read, so there is nothing to translate. The AI compares what the camera sees against a baseline and flags damage and missed items automatically. That makes it language-independent by design, and it plugs into the Spanish-capable apps above rather than replacing them. See the full guide to managing a Spanish-speaking team (https://rapideyeinspections.com/blog/how-to-manage-spanish-speaking-cleaning-team/).
+
+Frequently asked questions
+
+Yes. According to Breezeway, its app has been available in Spanish since November 2022, alongside English, Danish, German, and Polish. The mobile app also works offline, which matters for cleaners at properties with weak Wi-Fi. For an operation whose cleaning team is primarily Spanish-speaking, Breezeway's field app running in Spanish removes one of the biggest adoption barriers.
+
+Yes. According to Turno, both its Cleaner app and Host app are fully supported in six user-selected languages: English, Spanish, French, Portuguese, Italian, and German. Each user picks their own language, so a Spanish-speaking cleaner can use the app entirely in Spanish while the host uses it in English.
+
+It is the difference between the office and the field. Some tools translate the manager-facing dashboard but leave the cleaner-facing mobile app, the part your team actually uses on the job, in English only. What matters for adoption is whether the field app, the screen the cleaner taps through during a turnover, runs in their language. Always test the cleaner side, not the admin side, before buying.
+
+It depends on what you need. Rinsebase is built natively bilingual, with the entire crew app in Spanish on every plan. Properly supports nine languages and is built around visual step-by-step photo instructions, which sidestep language almost entirely. Turno offers six languages with per-user selection. Breezeway runs in Spanish and pairs it with a full operations platform. There is no single best; match the tool to your team size, your existing PMS, and whether you lead with text or with photos.
+
+Sources
+
+Part of the series
+
+How to Manage a Spanish-Speaking Cleaning Team
+
+The full operations playbook, of which tooling is one piece.
+
+Cleaning Instructions With Photos Instead of Words
+
+The visual-first approach that makes language support almost moot.
+
+How to Get Cleaners to Use New Technology
+
+The rollout framework for any tool, language support included.
+
+Bilingual Turnover Checklist (English / Spanish)
+
+Drop a ready-made bilingual checklist into whichever app you choose.

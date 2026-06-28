@@ -1,0 +1,191 @@
+# Vacation Rental Hot Tub Safety: What Property Managers Are Liable For
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-hot-tub-safety-liability/
+
+_Hot tub lawsuits against vacation rental operators have reached $4.5M verdicts. Regulations vary by state and most PMs don't know which ones apply to them. Complete liability guide for STR operators._
+
+# Vacation Rental Hot Tub Safety: What Property Managers Are **Actually Liable For**
+
+Verdicts have reached $4.5 million. Two guests contracted Legionnaires' disease from a single vacation rental hot tub in late 2024, and the CDC published a case report in June 2026. The federal law governing drain safety still hasn't clarified whether it applies to short-term rentals. Here is what you need to know.
+
+As a vacation rental property manager, you face premises liability for hot tub injuries to paying guests. Courts generally classify vacation rental guests as invitees, the category owed the highest duty of care: you must actively inspect for hazards, maintain safe conditions, and warn of known risks. According to the CPSC, spas and hot tubs account for 64% of all suction entrapment incidents among children, and according to the CDC, 70% of recreational water outbreaks at hotels and resorts are associated with hot tubs. Your exposure is real, your insurance may have gaps, and the regulations vary dramatically by state.
+
+## Your Legal Exposure: Premises Liability for Hot Tubs
+
+When a guest pays to stay at your vacation rental, the law imposes a duty of care on you as the property owner or manager. The central question is how courts classify you: as an **innkeeper** (higher duty) or a **landlord** (lower duty).
+
+According to the Virginia Supreme Court in *Haynes-Garrett v. Dunn* (2018), the determining factor is whether the guest received "exclusive possession and control," not the length of the stay. However, most vacation rental guests are treated as **invitees**, the visitor category owed the highest standard of care. According to the [Terry Law Firm](https://www.terry-lawfirm.com/blog/liable-hot-tub-smoky-mountain-cabin/), which specializes in hot tub injury cases in vacation rental markets, property owners must "actively inspect for dangers, make prompt repairs, and warn of hazards."
+
+Multiple parties can be held liable for a single hot tub incident. According to [Proper Insurance](https://www.proper.insure/blog/should-i-have-a-hot-tub-at-my-airbnb/), liability can extend to property owners, property management companies, hot tub maintenance contractors, and manufacturers. Online platforms like Airbnb are typically shielded by Section 230 of the Communications Decency Act, as established in *Smith v. Airbnb* (Oregon Court of Appeals, 2021).
+
+### The Attractive Nuisance Doctrine
+
+Hot tubs can qualify as an "attractive nuisance" under the [Restatement (Second) of Torts, Section 339](https://www.law.cornell.edu/wex/attractive_nuisance_doctrine). This means you may be liable for injuries to trespassing children if the hot tub is likely to attract them, presents an unreasonable risk, and children cannot appreciate the danger. An unsecured hot tub in a residential vacation rental setting is particularly vulnerable to this doctrine.
+
+### Waivers Do Not Eliminate Liability
+
+Many property managers use guest waivers as a liability shield. According to [Proper Insurance](https://www.proper.insure/blog/vacation-rental-liability/), "Negligence cannot be waived. Signed waivers can help set expectations and support a defense, but they do not stop lawsuits. Courts routinely allow claims to proceed when negligence is alleged, regardless of what a guest signed." An Alabama jury returned an [$11.6 million verdict](https://www.proper.insure/blog/11-6-million-verdict-against-short-term-rental-owner/) against a short-term rental owner after an intoxicated guest dove into a shallow pool and became quadriplegic, despite the guest having signed a waiver.
+
+## What Hot Tub Lawsuits Actually Look Like
+
+These are real cases involving hot tubs at vacation rentals and hospitality properties. The dollar amounts are documented in court records, settlement announcements, and legal reporting.
+
+#### Handley & Howard v. DEVI LLC (Wingate Inn)
+
+Two guests contracted Legionnaires' disease from a hotel hot tub. The jury deliberated only 50 minutes before returning a $4.5 million verdict. According to the case record reported by McGehee, Hansberger & Halverson, the hotel had destroyed evidence by cleaning the hot tub against health department orders.
+
+#### Winfield v. Best Western Plus
+
+An 87-year-old guest inhaled Legionella from a hotel spa without even entering the water, and died. According to [Panish Shea Boyle](https://www.panish.law/2021/05/psb-obtains-3-million-settlement-for-family-of-man-killed-by-legionnaires-disease/), the family settled for $3 million. The guest was infected simply by breathing near the hot tub's aerosol mist.
+
+#### Guillen/Zambrano v. Casago (Sonoran Sea Resort)
+
+A 43-year-old guest was electrocuted in a vacation rental hot tub at a Mexican beach resort. His wife was shocked during the rescue attempt. According to [12News](https://www.12news.com/article/news/local/arizona/arizona-based-company-sued-after-man-died-hot-tub-electrocution-mexican-beach-resort/75-3df3353c-58ed-4a56-a13f-0fa670eeaf6e), the pending wrongful death lawsuit seeks $1 million or more from the Arizona-based management company.
+
+#### Alabama Pool Diving Injury
+
+An intoxicated guest dove into a shallow pool at a short-term rental and became quadriplegic. According to [Proper Insurance](https://www.proper.insure/blog/11-6-million-verdict-against-short-term-rental-owner/), the jury returned an $11.6 million verdict despite the guest having signed a liability waiver. The waiver did not prevent the lawsuit.
+
+#### Davis-Ealy v. Great Escape Lakeside (Clermont, FL)
+
+A child drowned at a resort-style short-term rental property in Florida. According to [Haggard Law Firm](https://haggardlawfirm.com/2-million-settlement-in-fatal-child-drowning-case-at-florida-resort-style-short-term-rental-property/), the case settled for $2 million, the full policy limits. Filed July 2025.
+
+## The Federal Law That May (or May Not) Apply to You
+
+The **Virginia Graeme Baker Pool and Spa Safety Act** (VGB Act) is the primary federal law governing hot tub drain safety. It was enacted in December 2007 after Virginia Graeme Baker, age 7, drowned when she was trapped by suction from a hot tub drain.
+
+The VGB Act requires all pool and spa drain covers sold in the United States to conform to ANSI/APSP/ICC-16 2017 standards. For "public pools and spas," it also requires secondary anti-entrapment devices (safety vacuum release systems, suction-limiting vents, or automatic pump shut-offs). Violations carry penalties up to $17.15 million for a related series of violations, according to the [Federal Register](https://www.federalregister.gov/documents/2021/12/01/2021-26082/civil-penalties-notice-of-adjusted-maximum-amounts).
+
+The critical ambiguity: **the CPSC has never finalized whether vacation rentals count as "public."** According to [Mintz (2014)](https://www.mintz.com/insights-center/viewpoints/2171/2014-08-21-are-airbnb-hosts-regulated-cpsc-short-term-rental), the CPSC proposed a broader definition in October 2010 that would have explicitly included "rental units rented on a bi-weekly or weekly basis," but the rulemaking was never completed and dropped off the CPSC's regulatory agenda. Many states and localities have filled this gap with their own codes that do explicitly cover vacation rentals.
+
+The safest legal position: comply with VGB operational requirements regardless of your classification. The cost of compliant drain covers and a secondary anti-entrapment device is trivial compared to the liability exposure.
+
+## State-by-State Regulations
+
+Hot tub regulations vary dramatically across the major short-term rental markets. Here is what applies in the five states with the largest vacation rental hot tub footprints.
+
+#### Florida
+
+#### Colorado
+
+#### Tennessee
+
+#### Arizona
+
+#### California
+
+One pattern is universal across all five states: **104 degrees F maximum water temperature**. And every state reviewed provides an exemption from barrier requirements for hot tubs with a lockable [ASTM F1346-compliant safety cover](https://store.astm.org/f1346-23.html). If you do nothing else, a compliant locking cover is the single highest-leverage safety investment for most vacation rental hot tubs.
+
+## The Insurance Gap Most Property Managers Don't Know About
+
+Standard homeowners insurance and platform-provided coverage leave significant gaps for vacation rental hot tub liability. According to [Proper Insurance](https://www.proper.insure/blog/does-homeowners-cover-short-term-rentals/), homeowners policies routinely deny claims once a property accepts paying guests under the "business activity exclusion."
+
+#### Typically Covered (STR Policy)
+
+- Bodily injury liability (slips, burns, drowning)
+
+- Legal defense costs
+
+- Equipment breakdown (mechanical/electrical failure)
+
+- Communicable disease (Legionella, Pseudomonas)
+
+- Lost business revenue if hot tub goes offline
+
+#### Common Gaps & Exclusions
+
+- Homeowners policy: business activity exclusion denies all STR claims
+
+- AirCover: communicable diseases explicitly excluded
+
+- Umbrella policies: "follow-form," adopt base policy exclusions
+
+- Owner negligence: poor chemistry, failure to winterize
+
+- Intentional acts and assault
+
+The Legionella gap deserves particular attention. According to [Proper Insurance](https://www.proper.insure/blog/prevent-legionnaires-disease-in-str-hot-tub/), most homeowners policies and "short-term rental endorsements may not extend to cover bacteria like Legionella." Meanwhile, Airbnb's AirCover policy explicitly excludes communicable diseases. A dedicated STR-specific policy from a provider like [Proper Insurance](https://www.proper.insure/blog/should-i-have-a-hot-tub-at-my-airbnb/) (which explicitly covers communicable disease claims) or [CBIZ](https://vacationrentalinsurance.cbiz.com/solutions) closes this gap. Typical coverage: $1 million per occurrence, with the option to increase to $2 million.
+
+According to Proper Insurance, amenity-related claims "meet or exceed $500K demands." The $4.5 million Wingate Inn verdict and $11.6 million pool injury verdict demonstrate that worst-case exposure can far exceed standard policy limits.
+
+### Legionella: The Invisible Hot Tub Threat
+
+Legionnaires' disease is a severe form of pneumonia caused by Legionella bacteria. According to the CDC, about **1 in 10 people who get Legionnaires' disease die from it**. Hot tubs are uniquely dangerous because they operate at 100-104 degrees F, which is within Legionella's optimal growth range of 77-113 degrees F. Unlike pools, hot tub water cannot be heated above 104 degrees F for bather safety, making [chemical disinfection the only effective control](https://www.cdc.gov/control-legionella/php/toolkit/hot-tub-module.html).
+
+Vacation rentals face elevated risk because hot tubs may sit unused between bookings, allowing bacteria to multiply in stagnant water with declining disinfectant levels. A [June 2026 CDC MMWR report](https://www.cdc.gov/mmwr/volumes/75/wr/mm7522a1.htm) documented two confirmed Legionnaires' cases from a single vacation rental hot tub in western New York. Testing found Legionella pneumophila at concentrations of 134 to 13,677 MPN/mL. The property owner had reopened the hot tub without health department approval after a previous closure.
+
+According to the CDC's supplementary surveillance data, nearly **1 in 7 Legionnaires' disease patients reported staying overnight at hotels, private homes, or vacation rental properties**. About half of those who reported travel and vacation rental stays also reported hot tub use.
+
+People do not even need to enter the water to get sick. An 87-year-old guest at a Best Western hotel inhaled Legionella from the spa's aerosol mist without entering the water, and died. The family settled for $3 million.
+
+## Water Chemistry and Temperature: The Basics That Prevent Lawsuits
+
+According to the [CDC](https://www.cdc.gov/healthy-swimming/safety/what-you-can-do-to-stay-healthy-in-hot-tubs.html), hot tub water should maintain free chlorine of at least 3 ppm (or bromine 4-8 ppm) and pH of 7.0-7.8. The [CDC's Legionella toolkit](https://www.cdc.gov/control-legionella/php/toolkit/hot-tub-module.html) specifies a tighter range for Legionella control: free chlorine 3-10 ppm, pH 7.2-7.8. The [Pool & Hot Tub Alliance](https://www.phta.org/consumer/safety/hot-tub-safety/) recommends the ideal range of 3.0-5.0 ppm for spas.
+
+When chemistry fails, the consequences are measurable. According to the [CDC's chemical injury surveillance (2015-2017)](https://www.cdc.gov/mmwr/volumes/68/wr/mm6819a2.htm), an estimated 13,508 emergency department visits resulted from pool and hot tub chemical injuries over that period, roughly 4,500 per year. Children under 18 accounted for 36.4% of cases.
+
+The maximum safe temperature is 104 degrees F (40 degrees C), a standard set by the [CPSC](https://www.cpsc.gov/Newsroom/News-Releases/1980/CPSC-Warns-Of-Hot-Tub-Temperatures), the CDC, and every state health code reviewed. The CPSC considers 100 degrees F safe for a healthy adult. The CDC recommends that [children under 5 should not use hot tubs at all](https://www.cdc.gov/healthy-swimming/safety/what-you-can-do-to-stay-healthy-in-hot-tubs.html), and ACOG recommends pregnant women keep core body temperature below 102.2 degrees F.
+
+A [peer-reviewed study (CMAJ)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1405706/) of 158 spa and hot tub deaths found that alcohol was a risk factor in 38% of cases, heart disease in 31%, seizure disorders in 17%, and cocaine use in 14%. Your guest safety signage should address these risk factors directly.
+
+### Hot Tub Safety Checklist: Every Turnover
+
+Verify these items between every guest stay. Documenting completion creates a liability defense record.
+
+The documentation items matter as much as the safety items. In the Wingate Inn case, the hotel destroyed evidence by cleaning the hot tub against health department orders, which likely contributed to the speed and severity of the $4.5 million verdict. Systematic documentation of every turnover creates a defensible maintenance record.
+
+## CPSC Recall Data: What Breaks
+
+According to the [CPSC](https://www.cpsc.gov/Recalls/2024/About-866000-AirJet-and-HydroJet-Spa-Pumps-Recalled-Due-to-Fire-Hazard-One-Death-Reported-Manufactured-by-Bestway-and-Sold-with-SaluSpa-Coleman-and-Hydro-Force-Spa-Liners), the largest recent hot tub recall involved 866,000 spa pumps from Bestway (brands: SaluSpa, Coleman, Hydro-Force) recalled in September 2024 for fire hazard. The overheating pumps caused three fires, including one fatal house fire in Kansas City. These spas were sold at Amazon, Costco, Walmart, and Sam's Club for $400-$790.
+
+In February 2026, [Watkins Manufacturing recalled 32,900 Hot Spring Highlife Collection spas](https://www.cpsc.gov/Recalls/2026/Watkins-Manufacturing-Recalls-Hydromassage-Rotary-Jets-in-Highlife-Collection-Spas-Due-to-Entanglement-and-Drowning-Hazards) ($16,000-$24,000 each) because rotary jets could entangle hair underwater, creating a drowning hazard. As recently as June 2026, the CPSC recalled spa drain covers sold on Amazon that [violated the VGB Act](https://www.cpsc.gov/Recalls/2026/Spa-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violate-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Arrogantf) by missing required markings.
+
+Fire hazard from overheating pumps, motors, and electronic controls is the most common recall reason by both unit count and frequency. If your vacation rental hot tubs use portable or inflatable models (SaluSpa, Coleman, Intex), check the [CPSC recall database](https://www.cpsc.gov/Recalls) for your specific model.
+
+## What Airbnb and Vrbo Actually Cover
+
+According to [Airbnb's safety requirements](https://www.airbnb.com/help/article/2904), hosts must "disclose any safety hazards inherent to the listing" (hot tubs are cited as a specific example), provide usage instructions, and address "poorly maintained appliances (ex: hot tubs)" before accepting reservations. Airbnb does not mandate specific operational standards like water chemistry levels or inspection frequency.
+
+AirCover for Hosts provides up to [$1 million in liability insurance per stay](https://www.airbnb.com/help/article/3142) for bodily injury, underwritten by Generali US Branch. According to [Airbnb's coverage details](https://www.airbnb.com/help/article/3145), communicable diseases are explicitly excluded. This means Legionnaires' disease from your hot tub is likely not covered by AirCover.
+
+Vrbo provides [$1 million liability insurance per occurrence](https://www.vrbo.com/tlp/liability-insurance) per rental agreement, underwritten by Generali Global Assistance, plus up to $5,000 for medical payments.
+
+According to a [Scripps News investigation (May 2025)](https://www.scrippsnews.com/investigations/exclusive-airbnb-targets-two-states-highlighted-in-scripps-news-investigation-for-pool-safety), "more than 50 children had drowned in vacation rental pool incidents in Florida alone since 2021". This investigation prompted Airbnb to launch targeted outreach to Florida and Arizona hosts with pools and hot tubs, partnering with Life Saver Pool Fence on discounted safety equipment.
+
+## Connecting Safety to Turnover Operations
+
+Every turnover is a safety checkpoint. When your cleaner or inspector walks through the property, they are not just verifying cleanliness. They are verifying that a hot tub with 104-degree water, pressurized jets creating Legionella-carrying aerosol, and electrical components is safe for the next family that checks in.
+
+The challenge is that cleaners are focused on cleaning. Safety verification requires a different lens: checking drain covers, testing water chemistry, inspecting the surrounding area for broken glass or loose railings, and confirming the safety cover locks properly. These items need to be explicit in the turnover workflow, not assumed.
+
+Systematic photo or video documentation of the hot tub at every turnover creates two kinds of value. First, it builds a timestamped liability defense record showing consistent maintenance. Second, it catches the issues that visual inspection alone misses: a drain cover that has shifted slightly, a crack in the shell, discoloration that signals chemistry problems, or a safety cover hinge that is failing.
+
+## Frequently Asked Questions
+
+The drain cover manufacturing requirements apply universally to all hot tubs. The operational requirements (installing compliant covers and secondary anti-entrapment devices) apply to "public pools and spas." The CPSC proposed a broader definition in 2010 that would have explicitly included "rental units rented on a bi-weekly or weekly basis," but never finalized the rule. Many state and local jurisdictions have their own codes that do explicitly cover vacation rental hot tubs. The safest legal position is to comply with VGB operational requirements regardless of classification.
+
+AirCover for Hosts includes up to $1 million in liability insurance per stay for bodily injury, which would cover most hot tub injury claims like slips, burns, or drowning. However, AirCover explicitly excludes communicable diseases, which means Legionnaires' disease contracted from a poorly maintained hot tub is likely not covered. AirCover for Guests explicitly does not cover injuries from amenities. Most STR insurance advisors recommend dedicated vacation rental liability insurance rather than relying on platform coverage alone.
+
+The maximum safe temperature is 104 degrees Fahrenheit (40 degrees Celsius), a standard set by the CPSC, CDC, and every state health code reviewed. The CPSC considers 100 degrees F safe for healthy adults. Children under 5 should not use hot tubs at all according to the CDC, and pregnant women should keep their core body temperature below 102.2 degrees F per ACOG guidelines, which means limiting hot tub use to under 10 minutes at lower temperatures.
+
+Waivers have significant limitations. According to Proper Insurance, "Negligence cannot be waived. Signed waivers can help set expectations and support a defense, but they do not stop lawsuits." Courts routinely allow claims to proceed when negligence is alleged, regardless of what a guest signed. An Alabama case resulted in an $11.6 million verdict against a short-term rental owner despite the guest having signed a waiver. Waivers are worth having but should never be your primary liability strategy.
+
+The CDC provides a formula: divide the spa volume in gallons by 3, then divide by the average number of daily users. For a typical 400-gallon vacation rental hot tub with 2-3 guests per day, that means draining every 44 to 67 days. The Pool and Hot Tub Alliance recommends draining every 3 to 4 months. For vacation rentals with high guest turnover, more frequent draining is prudent. Between guests, shock treatment and water chemistry verification are essential at every turnover.
+
+Legionella is a bacteria that causes Legionnaires' disease, a severe form of pneumonia that kills about 1 in 10 people who contract it according to the CDC. Hot tubs are especially risky because they operate at 100-104 degrees F, which is within Legionella's optimal growth range of 77-113 degrees F. Unlike pools, hot tub water cannot be heated above 104 degrees F for bather safety, making chemical disinfection the only effective control. Vacation rentals face elevated risk because hot tubs may sit unused between bookings, allowing bacteria to multiply in stagnant water with declining disinfectant levels. A June 2026 CDC report documented two confirmed Legionnaires' cases from a single vacation rental hot tub in New York.
+
+### Sources
+
+### Related reading
+
+#### Vacation Rental Functional Inspection: Amenities
+
+What to verify at every turnover beyond cleaning: appliances, safety equipment, and guest-facing systems.
+
+#### Safety Hazards Your Inspectors Are Missing
+
+The structural failures, railing gaps, and fire safety issues that slip past visual inspections.
+
+#### Vacation Rental Cleaning Inspection Checklist
+
+38-item post-clean QA verification checklist for the inspector role.

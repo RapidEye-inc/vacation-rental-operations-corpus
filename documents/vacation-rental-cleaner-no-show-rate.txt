@@ -1,0 +1,49 @@
+What Is the No-Show Rate for Vacation Rental Cleaners?
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-cleaner-no-show-rate/
+
+_Cleaning occupations have a 4% daily absence rate (BLS 2024) and 200-400% annual turnover. For vacation rental operators, that means 2-3 missed cleans per week at 100 units._
+
+What Is the No-Show Rate for Vacation Rental Cleaners?
+
+There is no published no-show rate specific to vacation rental cleaners. The closest proxy is BLS data: "building and grounds cleaning and maintenance" occupations have a ~4% daily absence rate (vs. 3.2% across all occupations). Annual turnover in the cleaning industry ranges from 75% to 375% according to Swept. For a 100-unit portfolio running 60 turnovers per week, even a 4% absence rate means 2-3 scrambled cleans every week.
+
+What the data shows
+
+According to TeamSense's analysis of BLS data (https://www.teamsense.com/blog/absenteeism-workplace-statistics) (2024), "building and grounds cleaning and maintenance" workers had an absence rate of approximately 4.0%, compared to 3.2% across all occupations. This includes both illness and unplanned absences but not planned time off.
+
+According to Swept (now Aspire) (https://learn.sweptworks.com/janitorial-industry-turnover-rate), cleaning industry employee turnover ranges from 75% to as high as 375%. This means your cleaning roster may churn multiple times per year. Replacement costs add up: recruiting, training, and the quality dips that come with new cleaners on unfamiliar properties.
+
+According to Hospitable's 2026 Short-Term Rental Industry Report (https://www.rentalscaleup.com/why-finding-reliable-cleaners-is-getting-harder-and-why-it-likely-wont-improve-in-2026-short-term-rental-cleaning-staff-shortages-2026/) (survey of 554 property managers, November-December 2025), about 34% reported losing bookings or receiving negative guest reviews directly due to cleaning staffing issues. Nearly 40% reported difficulty finding dependable local cleaning staff.
+
+Why vacation rental no-shows hit harder
+
+A no-show at a hotel means one room in a 200-room property gets cleaned late. A no-show at a vacation rental means a guest cannot check in. The consequences are asymmetric:
+
+- Direct revenue loss: A missed turnover can mean a canceled booking worth $200 to $800+ per night
+
+- Review damage: One delayed check-in can generate a negative review that suppresses listing performance for months
+
+- Cascade effect: On a same-day turnover, there is no buffer. If the cleaner does not show, the next guest's arrival is immediately at risk
+
+Reducing no-shows
+
+The most effective approaches from operator reports:
+
+- Day-before confirmation texts: Simple "confirm or decline" messages sent 18-24 hours before the clean
+
+- Reliable pay practices: Paying promptly after completed work. Late or irregular pay is consistently cited as a reason cleaners stop showing up
+
+- Backup pool depth: Maintaining backup cleaners who can be activated on short notice
+
+- Peak day premiums: Paying above standard rate for Friday and Saturday turnovers, when no-shows are most damaging
+
+Related
+
+Sources
+
+- TeamSense. 20 Absenteeism Statistics for 2025 (https://www.teamsense.com/blog/absenteeism-workplace-statistics). Cites BLS Current Population Survey data.
+
+- Swept. Janitorial Industry Turnover Rate (https://learn.sweptworks.com/janitorial-industry-turnover-rate). Reports 75% to 375% range.
+
+- Hospitable / Rental Scale-Up. Why Finding Reliable Cleaners Is Getting Harder (https://www.rentalscaleup.com/why-finding-reliable-cleaners-is-getting-harder-and-why-it-likely-wont-improve-in-2026-short-term-rental-cleaning-staff-shortages-2026/). Survey of 554 PMs, Nov-Dec 2025.

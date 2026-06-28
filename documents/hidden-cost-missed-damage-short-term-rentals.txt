@@ -1,0 +1,148 @@
+The Hidden Cost of Missed Damage in Short-Term Rentals
+
+Source: https://rapideyeinspections.com/blog/hidden-cost-missed-damage-short-term-rentals/
+
+_Property managers lose thousands to undetected damage every year. Learn why manual inspections miss so much and how baseline comparison changes the game._
+
+The Hidden Cost of Missed Damage in Short-Term Rentals
+
+The short version: Damage claims occur in roughly 0.4% to 1.5% of short-term rental stays, but property managers only recover 56% to 68% of what they claim. The biggest reason claims get denied is missing baseline documentation: cleaners working under 20 to 30 minute turnover windows cannot reliably distinguish new damage from existing wear, and platforms like Airbnb and Vrbo will not pay out claims that lack timestamped before-and-after evidence.
+
+Baseline comparison, creating a visual record of each property and comparing new inspections against it, is the only systematic way to prove damage attribution and recover otherwise-lost claim revenue.
+
+Most property managers I talk to know damage happens. What they don’t know is how much of it slips through.
+
+Let me share some numbers that surprised me. An analysis of 20,000+ bookings in the Smoky Mountains (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/) found damage claims occurred in about 0.7% of Airbnb stays and 0.4% of Vrbo stays. Another dataset of nearly 19,000 reservations (https://myangelhost.com/debunking-the-myth-lower-prices-and-property-damage-in-vacation-rentals/) showed a 1.48% claim rate. So roughly 1 in 100 to 1 in 200 stays results in a damage claim.
+
+That sounds manageable until you think about scale. If you’re running 50 units with decent occupancy, you’re looking at several damage incidents per year. And here’s the thing: those are just the claims that actually get filed. The damage that gets caught, documented, and submitted. What about everything else?
+
+Why Manual Inspections Miss So Much
+
+I’ve spent a lot of time talking to property managers about their turnover process. The pattern is pretty consistent.
+
+Cleaners have maybe 20 to 30 minutes (https://www.doorloop.com/blog/rental-property-inspection) per unit. They’re focused on getting the place guest ready, not forensically documenting every surface. They’re working in whatever lighting happens to be there. They’re often rushing between properties.
+
+Under those conditions, here’s what gets missed:
+
+- Small scratches and scuffs on walls, floors, and furniture
+
+- Stains that blend into patterns or show up differently under certain light
+
+- Missing items like remotes, kitchen tools, or decor pieces
+
+- Damage that looks like existing wear because no one remembers what it looked like before
+
+That last one is the killer. If you can’t prove something is new damage versus pre-existing wear, you can’t claim it. And most property managers don’t have a reliable visual baseline to compare against.
+
+The Downstream Pain
+
+Missed damage doesn’t just mean repair costs. It creates a whole cascade of problems.
+
+Claims Get Denied
+
+Both Airbnb and Vrbo give you 14 days after checkout (https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) to file a damage claim. That sounds reasonable until you realize you need to:
+
+- Discover the damage
+
+- Document it properly
+
+- Gather evidence that it wasn’t pre-existing
+
+- Submit everything through the platform
+
+If your cleaner doesn’t catch a scratch until the next guest has already checked in, you’ve now got an attribution problem. Was it Guest A or Guest B? Platforms won’t pay out if you can’t prove it.
+
+Even when you file on time, Airbnb’s Host Damage Protection (https://www.airbnb.com/help/article/2869) explicitly requires “evidence” including photos, videos, receipts, and repair estimates. That same Smoky Mountains analysis found hosts only get 56 to 68% of claimed amounts approved (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/). Nearly half of what you claim just disappears.
+
+The Wear vs Damage Problem
+
+Platforms don’t cover normal wear and tear (https://www.airbnb.com/help/article/279). Makes sense. But in practice, this creates a gray zone that works against you.
+
+Is that couch cushion stain from this guest or has it been slowly accumulating? Is that scuff on the hardwood from someone dragging luggage or just years of foot traffic? Without before and after documentation, you’re guessing. And when you’re guessing, the platform defaults to “wear and tear” and denies the claim.
+
+Guest Disputes Turn Ugly
+
+When you do try to charge a guest for damage, they often push back. Understandably. They don’t remember causing it, or they think it was already there.
+
+Without timestamped visual evidence from before their stay, these disputes become he said she said. You might be right, but you can’t prove it. So you either eat the cost or damage your relationship with the guest and potentially your reviews.
+
+What Actually Works: Baseline Comparison
+
+The core problem isn’t that cleaners are bad at their jobs. It’s that humans aren’t great at remembering exactly what 50 different properties looked like last week.
+
+The solution is pretty simple in concept: create a visual baseline of each property, then compare new inspection footage against it to spot changes.
+
+This is what we’re building at RapidEye. The system works with video or existing photos. You don’t have to change your workflow. Your cleaners do their normal walkthrough, we process the footage, and our AI flags anything that looks different from the baseline.
+
+New scratch on the coffee table? Flagged. Stain on the carpet that wasn’t there before? Flagged. Missing throw pillow? Flagged.
+
+Each detection comes with timestamps and visual evidence. So when you need to file a claim or respond to a guest dispute, you have actual proof that the damage is new and attributable to a specific stay.
+
+If You’re Not Ready for Automation
+
+Look, not everyone is ready to bring in new software. I get it. Here’s what you can do right now to reduce missed damage:
+
+Standardize Your Photo Protocol
+
+Create a shot list for each property. Same angles, same sequence, every turnover. This at least gives you something to compare against manually.
+
+Improve Lighting During Inspections
+
+Damage hides in shadows. If your cleaners are inspecting in dim conditions, they’re going to miss things. Consider adding “turn on all lights and open blinds” to your checklist.
+
+Build in Dedicated Inspection Time
+
+Separate cleaning from inspecting. Even 5 minutes of focused damage checking after the clean is done will catch more than trying to do both simultaneously.
+
+Document Known Wear Proactively
+
+Take photos of existing wear items and keep them on file. When a guest claims “that scratch was already there,” you can actually verify whether they’re right.
+
+Set Calendar Reminders for Claim Deadlines
+
+You’ve got 14 days. Set an alert at checkout plus 7 days to review the property condition before you run out of time.
+
+The Bottom Line
+
+The vacation rental market (https://www.fortunebusinessinsights.com/vacation-rentals-market-113271) is projected to nearly triple to $481 billion by 2034. That’s a lot of properties, a lot of turnovers, and a lot of damage slipping through the cracks.
+
+Property managers who figure out damage detection now are going to have a real advantage. Not just in recovered costs, but in cleaner operations and fewer disputes.
+
+Whether you use RapidEye or build your own process, the principle is the same: you can’t catch what you can’t see, and you can’t claim what you can’t prove. Baseline comparison solves both problems.
+
+If you want to see how automated detection works in practice, I’m happy to show you. But honestly, even just tightening up your manual documentation will put you ahead of most operators. Start there.
+
+Sources
+
+- Avada Properties: Airbnb and Vrbo Damage Claims Statistics and Assumptions (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/)
+https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/
+
+- MyAngelHost: Debunking the Myth, Lower Prices and Property Damage in Vacation Rentals (https://myangelhost.com/debunking-the-myth-lower-prices-and-property-damage-in-vacation-rentals/)
+https://myangelhost.com/debunking-the-myth-lower-prices-and-property-damage-in-vacation-rentals/
+
+- Airbnb Help Center: Host Damage Protection (Article 2869) (https://www.airbnb.com/help/article/2869)
+https://www.airbnb.com/help/article/2869
+
+- Airbnb Help Center: Wear and Tear Policy (Article 279) (https://www.airbnb.com/help/article/279)
+https://www.airbnb.com/help/article/279
+
+- Vrbo Help Center: How Do I File a Damage Deposit Claim? (https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim)
+https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim
+
+- DoorLoop: Rental Property Inspection Guide (https://www.doorloop.com/blog/rental-property-inspection)
+https://www.doorloop.com/blog/rental-property-inspection
+
+- Fortune Business Insights: Vacation Rentals Market Size, Share & Forecast (https://www.fortunebusinessinsights.com/vacation-rentals-market-113271)
+https://www.fortunebusinessinsights.com/vacation-rentals-market-113271
+
+Related Reading
+
+- How to Actually Get Reimbursed Through Airbnb AirCover in 2026 (https://rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide/)
+
+- Best AI Turnover Inspection Tools for Short-Term Rentals in 2026 (https://rapideyeinspections.com/blog/best-ai-turnover-inspection-short-term-rentals-2026/)
+
+- The 5-Layer AI Stack for Short-Term Rental Operations (https://rapideyeinspections.com/blog/best-ai-short-term-rental-operations-2026/)
+
+- Does Paraspot Work for Short-Term Rentals? (https://rapideyeinspections.com/blog/does-paraspot-work-for-short-term-rentals/)
+
+- Why STR Damage Claims Get Denied (https://rapideyeinspections.com/blog/why-str-damage-claims-get-denied/)

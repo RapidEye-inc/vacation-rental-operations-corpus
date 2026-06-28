@@ -1,0 +1,170 @@
+# The Largest Vacation Rental Management Companies in Florida (2026)
+
+Source: https://rapideyeinspections.com/blog/largest-vacation-rental-management-companies-florida/
+
+_A sourced 2026 ranking of the largest vacation rental management companies in Florida, by region, with unit counts. Casago-Vacasa, VTrips, Prime Vacations, Panhandle Getaways, 360 Blue. Built on the VRMA member directory._
+
+# The Largest Vacation Rental Management Companies in Florida, 2026
+
+Florida has more professional vacation rental managers than any other state. Here is who runs the most homes, ranked and sourced, plus a region-by-region map of the country's biggest short-term rental market.
+
+The largest vacation rental manager operating in Florida is **Casago**, the franchise company that acquired Vacasa in May 2025 and runs roughly 40,000 homes across North America. Vacasa built its Florida presence largely by acquiring the Gulf Coast operator Sterling Resorts in 2019, and still runs homes across Destin, 30A, Panama City Beach, and Orlando, while the tech-enabled platform **Evolve** lists homes throughout the state.
+
+The largest vacation rental company headquartered in Florida is **VTrips**, based in Ponte Vedra near Jacksonville, with about 7,000 rentals across the Southeast. Among independent operators based in Florida, the largest are **Prime Vacations** (~1,000 homes on Anna Maria Island), **Panhandle Getaways** (900+ on the Emerald Coast), and **360 Blue** (~700 on 30A).
+
+Florida is the most concentrated vacation rental management market in the United States: **718 management companies** name Florida as their home state in the VRMA directory, nearly double California's 443. The single densest region is not Orlando but the **Emerald Coast and 30A** Panhandle, which accounts for about 31 percent of all professionally managed units reported in the state.
+
+This report separates two groups. **Tier 1** is national operators with significant Florida portfolios; their unit counts are company-wide totals from public sources, not Florida-only figures, because these companies do not publish per-state counts. **Tier 2** is the largest operators headquartered in Florida, ranked by the number of units they self-reported to the Vacation Rental Management Association (VRMA) member directory as of March 2026.
+
+VRMA figures are operator self-reported and not independently audited; we corroborate the largest against company websites and press, and we use the operator's own published figure where one exists. We exclude companies headquartered outside Florida (for example Nocturne Luxury Villas, a Rhode Island holding company), brands owned by the national roll-ups (Jeeves is now a Casago brand; Distinctive Beach Rentals and Southern Vacation Rentals belong to VTrips), single-resort rental desks, HOA and timeshare programs, and software vendors, so the list reflects third-party vacation rental management. Founding years and PMS data also come from the VRMA directory. The directory snapshot is from March 2026; company-website figures were verified in June 2026. Every external number is cited inline and listed with its URL at the end.
+
+## Florida is the country's biggest management market
+
+Before ranking individual companies, it helps to see the scale of the field. According to the March 2026 VRMA member directory, no state comes close to Florida's count of professional vacation rental management companies.
+
+VRMA member companies by home state, March 2026 directory. Counts members that list each state as their headquarters.
+
+The takeaway is not just that Florida is big, it is that Florida's management market is **fragmented**. A median founding year of 2014 (among the 438 Florida members that reported one) and a long tail of small operators means there is no single dominant local brand the way there is in some smaller ski or beach markets. Hundreds of independent managers compete alongside the national platforms, which is exactly why a sourced ranking is useful.
+
+## Florida is really eight markets
+
+Vacation rental management in Florida does not behave as one statewide market. It is a set of distinct coastal and theme-park economies, each with its own leading operators. Grouping the 328 unit-reporting members by region reveals where the homes actually are.
+
+Self-reported managed units among the 328 Florida VRMA members that reported a unit count, grouped by the region of their headquarters city. About 1,400 additional units sit with members in smaller or statewide markets not shown.
+
+### The Panhandle, not Orlando, is Florida's management heartland
+
+Most people assume Orlando and Disney drive Florida's vacation rental industry. By raw professional management concentration, they are wrong. The **Emerald Coast and 30A** corridor (Destin, Miramar Beach, Santa Rosa Beach, and Panama City Beach) holds about **8,900 self-reported managed units across 62 companies**, roughly 31 percent of the nearly 29,000 units reported statewide and more than the Orlando theme-park corridor.
+
+The reason is structural. The Panhandle is overwhelmingly a whole-home beach market built for professional management, while Orlando's inventory skews toward owner-managed condos and large branded resort programs that do not all run through independent VRMs. For an operator deciding where to expand or who to benchmark against, the Panhandle is the most competitive professional arena in the state.
+
+## Tier 1: National operators with major Florida portfolios
+
+These are the largest companies running vacation rentals in Florida. Their unit counts are company-wide totals, not Florida-only figures, because none publish per-state breakdowns.
+
+| # | Company | Total units | Florida footprint |
+| --- | --- | --- | --- |
+| 1 | Casago (incl. Vacasa) NationalLargest North American manager, post-2025 merger | ~40,000 | Entered via Sterling Resorts & ResortQuest (2019); Destin, 30A, PCB, Orlando |
+| 2 | Evolve NationalTech-enabled lean platform, half-service model | 30,000+ | Florida markets within 750+ US and Mexico markets |
+| 3 | VTrips FL HQLargest Florida-headquartered operator, a roll-up | ~7,000 | HQ Ponte Vedra; Gulf Coast, Panhandle, statewide |
+
+## Tier 2: The largest Florida-headquartered operators
+
+Independent operators that call Florida home, ranked by the units they self-reported to the VRMA member directory in March 2026. These are the regional brands that, together, manage the bulk of Florida's professionally run inventory.
+
+| # | Company | Unitsself-reported | Region / HQ |
+| --- | --- | --- | --- |
+| 1 | Prime VacationsAnna Maria Island, founded 2017 | ~1,000company | SW Gulf Coast / Anna Maria |
+| 2 | Panhandle GetawaysBeach rentals, 30-plus years on the coast | 900+company | Emerald Coast / Panama City Beach |
+| 3 | 360 BlueLuxury 30A homes, founded 2008, part of Natural Retreats | ~700company | Emerald Coast / Santa Rosa Beach |
+| 4 | Royal Shell VacationsLargest in SW Florida, began 1996 | 500+on Sanibel | SW Gulf Coast / Sanibel Island |
+| 5 | Ocean Reef Vacation RentalsFounded 1982 | ~528company | Emerald Coast / Destin |
+| 6 | RoamiFormerly Sextant Stays, founded 2016 | ~500company | South Florida / Miami |
+| 7 | Scenic StaysFounded 2018 | ~450VRMA | Emerald Coast / Destin |
+| 8 | Benchmark ManagementFounded 2017 | ~420VRMA | Emerald Coast / Santa Rosa Beach |
+| 9 | Luxury Coastal VacationsFounded 2007 | ~330VRMA | Emerald Coast / Pensacola |
+| 10 | Cape & Coast Premier PropertiesFounded 2016 | ~290VRMA | Forgotten Coast / Port St. Joe |
+
+## Who leads each Florida region
+
+The statewide ranking hides the local reality: most Florida owners hire by region. Here is the leading independent operator picture in each major market, drawn from the same directory.
+
+### Emerald Coast / 30A
+
+**Panhandle Getaways**, **360 Blue**, **Ocean Reef**, **Scenic Stays**, and **Benchmark** lead the Panhandle, alongside Vacasa's Sterling Resorts brand. The densest professional market in the state.
+
+### Orlando / Theme Parks
+
+**Jeeves** (now a Casago brand) and a long tail of Disney-area villa managers in Davenport, Kissimmee, and Reunion. High volume, but more owner-managed condos than the beaches.
+
+### SW Gulf Coast
+
+**Prime Vacations** (Bradenton) and **Royal Shell** (Sanibel) anchor the Naples, Sarasota, Fort Myers, and Marco Island markets.
+
+### Atlantic / NE Florida
+
+**VTrips** is headquartered in Ponte Vedra in this region, which spans Jacksonville, Amelia Island, St. Augustine, and the Space Coast. It is more fragmented than the beaches, with no single dominant independent brand.
+
+### South Florida
+
+**Roami** (formerly Sextant Stays) and **Portoro** lead a Miami and Fort Lauderdale market that is more urban and condo-driven than the rest of the state.
+
+### Forgotten Coast & the Keys
+
+**Cape & Coast** and **Collins Vacation Rentals** on the quiet Forgotten Coast; a small, tightly held set of operators in the Florida Keys.
+
+These cards cover the six largest regions by managed units; the remaining members report from Tampa Bay and smaller or statewide markets.
+
+## Three operators that define the Florida market
+
+VTrips is the largest vacation rental company headquartered in Florida and the clearest example of the roll-up model in US vacation rentals. Founder Steve Milo launched it as Vacation Rental Pros in 2002 and grew it by acquiring regional operators in Florida, the Gulf Coast, the Blue Ridge, and the Smokies. According to [VTrips](https://www.prnewswire.com/news-releases/vtrips-expands-portfolio-to-7-000-vacation-rentals-1-000-employees-301565493.html), the company now manages more than 7,000 rentals across 35 markets in 10 states with about 1,000 employees.
+
+Its Florida growth came by acquisition: VTrips bought Southern Vacation Rentals (about 1,120 Panhandle and Alabama homes) in 2022, plus Resort Collection in Panama City Beach and Distinctive Beach Rentals in Fort Myers Beach. That playbook, buying local brands and integrating them onto a shared operations stack, is the consolidation pattern now reshaping the state.
+
+Vacasa built its Florida footprint through acquisition. According to [ShortTermRentalz](https://shorttermrentalz.com/news/vacasa-sterling-resorts-purchase/), Vacasa acquired Sterling Resorts, a Gulf Coast operator running about 450 homes, on April 15, 2019, establishing its Northwest Florida presence, and still markets those homes across Destin, 30A, and Panama City Beach. Later in 2019 it acquired Wyndham Vacation Rentals, which brought the [ResortQuest](https://www.vacasa.com/partners/resortquest) brand long associated with the Florida Panhandle.
+
+Vacasa was acquired by the Arizona franchise company Casago in May 2025; the combined company manages approximately 40,000 homes across North America. Its Florida operation spans the Panhandle and Orlando, making Casago-Vacasa the largest single manager of Florida vacation homes despite the absence of a published state-level count.
+
+Panhandle Getaways is among the largest independent, family-owned managers on Florida's Emerald Coast, a market it has worked for more than 30 years. According to its website, it manages over 900 condos and beach homes across Panama City Beach, 30A, Destin, Fort Walton, and the Forgotten Coast. It is the kind of established regional operator, deep in one coastline rather than spread thin across the country, that defines how Florida's professional inventory is actually run, and the kind of brand the national roll-ups target for acquisition.
+
+Its scale on a single stretch of coast is a reminder that in Florida, regional depth often beats national breadth: the operators who dominate a beach know its rental calendar, its repair vendors, and its owners better than any platform can.
+
+## What the data says about Florida's market
+
+### It is consolidating, but slowly
+
+Florida's combination of 718 management companies and a median founding year of 2014 describes a young, fragmented field. National roll-ups (Casago-Vacasa, Evolve, VTrips) are buying their way in, but no single brand controls the state. The independents in Tier 2 still collectively manage far more homes than any one national platform's Florida slice, which is why local reputation and regional depth remain the currency of the market.
+
+### Legacy software still runs the coast
+
+Among Florida VRMA members that reported a property management system, **Streamline** is the most common (54 companies), followed by HomeAway and Vrbo software products (37), Ciirus (19), LiveRez (11), Guesty (10), and Hostaway (9). That legacy-heavy mix is notable: while the newest companies nationally lean toward Hostaway and Guesty, Florida's established beach operators still run older, deeply embedded systems. We unpack that generational split in our [analysis of the vacation rental PMS market](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/).
+
+### Scale makes turnover quality the binding constraint
+
+The operators on this list run hundreds to thousands of homes across multiple beaches and theme-park submarkets, which makes consistent turnover inspection the hardest operational problem they face. A 900-home Emerald Coast manager handling back-to-back summer Saturdays is reviewing tens of thousands of cleaning and condition photos a season. That volume is exactly where [AI turnover inspection](https://rapideyeinspections.com/blog/best-ai-turnover-inspection-short-term-rentals-2026/) is being adopted fastest among operators in the 200-home-plus range.
+
+## Frequently asked questions
+
+The largest manager operating in Florida is Casago, which acquired Vacasa in May 2025 and runs roughly 40,000 homes across North America. Vacasa entered Florida by acquiring the Gulf Coast operators Sterling Resorts and Wyndham Vacation Rentals (ResortQuest) in 2019. The largest company headquartered in Florida is VTrips, based in Ponte Vedra near Jacksonville, with about 7,000 rentals. Among independent Florida-based operators, the largest is Prime Vacations on Anna Maria Island, with about 1,000 homes.
+
+As of the March 2026 VRMA member directory, 718 member companies list Florida as their home state, more than any other US state and nearly double California's 443. Of those, 328 reported a unit count, totaling roughly 29,000 self-reported managed homes. The true number of all Florida vacation rental managers is higher, since not every operator is a VRMA member.
+
+The Emerald Coast and 30A region of the Panhandle (Destin, Miramar Beach, Santa Rosa Beach, and Panama City Beach) leads, with about 8,900 self-reported managed units across 62 companies, roughly 31 percent of the nearly 29,000 units reported statewide. That is more than the Orlando theme-park corridor, contradicting the common assumption that Orlando dominates Florida vacation rental management.
+
+Yes. Vacasa, now owned by Casago, is one of the largest vacation rental managers in Florida. It acquired Sterling Resorts, a Gulf Coast operator with about 450 homes, on April 15, 2019, and still markets those homes across Destin, 30A, and Panama City Beach. Vacasa also operates in Orlando and other Florida markets.
+
+VTrips, headquartered in Ponte Vedra near Jacksonville, is the largest. It was founded in 2002 by Steve Milo as Vacation Rental Pros and grew through acquisitions of regional operators in Florida, the Gulf Coast, the Blue Ridge, and the Smokies. VTrips says it now manages more than 7,000 rentals across 35 markets in 10 states with about 1,000 employees.
+
+### How Florida's largest operators keep turnover quality consistent at scale
+
+Across hundreds of beach and theme-park homes, damage and cleaning issues slip through manual photo review. RapidEye automates that inspection layer and plugs into Breezeway, Guesty, and Streamline PropertyCare. Built by Carnegie Mellon researchers.
+
+## Sources
+
+- [Vacation Rental Management Association (VRMA) public member directory, March 2026 compilation (state, units, founding year, PMS)](https://www.vrma.org/)https://www.vrma.org/
+
+- [Why has Vacasa decided to purchase Sterling Resorts in Florida? - ShortTermRentalz (April 2019, 450 Gulf Coast homes)](https://shorttermrentalz.com/news/vacasa-sterling-resorts-purchase/)https://shorttermrentalz.com/news/vacasa-sterling-resorts-purchase/
+
+- [ResortQuest is now managed by Vacasa - Vacasa (Northwest Florida)](https://www.vacasa.com/partners/resortquest)https://www.vacasa.com/partners/resortquest
+
+- [Casago Completes Acquisition of Vacasa - Vacasa press release (May 2025, ~40,000 homes)](https://www.vacasa.com/news/casago-completes-vacasa-acquisition)https://www.vacasa.com/news/casago-completes-vacasa-acquisition
+
+- [VTrips Expands Portfolio to 7,000 Vacation Rentals, 1,000 Employees - PR Newswire (HQ Ponte Vedra, founded 2002, 10 states)](https://www.prnewswire.com/news-releases/vtrips-expands-portfolio-to-7-000-vacation-rentals-1-000-employees-301565493.html)https://www.prnewswire.com/news-releases/vtrips-expands-portfolio-to-7-000-vacation-rentals-1-000-employees-301565493.html
+
+- [VTrips Announces Acquisition of Southern Vacation Rentals - PR Newswire (April 2022, +1,120 properties; Resort Collection & Distinctive Beach Rentals)](https://www.prnewswire.com/news-releases/vtrips-announces-acquisition-of-southern-vacation-rentals-301533790.html)https://www.prnewswire.com/news-releases/vtrips-announces-acquisition-of-southern-vacation-rentals-301533790.html
+
+- [About Us - Prime Vacations (founded 2017, Anna Maria Island, 1,000+ rentals)](https://primevacations.com/about-us/)https://primevacations.com/about-us/
+
+- [Panhandle Getaways (900+ condos and beach homes, Emerald Coast)](https://www.panhandlegetaways.com/)https://www.panhandlegetaways.com/
+
+- [Natural Retreats Acquires 360 Blue - PR Newswire (Sept 9, 2020, 700+ Gulf Coast properties)](https://www.prnewswire.com/news-releases/natural-retreats-acquires-360-blue-301126788.html)https://www.prnewswire.com/news-releases/natural-retreats-acquires-360-blue-301126788.html
+
+- [Royal Shell Vacations (500+ Sanibel/Captiva homes, largest in Southwest Florida, since 1996)](https://www.royalshell.com/)https://www.royalshell.com/
+
+- [Ocean Reef Vacation Rentals & Real Estate (528 properties, founded 1982, Destin/30A)](https://www.oceanreefresorts.com/)https://www.oceanreefresorts.com/
+
+- [Sextant Stays becomes Roami - TechCrunch (March 2023, 500 units, founded 2016)](https://techcrunch.com/2023/03/07/sextant-stays-becomes-roami/)https://techcrunch.com/2023/03/07/sextant-stays-becomes-roami/
+
+- [What the Largest Vacation Rental Companies in the U.S. Really Look Like - Rental Scale-Up (Evolve 30,000+)](https://www.rentalscaleup.com/largest-vacation-rental-companies-us-2025/)https://www.rentalscaleup.com/largest-vacation-rental-companies-us-2025/
+
+## Related Reading

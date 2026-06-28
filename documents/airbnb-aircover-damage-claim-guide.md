@@ -1,0 +1,199 @@
+# How to Actually Get Reimbursed Through Airbnb AirCover in 2026 (Step-by-Step)
+
+Source: https://rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide/
+
+_A practical guide to filing Airbnb AirCover damage claims. Learn the 14-day deadline, required documentation, common rejection reasons, and how to win your claim._
+
+# How to Actually Get Reimbursed Through Airbnb AirCover in 2026 (Step-by-Step)
+
+**The short version:** Airbnb AirCover Host Damage Protection covers up to $3 million per booking, but hosts must file a damage reimbursement request through the Resolution Center within 14 days of guest checkout. Missing the 14-day window is the single most common reason claims get denied. Other top rejection reasons are unprofessional invoices without company letterhead, depreciation reducing the payout below expectations, and inability to prove damage was new rather than pre-existing wear.
+
+Successful AirCover claims share three traits: timestamped before-and-after photos, itemized invoices on professional letterhead from established vendors, and obsessive baseline documentation taken before each stay so that new damage is provable.
+
+If you’ve ever tried to file an AirCover claim, you know the reputation. Hosts complain about confusing processes, [slow support channels](https://www.reddit.com/r/airbnb_hosts/comments/19cecfu), and claims that get denied for reasons that aren’t always clear. But here’s the thing: hosts do win AirCover claims. Some have gotten [payouts over $40,000](https://www.reddit.com/r/airbnb_hosts/comments/1dckqvo). The difference usually comes down to documentation and timing.
+
+This guide breaks down exactly how to file an AirCover damage claim, what documentation Airbnb actually requires, and how to avoid the most common rejection reasons.
+
+## What AirCover Actually Is (and Isn’t)
+
+First, let’s clear something up. AirCover’s Host Damage Protection is [not insurance](https://www.airbnb.com/help/article/2869). It’s a contractual guarantee from Airbnb. The coverage limit is **$3 million per booking**, which sounds great on paper.
+
+What’s covered:
+- Damage to your home, furnishings, and belongings caused by guests
+- Damage to parked vehicles caused by guests
+- Certain extra cleaning costs (stains, pet accidents, smoke odor)
+- Lost income if you cancel confirmed bookings due to guest damage
+
+What’s not covered:
+- Normal wear and tear
+- Loss of currency
+- Acts of nature (earthquakes, hurricanes)
+- Regular checkout cleaning (laundry, dishes, trash)
+- [Mysterious disappearance or unexplained inventory shortages](https://www.airbnb.com/help/article/2869)
+
+One thing that surprises a lot of hosts: Airbnb uses **Actual Cash Value** for payouts. That means they factor in depreciation. Your 3-year-old couch that got destroyed? You’re not getting full replacement cost.
+
+## The Timeline You Absolutely Cannot Miss
+
+This is where most claims die. Airbnb has a **14-day window** after checkout to file a damage claim in the Resolution Center. Miss it, and you’re probably out of luck.
+
+The [official process](https://www.airbnb.com/help/article/279) goes like this:
+
+- Document the damage immediately
+
+- File a reimbursement request in the Resolution Center within 14 days of checkout
+
+- The guest has 24 hours to respond
+
+- If unresolved, Airbnb reviews and makes a decision
+
+There’s also a 30-day window mentioned in the [Host Damage Protection Terms](https://www.airbnb.com/help/article/2869) for submitting the formal Payment Request Form with full documentation. But the safe move is to act within 14 days. Don’t wait.
+
+## Before the Stay: Set Yourself Up to Win
+
+The best time to prepare for a damage claim is before any damage happens. Here’s what that looks like:
+
+**Create a baseline record of your property.** Take photos or video of every room, every piece of furniture, every appliance. Include:
+- Make and model of items
+- Purchase dates and receipts if you have them
+- Current condition
+
+This baseline is what you’ll compare against when damage occurs. Without it, proving something is “new damage” versus pre-existing is much harder.
+
+**Keep receipts organized.** Airbnb will ask for proof of ownership and original purchase prices. Having these ready saves time when you’re scrambling after a bad checkout.
+
+**Document before every turnover.** This is the part most hosts skip because it’s tedious at scale. If you’re managing multiple properties, you probably have cleaners taking photos already. The question is whether anyone’s actually reviewing them. Tools like RapidEye can automatically compare turnover photos against your baseline to flag new damage before you even know about it.
+
+## After Damage: The Filing Process Step-by-Step
+
+Okay, damage happened. Here’s what to do:
+
+### Step 1: Document Everything Immediately
+
+Take photos and videos of all damage. Include:
+- Wide shots showing context
+- Close-ups showing detail
+- Timestamps (your phone does this automatically)
+
+If there’s theft or criminal activity, file a police report. Airbnb [requires this](https://www.airbnb.com/help/article/2869) for those types of claims.
+
+### Step 2: Get Repair Estimates
+
+Contact professionals for written estimates. This is important: your invoices and estimates need to look legitimate. Hosts have reported claims rejected because [invoices lacked company logos or letterhead](https://www.reddit.com/r/airbnb_hosts/comments/1mu5vjh). Get itemized quotes from established vendors with proper business branding.
+
+### Step 3: File in the Resolution Center (Within 14 Days)
+
+Go to the Resolution Center and submit a reimbursement request. Include:
+- Clear description of damage
+- All photos and videos
+- Repair estimates or invoices
+- Proof of original purchase (receipts, order confirmations)
+- Inventory details (make, model, age, condition)
+
+### Step 4: Wait for Guest Response
+
+The guest gets 24 hours to respond. If they accept, great. If they dispute or ignore it, Airbnb steps in.
+
+### Step 5: Submit the Payment Request Form
+
+Within 30 days of the loss, complete Airbnb’s formal Host Damage Protection Payment Request Form with all supporting documentation.
+
+## Documentation That Actually Gets Approved
+
+Based on what hosts report working, here’s what “good” documentation looks like:
+
+| Good Documentation | Bad Documentation |
+| --- | --- |
+| Photos with clear timestamps | Undated photos |
+| Professional invoice with company letterhead | Handwritten note or invoice without branding |
+| Itemized repair estimates | Vague “fix stuff” quotes |
+| Before/after comparison photos | Only “after” photos |
+| Make, model, and age of damaged items | “It was a couch” |
+| Original purchase receipts | No proof of ownership |
+
+One host [reported success](https://www.reddit.com/r/airbnb_hosts/comments/wh28c1) getting a broken faucet claim paid after submitting photos plus an itemized plumber invoice on company letterhead. Another got [$185 paid quickly](https://www.reddit.com/r/airbnb_hosts/comments/1ezoz9f) with just photos and price screenshots for a smaller item.
+
+## Common Rejection Reasons (and How to Avoid Them)
+
+**Missed the 14-day window.** This is the most common. Set a reminder after every checkout to review photos and file immediately if there’s damage.
+
+**Depreciation reduced the payout.** Airbnb pays Actual Cash Value, not replacement cost. [Hosts report](https://www.reddit.com/r/airbnb_hosts/comments/1gak9au) getting less than expected because items weren’t new. Document the condition and age upfront so there are no surprises.
+
+**“Normal wear and tear” classification.** If Airbnb thinks it’s normal use, they won’t pay. Your before photos matter here. A stain that appeared during one specific stay is damage. Gradual fading is wear and tear.
+
+**Invoice looked illegitimate.** Use established vendors with proper business formatting. This seems nitpicky, but it’s a real rejection reason.
+
+**Insufficient incident documentation.** Some claims require a [professional incident report stating root cause](https://community.withairbnb.com/t5/Help-with-your-business/Airbnb-declined-my-reimbursement-request-because-of/td-p/2188479), especially for appliance damage. If Airbnb asks for this, get it quickly before your case gets closed.
+
+## What to Do If You’re Denied
+
+Don’t give up immediately. Hosts who [push back and escalate](https://www.reddit.com/r/airbnb_hosts/comments/1kto3ls) often get better outcomes. Steps to try:
+
+- Ask for a detailed explanation of the denial
+
+- Provide additional documentation addressing their concerns
+
+- Call support repeatedly (yes, really) until you get traction
+
+- Reference the specific Host Damage Protection Terms that support your claim
+
+- If all else fails, the Terms mention arbitration as an option
+
+Persistence matters. One host reported needing multiple calls before their $7,500 claim finally got paid.
+
+## Quick Note: How Vrbo Compares
+
+For context, Vrbo also has a [14-day window](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) for damage claims. Their process routes through a security deposit model rather than a platform guarantee. Most claims process in 3-7 business days, and they’ll cover valid claims up to your deposit amount even if they can’t collect from the guest. Different approach, similar documentation requirements.
+
+## The Bottom Line
+
+AirCover claims aren’t impossible to win. The hosts who succeed are the ones who document obsessively, file fast, and don’t give up when things get messy. The 14-day deadline is non-negotiable. Professional-looking documentation matters more than you’d think. And having before photos to compare against is what separates “he said, she said” from a provable claim.
+
+If you’re managing multiple properties and struggling to review every turnover photo manually, that’s exactly the problem we built RapidEye to solve. Automatic damage detection, before-and-after comparisons, timestamped evidence ready to go. But whether you use software or do it yourself, the principle is the same: document everything, file fast, and don’t let good claims die from bad paperwork.
+
+## Sources
+
+- [Airbnb Help Center: Host Damage Protection Terms (Article 2869)](https://www.airbnb.com/help/article/2869)
+https://www.airbnb.com/help/article/2869
+
+- [Airbnb Help Center: Resolution Center and Reimbursement Process (Article 279)](https://www.airbnb.com/help/article/279)
+https://www.airbnb.com/help/article/279
+
+- [Vrbo Help Center: How Do I File a Damage Deposit Claim?](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim)
+https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim
+
+- [Airbnb Community Forum: Reimbursement Request Denied Due to Missing Incident Report](https://community.withairbnb.com/t5/Help-with-your-business/Airbnb-declined-my-reimbursement-request-because-of/td-p/2188479)
+https://community.withairbnb.com/t5/Help-with-your-business/Airbnb-declined-my-reimbursement-request-because-of/td-p/2188479
+
+- [r/airbnb_hosts: Host Reports $40,000+ AirCover Payout](https://www.reddit.com/r/airbnb_hosts/comments/1dckqvo)
+https://www.reddit.com/r/airbnb_hosts/comments/1dckqvo
+
+- [r/airbnb_hosts: AirCover Support Channel Frustrations](https://www.reddit.com/r/airbnb_hosts/comments/19cecfu)
+https://www.reddit.com/r/airbnb_hosts/comments/19cecfu
+
+- [r/airbnb_hosts: Claim Rejected for Invoice Lacking Company Letterhead](https://www.reddit.com/r/airbnb_hosts/comments/1mu5vjh)
+https://www.reddit.com/r/airbnb_hosts/comments/1mu5vjh
+
+- [r/airbnb_hosts: Successful Broken Faucet Claim with Plumber Invoice](https://www.reddit.com/r/airbnb_hosts/comments/wh28c1)
+https://www.reddit.com/r/airbnb_hosts/comments/wh28c1
+
+- [r/airbnb_hosts: $185 Quick Approval with Photos and Price Screenshots](https://www.reddit.com/r/airbnb_hosts/comments/1ezoz9f)
+https://www.reddit.com/r/airbnb_hosts/comments/1ezoz9f
+
+- [r/airbnb_hosts: Depreciation Reduced Payout Below Expectations](https://www.reddit.com/r/airbnb_hosts/comments/1gak9au)
+https://www.reddit.com/r/airbnb_hosts/comments/1gak9au
+
+- [r/airbnb_hosts: Persistence and Escalation on Denied Claims](https://www.reddit.com/r/airbnb_hosts/comments/1kto3ls)
+https://www.reddit.com/r/airbnb_hosts/comments/1kto3ls
+
+## Related Reading
+
+- [The Hidden Cost of Missed Damage in Short-Term Rentals](https://rapideyeinspections.com/blog/hidden-cost-missed-damage-short-term-rentals/)
+
+- [Why STR Damage Claims Get Denied](https://rapideyeinspections.com/blog/why-str-damage-claims-get-denied/)
+
+- [Best AI Turnover Inspection Tools for Short-Term Rentals in 2026](https://rapideyeinspections.com/blog/best-ai-turnover-inspection-short-term-rentals-2026/)
+
+- [The 5-Layer AI Stack for Short-Term Rental Operations](https://rapideyeinspections.com/blog/best-ai-short-term-rental-operations-2026/)
+
+- [Vrbo Damage Claim Guide for 2026](https://rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026/)

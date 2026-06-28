@@ -1,0 +1,39 @@
+How Many Maintenance Techs Do You Need for 200 Vacation Rentals?
+
+Source: https://rapideyeinspections.com/blog/how-many-maintenance-techs-200-vacation-rentals/
+
+_Plan on 2 to 3 dedicated maintenance techs for 200 vacation rentals, roughly one per 75 to 100 units, plus contractor overflow. The ratio, the drivers, and why STR runs heavier than long-term._
+
+How Many Maintenance Techs Do You Need for 200 Vacation Rentals?
+
+According to RapidEye's analysis of turnover operations, a 200-unit vacation rental portfolio runs on 2 to 3 in-house maintenance techs plus contractor support for the trades. That lands tighter than you might expect, and the reason is structural: in short-term rentals, every turnover is a maintenance event.
+
+Start from the property-management baseline
+
+The closest established benchmark comes from apartment management. According to UpKeep (https://upkeep.com/learning/technicians-per-apartment-unit/), a new apartment complex should plan on about two maintenance technicians per 100 units, with the real-world range running anywhere from one per 50 to one per 500. The National Apartment Association (https://naahq.org/changing-paradigm-staffing-ratios) cites a traditional standard of roughly one onsite team member per 100 units. The principle underneath both numbers matters more than the numbers themselves: the ratio is set by how many work orders you generate and how long each one takes, not by headcount rules.
+
+Why short-term rentals run heavier than long-term
+
+A long-term apartment generates a maintenance work order once or twice a month. A short-term rental surfaces issues on every single turnover, because a fresh set of guests, a cleaner, and a checkout inspection all run across the unit every few days. Each pass exposes something: a burned-out bulb, a wobbling chair, a slow drain, a remote that stopped working, guest damage. And it all runs on a deadline, before the next check-in.
+
+At 60% occupancy, a 100-unit portfolio runs roughly 60 turnovers a week (https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/). Even if only a fraction surface a real fix, that is a steady, deadline-driven work-order stream no long-term building produces. The second multiplier is dispersion: STR units are scattered, so drive time eats hours an apartment tech would spend turning wrenches. Both forces pull the ratio tighter than the apartment baseline, landing around one tech per 75 to 100 units.
+
+Sizing it for your 200 units
+
+What moves your number
+
+The hidden tax on a maintenance team is not the fixing, it is the finding. Issues get discovered late, reported vaguely, or missed until a guest complains, so techs drive out blind and a small fix becomes an emergency. RapidEye reads the turnover photos and video from every clean and flags maintenance issues the moment they appear, with the room and the problem already identified. Your techs roll up with the part in hand instead of diagnosing on arrival, which is how the same 2 to 3 people cover 200 units without falling behind. Start a free trial (https://rapideyeinspections.com/#contact).
+
+FAQ
+
+Related
+
+Sources
+
+- UpKeep. How Many Technicians Are Needed Per Unit in Apartment Management? (https://upkeep.com/learning/technicians-per-apartment-unit/) Baseline of about two techs per 100 units for a new complex; range one per 50 to one per 500; ratio driven by work-order volume and wrench time.https://upkeep.com/learning/technicians-per-apartment-unit/
+
+- National Apartment Association. Changing the Paradigm of Staffing Ratios (https://naahq.org/changing-paradigm-staffing-ratios). Traditional standard of roughly one onsite team member per 100 units.https://naahq.org/changing-paradigm-staffing-ratios
+
+- 2018 European Vacation Rental Survey, via Lighthouse. How Many Employees Should You Have? The Scaling Formula (https://www.mylighthouse.com/resources/blog/how-many-employees-should-you-have-the-scaling-formula). 552 managers, ~30,000 properties; about one employee per 9.5 properties across all roles.https://www.mylighthouse.com/resources/blog/how-many-employees-should-you-have-the-scaling-formula
+
+- RapidEye analysis, for turnover volume: cleaners per 100 units (https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/) (turnovers per week at occupancy).https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/

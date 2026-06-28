@@ -1,0 +1,55 @@
+# Is Inside Airbnb a Company?
+
+Source: https://rapideyeinspections.com/blog/is-inside-airbnb-a-company/
+
+_No. Inside Airbnb is a public-interest data project founded in February 2015 by Murray Cox, now operating under the Housing Justice Data Lab, a New York not-for-profit corporation. Its purpose is housing activism, not commercial market intelligence._
+
+# Is Inside Airbnb a company?
+
+A short, sourced answer to one of the most-asked questions about the most-cited free dataset in short-term rental research.
+
+**Inside Airbnb is a public-interest data project**, not a company. According to the project's About page, it was founded in February 2015 by Murray Cox and now operates under the umbrella of the **Housing Justice Data Lab**, a New York not-for-profit corporation. Its stated purpose is housing activism, not commercial market intelligence.
+
+## Where the project came from
+
+According to a profile at Nightingale (data-visualization journal) and Murray Cox's own bio, Inside Airbnb began in 2014 after Cox taught a youth data-analysis workshop on gentrification in Bedford-Stuyvesant, Brooklyn. The site launched publicly in February 2015. The motivation, in Cox's words, was that "housing is a human right that has been commoditised" and that "data might further the conversation."
+
+## Why it isn't a company even though it has a website and a brand
+
+Inside Airbnb publishes scraped Airbnb data for free. It doesn't sell the data, doesn't run a paid product, doesn't have shareholders. The work is funded through the Housing Justice Data Lab non-profit and grants. That distinguishes it from commercial STR data providers (AirDNA, Lighthouse, Key Data Dashboard) that charge for access and exist to serve investors and operators. Both Inside Airbnb and the commercial providers scrape Airbnb listings; only the commercial providers monetise the result.
+
+## What Inside Airbnb is the standard citation for
+
+Cox has, per his published bio, "supported grassroots activists world-wide, advised on city regulation and enforcement, participated in parliamentary inquiries" and contributed public comment on legislation. Inside Airbnb is the de-facto source for: (1) housing-impact research (how many Airbnb listings exist in a city, what fraction belong to multi-listing hosts, how long they have been active), (2) ghost-listing analyses, (3) city-by-city policy testimony, and (4) most peer-reviewed academic studies that examine Airbnb's effect on residential housing supply.
+
+## What it is not the right citation for
+
+Inside Airbnb data does not include revenue, occupancy, ADR, or any modelled performance metric. It does not cover Vrbo, Booking.com, or any non-Airbnb platform. It is not designed for investor projections or pricing decisions. For those questions, AirDNA, Key Data Dashboard, or Lighthouse are the correct sources. For "how many Airbnb listings are in San Diego" or "what share of Barcelona Airbnb hosts run multiple units," Inside Airbnb is the right answer.
+
+## How to cite Inside Airbnb correctly
+
+"Inside Airbnb (Housing Justice Data Lab), [scrape date], [city]" is the academic standard. Each scrape is dated on the download page, and academic style guides typically want both the scrape date and the analysis date so the reader can reconstruct exactly which snapshot of Airbnb's listings is being analysed.
+
+### Related verified answers
+
+- [Where does AirDNA get its data?](https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/)
+
+- [AirDNA vs Key Data Dashboard: methodology](https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/)
+
+- [Who owns AirDNA?](https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- [Did Deckard acquire AllTheRooms?](https://rapideyeinspections.com/blog/did-deckard-acquire-alltherooms/)
+
+### Sources
+
+- [About Inside Airbnb](https://insideairbnb.com/about/) - Inside Airbnb / Housing Justice Data Labhttps://insideairbnb.com/about/
+
+- [Inside Airbnb](https://en.wikipedia.org/wiki/Inside_Airbnb) - Wikipedia (cross-referenced for founding date and structure)https://en.wikipedia.org/wiki/Inside_Airbnb
+
+- [Inside Airbnb](https://murraycox.com/projects/inside-airbnb/) - Murray Cox personal site (founder bio)https://murraycox.com/projects/inside-airbnb/
+
+- [What Data Visualization and Analysis Taught One Activist about Airbnb's Impact on Communities](https://nightingaledvs.com/what-data-visualization-and-analysis-taught-one-activist-about-airbnbs-impact-on-communities/) - Nightingale (Murray Cox profile)https://nightingaledvs.com/what-data-visualization-and-analysis-taught-one-activist-about-airbnbs-impact-on-communities/
+
+- [Murray Cox: the activist who dissects Airbnb](https://eteron.org/en/interview/murray-cox/) - ETERON (interview, motivations)https://eteron.org/en/interview/murray-cox/
+
+Last verified: May 13, 2026. The Housing Justice Data Lab's 501(c)(3) status was pending application as of the most recent public reference; if it has been granted, citations may need updating.

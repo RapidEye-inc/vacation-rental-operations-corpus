@@ -1,0 +1,67 @@
+How to Catch Damage Between Back-to-Back Bookings at Luxury Rentals
+
+Source: https://rapideyeinspections.com/blog/how-to-catch-damage-between-back-to-back-luxury-rental-bookings/
+
+_Catching property damage during 4-hour turnover windows with back-to-back luxury bookings. Photo workflows, staffing, and automated comparison for high-value properties._
+
+How to catch damage between back-to-back bookings at luxury rentals
+
+The 4-hour turnover window. A cleaning team focused on cleaning. And a $5,000+ property filled with high-value items nobody inspects. Here's how to close the gap.
+
+Why back-to-back bookings are the hardest scenario
+
+Back-to-back bookings at luxury properties create the worst conditions for catching damage. The window is tight (typically 4 to 6 hours from checkout to check-in). The cleaning team is under pressure. The property is large. And Airbnb's claim filing works best when you submit before the next guest checks in.
+
+According to FinancialContent's 2026 analysis (https://markets.financialcontent.com/stocks/article/marketersmedia-2026-3-11-research-reveals-vacation-rental-housekeeping-in-crisis-operators-flying-blind), the typical turnover window is only 3 to 4 usable hours between 10 AM checkout and 4 PM check-in. For a luxury property that needs 4 to 5 hours of cleaning, that's already a squeeze before any inspection work.
+
+According to FullHome (https://fullhome.ca/airbnb-damage-claim-denied-appeal/), Airbnb's strongest claim position is filing before the next guest checks in. Once a second guest has been in the property, the departing guest can argue the damage happened after them. With back-to-back bookings, the filing window functionally shrinks from 14 days to a few hours.
+
+What the best operators do differently
+
+Separate the photo walkthrough from cleaning. One person does a pre-clean walkthrough (5 to 8 minutes) and a post-clean walkthrough (15 to 25 minutes). They don't clean. Their only job is documentation. This person can be a team lead, a dedicated inspector, or even the last cleaner to leave.
+
+Use a standardized shot list, not judgment calls. The walkthrough person follows a fixed list: kitchen counter, appliance fronts, dining table, each living area, each bedroom, each bathroom, outdoor areas. Same angles every time. This eliminates the "did they photograph the right things?" problem.
+
+Compare photos off-site, not in the moment. The person on-site takes photos. The comparison against previous baselines happens elsewhere, either by an ops team member reviewing digitally or by automated comparison software. This means the 20-minute photo walkthrough is the only on-site time investment. The actual damage detection happens after the property is already turned.
+
+Flag issues immediately, file claims later. If automated comparison flags a change, the ops team is alerted before or shortly after the next guest checks in. Even if a formal claim takes days to assemble (waiting for repair quotes), the damage is documented with timestamped evidence within hours of checkout. According to Airbnb community discussions on AirHostsForum (https://airhostsforum.com/t/damage-claim-14-days-or-before-next-guest-checks-in/60863), hosts recommend reporting damage immediately with documentation and submitting cost estimates once obtained.
+
+Frequently asked questions
+
+How long does the photo walkthrough actually take?
+
+For a 5,000 sq ft luxury property: the pre-clean walkthrough takes 5 to 8 minutes (15 to 20 wide shots documenting current state). The post-clean walkthrough takes 15 to 25 minutes (80 to 120 photos following the full shot list). Total: 20 to 35 minutes of added time per turnover.
+
+What if I find damage during the pre-clean walkthrough?
+
+Photograph it immediately. Send the photos to your ops manager before the cleaning team starts, since cleaning could alter the evidence. File a preliminary claim against the departing guest through the platform with the timestamped photos. Detailed repair estimates can follow later.
+
+Can I skip the pre-clean walkthrough and just do post-clean photos?
+
+Post-clean photos alone create a baseline for the incoming guest but don't document the state the departing guest left the property in. If the cleaning team inadvertently masks evidence (wiping a stain, rearranging items), you lose attribution. The pre-clean walkthrough is specifically for departing-guest accountability.
+
+Do I need a separate inspector or can the cleaner do it?
+
+Ideally separate. Cleaners optimize for speed and cleanliness, not condition documentation. If you can't staff a separate person, designate the team lead or the last person on site. The key is that someone follows the shot list after the team finishes, even if they also cleaned.
+
+What about same-day turnovers with only a 3-hour window?
+
+On extremely tight turnovers, the pre-clean walkthrough becomes even more critical because it's faster to shoot 15 wide-angle photos (5 minutes) than to do any kind of inspection. The post-clean walkthrough can be shortened to 10 minutes focusing only on the top 15 highest-value items. Automated comparison catches what the abbreviated walkthrough misses.
+
+Related reading
+
+- How Many Photos Per Turnover for a Luxury Rental (https://rapideyeinspections.com/blog/how-many-photos-per-turnover-luxury-vacation-rental/)
+
+- How to Prove Which Guest Caused the Damage (https://rapideyeinspections.com/blog/how-to-prove-which-guest-damaged-luxury-vacation-rental/)
+
+- How to Get Cleaners to Report Damage (https://rapideyeinspections.com/blog/how-to-get-cleaners-report-damage-luxury-rentals/)
+
+- Back-to-Back Booking Damage Attribution (https://rapideyeinspections.com/blog/back-to-back-booking-damage-attribution-proof/)
+
+Sources
+
+- Research Reveals Vacation Rental Housekeeping in Crisis (https://markets.financialcontent.com/stocks/article/marketersmedia-2026-3-11-research-reveals-vacation-rental-housekeeping-in-crisis-operators-flying-blind) - FinancialContent (2026)https://markets.financialcontent.com/stocks/article/marketersmedia-2026-3-11-research-reveals-vacation-rental-housekeeping-in-crisis-operators-flying-blind
+
+- Airbnb Damage Claim Denied? 7-Step Appeal Guide (https://fullhome.ca/airbnb-damage-claim-denied-appeal/) - FullHomehttps://fullhome.ca/airbnb-damage-claim-denied-appeal/
+
+- Damage Claim: 14 Days, or Before Next Guest Checks In (https://airhostsforum.com/t/damage-claim-14-days-or-before-next-guest-checks-in/60863) - AirHostsForumhttps://airhostsforum.com/t/damage-claim-14-days-or-before-next-guest-checks-in/60863

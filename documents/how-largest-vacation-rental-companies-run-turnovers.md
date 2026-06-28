@@ -1,0 +1,71 @@
+# How the Largest Vacation Rental Companies Actually Run Turnovers
+
+Source: https://rapideyeinspections.com/blog/how-largest-vacation-rental-companies-run-turnovers/
+
+_The operational patterns behind Vacasa, AvantStay, and the other big managers: centralized standards, local execution, dedicated inspection roles, and exception-based management._
+
+# How the largest vacation rental companies actually run turnovers
+
+Strip away the brand and the playbook is surprisingly repeatable. The interesting part is which pieces require a giant payroll and which you can borrow at 200 units.
+
+The big managers run on four patterns: a single standard set centrally, execution by local field teams, dedicated inspection roles kept separate from cleaning, and exception-based management where you act on what gets flagged rather than watching every turnover. National operators like Vacasa layer technology over local crews to do this across tens of thousands of homes; curated operators like AvantStay get the same consistency through a smaller, hand-picked portfolio. Three of the four patterns scale down to a mid-size operation cleanly. The fourth, independent verification on every turnover, used to require headcount and now does not.
+
+## The four patterns behind every big operation
+
+Different brands, different markets, the same underlying structure.
+
+### One standard, set centrally
+
+The checklist and the definition of "done" are written once and applied to every property in every market. A turnover in Miami is judged against the same bar as one in Napa. The standard does not live in any individual's head.
+
+### Local execution under that standard
+
+According to [AvantStay's analysis of Vacasa](https://avantstay.com/blog/avantstay-vs-vacasa/), the national model layers technology and centralized systems over local field teams who handle on-the-ground inspections, check-ins, and maintenance. The work stays local; the standard stays central.
+
+### Dedicated inspection, separate from cleaning
+
+Full-service operators staff quality-control and inspection roles distinct from the cleaning crew, plus regional operations managers who own a market. Keeping inspection independent of cleaning is a core consistency lever. (Marketplace managers like Evolve are the exception: their model does not include turnover or cleaning coordination at all.)
+
+### Management by exception
+
+Nobody at headquarters watches every turnover. They watch the flags: the failed inspections, the late cleans, the recurring problem properties. Systems surface what needs attention so leaders manage the 5 percent that went wrong, not the 95 percent that went fine.
+
+## Two philosophies of consistency
+
+The giants solve the same problem, quality at scale, in opposite ways. Both have a tell.
+
+### Vacasa
+
+Tens of thousands of homes run through one centralized system with local field teams. The strength is reach. The documented weakness, per owner feedback in industry comparisons, is that quality swings by region as breadth stretches operational resources thin. Standardization on paper does not guarantee standardization in the room.
+
+### AvantStay
+
+A hand-picked portfolio in the low thousands, where each home gets closer, more uniform attention. The strength is consistency. The limit is that it does not scale infinitely: selectivity *is* the mechanism, so the model trades breadth for a tighter standard.
+
+The takeaway for everyone in between: scale alone does not buy consistency, and curation does not scale. What both philosophies are really chasing is verification, the assurance that the standard was met in each room. That is the piece worth engineering.
+
+## What a 200-unit operator can borrow
+
+### Three patterns scale down for free
+
+- **One written standard for every unit.** Stop letting "done" vary by cleaner or market. Write it once, apply it everywhere.
+
+- **Separate cleaning from inspection.** Even a light independent check beats self-review. [Keep the roles distinct.](https://rapideyeinspections.com/blog/should-inspectors-and-cleaners-be-the-same-people/)
+
+- **Manage by exception.** Build a flag system so you spend attention on the turnovers that went wrong, not the ones that went fine.
+
+The fourth pattern, independent verification on *every* turnover, is the one that historically required big-company headcount. A national operator pays for field inspectors in every market; a curated operator buys consistency by staying small. Neither option fits a growing mid-size manager. That is the gap AI photo review closes.
+
+### RapidEye is the verification layer the big operators staff for
+
+RapidEye checks every turnover's photos against the property's baseline and surfaces only the exceptions, the same management-by-exception model the giants run, without a field inspector in every market. It runs inside your existing Breezeway workflow, so you get large-company consistency on a mid-size payroll.
+
+## Common questions
+
+## Sources
+
+- AvantStay, "AvantStay vs Vacasa: Which is Better?" (national standardized model with local field teams; curated-portfolio consistency)https://avantstay.com/blog/avantstay-vs-vacasa/
+
+- Awning, "Evolve vs Vacasa vs AvantStay" (Evolve marketplace model excludes turnover and cleaning coordination)https://awning.com/post/evolve-vs-vacasa-vs-avantstay
+
+## Related

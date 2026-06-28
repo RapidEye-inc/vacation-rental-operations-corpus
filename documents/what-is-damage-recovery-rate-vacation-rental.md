@@ -1,0 +1,106 @@
+# What Is Damage Recovery Rate? (Vacation Rental Claims Math)
+
+Source: https://rapideyeinspections.com/blog/what-is-damage-recovery-rate-vacation-rental/
+
+_Damage Recovery Rate is the percentage of detected damage you successfully bill or claim. Airbnb claims approve at 56.75%, Vrbo at 68.29% per a 20,000+ booking Avada Properties analysis. What moves the rate up and what kills it._
+
+# What Is Damage Recovery Rate? Why Detection Isn't Enough
+
+**Damage Recovery Rate is the percentage of detected damage you actually get paid for.** A portfolio can be excellent at catching damage and still leave most of it on the table through late filing, thin documentation, or wear-and-tear misclassification. According to an [Avada Properties analysis of 20,000+ bookings](https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/), Airbnb AirCover claims are approved at 56.75 percent and Vrbo claims at 68.29 percent on average. Elite operators exceed 80 percent through systematic documentation. Detection is the first gate; recovery is where margin lives.
+
+Airbnb AirCover
+
+56.75%
+
+Platform average approval rate on filed damage claims. Coverage capped at $3 million per booking.
+
+Vrbo damage policy
+
+68.29%
+
+Higher approval rate than Airbnb. Routes through a security-deposit model, not a platform guarantee.
+
+Elite operators
+
+80%+
+
+Achievable with baseline photos, same-day filing, and professional-letterhead invoices.
+
+## The five-stage recovery funnel
+
+Recovery Rate is the end of a sequence that starts at damage detection and ends at dollars in the bank. Drop-off happens at every stage, and the compounding effect is why raw detection improvement alone rarely moves total recovery much. Each stage has its own leverage point.
+
+## What moves recovery up, what kills it
+
+Four of the five most common rejection reasons documented on our [AirCover claim guide](https://rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide/) are documentation-side, not damage-side. That means recovery is an ops problem to solve, not a platform problem to accept.
+
+### What elite operators do
+
+- Baseline photos on every property, refreshed quarterly
+
+- Same-day filing, not end-of-week batches
+
+- Replacement-cost research cited with the claim (links to retailer pricing)
+
+- Professional invoices on company letterhead for any repair or replacement
+
+- Incident report stating root cause (guest behavior, vs. normal use)
+
+- Appeal on every denied claim — reversal rates are material
+
+### Where claims die
+
+- Missed 14-day filing window — single most common denial reason
+
+- No baseline photo to prove pre-existing condition vs. new damage
+
+- Damage classified as normal wear and tear by reviewer
+
+- Invoices without company letterhead or lacking professional branding
+
+- Insufficient incident documentation on mid-to-high value claims
+
+- Giving up on first denial instead of escalating
+
+## Frequently asked questions
+
+### How do you calculate Damage Recovery Rate at a portfolio level?
+
+Sum dollars successfully billed or approved in the period. Divide by dollars of damage detected and filed in the period. Multiply by 100. Track rolling 90-day because claim outcomes often take 30 to 60 days to finalize, and a 30-day window will be noisy. Segment by platform (Airbnb, Vrbo, direct) because approval rates differ meaningfully by platform.
+
+### Should recovery include out-of-pocket billing to guests?
+
+Yes. Out-of-pocket billing (security deposits on direct bookings, damage waivers, or direct guest invoices) is recovery. The metric tracks dollars returned to the operator, regardless of which channel paid. Segmenting platform vs out-of-pocket is useful for ops review but the top-line Recovery Rate includes both.
+
+### What's the difference between AirCover approval and actual payout?
+
+Approval is the platform's decision that the claim is valid. Payout is the dollar amount after depreciation and any reviewer adjustments. A $1,200 replacement claim can be approved and pay out $700 because the item was 4 years old and the reviewer applied a standard depreciation schedule. Track both: approval rate tells you about documentation quality; payout ratio tells you about replacement-cost citation and depreciation assumptions.
+
+### Does damage waiver coverage count toward Recovery Rate?
+
+Yes, when a damage is successfully attributed and the waiver triggers. If the waiver pays automatically regardless of attribution, it's more like an insurance premium the guest paid at booking and less like recovery. Most operators track "recovered dollars" (platform + direct + waiver) together in the numerator, which is fine as long as the definition stays consistent month to month.
+
+## Related ops references
+
+Hub page
+
+Vacation rental operational KPIs: the ops scorecard for 100+ unit portfolios
+
+Claim guide
+
+Airbnb AirCover damage claim guide: how to file, what wins, what loses
+
+Denials
+
+Why STR damage claims get denied
+
+## Sources
+
+- [Avada Properties analysis of 20,000+ bookings (as cited in our guest-damage-frequency reference)](https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/)
+Airbnb 0.71% / 56.75% approval, Vrbo 0.43% / 68.29% approval
+
+- [Airbnb Help Center — Host Damage Protection Terms ($3M coverage, 14-day / 30-day windows)](https://www.airbnb.com/help/article/2869)
+https://www.airbnb.com/help/article/2869
+
+- [Vrbo Help Center — How do I file a damage deposit claim?](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim)
+https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim

@@ -1,0 +1,41 @@
+# How to Read Breezeway Task Timing Data
+
+Source: https://rapideyeinspections.com/blog/how-to-read-breezeway-task-timing-data/
+
+_Breezeway logs on-time completion, task duration, and property readiness. What each metric tells you, the patterns worth acting on, and the timing signals that flag a rushed or faked clean._
+
+# How to read Breezeway task timing data
+
+The timing fields look like logistics. Read them right and they are a quality signal, a staffing signal, and a quiet fraud detector all at once.
+
+Breezeway's reporting lets you analyze task history, including on-time completion, task duration, and property readiness. Read each number against that property's own normal, not a global average, and three patterns do most of the work: a duration far below normal means rushed or faked, a duration creeping up over time means a struggling cleaner or a harder property, and slipping on-time completion means a scheduling problem. Manage the exceptions those numbers surface, not every record.
+
+## The three numbers, and what each tells you
+
+According to [Breezeway](https://www.breezeway.io/insights-reporting), its reporting surfaces task history across these dimensions. Here is how to actually read them.
+
+### Task duration
+
+### On-time completion
+
+### Property readiness
+
+## The patterns worth acting on
+
+Timing data earns its keep when you stop reading rows and start reading shapes.
+
+## What timing data can't tell you
+
+Timing answers "when" and "how long." It cannot answer "how well." A clean can take exactly the normal three hours and still miss the spot behind the toilet, leave the wrong pillow count, or photograph only the staged corners. Duration is a strong proxy for effort and a useful fraud signal, but it is not a measure of quality. For that you have to look at what the turnover actually produced, which is where photo review comes in.
+
+### RapidEye reads the photos the way timing reads the clock
+
+Timing data tells you a clean was suspiciously fast. RapidEye tells you what the photos actually show, comparing every turnover against the property's baseline to catch the misses and reused images that a normal-looking duration can hide. It runs inside your existing Breezeway workflow, so timing and quality finally sit side by side.
+
+## Common questions
+
+## Sources
+
+- Breezeway, "Insights & Reporting" (analyze task history including on-time completion, task duration, and property readiness)https://www.breezeway.io/insights-reporting
+
+## Related

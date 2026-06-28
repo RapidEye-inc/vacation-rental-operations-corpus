@@ -1,0 +1,63 @@
+Should Your Inspectors and Cleaners Be the Same People?
+
+Source: https://rapideyeinspections.com/blog/should-inspectors-and-cleaners-be-the-same-people/
+
+_A cleaner inspecting their own work has a built-in blind spot and a conflict of interest. When separation is worth the cost, when it isn't, and the third option AI opened up._
+
+Should your inspectors and cleaners be the same people?
+
+It is the cheapest staffing decision and one of the most consequential. The honest answer is no, with a real exception, and a third option that did not exist a few years ago.
+
+Best practice is to separate the two. According to Breezeway, the turnover inspector should ideally be someone other than the cleaner, because independent verification is the entire point of an inspection. A cleaner reviewing their own work carries both a blind spot and a conflict of interest. Smaller operations that cannot staff a dedicated inspector can have cleaners self-inspect with a distinct checklist, but that is a compromise. AI photo review is now a third path that provides the independent layer on every turnover without a human inspector per clean.
+
+Why self-inspection quietly fails
+
+A cleaner checking their own turnover faces two problems at once, and neither is about effort or honesty.
+
+The blind spot
+
+The same mental model that led you to skip behind the toilet also tells you it is clean, so you do not go back and re-check it. You cannot catch the step you did not register skipping. A second set of eyes is not redundant; it sees a different picture of the same room.
+
+The conflict of interest
+
+An honest self-inspection that finds a miss is, functionally, a self-report of failure. Most people avoid that without consciously deciding to. The incentive runs against catching your own mistakes, which is exactly the opposite of what an inspection is for.
+
+As Breezeway (https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors) puts it, the principle is "we trust, but we always verify the work of someone else." Verification of your own work is not verification.
+
+The three models, compared
+
+What you gain and give up with each arrangement.
+
+| Dimension | Cleaner self-inspects | Separate human inspector | AI photo review |
+| --- | --- | --- | --- |
+| Objectivity | Compromised | Independent | Independent |
+| Coverage | Every clean, but biased | Often sampled, not all | Every turnover |
+| Cost | None added | A full second role | Low per turnover |
+| Scales past 200 units | Yes, but quality slips | Hard to staff | Yes |
+| Complex judgment | Limited | Strong | Routine misses, not nuance |
+
+When same-person is acceptable
+
+If you genuinely cannot staff separation yet, you can reduce the bias without eliminating it. Breezeway's guidance for smaller operations is to have the cleaner inspect using a separate checklist that clearly distinguishes cleaning tasks from inspection duties, so the two mindsets do not blur together. Pair that with the cultural framing they recommend: an inspector is "another layer for you," not someone hunting for what you did wrong. The goal is a team that wants the catch, not a gotcha.
+
+This is a real mitigation, but be honest about what it is: a way to make the compromise less bad, not a substitute for an independent set of eyes.
+
+The third path: independent without a second hire
+
+The reason most operations land on self-inspection is not that they think it is better. It is cost. A dedicated inspector for every turnover is expensive and, past a couple hundred units, genuinely hard to staff. That cost is the only thing forcing the tradeoff between objectivity and coverage.
+
+AI photo review removes that constraint. It provides the independent layer on every single turnover without putting a human inspector behind every clean, which is why it sits in the strong column across objectivity, coverage, cost, and scale in the table above. It will not replace skilled human judgment on complex or ambiguous issues. What it does is catch the routine, repeatable misses that a self-inspection is structurally designed to hide.
+
+RapidEye is the independent inspection layer on every turnover
+
+RapidEye reviews each turnover's photos against the property's baseline and flags what was missed, giving you objective verification on every clean without staffing an inspector per turnover. It runs inside your existing Breezeway workflow, so your cleaners keep doing exactly what they do today.
+
+Common questions
+
+Sources
+
+- Breezeway, "Operations 101: The Value of Vacation Rental Inspectors" (inspector should not be the cleaner; trust but verify someone else's work; "another layer for you")https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors
+
+- Breezeway, "Operations 101: Working with Vacation Rental Cleaners" (team culture between hosts, cleaners, and inspectors)https://www.breezeway.io/blog/operations-101-working-with-vacation-rental-cleaners
+
+Related

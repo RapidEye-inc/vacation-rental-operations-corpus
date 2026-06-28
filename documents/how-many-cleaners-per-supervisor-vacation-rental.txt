@@ -1,0 +1,35 @@
+How Many Cleaners Can One Supervisor Manage? (Vacation Rental Span of Control)
+
+Source: https://rapideyeinspections.com/blog/how-many-cleaners-per-supervisor-vacation-rental/
+
+_It depends on the role: a coordinator can run 20+ cleaners, but a supervisor who inspects every turnover tops out at 6 to 10. The span-of-control math and the one lever that moves it._
+
+How Many Cleaners Can One Supervisor Manage?
+
+According to RapidEye's analysis of turnover operations, the honest answer to "how many cleaners can one supervisor manage" is: it depends entirely on whether that supervisor inspects. If they only coordinate, scheduling cleaners, assigning turnovers, and handling exceptions, one person can run 20 or more, especially with software doing the dispatch. The moment that same supervisor also has to check every clean before the guest arrives, the ceiling drops to 6 to 10. The difference between those two numbers is one thing: quality-control load.
+
+Coordinating and inspecting are two different jobs
+
+Coordination scales, because scheduling and dispatching is standardized, repeatable work that software automates. According to Gallup's 2025 research (https://www.gallup.com/workplace/700718/span-control-optimal-team-size-managers.aspx), the average manager now has 12.1 direct reports (up from 10.9 in 2024), and standardized roles support the widest spans of all. A cleaning coordinator with auto-assignment can comfortably dispatch 20 to 30 cleaners without ever touching a turnover photo.
+
+Inspection does not scale that way, because it is hands-on. According to Gallup, 97% of managers also carry individual-contributor work, a median of 40% of their time, and for a supervisor who inspects, that hands-on 40% is the bottleneck. Each cleaner runs 2 to 3 turnovers a day (https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/), and each turnover generates 40 to 60 photos (https://rapideyeinspections.com/blog/how-many-photos-per-vacation-rental-turnover/). A supervisor checking 10 cleaners is reviewing well over a thousand photos a day on top of driving between properties. That is why an inspecting supervisor tops out at 6 to 10, with 8 as the benchmark, while a coordinating one runs three times as many.
+
+Where your number lands
+
+What moves your number
+
+A quick way to size it for your operation
+
+This is the whole RapidEye thesis. An inspecting supervisor caps at 8 because of review load, so remove the review load and they manage like a coordinator. RapidEye runs the first pass on every turnover's photos and video automatically, surfacing only the cleans that need a human look. The supervisor moves from inspecting 8 cleaners to overseeing 15 or more, and every clean still gets checked. That is dispatch-level span with every-clean quality, instead of choosing between the two. Start a free trial (https://rapideyeinspections.com/#contact).
+
+FAQ
+
+Related
+
+Sources
+
+- Gallup (2025). Span of Control: What's the Optimal Team Size for Managers? (https://www.gallup.com/workplace/700718/span-control-optimal-team-size-managers.aspx) Average 12.1 direct reports in 2025 (10.9 in 2024); median team 5 to 6; ~two-thirds of managers oversee fewer than 10; managers spend a median 40% of time on individual-contributor work.https://www.gallup.com/workplace/700718/span-control-optimal-team-size-managers.aspx
+
+- 2018 European Vacation Rental Survey, via Lighthouse. How Many Employees Should You Have? The Scaling Formula (https://www.mylighthouse.com/resources/blog/how-many-employees-should-you-have-the-scaling-formula). 552 managers, ~30,000 properties; about one employee per 9.5 properties, excluding cleaning staff.https://www.mylighthouse.com/resources/blog/how-many-employees-should-you-have-the-scaling-formula
+
+- RapidEye analysis, for turnover and photo-volume figures: cleaners per 100 units (https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/), photos per turnover (https://rapideyeinspections.com/blog/how-many-photos-per-vacation-rental-turnover/), and inspector QC capacity (https://rapideyeinspections.com/blog/how-many-properties-can-inspector-qc-per-day/).https://rapideyeinspections.com/blog/how-many-cleaners-for-100-vacation-rentals/

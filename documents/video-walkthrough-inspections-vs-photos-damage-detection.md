@@ -1,0 +1,99 @@
+# Video Walkthrough Inspections vs. Photos: Which Actually Catches More Damage?
+
+Source: https://rapideyeinspections.com/blog/video-walkthrough-inspections-vs-photos-damage-detection/
+
+_Compare video walkthrough inspections to photo checklists for STR damage detection. Learn when each method works best and how AI analyzes both formats._
+
+# Video Walkthrough Inspections vs. Photos: Which Actually Catches More Damage?
+
+Photos have been the default for property inspections basically forever. They’re quick, they’re familiar, and every cleaner knows how to snap a few pics before moving on to the next unit.
+
+But if you’ve ever lost a damage claim because your documentation had gaps, or spent 20 minutes trying to figure out which room a photo was even taken in, you already know photos have real limitations.
+
+I’ve been thinking about this a lot lately because RapidEye actually supports both workflows: photo analysis and full video walkthroughs. We’ve processed over a million photos for a single client, but we’re also running video inspections in other markets. So I figured it’s worth breaking down when each approach actually makes sense.
+
+## The Problem with Photo-Only Inspections
+
+Photos are point-in-time snapshots. That sounds obvious, but the implications are bigger than most people realize.
+
+**You only capture what you remember to photograph.** Most photo inspections follow a checklist. Kitchen counter, check. Living room couch, check. But what about the corner behind the couch? The transition strip between the bathroom and hallway? The ceiling above the bed? If it’s not on the checklist, it probably doesn’t get photographed.
+
+**Photos lack spatial context.** A photo of a wall doesn’t show what’s next to that wall. If a guest drags a piece of furniture across the room and scratches the floor, you might have a photo of that floor section, but without context, it’s hard to prove the furniture was ever in a different position.
+
+**It’s easy to accidentally skip areas.** Even with the best intentions, cleaners are moving fast. A typical walkthrough takes [10 to 15 minutes with 10 to 15 time-stamped photos](https://learn.10xbnb.com/short-term-rental-inspection-checklist/). That’s not a lot of coverage for a 2,000 square foot property.
+
+**Angles get missed.** Photos capture one perspective. If you photograph a coffee table from above, you won’t see the scratch on the side. If you photograph a sofa from the front, you won’t catch the stain on the back cushion.
+
+None of this makes photos useless. For most properties, most of the time, photos work fine. But when stakes get higher, the gaps start to matter.
+
+## How Video Walkthrough Analysis Works Differently
+
+Video captures continuous coverage instead of discrete snapshots. When someone walks through a property recording video, they’re capturing:
+
+- **Spatial relationships.** You can see how the furniture relates to the walls, where items are positioned, what’s next to what.
+
+- **Transitions between spaces.** The hallway leading into the bedroom, the corner where the living room meets the kitchen. Areas that routinely get skipped in photo checklists.
+
+- **Multiple angles naturally.** As someone walks through, they’re constantly changing perspective. You get the front of the couch and the side without thinking about it.
+
+The AI side of things is where it gets interesting. With photos, you’re comparing individual images to previous individual images. With video, you’re comparing a full spatial understanding of the property across time.
+
+RapidEye’s video workflow uses spatial AI to build a baseline of each property and then detect changes: new scratches, stains, moved furniture, missing items. It’s looking at the whole room, not just the spots someone remembered to photograph.
+
+[Paraspot AI](https://www.paraspot.ai/) claims their guided video approach takes about 3 minutes total compared to capturing [60+ photos per unit](https://www.paraspot.ai/california). That tracks with what we’ve seen. A continuous walkthrough is often faster than stopping to frame and capture dozens of individual photos.
+
+## When Video Makes More Sense
+
+Video isn’t always the answer. But there are specific situations where the extra coverage pays off:
+
+**Luxury properties.** When you’re managing units with $50k worth of furnishings, documentation stakes are higher. A single dispute over a damaged designer piece can easily exceed what you’d spend on better documentation all year.
+
+**Properties with high-value furnishings.** Art, antiques, custom furniture. Anything where proving pre-existing condition matters.
+
+**Properties with a history of disputes.** If you’ve had multiple guest claims go sideways because of documentation gaps, video provides the continuous coverage that’s harder to dispute.
+
+**Complex layouts.** Properties with lots of rooms, unusual floor plans, or outdoor spaces that are easy to skip.
+
+The insurance angle is worth mentioning too. [Airbnb’s AirCover policy explicitly accepts both photographs and videos](https://www.airbnb.com/help/article/2869) as legitimate evidence. Major insurers like [Travelers recommend capturing both photos and videos](https://www.travelers.com/resources/weather/thunderstorms/convective-storm-guide-homeowners) to support claims. Video isn’t just “nice to have” anymore.
+
+## When Photos Are Still Sufficient
+
+Honestly, for a lot of portfolios, photos are still the right call.
+
+**High-volume portfolios with simple properties.** If you’re managing 200 similar units and turning them over constantly, the operational simplicity of photos matters. Your cleaners know the workflow. The checklist is dialed in. Changing that has real costs.
+
+**Budget-conscious properties.** If average nightly rates are under $150 and furnishings are standard, the extra documentation depth might not be worth it.
+
+**Teams already crushing it with photos.** If your current photo workflow is consistent and you’re winning disputes, don’t fix what isn’t broken.
+
+The key is honest assessment. Are you actually reviewing those photos? Or are they sitting in Breezeway untouched until something goes wrong? If no one’s looking at the photos anyway, the format matters less than whether anything useful happens with the data.
+
+## Practical Implementation: What Does This Look Like?
+
+For cleaners, video walkthroughs are simpler than you’d think. Instead of stopping at 15 to 20 checkpoints to frame and capture photos, they walk through the property once with their phone recording.
+
+| Aspect | Photo Checklist | Video Walkthrough |
+| --- | --- | --- |
+| Time | 10 to 15 minutes | 3 to 5 minutes |
+| Coverage | Checklist-dependent | Continuous |
+| Training | Moderate | Low |
+| Storage | Lower | Higher |
+| Spatial context | Limited | Full |
+
+The storage question is real. Video files are bigger. Some platforms have strict limits. [RentCheck caps videos at 20 seconds](https://help.getrentcheck.com/en/articles/9045696-inspection-video-support). [SafetyCulture allows up to 3 minutes](https://help.safetyculture.com/002801/). If you’re trying to upload evidence to a dispute platform, [some only accept 40MB per upload](https://www.depositprotection.com/claims-and-disputes-for-tenants/tenant-dispute-resolution-process).
+
+This is why the AI processing matters. You don’t need to store and manage raw video forever. The system extracts the relevant frames, generates the damage report, and gives you the evidence you need without drowning in footage.
+
+## How RapidEye Handles Both
+
+We built RapidEye to work with whatever you’ve got.
+
+If you’re already doing photo inspections through Breezeway, we integrate directly and analyze those existing photos. No workflow changes. We’ve processed over a million photos for a single client this way.
+
+If you want video walkthroughs, we support that too. The system guides cleaners through capture and runs the same spatial AI comparison against your baseline.
+
+The point isn’t that video is always better or photos are always worse. It’s that damage detection should actually happen, at scale, regardless of format. Most property managers have millions of photos sitting unreviewed. That’s the real problem. Whether you fix it with better photo analysis or switch to video, the goal is catching issues that would otherwise slip through.
+
+Regulations are pushing toward more documentation, not less. [California’s AB 2801](https://members.aagla.org/news/reminder-ab-2801---new-security-deposit-requirement-effective-july-1st) now requires landlords to photograph or video document properties at move-in and after vacancy. That’s long-term rental, but the trend is clear.
+
+If you’re curious about what makes sense for your portfolio, happy to talk through it. The answer depends on your property mix, your team, and how much documentation depth you actually need.

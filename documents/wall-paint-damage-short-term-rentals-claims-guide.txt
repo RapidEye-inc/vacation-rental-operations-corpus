@@ -1,0 +1,202 @@
+Wall and Paint Damage in Short-Term Rentals: The Hardest Claim You'll Ever File
+
+Source: https://rapideyeinspections.com/blog/wall-paint-damage-short-term-rentals-claims-guide/
+
+_Wall damage claims fail more than any other category. Learn what documentation actually works, repair costs, and when fighting is worth it vs. just repainting._
+
+Wall and Paint Damage in Short-Term Rentals: The Hardest Claim You'll Ever File
+
+Wall damage is everywhere in short-term rentals. Scuffs from luggage rolling past. Holes from guests hanging tapestries without asking. Paint chips from furniture getting shoved around. And here’s the frustrating part: these claims fail more often than almost any other damage category.
+
+I’m not going to sugarcoat it. Platforms and insurers default to “that’s normal wear” for wall damage unless you can prove something specific happened during a specific stay. According to Rent Responsibly’s 2024 industry survey (https://www.rentresponsibly.org/top-takeaways-for-hosts-from-the-2024-state-of-the-str-industry-report/), guest property damage (43.9%) and normal wear and tear (41%) were among hosts’ top concerns. Walls sit right at the intersection of both.
+
+Most property managers I talk to just repaint periodically and write it off as a cost of doing business. That’s sometimes the right call. But there are situations where the damage is clearly beyond wear, and with the right documentation, you can actually get reimbursed.
+
+Why Wall Damage Claims Fail More Than Others
+
+Three things work against you:
+
+1. Everything looks like wear. Guests brush past walls. Furniture gets repositioned. Over months and years, paint shows age. Platforms know this, which is why their default stance is skepticism.
+
+2. Documentation is uniquely difficult. A scuff that’s obvious when you’re standing in the room can be completely invisible in a photo taken with bad lighting. Wall damage is highly dependent on angle and light. Twenty photos with overhead lighting might show nothing, while one photo with light raking across the surface reveals everything.
+
+3. Paint has a short expected lifespan. HUD guidelines (https://www.hud.gov/sites/documents/HSG-06-01GAPP5GUID.PDF) commonly referenced in deposit disputes list interior flat paint at just 3-5 years. If your paint is older than that, platforms can argue it was due for replacement anyway and apply heavy depreciation to any payout.
+
+Airbnb’s Host Damage Protection terms (https://www.airbnb.com/help/article/2869) explicitly exclude damage from “degradation in condition over time due to use, age, lack of maintenance” and even specifically mention “settling, cracking, shrinking, bulging, or expansion of walls.” They’re thinking about this.
+
+The Five Types of Wall Damage (And What Each Actually Costs)
+
+Scuffs and Surface Marks
+
+What causes it: Luggage wheels, furniture being pushed against walls, guests brushing past in narrow hallways, cleaning equipment.
+
+Repair cost: Often $0 if it’s surface-level and can be cleaned off with a magic eraser. If it’s through the paint, you’re looking at touch-up work, which is where paint matching becomes a problem (more on that below).
+
+Claim success rate: Very low. This is the grayest of gray zones. Avail’s wear-and-tear guide (https://www.avail.co/education/articles/wear-and-tear-what-is-fair) lists “minor scuffs” as normal wear. Unless you have clear before/after photos showing the scuff appeared during a specific stay, platforms will likely deny.
+
+Documentation requirement: Timestamped photos with proper lighting showing the mark wasn’t there before check-in.
+
+Holes (Nail Holes, Anchor Holes, Larger Impacts)
+
+This is where claims start becoming winnable.
+
+What causes it: Guests hanging pictures, tapestries, or decorations without permission. Larger holes from doorknob impacts (no doorstop), furniture crashes, or accidents.
+
+Repair cost: According to HomeAdvisor (https://www.homeadvisor.com/cost/walls-and-ceilings/repair-drywall/), drywall anchor repair runs $75-$100. Larger repairs average around $610, with a typical range of $295-$925 depending on size and complexity. If texture matching is needed (orange peel, knockdown), specialized contractors (https://www.easypatch.pro/pricing) charge $350-$900+ per patch with service call minimums around $295.
+
+Claim success rate: Moderate to good for larger holes. Small nail holes often get dismissed as wear. Reddit threads from hosts (https://www.reddit.com/r/airbnb_hosts/comments/1h1nk9k/) show mixed results even for obvious drywall damage, with Airbnb sometimes requiring extensive proof.
+
+Documentation requirement: Clear photos of the hole with a reference object for scale (coin, ruler). Before photos showing clean wall. Repair estimates from contractors.
+
+Paint Damage (Chips, Scratches, Peeling from Tape/Adhesive)
+
+What causes it: Impacts from hard objects, guests using tape or adhesive hooks that pull paint off, scratches from moving furniture.
+
+Repair cost: This is where it gets expensive. Touch-up paint rarely matches (I’ll explain why below), so you often need to repaint entire walls or rooms. HomeAdvisor’s painting guide (https://www.homeadvisor.com/cost/painting/) puts interior room painting at $1,000-$2,900, or $2-$3 per square foot.
+
+Claim success rate: Low to moderate. Platforms often argue paint chips are wear. Peeling from adhesive can be stronger if you have house rules prohibiting tape on walls and can document the adhesive residue.
+
+Documentation requirement: Close-up photos of the damage plus wider shots showing location. Evidence of adhesive residue if applicable. Before photos are critical.
+
+Stains (Water Stains, Food/Drink, Crayon/Marker)
+
+What causes it: Water damage bleeding through from above (though that’s often a separate claim category (https://www.rapideyeinspections.com/blog/water-damage-short-term-rentals-documentation-claims)), food or drink splashes, kids with markers or crayons if you allow children.
+
+Repair cost: Surface stains might clean off. If they’ve penetrated, you need stain-blocking primer plus repaint. Water stains often require addressing the source first, then repair. Crayon/marker sometimes cleans, sometimes requires repainting.
+
+Claim success rate: Moderate for obvious stains that weren’t there before. Better than scuffs because stains are harder to argue as “wear.”
+
+Documentation requirement: Photos showing the stain with good lighting. Comparison to before photos. For water stains, documentation of when it appeared and any investigation into the source.
+
+Structural (Doorknob Impacts, Corner Damage, Baseboard Damage)
+
+What causes it: Doors without stops slamming into walls, luggage or equipment hitting corners, furniture dragged along baseboards.
+
+Repair cost: Doorknob-sized holes require drywall patching ($75-$150 for small repairs). Corner bead replacement if damaged. Baseboard replacement varies widely based on material and linear footage.
+
+Claim success rate: Good for obvious impact damage, especially if you can show the doorstop was in place before and is now missing or damaged.
+
+Documentation requirement: Photos showing the impact point, any related damage (missing doorstop, broken corner bead). Before photos showing intact condition.
+
+The Paint Matching Problem Nobody Tells You About
+
+Here’s something hosts don’t realize until they try to fix wall damage: matching existing paint is nearly impossible.
+
+Sherwin-Williams notes (https://www.sherwin-williams.com/architects-specifiers-designers/education/project-profiles/sw-article-pro-howtogettouchup) that even using paint from the same can, different application conditions can produce different results. Stored paint loses moisture over time. Benjamin Moore advises (https://www.benjaminmoore.com/en-us/interior-exterior-paints-stains/how-to-advice/painting-101/touch-up-paint) that touch-ups may not be perfect and you might need to repaint the entire wall.
+
+You have to match:
+- Color: Even with color matching services (Home Depot offers free color matching (https://www.homedepot.com/c/pro_paint_services_rewards), Benjamin Moore sells a $59.99 color match tool (https://store.benjaminmoore.com/storefront/us/en/color-tools/benjamin-moore/benjamin-moore-color-match-tool/p/M2455151TL)), the match is never perfect
+- Sheen: Flat, eggshell, satin, semi-gloss all look different even in the same color
+- Age: New paint on old paint shows. The oxidation and UV exposure difference is visible.
+
+This means a “small” repair often turns into repainting an entire wall or room to avoid obvious patch marks. That $75 hole repair becomes a $500+ repaint job. Factor this into your claim amounts and your decision about whether to pursue reimbursement at all.
+
+Documentation That Actually Works for Wall Damage
+
+The reason most wall damage claims fail isn’t lack of effort. It’s technique.
+
+Taking 20 photos with overhead lighting is worse than 3 photos with proper lighting that actually reveals the damage. Wall damage is about surface texture and depth, which requires light hitting the wall at an angle.
+
+Museum conservators use something called raking light (https://en.wikipedia.org/wiki/Raking_light), light cast at a low angle across a surface to reveal texture, scratches, and damage invisible under direct lighting. You don’t need professional equipment, just awareness.
+
+What works:
+
+- Natural light from windows hitting the wall at an angle (morning or evening light is often better than midday)
+
+- Flashlight held to the side of the damage rather than pointed directly at it
+
+- Multiple angles of the same damage showing it from different perspectives
+
+- Reference objects (coin, ruler) for scale
+
+- Wide shots showing location in room plus close-ups of the damage itself
+
+What doesn’t work:
+
+- Flash pointed directly at the wall (washes out surface detail)
+
+- Overhead room lighting only
+
+- Photos from too far away
+
+- Single angle shots
+
+This is one area where video walkthroughs (https://www.rapideyeinspections.com/blog/video-walkthrough-inspections-vs-photos-damage-detection) can actually help. Moving through the room with video naturally captures walls from multiple angles and lighting conditions, increasing the chance you’ll catch damage that a single photo might miss.
+
+Platform Requirements: Timelines and Evidence
+
+Airbnb
+
+- Deadline: 30 days from checkout to file through the Resolution Center
+
+- Evidence required: Legitimate and Verifiable Evidence (https://assets.airbnb.com/help/2026_Host_Damage_Protection_Terms-English.pdf), meaning photos, videos, receipts, documents that are “true, accurate, and not doctored or falsified”
+
+- Depreciation: Payouts may be at Actual Cash Value (replacement cost minus depreciation). For 4-year-old paint, expect significant reduction.
+
+See our full Airbnb AirCover guide (https://www.rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide) for the complete process.
+
+Vrbo
+
+- Deadline: 14 days from checkout to file a damage deposit claim
+
+- Processing: Most claims processed immediately (https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) with funds within 3-7 business days
+
+- Coverage: Vrbo will cover valid claims up to the damage deposit amount even if they can’t collect from the guest
+
+See our full Vrbo damage claim guide (https://www.rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026) for details.
+
+When It’s Worth Fighting (And When to Just Repaint)
+
+Be honest with yourself about the math.
+
+Worth pursuing:
+
+- Holes clearly from guest activity (hanging things, impacts)
+
+- Damage exceeding $200-300 in repair costs
+
+- Clear before/after documentation showing the damage appeared during a specific stay
+
+- Guest acknowledgment of the damage in messages
+
+- Properties with newer paint (under 2-3 years) where depreciation won’t gut the claim
+
+Probably not worth it:
+
+- Scuffs that could be argued as wear
+
+- Small damage under $100-150 (your time has value)
+
+- Paint over 4-5 years old (depreciation will reduce payout significantly)
+
+- No before photos to prove the damage is new
+
+- Back-to-back bookings (https://www.rapideyeinspections.com/blog/back-to-back-booking-damage-attribution-proof) where you can’t prove which guest caused it
+
+Many property managers treat periodic repainting as planned maintenance rather than trying to chase small claims. If you’re repainting common areas every 2-3 years anyway, individual scuff claims may not be worth the hassle.
+
+Prevention and Ongoing Documentation
+
+A few things reduce wall damage and make claims easier when damage does occur:
+
+- Doorstops on every door. Doorknob impacts are completely preventable.
+
+- House rules about hanging things. “Do not put nails, screws, or adhesive hooks on walls” gives you grounds for claims.
+
+- Furniture placement that allows clearance. Tight spaces mean more wall contact.
+
+- Baseline photos of every wall. This is tedious but essential. Without before photos, claims are nearly impossible.
+
+Training your cleaning team (https://www.rapideyeinspections.com/blog/train-cleaning-team-damage-documentation-vacation-rental) to document walls specifically, with proper lighting, makes a difference. It’s easy to photograph a broken glass. Walls require intentional technique.
+
+RapidEye’s baseline comparison is actually useful here. We track visual changes between stays, which means a new scuff or hole that appears gets flagged automatically even if it’s subtle. The system compares current condition against the established baseline, catching changes that busy cleaners or manual review might miss.
+
+The Reality Check
+
+Wall damage claims are an uphill battle. The platforms know walls accumulate wear. The documentation is harder than almost any other damage type. Paint depreciation works against you.
+
+But that doesn’t mean you should never pursue them. Holes from guests hanging things without permission, obvious impact damage, stains that clearly weren’t there before: these are winnable with proper documentation.
+
+The key is being realistic about which fights are worth it, documenting properly when they are, and treating routine wear as a maintenance cost rather than a per-guest battle.
+
+If you’re dealing with a claim right now, check out our guides on why damage claims get denied (https://www.rapideyeinspections.com/blog/why-str-damage-claims-get-denied) and how to handle the conversation with guests (https://www.rapideyeinspections.com/blog/how-to-handle-guest-damage-disputes-conversation-scripts). And if you’re trying to prevent this situation entirely, our prevention guide (https://www.rapideyeinspections.com/blog/how-to-prevent-vacation-rental-damage) covers the basics.

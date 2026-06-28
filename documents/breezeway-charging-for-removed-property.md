@@ -1,0 +1,75 @@
+# Why Did Breezeway Charge Me for a Property I Already Removed? (2026)
+
+Source: https://rapideyeinspections.com/blog/breezeway-charging-for-removed-property/
+
+_Breezeway's per-property billing is driven by your PMS sync, which means a listing in your PMS shows up on your Breezeway invoice even if you have stopped managing it. Here is how the model works, a clean cooperative email to Breezeway support, and the realistic timeline for updating your roster._
+
+# Why Did Breezeway Charge Me for a Property I Already Removed?
+
+Breezeway's per-property billing is driven by your connected PMS, which means a listing that is still in your PMS shows up on your Breezeway invoice even if you have stopped managing it. Here is how the model works, a clean email to Breezeway support for updating your roster, and the realistic timeline to keep in mind.
+
+Breezeway's monthly bill equals the number of properties in your account multiplied by your per-property rate. Your property count is pulled from your connected PMS (Guesty, Hostaway, Streamline, Track, Barefoot, and others), which means if a property is still in your PMS, it is on your Breezeway invoice. To remove a property from your Breezeway roster, send a short email to **support@breezeway.io** with the property name, address or Property ID, and the effective date.
+
+The clean habit is to treat your PMS roster as the source of truth and reconcile it with Breezeway before each billing cycle. Most "surprise charge" situations trace back to a test listing or an offboarded property still sitting in the PMS.
+
+## How Breezeway's Per-Property Billing Works
+
+Breezeway's pricing, per their [published pricing page](https://www.breezeway.io/breezeway-pricing), is per property per month. For portfolios of 4 or fewer, the rate is $19.99 per property per month. For portfolios of 5 or more, pricing is custom and usually negotiated with your customer success manager.
+
+Your property count is synced automatically from your PMS. This is deliberate: for operators running hundreds of properties, manually adding each new listing to Breezeway would be unworkable. Instead, Breezeway watches the PMS sync. When a listing is added to your PMS and meets the sync criteria, it joins your Breezeway roster automatically. No manual add step. This is the same model most per-property vacation rental tools use.
+
+The tradeoff is that your Breezeway invoice follows your PMS roster. Test listings, sunset properties, duplicate entries, and properties you added for an onboarding evaluation all count. Keeping a clean PMS roster is the single highest-leverage habit for keeping your Breezeway bill predictable.
+
+## The Email That Gets Processed Fastest
+
+Breezeway's billing team handles property roster updates manually so the audit trail stays clean across every connected PMS. A short, specific email is the fastest path. The format below is what a support agent needs to process the request in a single pass.
+
+Two small details that help support move fast. First, include the Property ID or full address (not just the nickname). That lets the agent find the listing in their system without an extra round-trip. Second, explicitly asking which billing cycle reflects the change gives you a clean answer to pass to your accounting team.
+
+## Timing: When the Update Takes Effect
+
+This follows the standard SaaS billing pattern, which is good to know before your accounting team asks. The short version: send the email, expect a few business days for processing, and the property comes off your next billing cycle. The current cycle you are in has already posted.
+
+### You email support with the roster update
+
+Use the template above. Include Property IDs or addresses and today's date as the effective removal date.
+
+### Support processes and confirms
+
+Expect an acknowledgment within a few business days. The agent verifies the properties in your account, updates the billing side, and replies with confirmation of the effective date.
+
+### Final charge reflects the old roster
+
+Per the standard SaaS billing structure (covered in Breezeway's [terms of service](https://www.breezeway.io/terms)), the current cycle you are in has already posted and is not prorated. This is consistent with nearly every per-property SaaS tool in the category.
+
+### New roster reflected on your invoice
+
+Your next monthly invoice shows the lower property count. If anything looks off, reply to the same support thread with the invoice number so the history stays in one place.
+
+## How to Keep Your Roster Clean
+
+### A simple monthly habit
+
+- **Your PMS roster is the source of truth for your Breezeway bill.** Run a reconciliation before each billing cycle. Pull your PMS property list, compare to what you are actually managing, and flag anything that should not be on either.
+
+- **When a management contract ends, remove the property from your PMS and email Breezeway the same day.** Treating both as one task keeps your roster clean and avoids the "I forgot about that property" surprise.
+
+- **Check your first invoice after any PMS integration change.** Switching between PMS platforms or consolidating integrations can shift how properties map. The first bill after any change is worth a careful read.
+
+- **Set a calendar reminder 5 days before your Breezeway billing date.** That is your buffer for any roster updates you want to take effect before the next cycle posts. Five days is a comfortable processing window.
+
+## For Larger Portfolios
+
+If you are running 200-plus properties and your roster changes frequently, it is worth asking your customer success manager about best practices for keeping the PMS sync clean. Breezeway also offers a CSV bulk upload path through their support team for larger adjustments, which is covered in our guide to [bulk editing in Breezeway](https://rapideyeinspections.com/blog/breezeway-bulk-edit/).
+
+Property roster hygiene is one of those ops tasks that sounds trivial until you scale. A clean audit cadence saves your accounting team hours every month and keeps your ops data aligned with your billing data.
+
+## Sources
+
+- Breezeway. [Breezeway Pricing](https://www.breezeway.io/breezeway-pricing). Per-property monthly billing structure. $19.99 per property per month for 4-or-fewer portfolios; custom pricing for 5 or more.
+ https://www.breezeway.io/breezeway-pricing
+
+- Breezeway. [Terms of Service](https://www.breezeway.io/terms). Standard SaaS billing terms including cycle-based billing and the contact-support cancellation flow.
+ https://www.breezeway.io/terms
+
+## Related

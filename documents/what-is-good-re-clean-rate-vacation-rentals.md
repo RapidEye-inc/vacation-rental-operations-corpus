@@ -1,0 +1,46 @@
+# What's a Good Re-Clean Rate for Vacation Rentals?
+
+Source: https://rapideyeinspections.com/blog/what-is-good-re-clean-rate-vacation-rentals/
+
+_A healthy vacation rental re-clean rate is under 5%, with 2 to 3% best-in-class and anything above 10% a red flag. The benchmark tiers, why the number doubles as a cost figure, and how to drive it down._
+
+# What's a Good **Re-Clean Rate** for Vacation Rentals?
+
+**A healthy re-clean rate is under 5%. Best-in-class operators run 2 to 3%, and anything sustained above 10% is a red flag.** Re-clean rate is the share of turnovers that fail inspection and get sent back for rework before a guest arrives. It is one number that doubles as a cost figure and an early warning.
+
+According to RapidEye's operational benchmarks, re-clean rate belongs in the same tier system as the metrics we track across [portfolio KPIs](https://rapideyeinspections.com/blog/vacation-rental-operational-kpis/). The reason it deserves its own number is that it is the cheapest quality signal you have: it catches problems before the guest, while they still cost you a redo instead of a review.
+
+## The benchmark, by tier
+
+These tiers line up with the broader operational-failure benchmarks we have documented: per our [ops failure rate analysis](https://rapideyeinspections.com/blog/what-is-ops-failure-rate-short-term-rentals/), the industry average for operational failures runs around 12.5%, the professional target is below 5%, and best-in-class operators hold 2 to 3%. Re-cleans are a specific, controllable slice of that, so the same tiers apply.
+
+## The number is also your cost
+
+A re-clean means paying for that turnover twice: the original clean plus the redo. So your re-clean rate is, almost exactly, the percentage you are adding to your cleaning bill. That makes the cost of slipping from good to mediocre easy to see.
+
+| Re-clean rate | What it costs you |
+| --- | --- |
+| 2–3% (best in class) | ~2–3% added to cleaning spend |
+| 5% (good) | ~5% added to cleaning spend |
+| 10% (acceptable ceiling) | ~10% added, plus schedule risk on back-to-backs |
+| 15%+ (red flag) | ~15%+ added, and re-cleans start blowing turnover windows |
+
+And the dollar cost is the smaller problem. Every re-clean is a turnover that was about to ship dirty. The ones you catch cost you a redo; the ones you miss cost you a cleanliness complaint, a lower [cleanliness rating](https://rapideyeinspections.com/blog/airbnb-star-rating-impact-on-bookings/), and a booking. That is why re-clean rate is the best leading indicator of the cleanliness problems covered in [reducing cleanliness complaints](https://rapideyeinspections.com/blog/how-to-reduce-cleanliness-complaints-vacation-rental/).
+
+## How to drive it down
+
+A high re-clean rate is almost never a "lazy cleaner" problem. It is an unclear-standard problem. The fix is upstream: standardize the checklist and the photo requirements so guest-ready means the same thing to everyone, give new cleaners closer oversight until their personal rate settles, and root-cause your repeat failures by category instead of treating each re-clean as a one-off. Measuring the rate [per cleaner](https://rapideyeinspections.com/blog/how-many-cleaners-per-supervisor-vacation-rental/), not just portfolio-wide, is what turns "our quality slipped" into "this cleaner's rate doubled," which is something you can act on.
+
+You cannot lower a re-clean rate you are not measuring, and most operators only catch the re-cleans an inspector happened to look at. **RapidEye reviews the turnover photos and video from every clean**, so every miss is flagged the same day and every cleaner gets a real, per-person re-clean rate, instead of a portfolio average that hides the outliers. That is how you move from a 10% guess to a 3% number you can prove. [Start a free trial](https://rapideyeinspections.com/#contact).
+
+## FAQ
+
+Related
+
+## Sources
+
+- RapidEye. [What Is Ops Failure Rate for Short-Term Rentals?](https://rapideyeinspections.com/blog/what-is-ops-failure-rate-short-term-rentals/) Operational-failure benchmark tiers: industry average ~12.5%, professional target below 5%, best-in-class 2 to 3%.https://rapideyeinspections.com/blog/what-is-ops-failure-rate-short-term-rentals/
+
+- RapidEye. [Vacation Rental Operational KPIs](https://rapideyeinspections.com/blog/vacation-rental-operational-kpis/). Re-clean rate as a tracked quality metric in the ops scorecard.https://rapideyeinspections.com/blog/vacation-rental-operational-kpis/
+
+- RapidEye. [How Much Does a 0.2-Star Rating Drop Cost You?](https://rapideyeinspections.com/blog/airbnb-star-rating-impact-on-bookings/) The booking and revenue impact of a lower cleanliness rating.https://rapideyeinspections.com/blog/airbnb-star-rating-impact-on-bookings/

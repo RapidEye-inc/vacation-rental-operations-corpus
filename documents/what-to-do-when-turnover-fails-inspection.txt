@@ -1,0 +1,77 @@
+What to Do When a Turnover Fails Inspection
+
+Source: https://rapideyeinspections.com/blog/what-to-do-when-turnover-fails-inspection/
+
+_A failed turnover is a clock, not a crisis. Triage by time-to-arrival and severity, open an owned work order, re-verify the fix, and close the loop so it doesn't recur._
+
+What to do when a turnover fails inspection
+
+A failed turnover is a clock, not a crisis. What separates a non-event from a one-star review is whether the response has an owner and a verification step.
+
+Work it in four moves: triage by time-to-arrival and severity, open a work order that names a single owner and a deadline tied to check-in, fix it, then re-inspect to confirm the fix actually happened. The misses are not what reach guests. Broken response chains are, the ones with no assignment step and no verification step. Most "failed turnover" disasters are really unowned, unverified fixes.
+
+Step 1: Triage before you fix
+
+Two variables decide everything that follows: severity, and hours until the guest arrives.
+
+Can the guest safely use the property at all?
+
+No hot water, electrical hazard, broken lock, gas smell, no AC in a heat wave. These can justify delaying check-in or relocating the guest. Decide habitability before you decide logistics.
+
+Will the guest notice and care within minutes?
+
+Visible dirt, unmade beds, missing core amenities, a strong odor. Fix before arrival without fail, but the property is still habitable. This is a sprint, not an evacuation.
+
+Small misses with runway
+
+A burnt-out bulb, low toilet paper, a crooked frame, a single stray hair. Fix in order of the time you have. Log them, because a pattern of "small" misses from one cleaner is a real signal.
+
+Step 2: Open a work order that can't fall through
+
+The failure mode is a fix with no owner. A work order exists to make ownership and a deadline impossible to skip.
+
+According to Breezeway (https://www.breezeway.io/new-inspection-checklist-ungated), a pre-arrival inspection exists precisely to catch issues in the window between checkout and check-in. Catching the issue is only half the job. The work order is what carries it to actually resolved.
+
+Step 3: Fix, then re-inspect
+
+Re-clean or repair, then run a focused follow-up check on the exact items that failed, plus a quick scan of anything the rework might have disturbed. A fix you did not verify is a hope. The re-inspection is short, but it is the step that decides whether the guest ever sees the problem, so it is the one step you never trade away under time pressure.
+
+Step 4: Close the loop so it doesn't recur
+
+A single failure is noise. A repeated one is a process you have not fixed.
+
+- Log the failure with its categoryWhat failed, which cleaner, which property. One data point is nothing; the pattern is everything.
+
+Log the failure with its category
+
+What failed, which cleaner, which property. One data point is nothing; the pattern is everything.
+
+- Look for the repeatSame cleaner missing the same thing, or the same property failing across cleaners, points to a cause: a training gap, a confusing checklist, or a genuinely hard-to-clean feature.
+
+Look for the repeat
+
+Same cleaner missing the same thing, or the same property failing across cleaners, points to a cause: a training gap, a confusing checklist, or a genuinely hard-to-clean feature.
+
+- Feed it back, without blameSpecific, photo-backed feedback fixes behavior. "Be more careful" does not. Frame it as the team catching a problem together, the way the best operations do.
+
+Feed it back, without blame
+
+Specific, photo-backed feedback fixes behavior. "Be more careful" does not. Frame it as the team catching a problem together, the way the best operations do.
+
+- Watch the pass rate moveTrack whether the fix worked. Our inspection pass rate guide (https://rapideyeinspections.com/blog/what-is-good-inspection-pass-rate-vacation-rentals/) covers the thresholds worth holding the line on.
+
+Watch the pass rate move
+
+Track whether the fix worked. Our inspection pass rate guide (https://rapideyeinspections.com/blog/what-is-good-inspection-pass-rate-vacation-rentals/) covers the thresholds worth holding the line on.
+
+RapidEye flags the failure with the evidence already attached
+
+Because RapidEye reviews every turnover's photos against the property baseline, a failure arrives as a specific, photo-backed flag, exactly what a work order needs, before the guest does. It runs inside your existing Breezeway workflow, so the catch and the evidence land in one place.
+
+Common questions
+
+Sources
+
+- Breezeway, "The New Inspection: Pre-Arrival Checklist" (catching issues in the checkout-to-check-in window)https://www.breezeway.io/new-inspection-checklist-ungated
+
+Related

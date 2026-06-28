@@ -1,0 +1,131 @@
+# Staging Drift: Why Your Vacation Rental Slowly Stops Matching Its Listing Photos
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-staging-drift/
+
+_Staging drift is the slow divergence of a vacation rental from its reference setup across hundreds of turnovers. The six types, why inspections miss it, and how to defend a canonical state._
+
+# Staging drift: why your rental slowly stops matching its listing photos
+
+No single turnover looks wrong. But across hundreds of resets by a rotating cast of cleaners, the property quietly wanders away from the unit your guest actually booked.
+
+Staging drift is the gradual, cumulative divergence of a vacation rental's physical setup from its intended reference state, caused by hundreds of small, individually invisible re-staging decisions made across many turnovers and many cleaners. No single turnover fails inspection. The property simply random-walks away from its listing photos, one moved pillow, one missing glass, one swapped towel at a time, until the unit a guest arrives at is measurably not the one they booked.
+
+## The reason nobody notices
+
+Staging drift is invisible because it never produces a single bad turnover. Every individual reset looks fine. A cleaner who leaves four throw pillows instead of five, or drapes the blanket over the armchair instead of the sofa back, has not done anything an inspector would flag. The room reads as clean and complete. The checklist passes.
+
+The damage is in the aggregate. A property at roughly 70 percent occupancy turns over about 35 times a year, often handled by three or four different cleaners who each carry a slightly different mental picture of "done." Multiply small, uncorrected deviations across dozens of resets and several people, and the property's resting state does not stay put. It walks. By month six the unit looks materially different from the listing photos, and not because of any one mistake you could point to.
+
+This is the operational cousin of the "doesn't look like the pictures" complaint. According to [AvantStay](https://avantstay.com/blog/vacation-rental-not-as-advertised/), a substantial gap between the listing and the arrival is treated by platforms as misrepresentation: Airbnb gives guests 72 hours to report it for a potential full refund, and Vrbo gives 24 hours with explicit emphasis on photographic evidence. Drift turns your own listing photos into the guest's evidence against you.
+
+## One turnover versus forty
+
+The throw is on the chair, there are four pillows, one towel is a slightly different white. Clean, complete, passes inspection. Nothing to flag.
+
+The accumulated, never-corrected deviations have compounded. The room no longer reads like the listing photos, and you cannot trace it to a single turnover or person.
+
+This is why "just inspect harder" does not solve drift. Each inspection is judging a single turnover against a vague standard of "looks good," and against that bar, every turnover passes. Drift is only visible when you compare the current state against a fixed reference, not against a feeling.
+
+## The six types of staging drift
+
+Drift is not one thing. It arrives through six distinct mechanisms, and a present-or-absent checklist is blind to most of them.
+
+### Positional drift
+
+The throw blanket folded over the armchair instead of draped on the sofa. Bar stools tucked instead of pulled out. Remotes, coasters, and trays migrating from room to room. The accent chair angled a little differently every time until it faces the wrong way.
+
+### Inventory attrition
+
+Wine glasses go from six to four. Throw pillows from five to three. The welcome binder disappears. One of a matched pair of nightstand lamps breaks and is never restored, because no one knows what the canonical count was supposed to be.
+
+### Substitution drift
+
+A shattered drinking glass swapped for a promotional cup. One beige towel joining the white set. A lamp borrowed from another unit during a rush and never returned. The matched dinnerware quietly becomes a mosaic of three different patterns.
+
+### Accretion drift
+
+Guest-abandoned items that survive a few turnovers. Extra mismatched hangers. A second coffee maker someone moved over and left. Cleaning supplies parked under the sink. A slowly growing collection of orphaned remotes in a drawer.
+
+### Configuration drift
+
+A dining chair borrowed for the patio and never returned, so the table now seats five. The console table pushed against a different wall to make room for a vacuum. The living room rug rotated ninety degrees and left that way.
+
+### Decay drift
+
+The rug corner that curls a little more each week. The cabinet door sagging on its hinge. The lampshade tilting further. The grout darkening. Every turnover it is "basically fine," and it stays basically fine right up until a guest photographs it.
+
+## Why the standard fixes do not hold
+
+Three common responses, and what each one leaves on the table.
+
+### Reshoot the listing photos
+
+The most common advice online. It treats the photos as the stale artifact rather than the property. For one unit, occasionally, fine. Across a portfolio you cannot reshoot hundreds of properties every quarter, and reshooting concedes the drift instead of preventing it. Worse, it ratchets the standard down to wherever the property has already wandered.
+
+### Reference photos on the cleaning checklist
+
+The right instinct. Tools like [Turno](https://turno.com/features/photo-checklists/) and [Breezeway](https://www.breezeway.io/checklists-mobile-app) let you attach an "exact look" reference image to each checklist item. But it is advisory, not verified: it relies on the cleaner looking at the reference and self-correcting, and nothing confirms they did. It catches positional drift only when the cleaner is diligent on that specific item.
+
+### Binary inspection checklists
+
+Present or absent. The checklist confirms the throw pillows exist; it does not measure that there are three instead of five, that the set no longer matches, or that the blanket lives on the chair. Drift lives entirely in the gap between "present" and "correct," which a present-or-absent checklist is structurally unable to see.
+
+## The fix is a canonical state you defend
+
+Every fix above fails for the same reason: it compares each turnover against either a feeling or nothing at all. The only thing that catches drift is comparing the current setup against a fixed reference, and then correcting back toward it. That reference is the canonical reset state: the single, deliberately staged version of the property that the listing photos represent, captured precisely enough to compare against.
+
+This matters because the field is already swimming in turnover data. [Breezeway](https://www.breezeway.io/blog/top-vacation-rental-issues) reports analyzing over 300,000 issues logged by inspectors, cleaners, and field staff through its mobile app. The photos and observations exist. What is missing is a reference to compare them against, so that the system flags "this property has drifted from its standard" rather than only "an item is broken."
+
+### Set the canonical state
+
+Immediately after a professional reset or refresh, capture room-by-room reference images from fixed, repeatable angles, plus an inventory manifest with exact counts of the items that drift: throw pillows, glassware, linens, decor pieces, remotes, lamps.
+
+### Make it the comparison target
+
+Every turnover's documentation gets checked against the canonical state, not against "looks clean." The question shifts from "is this acceptable" to "does this match the reference."
+
+### Surface deltas, not pass or fail
+
+The useful output is specific: "pillow count five to three, throw on chair not sofa, one beige towel in the white set." Route those deltas to whoever restocks and corrects, so the property gets pulled back to standard instead of drifting further.
+
+### Re-baseline only on purpose
+
+Update the canonical state when you deliberately re-stage or refresh the unit, never to match decline. The reference is the standard the property conforms to. It must never become a moving target that chases the property downward.
+
+## A drift audit you can run this week
+
+You do not need software to prove drift is happening in your portfolio. You need ten minutes and your own listing photos.
+
+### The five-property drift check
+
+- Pick your five longest-tenured properties, the ones that have been in rotation the longest.
+
+- Pull the current listing photos for each, side by side with the most recent turnover photos.
+
+- Count the deltas room by room: moved items, changed counts, mismatched replacements, things that appeared, things that left.
+
+- Tally the total. Most operators are surprised by how high the number climbs on their oldest units.
+
+- That number is your baseline drift rate. It is also the gap a guest sees the moment they walk in.
+
+### RapidEye measures drift because it already compares against a baseline
+
+Staging drift is divergence from a reference state, which is exactly what baseline comparison measures. RapidEye holds each property's canonical setup and checks every turnover's photos against it, surfacing the specific deltas, a changed pillow count, a migrated throw, a mismatched towel, instead of only confirming that items are present. It plugs into your existing Breezeway workflow, where the turnover photos already live, with no new behavior required from your cleaning team.
+
+## Frequently asked questions
+
+## Sources
+
+- AvantStay, "Vacation Rental Isn't as Advertised? Your Rights" (platform misrepresentation windows: Airbnb 72 hours, Vrbo 24 hours, photographic evidence)
+ https://avantstay.com/blog/vacation-rental-not-as-advertised/
+
+- Breezeway, "We analyzed over 300,000 issues in vacation rentals, here's what we found" (volume of field-logged turnover and inspection issues)
+ https://www.breezeway.io/blog/top-vacation-rental-issues
+
+- Breezeway, "Checklists Mobile App" (attaching reference photos and requiring photo upload to verify task completion)
+ https://www.breezeway.io/checklists-mobile-app
+
+- Turno, "Photo Checklists" (adding exact-look reference images to cleaning checklist items)
+ https://turno.com/features/photo-checklists/
+
+## Related

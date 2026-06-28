@@ -1,0 +1,127 @@
+Cost to Repair Common Guest Damage in a Vacation Rental (2026 Reference Table)
+
+Source: https://rapideyeinspections.com/blog/cost-to-repair-common-guest-damage-vacation-rental/
+
+_What it actually costs to fix the most common guest damage in a short-term rental: drywall holes, carpet stains, cigarette burns, scratched hardwood, cracked TVs, ruined mattresses, etched marble, smoke odor, and more. A sourced reference table._
+
+What it costs to repair common guest damage in a vacation rental
+
+A drywall hole, a wine stain, a cigarette burn, a cracked TV, a scratched floor, an etched countertop. Here is the going rate to fix each of them in 2026, with the source for every figure.
+
+Repair and replacement costs for common guest damage
+
+Figures below are 2025–2026 U.S. cost ranges from home-improvement cost data (Angi, HomeAdvisor, HomeGuide, Fixr, NerdWallet, Bob Vila, the Sleep Foundation) plus water-damage data compiled by Minut. Actual cost varies by region, material grade, and severity; these are the ranges most commonly published.
+
+| Guest damage | Typical cost to fix | Notes |
+| --- | --- | --- |
+| Walls, paint & doors |  |  |
+| Small drywall hole or dent (up to ~4") | $20–$120 | Patch and paint; handyman-level fix. |
+| Large drywall hole / damaged section | $50–$200+ | Full drywall repair jobs average roughly $300–$900 once paint-matching and multiple areas are included. |
+| Repaint a room (scuffs, marks, smoke staining) | ~$200–$1,000 | A full interior repaint runs roughly $1,000–$3,000+. |
+| Rekey or replace locks after lost keys (3 doors) | ~$95–$270 | $15–$40 per lock plus a locksmith trip fee. |
+| Flooring |  |  |
+| Professional carpet cleaning (stains, spills) | $120–$235 | Per-room cleaning often $25–$80; whole-job average around $175. |
+| Cigarette burn in carpet (spot repair) | $75–$300 | A skilled patch is nearly invisible; severe burns mean replacing the section. |
+| Replace carpet in one room (~10' x 12') | $200–$900 | $3–$11 per square foot installed; a full carpet-replacement job averages roughly $1,800. |
+| Refinish or repair scratched / gouged hardwood | $3–$8 per sq ft | Deep gouges sit at the high end; a full room refinish runs roughly $600–$2,400+. |
+| Furniture & soft goods |  |  |
+| Professional upholstery cleaning (set-in stain) | $120–$232 | Roughly $10–$15 per cushion or linear foot for large pieces. |
+| Reupholster a sofa | $450–$1,400 | Large or designer pieces run $2,000–$3,000+ with fabric and labor. |
+| Replace a mattress (queen) | $200–$1,500 | Most mid-range replacements land $500–$1,500; old-mattress haul-away adds $20–$150. |
+| Electronics & surfaces |  |  |
+| Cracked or smashed flat-screen TV | replace, ~$200–$800+ | Screen repair on most TVs costs as much as a new set, so replacement is usually the call. Premium and large-format TVs run higher. |
+| Etched or scratched marble / natural-stone countertop | $1–$7 per sq ft | Professional re-polishing of a full kitchen's stone runs roughly $500–$1,500. |
+| Odor & water restoration |  |  |
+| Cigarette smoke odor removal - single room | $200–$1,200 | Ozone treatment, deep cleaning, possible repaint. |
+| Cigarette smoke odor remediation - whole home | $2,000–$8,000 | Average around $3,000; heavy contamination and many rooms push it higher. |
+| Water-damage repair (moderate incident) | $3,000–$10,000+ | A general water-damage repair averages about $3,362; a moderate undetected leak in a rental "can easily exceed $10,000" per Minut, before any mold remediation. |
+
+Sources for each band are listed in full at the bottom of the page. Where a range spans an order of magnitude, severity is the swing factor: a 2-inch burn versus a scorched square yard, a single etch mark versus a clouded countertop, a same-day spill versus a stain that has set through three guests.
+
+Almost every repair has three price tiers
+
+The same piece of damage costs wildly different amounts depending on when it's caught. This is the single most useful thing to understand about repair budgets, and it's why early detection is worth real money.
+
+The numbers in the table above mostly describe the middle tier. Whether a given incident lands in tier two or tier three usually comes down to whether anyone was comparing the property's current condition to its previous condition. Most operators aren't, which is the gap condition-monitoring tools like RapidEye (https://rapideyeinspections.com/) exist to close: photo or video at every turnover, automatically compared to the last clean baseline, so a $200 fix doesn't get a month to become a $5,000 one.
+
+What this means when you go to bill the guest
+
+Knowing the repair cost is only half the job. To recover it from the guest, you need to attach a number to the damage, prove the damage is new, and file before the window closes.
+
+Attach a real cost. Platforms want a repair estimate, an invoice, or a like-for-like replacement price, not a round number you picked. The figures in the table are a starting point; a written quote or receipt is what gets approved. According to Avada Properties' analysis of 20,000+ bookings (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/), hosts are reimbursed for about 57% of the amount they claim on Airbnb and about 68% on Vrbo, and under-documented cost is one of the main reasons claims get cut down.
+
+Prove it's new. A before photo from the prior turnover and an after photo from this one is the cleanest possible evidence. Without it, "the previous guest could have done that" is a valid objection, and on a $3,000 reupholstery job that objection is expensive. Producing that before/after on demand at volume is exactly what automated baseline tools are for; here is when one is worth it (https://rapideyeinspections.com/blog/is-rapideye-right-for-your-operation/).
+
+File on time. On Airbnb you generally have 14 days from the responsible guest's checkout, or before the next guest checks in, whichever comes first. On Vrbo the practical window is around 30 days. A repair you discover after that window is a repair you pay for. See our Airbnb AirCover claim guide (https://rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide/) and Vrbo damage claim guide (https://rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026/) for the specifics.
+
+Frequently asked questions
+
+How much does it cost to repair a hole in the wall from a guest?
+
+A small drywall hole or dent (up to about 4 inches) typically costs $20 to $120 to patch and paint. A larger hole or damaged section runs $50 to $200 or more, and once you factor in paint-matching and a minimum service charge, full drywall repair jobs average roughly $300 to $900, according to home-improvement cost data from Angi and HomeAdvisor.
+
+How much does it cost to fix a cigarette burn in carpet?
+
+A professional spot repair of a small cigarette burn in carpet generally costs $75 to $300. A skilled technician can make a small burn nearly invisible by transplanting fibers; a large or clustered burn means replacing that section of carpet, which runs $3 to $11 per square foot installed.
+
+Is it cheaper to repair or replace a cracked flat-screen TV?
+
+Almost always replace. A replacement screen panel for most flat-screen TVs costs roughly as much as a new TV of the same size, so professional screen repair (typically $200 to $500 and up) rarely makes financial sense. Replacement is the standard call, and premium or large-format TVs cost more to swap.
+
+How much does it cost to get cigarette smoke smell out of a rental?
+
+Removing cigarette smoke odor from a single room typically costs $200 to $1,200 (ozone treatment, deep cleaning, sometimes repainting). Whole-home cigarette smoke remediation runs $2,000 to $8,000, averaging around $3,000, depending on how many rooms are affected and how heavy the contamination is, according to Angi's smoke remediation cost data.
+
+How much does it cost to refinish a scratched hardwood floor?
+
+Spot-refinishing scratched or gouged hardwood costs roughly $3 to $8 per square foot, with deep gouges at the high end. Once damage is spread across a room and a partial repair would be visible, you're into a full-room refinish, which runs roughly $600 to $2,400 or more depending on size and wood type.
+
+Can I charge a guest for the full replacement cost of something they damaged?
+
+Generally you can charge for the repair cost, or for a like-for-like replacement of an item that can't be repaired, minus reasonable depreciation for wear and age. Platforms expect a repair quote, an invoice, or a comparable replacement price as backup. Charging full retail for a 10-year-old sofa, or charging for normal wear and tear, is a common reason claims get reduced or denied.
+
+Related reading
+
+- Average Guest Damage Cost in a Vacation Rental (https://rapideyeinspections.com/blog/average-guest-damage-cost-vacation-rental/)
+
+- How Much Does Airbnb Actually Pay on Damage Claims (https://rapideyeinspections.com/blog/how-much-does-airbnb-pay-damage-claims/)
+
+- Wear and Tear vs. Damage on Vacation Rental Finishes (https://rapideyeinspections.com/blog/wear-and-tear-vs-damage-luxury-vacation-rental-finishes/)
+
+- Why STR Damage Claims Get Denied (https://rapideyeinspections.com/blog/why-str-damage-claims-get-denied/)
+
+- How to Document Damage for High-Value Claims (https://rapideyeinspections.com/blog/how-to-document-damage-high-value-vacation-rental-claims/)
+
+Sources
+
+- How Much Does Drywall Repair Cost? (https://www.angi.com/articles/how-much-does-drywall-repair-cost-small-holes.htm) - Angi (2026 cost data)https://www.angi.com/articles/how-much-does-drywall-repair-cost-small-holes.htm
+
+- How Much Does Drywall Repair Cost? (https://www.homeadvisor.com/cost/walls-and-ceilings/repair-drywall/) - HomeAdvisorhttps://www.homeadvisor.com/cost/walls-and-ceilings/repair-drywall/
+
+- How Much Does Smoke Remediation Cost? (https://www.angi.com/articles/smoke-remediation-cost.htm) - Angi (2026 cost data)https://www.angi.com/articles/smoke-remediation-cost.htm
+
+- How Much Does Smoke Remediation Cost? (https://homeguide.com/costs/smoke-remediation-cost) - HomeGuidehttps://homeguide.com/costs/smoke-remediation-cost
+
+- How Much Does It Cost to Replace Carpet? (https://www.homeadvisor.com/cost/flooring/install-carpeting/) - HomeAdvisorhttps://www.homeadvisor.com/cost/flooring/install-carpeting/
+
+- Cost to Replace Carpet (https://www.nerdwallet.com/article/mortgages/cost-to-replace-carpet) - NerdWallethttps://www.nerdwallet.com/article/mortgages/cost-to-replace-carpet
+
+- How Much Does Hardwood Floor Repair Cost? (https://www.homeadvisor.com/cost/flooring/repair-wood-flooring/) - HomeAdvisorhttps://www.homeadvisor.com/cost/flooring/repair-wood-flooring/
+
+- How Much Does Furniture Reupholstery Cost? (https://www.homeadvisor.com/cost/home-design-and-decor/upholster-furniture/) - HomeAdvisorhttps://www.homeadvisor.com/cost/home-design-and-decor/upholster-furniture/
+
+- How Much Does Professional Upholstery Cleaning Cost? (https://www.homeadvisor.com/cost/cleaning-services/clean-furniture/) - HomeAdvisorhttps://www.homeadvisor.com/cost/cleaning-services/clean-furniture/
+
+- Here's How Much TV Screen Repair Costs (https://www.bobvila.com/articles/tv-screen-repair-cost/) - Bob Vilahttps://www.bobvila.com/articles/tv-screen-repair-cost/
+
+- How Much Does a Mattress Cost? (https://www.sleepfoundation.org/mattress-information/how-much-does-a-mattress-cost) - Sleep Foundationhttps://www.sleepfoundation.org/mattress-information/how-much-does-a-mattress-cost
+
+- How Much Does Granite and Stone Restoration Cost? (https://www.homeadvisor.com/cost/flooring/restore-and-polish-stone/) - HomeAdvisorhttps://www.homeadvisor.com/cost/flooring/restore-and-polish-stone/
+
+- Locksmith Prices / Cost to Rekey Locks (https://www.fixr.com/costs/locksmith-service) - Fixrhttps://www.fixr.com/costs/locksmith-service
+
+- The Hidden Cost of Water Damage in Short-Term Rentals (https://www.minut.com/blog/vacation-rental-water-damage-costs-prevention) - Minut (citing Angi for the $3,362 figure)https://www.minut.com/blog/vacation-rental-water-damage-costs-prevention
+
+- Avada's In-Depth Analysis of 20,000+ Bookings (https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/) - Avada Properties (claim reimbursement rates)https://avadaproperties.com/airbnb-vrbo-damage-claims-statistics-and-assumptions/
+
+Cost figures reflect 2025–2026 published U.S. ranges and are updated as new data is released. Last updated May 2026.

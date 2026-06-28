@@ -1,0 +1,52 @@
+# Does My Tennessee Cabin Need a Sprinkler System?
+
+Source: https://rapideyeinspections.com/blog/does-tennessee-cabin-need-sprinkler-system/
+
+_Gatlinburg and Pigeon Forge require sprinkler systems in vacation rentals that exceed 3 stories, 5,000 square feet, or 12 occupants. Here are the exact thresholds and what triggers the requirement._
+
+# Does My Tennessee Cabin Need a Sprinkler System?
+
+It depends on the size. In Gatlinburg, Pigeon Forge, and Sevier County, vacation rentals that exceed **any one** of three thresholds must have an approved fire sprinkler system: more than 3 stories, more than 5,000 gross square feet, or more than 12 occupants. If your cabin hits any single threshold, sprinklers are required.
+
+## The three thresholds
+
+According to the [City of Gatlinburg](https://www.gatlinburgtn.gov/page/apply-for-a-tourist-residency-permit), all tourist residences that exceed any one of these limits must have an approved sprinkler system:
+
+Any one threshold triggers the requirement
+
+These thresholds are independent. A 2-story, 3,000 sqft cabin that sleeps 14 still needs sprinklers because it exceeds the occupant threshold. A 4-story cabin that sleeps 8 in 2,500 sqft still needs sprinklers because it exceeds the story threshold.
+
+## Where this applies
+
+According to [Gatlinburg's STR regulations](https://gatlinburgrealestateforsale.com/gatlinburg-short-term-rental-laws-what-you-need-to-know/), the sprinkler threshold applies to properties within Gatlinburg city limits under the Tourist Residency Permit program. According to the [City of Pigeon Forge Building Department](https://www.cityofpigeonforge.com/business-inspections.aspx), properties meeting similar thresholds (more than 5 sleeping rooms, 12+ occupants, 5,000+ sqft, or 3+ stories) are classified as R-1 (hotel/motel occupancy) and must comply with commercial safety standards including sprinklers.
+
+According to the [Sevier County Fire Marshal's checklist](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), properties sleeping more than 12 occupants that were built after 2016 and exceed 5,000 sqft or 3+ levels are considered commercial and require sprinklers and fire alarm systems.
+
+## Common scenarios
+
+| Property | Stories | Size | Sleeps | Sprinkler? |
+| --- | --- | --- | --- | --- |
+| 2BR cabin | 1 | 1,200 sqft | 6 | No |
+| 4BR cabin | 2 | 2,800 sqft | 10 | No |
+| 5BR cabin | 3 | 3,500 sqft | 12 | No |
+| 6BR lodge | 3 | 4,200 sqft | 16 | Yes (occupants) |
+| 8BR lodge | 4 | 5,500 sqft | 20 | Yes (all three) |
+| 4BR chalet | 4 | 2,400 sqft | 8 | Yes (stories) |
+
+## What counts as a "story"
+
+A common source of confusion in the Smokies: does a walkout basement count as a story? Under most building codes, a basement counts as a story if more than half of its exterior wall area is above grade. Many Smoky Mountain cabins are built on hillsides with daylight/walkout basements that count as a full story, which can push a property from 2 to 3 stories and trigger the sprinkler requirement. Confirm with your local building department if you are on the boundary.
+
+## Annual maintenance
+
+If your property has a sprinkler system, according to the [Sevier County Fire Marshal's checklist](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf), the system must be inspected annually by a company licensed in the State of Tennessee to perform fire sprinkler inspections. All deficiencies noted during the inspection must be corrected. This is a separate inspection from the annual STRU fire marshal inspection.
+
+### Sources
+
+[Gatlinburg Tourist Residency Permit Application](https://www.gatlinburgtn.gov/page/apply-for-a-tourist-residency-permit) (City of Gatlinburg)https://www.gatlinburgtn.gov/page/apply-for-a-tourist-residency-permit
+
+[Gatlinburg Short-Term Rental Laws: What You Need to Know](https://gatlinburgrealestateforsale.com/gatlinburg-short-term-rental-laws-what-you-need-to-know/) (Gatlinburg Real Estate)https://gatlinburgrealestateforsale.com/gatlinburg-short-term-rental-laws-what-you-need-to-know/
+
+[Pigeon Forge Business Inspections](https://www.cityofpigeonforge.com/business-inspections.aspx) (City of Pigeon Forge)https://www.cityofpigeonforge.com/business-inspections.aspx
+
+[Sevier County Fire Marshal STRU Inspection Items](https://cms5.revize.com/revize/seviercountytn/SCFMO%20STRU%20Inspection%20Items%20Revised%2011.8.24.pdf) (Revised November 8, 2024)https://cms5.revize.com/revize/seviercountytn/SCFMO STRU Inspection Items Revised 11.8.24.pdf

@@ -1,0 +1,39 @@
+How Many Properties Can an Inspector QC Per Day?
+
+Source: https://rapideyeinspections.com/blog/how-many-properties-can-inspector-qc-per-day/
+
+_A vacation rental quality inspector can QC 6-10 properties per day for a mixed portfolio. Up to 12 for clustered condos, as few as 1-2 for large spread-out homes._
+
+How Many Properties Can an Inspector QC Per Day?
+
+It depends entirely on property type and geography. Breezeway reports that an inspector can do up to 12 condos in a day if they are all in the same building with no drive time (studio or 1-bedroom units). On the other end, in spread-out markets like the Outer Banks where large homes sleep 32+ guests and are not close together, an inspector may only do 1 to 2 homes per day. For a mixed portfolio with moderate drive times, most operators land somewhere in between.
+
+The two extremes
+
+According to Breezeway (https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors), the range looks like this:
+
+- Best case (clustered condos): Up to 12 units per day. All in one building, no drive time, studio or 1-bedroom units. The inspector walks down the hall between inspections.
+
+- Worst case (spread-out houses): 1 to 2 per day. Breezeway cites the Outer Banks as an example, where some houses sleep 32+ guests and are not close to one another.
+
+Most portfolios fall somewhere in between. The biggest variable is not how long the inspection itself takes inside the property. It is how long you spend driving between properties.
+
+What affects throughput
+
+- Drive time between properties: The single biggest factor. A 15-minute drive vs a 45-minute drive changes daily capacity dramatically.
+
+- Property size: A studio walkthrough takes far less time than a 5-bedroom house with a pool, hot tub, and multiple living areas.
+
+- Photo documentation: If inspectors are required to photograph each room and log issues, that adds time per property.
+
+- Issues found: A clean property with no problems is fast. A property with multiple issues that need documentation and maintenance tickets takes much longer.
+
+Why this matters at scale
+
+At 100+ properties, the math on dedicated inspectors gets challenging. Even at the higher end of throughput, one inspector cannot cover all turnovers across a large portfolio. This is why many operators shift toward photo-based remote review or spot-check strategies rather than trying to inspect every property in person every time.
+
+Related
+
+Sources
+
+- Breezeway. The Value of Vacation Rental Inspectors (https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors). Cites the 12-condo and 1-2 large home extremes.

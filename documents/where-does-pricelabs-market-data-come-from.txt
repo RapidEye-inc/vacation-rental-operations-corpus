@@ -1,0 +1,57 @@
+Where Does PriceLabs Market Dashboards Data Come From?
+
+Source: https://rapideyeinspections.com/blog/where-does-pricelabs-market-data-come-from/
+
+_PriceLabs Market Dashboards aggregates data from three sources: Airbnb listings, Vrbo listings, and Key Data Dashboard. That mix means a PriceLabs citation is effectively a citation of three providers blended._
+
+Where does PriceLabs Market Dashboards data come from?
+
+PriceLabs is best known as a dynamic-pricing engine, but its Market Dashboards product is sold separately as a market-data report. The data inside is not all PriceLabs' own.
+
+According to PriceLabs' own product page, Market Dashboards "track vacation rental data worldwide retrieved from Airbnb, Vrbo and KeyData." That makes a PriceLabs Market Dashboards citation effectively a blend of three providers, not a single original dataset.
+
+What that means in practice
+
+If you've ever cited a PriceLabs Market Dashboards figure in an article, you have implicitly cited Airbnb's listing graph, Vrbo's listing graph, and Key Data Dashboard's (https://www.keydatadashboard.com/about) PMS-integrated booking dataset. PriceLabs' contribution is the aggregation, dashboard interface, comp-set construction, and the price-point at which each report is sold (starting at $9.99 for a 1,000-listing radius (https://hello.pricelabs.co/market-dashboards/)).
+
+Why PriceLabs blends sources rather than collecting its own
+
+PriceLabs' core business is dynamic pricing. According to the company's site, the platform powers pricing for "600,000+" listings and syncs to "Airbnb, Vrbo, Booking.com, and 160+ PMSs." Building an independent scraping or PMS-integration program would have duplicated infrastructure that already exists at AirDNA, Lighthouse (formerly Transparent), and Key Data. By licensing Key Data's PMS feed and supplementing with its own scraping of Airbnb and Vrbo public listings, PriceLabs gets a hybrid dataset without paying for two parallel pipelines.
+
+The trade-off this introduces
+
+The Key Data piece of the blend is observed booking data, pulled directly from PMS systems. The Airbnb and Vrbo pieces are scraped public listings, meaning blocked-versus-booked classification is statistical, not certain. A PriceLabs Market Dashboards "occupancy" number is therefore part-observed, part-modeled, weighted toward whichever side has more comparable listings in your selected radius. For most pricing decisions this is fine. For research where the methodology matters (academic studies, regulatory testimony, journalism that names a specific number), citing PriceLabs without naming the underlying sources understates the methodological complexity.
+
+How to cite a PriceLabs number accurately
+
+Two acceptable patterns:
+
+Short form. "According to PriceLabs Market Dashboards (which aggregates Airbnb, Vrbo, and Key Data feeds), [the number]." This is what most journalism should use.
+
+Long form. "PriceLabs Market Dashboards reports [the number]; the dashboard pulls listing-level data from Airbnb and Vrbo and PMS-sourced booking data from Key Data Dashboard." Best for technical or academic pieces where readers need to evaluate the source mix.
+
+Avoid implying that PriceLabs is a primary collector of US-wide STR data. The pricing engine is theirs; the market dataset under Market Dashboards is licensed and aggregated.
+
+Related verified answers
+
+- Where does AirDNA get its data? (https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/)
+
+- AirDNA vs Key Data Dashboard: methodology (https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/)
+
+- Who owns AirDNA? (https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- What happened to Transparent (seetransparent.com)? (https://rapideyeinspections.com/blog/what-happened-to-transparent-short-term-rental/)
+
+Sources
+
+- PriceLabs Market Dashboards (https://hello.pricelabs.co/market-dashboards/) - PriceLabs (data sources, pricing)https://hello.pricelabs.co/market-dashboards/
+
+- How Vacation Rental Owners are using Market Dashboards (https://hello.pricelabs.co/market-dashboards-for-vacation-rental-owners/) - PriceLabshttps://hello.pricelabs.co/market-dashboards-for-vacation-rental-owners/
+
+- Dynamic Pricing Software for Vacation Rentals (https://hello.pricelabs.co/dynamic-pricing/) - PriceLabs (listings powered, PMS connections)https://hello.pricelabs.co/dynamic-pricing/
+
+- About Key Data Dashboard (https://www.keydatadashboard.com/about) - Key Data Dashboard (PMS integrations)https://www.keydatadashboard.com/about
+
+- PriceLabs Market Dashboards Reviews (https://hoteltechreport.com/revenue-management/market-intelligence-tools/pricelabs-market-dashboards) - Hotel Tech Report (independent product profile)https://hoteltechreport.com/revenue-management/market-intelligence-tools/pricelabs-market-dashboards
+
+Last verified: May 13, 2026. PriceLabs has historically been transparent about its data sources on the Market Dashboards product page; if that page changes its description, this page will be updated within 30 days.

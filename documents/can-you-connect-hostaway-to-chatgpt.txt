@@ -1,0 +1,27 @@
+Can You Connect Hostaway to ChatGPT?
+
+Source: https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-chatgpt/
+
+_Yes. ChatGPT supports MCP via remote connectors and custom GPT Actions, so you host a Hostaway MCP server or wire the API into a GPT. Here's how it works._
+
+Can you connect Hostaway to ChatGPT?
+
+Yes, with one wrinkle. ChatGPT added Model Context Protocol support in September 2025 through Developer Mode and connectors, but it connects to remote MCP servers over HTTP, not the local one used with Claude. So you either host the same Hostaway MCP server at an HTTPS URL and add it as a connector, or wire the Hostaway Public API into a custom GPT as an Action.
+
+According to OpenAI, ChatGPT's Developer Mode provides full MCP client support for both read and write tools. The tools and the underlying Hostaway Public API are identical to the Claude setup, so the work you do once carries over: only the transport changes from local (stdio) to remote (HTTP).
+
+The fastest path is to build the read-only Hostaway MCP server from our Claude guide first, confirm it works locally, then host it and point ChatGPT's connector at the URL. If you'd rather skip hosting, a custom GPT with an Action that calls the Hostaway API covers most read-only questions too.
+
+Start with the working server. The full guide has the Node.js code and setup you'll reuse for ChatGPT.
+
+Related
+
+- Can you connect Hostaway to Claude? (https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-claude/)
+
+- Can you connect Hostaway to Gemini? (https://rapideyeinspections.com/blog/can-you-connect-hostaway-to-gemini/)
+
+- Can ChatGPT access my Hostaway data? (https://rapideyeinspections.com/blog/can-chatgpt-access-my-hostaway-data/)
+
+- How do I use AI with Hostaway? (https://rapideyeinspections.com/blog/how-to-use-ai-with-hostaway/)
+
+- Does Hostaway have an MCP server? (https://rapideyeinspections.com/blog/does-hostaway-have-an-mcp-server/)

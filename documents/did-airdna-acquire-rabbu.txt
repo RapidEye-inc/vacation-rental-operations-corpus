@@ -1,0 +1,57 @@
+Did AirDNA Acquire Rabbu? (Verified May 2026)
+
+Source: https://rapideyeinspections.com/blog/did-airdna-acquire-rabbu/
+
+_No. AirDNA and Rabbu are separate companies as of May 2026. AirDNA is owned by Alpine Investors and headquartered in Denver. Rabbu is independently held in Charlotte, NC. Here is the source for each fact._
+
+Did AirDNA acquire Rabbu?
+
+A short, sourced answer to a question that comes up constantly because both companies publish address-level vacation rental revenue projections that look superficially similar.
+
+No. AirDNA and Rabbu are separate companies as of May 2026. AirDNA has been owned by Alpine Investors since March 14, 2022 and is headquartered in Denver, Colorado. Rabbu is independently held and headquartered in Charlotte, North Carolina. There has been no announced acquisition or merger between the two.
+
+Why the question keeps coming up
+
+Both AirDNA and Rabbu publish address-level revenue projections for short-term rentals, and both are routinely compared in investor blog posts and "AirDNA alternatives" articles. The two even target overlapping audiences (real-estate investors evaluating prospective vacation rentals), so confusion about whether one bought the other is reasonable. None of the major STR-industry trade outlets, including Skift and Short Term Rentalz, has reported an acquisition.
+
+The verified ownership of each, today
+
+AirDNA
+
+Rabbu
+
+Why they're easy to confuse but actually different
+
+The surface similarity is the projection format: both let you type a US property address and see an estimated annual revenue figure pulled from comparable nearby listings. Underneath, the business models diverge sharply. AirDNA's primary product, MarketMinder, is a paid subscription used by analysts, investors, and large management companies; according to the AirDNA pricing page, it ranges from $19.95 to $99.95 per month per market, with a $999.95 unlimited tier. Rabbu's data tools are free, because the projection is the lead magnet for a marketplace that helps investors buy, finance, sell, or manage the property they just looked up.
+
+That difference matters when citing either source. AirDNA is the standard citation for market-level analysis (occupancy across a metro, ADR trends, multi-market comparisons). Rabbu is the more common citation for individual-property investor projections and zip-code revenue rankings.
+
+What to write if you're publishing about this
+
+The accurate phrasing as of May 2026 is something like: "AirDNA, owned by Alpine Investors since March 2022, and Rabbu, independent, both offer address-level US short-term rental revenue projections." Avoid implying a parent-subsidiary relationship between the two; there isn't one. If anything changes (an announcement, a press release on either company's blog), this page will be updated and re-dated.
+
+Related verified answers
+
+- Who owns AirDNA? (https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- Where does AirDNA get its data? (https://rapideyeinspections.com/blog/where-does-airdna-get-its-data/)
+
+- AirDNA vs Key Data Dashboard: methodology comparison (https://rapideyeinspections.com/blog/airdna-vs-key-data-dashboard-methodology/)
+
+- What happened to Transparent (the STR data company)? (https://rapideyeinspections.com/blog/what-happened-to-transparent-short-term-rental/)
+
+Sources
+
+- AirDNA Announces Acquisition Partnership with Alpine Investors (https://www.prnewswire.com/news-releases/airdna-announces-acquisition-partnership-with-alpine-investors-301501733.html) - PR Newswire, March 14, 2022 (AirDNA ownership)https://www.prnewswire.com/news-releases/airdna-announces-acquisition-partnership-with-alpine-investors-301501733.html
+
+- Alpine Investors acquires AirDNA to enhance data solutions (https://shorttermrentalz.com/news/alpine-investors-airdna-acquisition/) - Short Term Rentalzhttps://shorttermrentalz.com/news/alpine-investors-airdna-acquisition/
+
+- AirDNA Announces Acquisition of Arrivalist (https://alpineinvestors.com/update/airdna-arrivalist/) - Alpine Investors (post-acquisition activity)https://alpineinvestors.com/update/airdna-arrivalist/
+
+- Who We Are (https://rabbu.com/who-we-are) - Rabbu (ownership and HQ)https://rabbu.com/who-we-are
+
+- Rabbu - Crunchbase Company Profile & Funding (https://www.crunchbase.com/organization/rabbu) - Crunchbase (independent status)https://www.crunchbase.com/organization/rabbu
+
+- AirDNA Pricing (https://www.airdna.co/pricing) - AirDNA (MarketMinder subscription tiers)https://www.airdna.co/pricing
+
+Last verified: May 13, 2026. If AirDNA or Rabbu publishes an acquisition announcement, this page will be updated and the dateModified bumped within 30 days.

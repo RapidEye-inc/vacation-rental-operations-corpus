@@ -1,0 +1,41 @@
+# How to Fix Staging Issues in Your Vacation Rental
+
+Source: https://rapideyeinspections.com/blog/how-to-fix-vacation-rental-staging-issues/
+
+_Most persistent staging issues are not one-off mistakes, they are staging drift. The fix: set a canonical reset state and correct every turnover back toward it._
+
+# How to fix staging issues in your vacation rental
+
+Stop judging each turnover against a vague sense of "looks good" and start comparing it against a fixed reference. Capture a canonical reset state right after a professional staging (room-by-room photos from fixed angles plus an inventory manifest with exact counts), then correct every turnover back toward it. Most persistent staging issues are not one-off mistakes. They are staging drift, the slow accumulation of small, uncorrected changes across many turnovers and cleaners.
+
+Staging issues feel random because they never come from a single bad turnover. A cleaner who leaves four throw pillows instead of five, or drapes the blanket on the armchair instead of the sofa, has not done anything an inspector would flag. The room reads as clean and complete. Multiply those tiny, uncorrected deviations across dozens of resets and several cleaners, and the property's resting state quietly drifts away from the version your listing photos show.
+
+This is why "inspect harder" does not fix it. Each inspection judges one turnover against a feeling, and against that bar every turnover passes. The only thing that catches drift is comparing the current setup against a fixed reference and pulling it back. Reference photos on the cleaning checklist help: tools like [Turno](https://turno.com/features/photo-checklists/) and [Breezeway](https://www.breezeway.io/checklists-mobile-app) let you attach an exact-look image to each item. But a reference photo is advisory unless someone verifies the finished room actually matched it.
+
+## The fix, in four moves
+
+- **Set the canonical state.** Right after a clean professional reset, photograph each room from fixed, repeatable angles and write down exact counts of the items that drift: throw pillows, glassware, linens, decor, remotes, lamps.
+
+- **Make it the comparison target.** Every turnover gets checked against the reference, not against "looks clean."
+
+- **Surface specific deltas.** The useful output is "pillow count five to three, throw on chair not sofa," routed to whoever restocks and corrects.
+
+- **Re-baseline only on purpose.** Update the reference when you deliberately re-stage, never to match decline.
+
+Fixing staging issues matters beyond aesthetics. According to [AvantStay](https://avantstay.com/blog/vacation-rental-not-as-advertised/), a substantial gap between the listing and the arrival is treated by platforms as misrepresentation, with Airbnb giving guests 72 hours to report it for a potential full refund. Drift turns your own listing photos into the guest's evidence.
+
+### The full guide to staging drift
+
+What drift is, the six ways it creeps in, why binary inspections miss it, and how to defend a canonical reset state across a portfolio.
+
+## Common questions
+
+## Related
+
+## Sources
+
+- Turno, "Photo Checklists" (exact-look reference images on checklist items)https://turno.com/features/photo-checklists/
+
+- Breezeway, "Checklists Mobile App" (attach reference photos, require photo upload to verify completion)https://www.breezeway.io/checklists-mobile-app
+
+- AvantStay, "Vacation Rental Isn't as Advertised? Your Rights" (Airbnb 72-hour misrepresentation window)https://avantstay.com/blog/vacation-rental-not-as-advertised/

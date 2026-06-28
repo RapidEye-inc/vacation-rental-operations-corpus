@@ -1,0 +1,79 @@
+# Airbnb Security Deposit Statistics (2026): Deposits vs Damage Waivers
+
+Source: https://rapideyeinspections.com/blog/airbnb-security-deposit-statistics/
+
+_Airbnb security deposit statistics: what percentage of hosts collect deposits, guest preferences for damage waivers, booking impact, and platform protection tiers._
+
+Industry Data
+Airbnb Security Deposit Statistics (2026)
+What percentage of hosts collect deposits, why guests prefer damage waivers, and how deposit requirements affect booking conversion rates.
+5 sources verified
+Primary data only
+Updated May 2026
+77%
+of hosts don't collect any damage deposit
+Superhog, 165 hosts
+83%
+of guests prefer properties with a damage waiver
+Enso Connect, 2024
+30%
+more bookings without a security deposit
+Nowistay, 2024
+Deposit Adoption Rates
+of hosts don't collect a damage deposit from guests.
+57%
+don't know what a damage waiver is.
+According to
+Superhog / Know Your Guest
+, survey of 165 hosts (in partnership with For The Host and Short-Term Rental Advisor).
+31.6%
+of hosts had no short-term rental insurance at all, relying solely on platform protection or nothing.
+Lodgify
+, 170+ hosts surveyed.
+Guest Preferences
+of guests prefer properties with a damage waiver over traditional security deposits.
+Enso Connect
+, 2024.
+When offered a choice between a damage waiver and a security deposit,
+68%
+of Airbnb guests choose the waiver.
+67%
+of tech-enabled property managers generate revenue from damage waivers.
+22%
+report significant gains.
+, survey of tech-enabled PMs.
+Booking Impact
+Listings without security deposits receive up to
+30% more bookings
+than comparable listings that require one.
+Nowistay
+Listings that switched from security deposits to damage waivers saw a
+6-10% increase
+in bookings.
+Administrative Cost
+For every 100 checkouts, property managers spend
+12-16 hours monthly
+on deposit reconciliation.
+Guesty
+, December 2025.
+Sources
+Superhog / Know Your Guest.
+Host Survey. 165 hosts. 2023.
+https://truvi.com/blog/what-is-know-your-guest/
+Enso Connect.
+Protect Vacation Rentals and Earn with Damage Waivers. 2024.
+https://ensoconnect.com/resources/protect-vacation-rentals-and-earn-with-damage-waivers
+Nowistay.
+Security Deposit: Why It's a Bad Idea. 2024.
+https://www.nowistay.com/ressources/security-deposit-vacation-rental-why-bad-idea
+Lodgify.
+Unauthorized Parties Survey. 170+ hosts. 2023.
+https://www.lodgify.com/blog/unauthorized-parties-survey/
+Guesty.
+Security Deposit or Insurance? December 2025.
+https://www.guesty.com/blog/security-deposit-or-insurance/
+Related Statistics
+Airbnb Damage Claim Statistics (2026)
+Short-Term Rental Insurance Statistics (2026)
+Vacation Rental Party Statistics (2026)
+Airbnb Cleaning Fee Statistics (2026)

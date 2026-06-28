@@ -1,0 +1,305 @@
+How to Handle Guest Damage Disputes (The Conversation Nobody Wants to Have)
+
+Source: https://rapideyeinspections.com/blog/how-to-handle-guest-damage-disputes-conversation-scripts/
+
+_Practical scripts and decision frameworks for talking to guests about damage. When to contact first, what to say, what NOT to say, and how to handle denials._
+
+How to Handle Guest Damage Disputes (The Conversation Nobody Wants to Have)
+
+You found damage after checkout. You’ve got photos. You know what happened. And now you’re staring at your phone, completely paralyzed.
+
+What do you even say to this person?
+
+I’ve written guides on documenting damage (https://www.rapideyeinspections.com/blog/str-turnover-inspection-checklist-damage-documentation-photos), filing Airbnb claims (https://www.rapideyeinspections.com/blog/airbnb-aircover-damage-claim-guide), and winning Vrbo disputes (https://www.rapideyeinspections.com/blog/vrbo-damage-claim-guide-2026). But I’ve completely ignored the hardest part: the actual human conversation.
+
+This is the guide to that conversation. When to have it, what to say, what to absolutely avoid, and how to handle the different ways guests respond.
+
+The First Decision: Contact Guest or File Directly?
+
+This is where most property managers get stuck. Both paths have real tradeoffs.
+
+Contacting the guest first can:
+- Get you paid faster (some guests just pay immediately)
+- Preserve the relationship and avoid a negative review
+- Show platforms you made “good faith” efforts to resolve directly
+- Sometimes reveal context you didn’t have (“Oh, we reported that to your cleaner”)
+
+But it can also:
+- Give them time to craft a defense or dispute
+- Result in a retaliatory review before you can file
+- Create a message record where you accidentally say something that weakens your claim
+- Lead to lowball offers that complicate your platform claim later
+
+There’s no universal right answer. But here’s a framework that works.
+
+When to Contact First vs. File First
+
+| Situation | Recommended Approach | Why |
+| --- | --- | --- |
+| Small damage (<$200), good guest history | Contact first | High chance of quick resolution, low stakes |
+| Moderate damage ($200-$1,000), unknown guest | Contact first, but prepare claim materials | Worth attempting direct resolution |
+| Significant damage (>$1,000), any guest | File claim AND contact simultaneously | Protect your timeline, let platform mediate |
+| Guest was problematic during stay | File first | They’re unlikely to cooperate; protect yourself |
+| You have airtight documentation | Contact first with confidence | Evidence gives you leverage |
+| Documentation is weak | File immediately | Platform investigation might help establish facts |
+
+The key insight: your documentation quality should drive your strategy. When you have timestamped before/after photos that clearly show the damage occurred during a specific stay, the conversation is completely different. You’re not accusing anyone of anything. You’re presenting facts.
+
+What the Platforms Actually Want You to Do
+
+Airbnb
+
+Airbnb’s Host Damage Protection requires you to “pursue reimbursement from the Responsible Guest” and notify Airbnb within 14 days of checkout (https://www.airbnb.com/help/article/2869). You can satisfy this by submitting a request through the Resolution Center.
+
+Important: Airbnb can review your message thread as part of evaluating your claim. Everything you write to the guest in the Airbnb app becomes potential evidence.
+
+When you send a reimbursement request, the guest has 24 hours to respond (pay, partially pay, decline, or ignore). If they don’t pay, you can escalate to Airbnb.
+
+Vrbo
+
+Vrbo is more explicit about wanting you to talk to the guest first. Their guidance literally says: “Before you file a claim, we encourage you to contact your guest” to discuss the damage, your intended charge, and share photos.
+
+Vrbo also emphasizes: “Always communicate in writing through our secure messaging platform to maintain a record.” They process most damage deposit claims quickly, with funds deposited in 3-7 business days (https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim).
+
+Bottom line: Both platforms expect some attempt at direct resolution. But keeping communication on-platform protects you.
+
+The Review Timing Question
+
+Let’s address the elephant in the room. You’re worried about a retaliatory review.
+
+This is a real concern. Many hosts in online forums discuss timing their damage requests strategically around the review window.
+
+Here’s what you should know:
+
+Airbnb’s Reviews Policy explicitly prohibits retaliatory reviews. Their policy guidance (https://www.airbnb.com/resources/hosting-homes/a/airbnb-answers-protecting-you-from-one-off-bad-reviews-81) specifically mentions reviews left after a reimbursement request as a potential retaliation example. You can request removal of reviews that violate this policy.
+
+Vrbo’s approach is narrower. Their review guidelines focus on removing reviews with personal data, fake content, or policy violations. They don’t remove reviews simply because they’re negative (https://www.vrbo.com/en-sg/legal/review-guidelines). However, they do have an extortion policy that prohibits guests from threatening reviews to obtain compensation.
+
+Practical reality: Review removal isn’t guaranteed on either platform. Some hosts wait until closer to the 14-day deadline to submit claims, reducing the overlap with the review window. Whether that strategy works for you depends on your volume and how much individual reviews matter to your business.
+
+Message Templates for Common Scenarios
+
+These are starting points. Adapt them to your voice and situation.
+
+Scenario 1: Small Damage, Reasonable Guest
+
+This is your best-case scenario. Keep it friendly and direct.
+
+> Hi [Name],
+> Thanks for staying with us. I hope you had a great trip.
+> During our post-checkout inspection, we found [specific damage - be precise]. I’ve attached photos showing the condition before and after your stay.
+> The repair cost is [amount]. Would you be able to cover this directly? I can send you an invoice, or we can handle it through [platform] if that’s easier.
+> Let me know what works for you.
+
+Hi [Name],
+
+Thanks for staying with us. I hope you had a great trip.
+
+During our post-checkout inspection, we found [specific damage - be precise]. I’ve attached photos showing the condition before and after your stay.
+
+The repair cost is [amount]. Would you be able to cover this directly? I can send you an invoice, or we can handle it through [platform] if that’s easier.
+
+Let me know what works for you.
+
+Why this works: It’s not accusatory. You’re presenting facts, not assigning blame. You’re offering options. Most reasonable people will either pay or provide context you didn’t have.
+
+Scenario 2: Moderate Damage, Need to Establish Facts
+
+When damage is more significant, you need to be clearer about the evidence.
+
+> Hi [Name],
+> I need to follow up about your recent stay at [property].
+> Our inspection after checkout found [specific damage]. I’ve compared our photos from before your check-in to the photos taken after your checkout, and the damage occurred during your stay.
+> [Brief description of evidence: “The pre-stay photos from [date] show the sofa in good condition. The post-stay photos from [date] show a large tear in the left cushion.”]
+> The repair/replacement cost is [amount]. Here’s what that includes:
+> - [itemized list]
+> I’d like to resolve this directly if possible. Please let me know how you’d like to proceed.
+
+Hi [Name],
+
+I need to follow up about your recent stay at [property].
+
+Our inspection after checkout found [specific damage]. I’ve compared our photos from before your check-in to the photos taken after your checkout, and the damage occurred during your stay.
+
+[Brief description of evidence: “The pre-stay photos from [date] show the sofa in good condition. The post-stay photos from [date] show a large tear in the left cushion.”]
+
+The repair/replacement cost is [amount]. Here’s what that includes:
+- [itemized list]
+
+I’d like to resolve this directly if possible. Please let me know how you’d like to proceed.
+
+Why this works: You’re laying out the evidence chain without being aggressive. The itemization shows you’re being reasonable, not inflating costs.
+
+Scenario 3: Significant Damage, Filing Claim Simultaneously
+
+For serious damage, protect your timeline first.
+
+> Hi [Name],
+> I’m reaching out about damage discovered after your checkout from [property].
+> Our inspection found [damage description]. Based on our documentation comparing the property condition before and after your stay, this damage occurred during your reservation.
+> The total cost for repair/replacement is [amount]. I’ve attached:
+> - Photos from before your stay ([date])
+> - Photos from after checkout ([date])
+> - Repair estimates/invoices
+> I’ve also submitted this through [platform]’s resolution process as required by their timeline. I’d still prefer to resolve this directly if possible.
+> Please review the documentation and let me know your thoughts.
+
+Hi [Name],
+
+I’m reaching out about damage discovered after your checkout from [property].
+
+Our inspection found [damage description]. Based on our documentation comparing the property condition before and after your stay, this damage occurred during your reservation.
+
+The total cost for repair/replacement is [amount]. I’ve attached:
+- Photos from before your stay ([date])
+- Photos from after checkout ([date])
+- Repair estimates/invoices
+
+I’ve also submitted this through [platform]’s resolution process as required by their timeline. I’d still prefer to resolve this directly if possible.
+
+Please review the documentation and let me know your thoughts.
+
+Why this works: You’re being transparent that you’ve filed with the platform (they’ll find out anyway). But you’re still offering direct resolution. This often motivates faster payment since guests know the platform is now involved.
+
+What NOT to Say
+
+Anything you write can become evidence in the platform dispute. Keep these rules in mind:
+
+Don’t accuse without evidence. “You broke our coffee table” is an accusation. “Our post-checkout photos show the coffee table with a cracked leg that wasn’t present in our pre-stay photos” is a factual statement.
+
+Don’t speculate about how it happened. You don’t need to prove they threw a party or dropped something. You just need to show the damage occurred during their stay.
+
+Don’t threaten. “Pay or I’ll leave you a bad review” is extortion. Both platforms prohibit this and it will destroy your claim.
+
+Don’t admit uncertainty. “I think this might have happened during your stay” weakens your position. If you’re not sure, investigate more before reaching out.
+
+Don’t negotiate against yourself. If the repair costs $500, don’t open with “Would you pay $300?” State the actual cost.
+
+Don’t discuss the review. Never mention reviews in a damage conversation. Even saying “I won’t leave a negative review if you pay” can be seen as coercion.
+
+Don’t communicate off-platform. Text messages and phone calls aren’t visible to the platform when they evaluate your claim. Keep everything in the app’s messaging system.
+
+How to Handle Different Guest Responses
+
+Response: Immediate Payment
+
+This happens more often than you’d expect, especially with clear documentation.
+
+Your move: Thank them, process the payment, and close the loop professionally. Consider leaving an honest review that doesn’t mention the damage (they paid, the issue is resolved).
+
+Response: Request for More Information
+
+“Can you send me the photos?” or “Can you explain exactly what you’re talking about?”
+
+Your move: This is fair. Send your documentation promptly. This is actually a good sign. They’re engaging, not stonewalling.
+
+Response: Denial
+
+“That wasn’t us” or “That was already there when we checked in.”
+
+Your move: Don’t argue. Present your evidence timeline calmly.
+
+> I understand. Here’s what our documentation shows:
+> - Pre-stay photos from [date/time] show [item] in [condition]
+> - Post-stay photos from [date/time] show [damage]
+> No guests were in the property between these inspections. The damage occurred during your stay.
+> If you have photos from check-in that show otherwise, please share them.
+
+I understand. Here’s what our documentation shows:
+- Pre-stay photos from [date/time] show [item] in [condition]
+- Post-stay photos from [date/time] show [damage]
+
+No guests were in the property between these inspections. The damage occurred during your stay.
+
+If you have photos from check-in that show otherwise, please share them.
+
+If they continue denying, let the platform mediate. That’s what the Resolution Center is for.
+
+Response: Partial Acceptance
+
+“I’ll pay $200 but the $800 you’re asking is ridiculous.”
+
+Your move: Evaluate whether the partial offer is reasonable. If your costs are documented and fair, hold your ground.
+
+> I appreciate you engaging on this. The $800 reflects:
+> - $X for [repair/replacement]
+> - $X for [labor/shipping/etc.]
+> These are actual costs, not inflated estimates. I’ve attached the invoices.
+> If you believe any specific item is unreasonable, let me know which one and why.
+
+I appreciate you engaging on this. The $800 reflects:
+- $X for [repair/replacement]
+- $X for [labor/shipping/etc.]
+
+These are actual costs, not inflated estimates. I’ve attached the invoices.
+
+If you believe any specific item is unreasonable, let me know which one and why.
+
+Response: Silence
+
+They don’t respond at all.
+
+Your move: On Airbnb, after 24 hours you can escalate to Host Damage Protection. On Vrbo, proceed with your formal claim. Don’t send multiple follow-up messages. One clear request with documentation is enough.
+
+Response: Hostility or Threats
+
+“I’ll leave you a terrible review” or “I’ll report you to Airbnb.”
+
+Your move: Don’t engage with the threat. Respond only to the substance.
+
+> I’m focused on resolving the damage issue. Here’s the documentation again: [evidence]
+> Please let me know if you’d like to pay directly or if you’d prefer to handle this through [platform]’s resolution process.
+
+I’m focused on resolving the damage issue. Here’s the documentation again: [evidence]
+
+Please let me know if you’d like to pay directly or if you’d prefer to handle this through [platform]’s resolution process.
+
+Document the threat by screenshotting it. If they follow through with a retaliatory review, you have evidence to support a removal request.
+
+When Direct Resolution Fails: Escalation Paths
+
+Platform Resolution
+
+This is your first escalation. Both Airbnb and Vrbo have built-in processes for this. The key to winning is documentation quality. See our guides on why claims get denied (https://www.rapideyeinspections.com/blog/why-str-damage-claims-get-denied) for what platforms actually look for.
+
+Insurance
+
+If platform protection doesn’t cover your damage (or you’re not satisfied with the outcome), your STR insurance may cover it. Different process, different documentation requirements (https://www.rapideyeinspections.com/blog/str-insurance-claims-documentation-requirements).
+
+Small Claims Court
+
+For significant damage where other paths fail, small claims court is an option. Thresholds vary by state:
+
+- California: $12,500 for individuals
+
+- Texas: $20,000
+
+- New York City: $10,000
+
+You’ll need the guest’s contact information (which platforms don’t readily share) and strong documentation. Most guests settle before actually going to court once they receive a formal filing.
+
+How Documentation Quality Changes Everything
+
+Here’s the thing that changes this entire dynamic: evidence.
+
+When you have timestamped photos from before a guest’s stay and after checkout, showing the exact same angle of the exact same item, the conversation shifts completely.
+
+You’re not saying “I think you did this.” You’re saying “Here’s the property at 3pm on March 1st. Here’s the property at 11am on March 5th. The damage is visible in the second set.”
+
+That’s not an accusation. It’s documentation.
+
+Guests respond differently when they see that level of evidence. Denials become harder to sustain. Platforms have an easier time ruling in your favor. Even if it goes to small claims court, you have a clear paper trail.
+
+This is why we built RapidEye. Property managers are already taking photos. They’re already doing turnovers. But comparing thousands of photos manually across hundreds of properties and thousands of stays? Nobody’s doing that. The damage slips through, and when you do catch it, you’re arguing based on memory instead of timestamped visual evidence.
+
+RapidEye processes those photos automatically, comparing every turnover against your baseline, catching changes that would otherwise go unnoticed. When you do find damage, you have the evidence chain ready before the conversation even starts.
+
+The Uncomfortable Truth
+
+Guest damage conversations are awkward. There’s no script that makes them comfortable.
+
+But avoiding them is worse. According to Rent Responsibly’s 2024 State of the STR Industry Report (https://www.rentresponsibly.org/wp-content/uploads/2024/03/State-of-the-STR-Industry-Report-June-2024.pdf), guest property damage is a top concern for nearly 44% of operators. That same report found 72% of operators cite proactive guest communication as a leading method for minimizing liabilities.
+
+The managers who handle damage well aren’t the ones who avoid the conversation. They’re the ones who have their documentation ready before it happens.
+
+Want to stop worrying about documentation? RapidEye automatically compares every turnover against your property baseline, flagging changes before your next guest checks in. When damage happens, you have timestamped evidence ready to go. Learn more about how it works (https://www.rapideyeinspections.com/blog/how-automated-damage-detection-works).

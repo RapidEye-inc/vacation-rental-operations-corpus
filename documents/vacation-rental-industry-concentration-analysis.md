@@ -1,0 +1,72 @@
+# Among Professional Vacation Rental Managers, 10 Companies Control 58% of All Units
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-industry-concentration-analysis/
+
+_Lorenz curve analysis of 1,779 VRMA member companies that reported portfolio size. Gini coefficient: 0.885. The median professional manager runs 30 units. The top 10 report 235,000. The real industry is even more skewed._
+
+# Among professional vacation rental managers, 10 companies control *58%* of all units. The bottom half controls *1.9%.*
+
+We computed a Lorenz curve and Gini coefficient using self-reported portfolio data from 1,779 VRMA member companies. This is just the professionalized slice of the industry: companies that joined a trade association and disclosed their size. The hundreds of thousands of individual Airbnb and Vrbo hosts aren't in this data at all, which means the real industry is even more concentrated than what you see here.
+
+## 62% of companies manage 50 or fewer units. They control *4%* of the total.
+
+The median VRMA member manages 30 units. The mean is 229. That 7.6x gap between median and mean is itself a measure of how skewed the distribution is. And remember: these are companies that joined a professional trade association. The typical Airbnb host with 1-3 listings isn't in this dataset at all. When industry reports cite "the average vacation rental company," they are describing a company that barely exists.
+
+## Where the units actually sit
+
+The distribution bars show two different stories. Measured by company count, the industry is dominated by small operators. Measured by units under management, a handful of mega-operators account for the overwhelming majority.
+
+Green bars = share of companies. Right column = number of companies and their share of total units. The bottom row: 11 companies (0.6% of the total) control 59.2% of all reported units.
+
+## Who holds *57.8%* of the units
+
+According to VRMA's public member directory, these 10 companies self-reported the largest portfolios. Together they account for 234,971 of the 406,516 total units reported across all 1,779 members who disclosed their size.
+
+| # | Company | HQ | Units |
+| --- | --- | --- | --- |
+| 1 | Awaze Vacation Rentals | UK | 89,400 (22.0%) |
+| 2 | Vacasa | OR | 38,000 (9.3%) |
+| 3 | Marina Hawaii Vacations | HI | 35,840 (8.8%) |
+| 4 | Sykes Holiday Cottages | UK | 20,000 (4.9%) |
+| 5 | Travel Chapter | UK | 15,000 (3.7%) |
+| 6 | Wyndham Vacation Rentals | NJ | 10,031 (2.5%) |
+| 7 | North American Vacation Homes | UK | 9,000 (2.2%) |
+| 8 | Avari Management | UT | 6,200 (1.5%) |
+| 9 | TurnKey Vacation Rentals | TX | 6,000 (1.5%) |
+| 10 | Monarch Collective | IL | 5,500 (1.4%) |
+|  | Top 10 total |  | 234,971 (57.8%) |
+
+Four of the top 10 are UK-based companies. Awaze alone (which operates Hoseasons, cottages.com, and Landal GreenParks across Europe) reports 89,400 units. These numbers are self-reported to VRMA. Some may include non-traditional STR inventory. See the methodology section for caveats.
+
+## How the VRMA Gini compares
+
+The Gini coefficient is a standard inequality measure used by economists to compare distributions. The Federal Reserve publishes US wealth Gini data in its Survey of Consumer Finances. The World Bank publishes income Gini by country. Here is where professional vacation rental management falls, keeping in mind this only captures the VRMA membership slice.
+
+The comparison is not between wealth and rental units as asset classes. It illustrates the shape of the distribution. When 10 companies hold 58% and the bottom 50% hold 1.9%, the curve looks like wealth concentration. This is structural, not incidental.
+
+## Industry "averages" are describing a company that *barely exists*
+
+When a vendor pitches you "the average property manager has 229 units," they are citing a mean inflated by a dozen mega-operators. **The median VRMA member manages 30 units.** Half manage 30 or fewer. And these are the professional managers who paid to join a trade association. The broader industry, where most operators are individual hosts with 1-3 listings, is far more bottom-heavy. Software, pricing, and benchmarks designed for a 229-unit company are built for a customer that barely exists.
+
+The top 20% of VRMA members (355 operators) hold **89.8% of all reported units**. That exceeds the classic 80/20 Pareto distribution. The bottom 80% share the remaining 10.2%.
+
+This is not a new trend. The top of the VRMA directory includes companies founded in the 1970s and 1980s (Awaze, Marina Hawaii, Sykes, Travel Chapter). The concentration predates the VC-fueled consolidation wave of the 2010s. Vacasa made it visible. The structure was already there.
+
+## How we computed this
+
+**Caveats worth noting.** These are self-reported numbers from VRMA membership forms, not audited financials. Some companies may report total property associations or condo units rather than individually managed STR listings. Awaze's 89,400 likely includes European holiday parks and cottage networks that differ from a US-style STR portfolio. Marina Hawaii's 35,840 may include HOA or condo association doors. Removing the top 3 outliers would lower the Gini but the structural concentration remains extreme: even among the 1,776 remaining companies, the top 10 would still control a disproportionate share.
+
+**This is a floor, not a ceiling.** The VRMA directory captures professional management companies. It does not include the vast majority of individual Airbnb and Vrbo hosts who manage 1-3 properties without joining a trade association. According to AirDNA, there are over 1.3 million short-term rental listings in the US alone. Adding those individual operators to this analysis would push the Gini well above 0.885. Additionally, 65% of VRMA members did not report a unit count. If non-reporters are systematically smaller (likely, since smaller companies are less motivated to disclose portfolio size), the concentration among even this professional cohort may be understated.
+
+RapidEye builds AI-powered inspection intelligence for vacation rental managers. We analyze turnover photos to catch damages and issues that manual review misses.
+
+### Sources
+
+- VRMA (Vacation Rental Management Association) Public Member Directory. Self-reported company data including unit counts, PMS, founding year, and operating states. Compiled March 2026.
+ https://www.vrma.org/directories/vacation-rental-managers
+
+- Federal Reserve Board. "Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances." Federal Reserve Bulletin, October 2023. US wealth Gini coefficient of approximately 0.85.
+ https://www.federalreserve.gov/publications/files/scf23.pdf
+
+- World Bank. "Gini Index." World Development Indicators. US income Gini of 0.49; South Africa income Gini of 0.63 (highest measured country).
+ https://data.worldbank.org/indicator/SI.POV.GINI

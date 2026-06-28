@@ -1,0 +1,14 @@
+Introducing RapidEye: AI Inspection Intelligence for Vacation Rentals
+
+Source: https://rapideyeinspections.com/blog/introducing-rapideye/
+
+_RapidEye analyzes your turnover photos and video walkthroughs to catch damages, missing items, and issues that manual review misses. Built for professional vacation rental managers._
+
+Launch
+Introducing RapidEye.
+AI inspection intelligence for vacation rental managers. Your cleaners take thousands of photos. We tell you which ones have problems.
+0:00
+Today we're officially releasing RapidEye to the most tech-forward short-term rental property management companies.
+Most STR managers have assembled the most thorough visual documentation of their properties in all of real estate: millions of turnover photos, Matterport scans, inspection records. Until now, it was the single most valuable untapped asset in vacation rental operations. We built the first AI that can actually read it.
+RapidEye connects to your existing ops platform, ingests your turnover photos, and flags damages, missing items, and issues your team missed. If your cleaners already take photos, you have everything you need.
+How we built this video

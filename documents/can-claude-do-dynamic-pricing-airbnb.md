@@ -1,0 +1,119 @@
+# Can Claude Do Dynamic Pricing for Your Airbnb?
+
+Source: https://rapideyeinspections.com/blog/can-claude-do-dynamic-pricing-airbnb/
+
+_The honest answer: Claude can read, analyze, and explain your dynamic prices once you connect it, but it should not set your nightly rates. Here is the setup that works, and how ChatGPT and Gemini compare._
+
+# Can Claude do dynamic pricing for your Airbnb?
+
+It can read and reason about your prices. It should not be the thing that sets them.
+
+Partly. Claude can read your live dynamic-pricing data, explain why a rate moved, and audit pricing across an entire portfolio in seconds once you connect it. What it should not do is set your nightly rates on its own. A general AI assistant has no live feed of local demand, competitor rates, or booking pace, so a price it invents is a confident guess, not a market-calibrated number. The pattern that works in 2026: let a dedicated pricing engine compute the rates, and let Claude sit on top as the read-only analyst that queries, compares, and explains them.
+
+## Three ways to point Claude at your pricing
+
+They differ by how much access you give Claude: none, read-only, or write.
+
+### Ask it cold
+
+You paste a few numbers into the chat and ask "what should I charge this weekend?" Useful for a sanity check or to talk through strategy, but the model is reasoning from training data and whatever you typed, not from your live market. Treat the answer as a second opinion, never as the rate.
+
+### Connect it read-onlyRecommended
+
+You run a small connector (an MCP server) that lets Claude read your actual PriceLabs or PMS data: today's recommended rates, the spread between minimum and maximum, sync status across every unit. Now Claude is an analyst sitting on top of your real pricing engine. It explains and audits; it does not decide.
+
+### Let it set prices
+
+You give the assistant write access and let it push rate overrides directly. Technically possible. A bad call here changes real money on real bookings, and the model still has none of the market data a pricing engine uses. If you ever wire writes, scope them tightly and require approval on every single change.
+
+## Why a chatbot shouldn't set your nightly rates
+
+A dynamic price is a bet on the future: how much demand exists for your specific unit, on a specific night, in a specific market, right now. A general-purpose model is not built to make that bet. It has a training cutoff, so it does not know about this weekend's concert two blocks away or the convention that just sold out the comp set. It has no live read on occupancy or how fast bookings are pacing into the date. Ask it for a number and you will get something plausible and articulate, which is exactly the problem: it sounds like a rate without being calibrated like one.
+
+There is also a plumbing reality. According to [Beyond Pricing (April 2026)](https://beyondpricing.com/blog/the-real-impact-of-chatgpt-5-0-on-short-term-rental-hosts-in-2025), today's chat assistants are "not integrated directly into short-term rental platforms like Airbnb or VRBO." On their own they cannot see your calendar or change your rates at all. Any real connection is something you or a third party have to build, which is precisely the read-only setup in tier two.
+
+## What a real pricing engine does that a chatbot can't
+
+Tools like PriceLabs, Beyond, and Wheelhouse exist because pricing a short-term rental well means watching a lot of moving signals at once, continuously, per night, per unit. According to [Beyond Pricing](https://beyondpricing.com/blog/dynamic-pricing-airbnb-complete-guide), that includes:
+
+#### Demand fluctuations
+
+Rates move up as demand for the date rises, and ease off when it softens.
+
+#### Booking pace
+
+How fast reservations are landing for a date, versus where they should be.
+
+#### Seasonality
+
+Peak and shoulder and slow periods, calibrated to your specific market.
+
+#### Local events
+
+Festivals, concerts, and conferences that push average daily rate hard.
+
+#### Competitor pricing
+
+What comparable listings nearby are charging for the same nights.
+
+#### Reputation and length of stay
+
+Reviews, ratings, and stay length, all feeding the final calibrated rate.
+
+10 to 40% is the revenue lift property managers can see from dynamic pricing over flat or manual rates, according to [Beyond Pricing](https://beyondpricing.com/blog/dynamic-pricing-airbnb-complete-guide), citing industry estimates from Booking Ninjas and iGMS. That value comes from the pricing model, not the chat assistant. The point of connecting Claude is to understand and audit the pricing, not to replace it.
+
+## The setup that actually works
+
+Keep the jobs separate. The pricing engine sets the rates from live market data. Claude reads those rates so you can interrogate them in plain English.
+
+The connection runs over the **Model Context Protocol (MCP)**, Anthropic's open standard for letting an assistant talk to outside tools. Claude Desktop reads MCP servers out of the box, and any action runs only with your approval, so a read-only server simply cannot push a price. With a roughly ten-minute setup, Claude can answer questions against your real PriceLabs account:
+
+"For every listing, what's the spread between the minimum and maximum recommended price over the next 30 days? Rank by biggest spread and flag anything where the floor looks too low for a peak weekend."
+
+#### Wire it up: connect PriceLabs to Claude
+
+Our free, open-source MCP guide walks the read-only setup end to end.
+
+The same read-only pattern is how operators are wiring the rest of their stack into one Claude conversation: [smart locks and noise sensors](https://rapideyeinspections.com/claude-guides/seam/), [guest screening and claims](https://rapideyeinspections.com/claude-guides/safely/), and their [PMS](https://rapideyeinspections.com/claude-guides/). The assistant becomes the connective layer across specialist tools, while each specialist keeps doing the job it is actually good at. That is the same reason damage detection at turnover runs on a [purpose-built inspection model](https://rapideyeinspections.com/blog/ai-property-damage-detection-from-photos/) rather than a general chatbot squinting at one photo.
+
+## Claude vs ChatGPT vs Gemini for pricing
+
+The verdict is the same across all three: excellent analysts, none of them a pricing engine. Where they differ is how cleanly you can connect them to your live data today.
+
+| Assistant | Analyze your numbers | Read your live prices | Should it set rates |
+| --- | --- | --- | --- |
+| Claude | Yes | MCP, out of the box | No |
+| ChatGPT | Yes | Via API or connectors | No |
+| Gemini | Yes, strong in Sheets | Via API, more wiring | No |
+
+Claude has the most turnkey path to reading your live data, because Claude Desktop speaks MCP natively. With ChatGPT and Gemini you do more of the connection work yourself.
+
+## Common questions
+
+## Keep going
+
+#### Connect PriceLabs to Claude
+
+The read-only MCP server, step by step.
+
+#### All Claude guides
+
+Connect your PMS, locks, and screening to Claude.
+
+#### Best AI for STR operations
+
+Where each AI layer fits in a 200-unit stack.
+
+### Sources & references
+
+- [Beyond Pricing, "The Real Impact of ChatGPT-5.0 on Short-Term Rental Hosts in 2025" (Rachel Yanez, April 2026)](https://beyondpricing.com/blog/the-real-impact-of-chatgpt-5-0-on-short-term-rental-hosts-in-2025)
+https://beyondpricing.com/blog/the-real-impact-of-chatgpt-5-0-on-short-term-rental-hosts-in-2025
+
+- [Beyond Pricing, "Dynamic Pricing for Airbnb: A Complete Guide for Property Managers"](https://beyondpricing.com/blog/dynamic-pricing-airbnb-complete-guide)
+https://beyondpricing.com/blog/dynamic-pricing-airbnb-complete-guide
+
+- [PriceLabs, Customer API overview (help center)](https://help.pricelabs.co/portal/en/kb/articles/pricelabs-api)
+https://help.pricelabs.co/portal/en/kb/articles/pricelabs-api
+
+- [Model Context Protocol, official documentation (Anthropic)](https://modelcontextprotocol.io/)
+https://modelcontextprotocol.io/

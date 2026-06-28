@@ -1,0 +1,258 @@
+Damage Documentation for Extended Stays: Why Your Standard Process Fails at 30+ Days
+
+Source: https://rapideyeinspections.com/blog/extended-stay-damage-documentation-30-90-day-rentals/
+
+_Medium-term rentals (30-90 days) break standard STR documentation. Learn mid-stay inspection protocols, platform-specific claim rules, and wear vs. damage math._
+
+Damage Documentation for Extended Stays: Why Your Standard Process Fails at 30+ Days
+
+Extended stays are the best bookings you can get. One turnover, 60 days of revenue, a professional guest who needs the space for work. Digital nomads, traveling nurses, corporate relocations, insurance displacement. These guests often take better care of your property than weekend warriors.
+
+But they create a documentation problem that most property managers don’t think about until they’re staring at damage with no way to prove when it happened.
+
+I’m not going to re-explain why documentation matters. If you’re managing medium-term rentals, you already know. This is about what’s different when someone stays 30, 60, or 90 days and why your normal turnover workflow leaves you exposed.
+
+The Core Problem: No Documentation Touchpoints
+
+Your standard process probably looks like this: guest checks out, cleaner does turnover, photos get captured, next guest checks in. Every few days, you have fresh documentation. If something’s damaged, you know which stay it happened during.
+
+With a 60-day booking, you don’t have that. No turnover photos for two months. Damage accumulates invisibly. When you finally compare checkout photos to the baseline, you’re comparing images taken 60 days apart.
+
+The guest’s defense writes itself: “That happened gradually from normal use. I didn’t do anything wrong.”
+
+We covered attribution challenges for back-to-back bookings (https://www.rapideyeinspections.com/blog/back-to-back-booking-damage-attribution-proof). Extended stays are that problem on hard mode. You’re not attributing damage across two guests. You’re attributing it across months of continuous occupancy with zero intermediate documentation.
+
+Mid-Stay Inspections: Legally Complicated, Operationally Necessary
+
+The obvious solution is periodic inspections during the stay. Many operators do 30-day check-ins for longer bookings. But this gets complicated fast.
+
+When Tenant Rights Attach
+
+Airbnb explicitly warns that guests staying a month or longer may establish tenant rights (https://www.airbnb.com/help/article/805) depending on your jurisdiction. California, Illinois, and New York can create residential tenancy after 30 consecutive days.
+
+Once that happens, you’re not operating under STR rules anymore. You’re a landlord. Entry requires proper notice and legitimate purpose.
+
+State Entry Requirements
+
+These vary significantly:
+
+| State | Notice Required | Notes |
+| --- | --- | --- |
+| California | 24 hours | Civil Code §1954, non-emergency |
+| Florida | 12 hours | §83.53, reasonable times only |
+| Oregon | 24 hours | ORS 90.322 |
+| Texas | No statewide rule | Lease-driven, inconsistent |
+
+If your lease doesn’t specify inspection rights, you may not have them. Get this in writing before the guest arrives.
+
+How to Frame Mid-Stay Visits
+
+Most guests are fine with periodic check-ins if you frame it correctly. Don’t call it an “inspection.” Call it:
+
+- A maintenance check to make sure everything’s working
+
+- A filter change or HVAC service (then actually change the filter)
+
+- A housekeeping visit (even basic tidying creates a documentation touchpoint)
+
+Extended Stay America provides one housekeeping visit every two weeks (https://www.extendedstayamerica.com/company/faqs) for stays of 8+ nights. This isn’t just service. It’s built-in property access.
+
+What to Document During Mid-Stay Visits
+
+You’re not looking for everything. You’re creating intermediate timestamps. Focus on:
+
+- High-value items and furniture condition
+
+- Walls and flooring in high-traffic areas
+
+- Appliances and fixtures that could degrade
+
+- Any areas that looked questionable at check-in
+
+This creates a mid-point baseline. If damage appears at checkout, you can narrow the window from “sometime in the last 60 days” to “sometime in the last 30 days.”
+
+Platform-by-Platform Claim Reality
+
+Not all 30-90 day bookings work the same way. Where the booking came from determines your protection options.
+
+Airbnb Monthly Stays
+
+Airbnb’s Host Damage Protection timelines (https://www.airbnb.com/help/article/2869) apply to monthly stays the same as short stays:
+
+- 14 days after checkout: Pursue reimbursement from guest, notify Airbnb
+
+- 30 days after checkout: Complete Host Damage Protection request with evidence
+
+These deadlines don’t extend because the stay was longer. A 90-day booking gives you the same 14-day window as a 3-night stay.
+
+The bigger issue is what Airbnb won’t cover. Their terms explicitly exclude losses from “degradation in condition or loss of function of property over time due to use, age, lack of maintenance, or any combination of these.”
+
+After 60 days of daily use, a lot of damage looks like gradual degradation. A worn sofa cushion. Carpet matting. Cabinet finish dulling. You need documentation that shows specific incidents, not just end-state deterioration.
+
+Furnished Finder: No Platform Protection
+
+Starting October 2025 (https://support.furnishedfinder.com/hc/en-us/articles/41598250531483-October-2025-Damage-Protection-Plan-Changes), Furnished Finder no longer partners with Waivo to provide damage protection plans. If you’re booking traveling nurses or other healthcare professionals through Furnished Finder, you’re on your own.
+
+This means:
+
+- Security deposits you collect and manage yourself
+
+- No platform mediation for disputes
+
+- Documentation requirements are whatever your lease specifies
+
+- If you had existing Waivo coverage, claims had to be filed within 7 days (https://support.furnishedfinder.com/hc/en-us/articles/36968691318811-Filing-a-Reimbursement-Notice) post-move-out
+
+Furnished Finder is effectively a listing directory. Payments, deposits, and damage resolution happen off-platform. Your documentation burden is higher because there’s no AirCover equivalent to fall back on.
+
+Corporate Housing and Direct Bookings
+
+Corporate housing operators have figured this out. National Corporate Housing’s GSA catalog describes a “perfect move-in inspection prior to each move-in” (https://nationalcorphousing.bynder.com/m/3ac1479f8fdd2719/original/GSA-Catalog-10-10-2025.pdf) and keeps credit cards on file for damages.
+
+If you’re booking corporate relocations directly, you need similar rigor. The guest might be great, but their company is paying the bill. When damage happens, the guest has no personal incentive to acknowledge it, and the company will require documentation before authorizing any additional charges.
+
+Get the credit card authorization upfront. Document the condition before they arrive. Do mid-stay walkthroughs. Your leverage is your documentation.
+
+The Wear vs. Damage Line for Long Stays
+
+This is where most extended-stay claims fall apart.
+
+Airbnb uses an “Actual Cash Value” calculation that includes depreciation and “out-of-date/no longer in use” deductions (https://www.airbnb.com/help/article/2869). A 3-year-old couch isn’t worth what you paid for it. A couch that’s been sat on daily for 60 days is worth even less.
+
+Waivo’s terms (for the coverage that still exists) explicitly exclude “prior damage or normal wear and tear” and “cosmetic damage” like marring, scuffs, scratching, and discoloration (https://waivo.io/ff-termsofservice/).
+
+So what’s actually claimable after a 60-day stay?
+
+Claimable:
+- Cigarette burns (discrete incident, not wear)
+- Stains that weren’t there before (with timestamped photos)
+- Broken furniture, appliances, fixtures
+- Missing items
+- Holes in walls, damaged doors
+
+Probably not claimable:
+- General fabric wear on furniture
+- Carpet matting in high-traffic areas
+- Minor scuffs on walls and baseboards
+- Finish wear on countertops and cabinets
+
+The line is between incident-based damage and use-based degradation. Your documentation needs to capture the former with enough specificity that it doesn’t look like the latter.
+
+A photo of a stained couch cushion at checkout doesn’t prove anything. A photo of the same cushion at the 30-day inspection, clean, followed by a photo at checkout showing a new stain, proves the stain happened in the final 30 days.
+
+Security Deposits Under Tenant Law
+
+Extended stays often come with larger security deposits. But once a guest stays long enough to trigger tenant protections, you’re playing by different rules.
+
+Return Timelines That Apply
+
+These vary by state and are strictly enforced:
+
+| State | Return Deadline | Source |
+| --- | --- | --- |
+| California | 21 days (https://selfhelp.courts.ca.gov/fa/node/1268) | Itemized statement required |
+| New York | 14 days (https://ag.ny.gov/publications/residential-tenants-rights-guide) | Itemized receipt for deductions |
+| Texas | 30 days (https://www.trla.org/security-deposits-toolkit) | With conditions (forwarding address) |
+| Florida | 15-30 days (https://legalclarity.org/florida-law-on-security-deposit-returns/) | 15 if no claim, 30 if claiming |
+
+Miss the deadline, and you may owe the full deposit back regardless of damage.
+
+Documentation Requirements for Withholding
+
+Some states require specific condition documentation to retain any portion of a security deposit.
+
+Massachusetts mandates a signed Statement of Condition (https://www.mass.gov/info-details/mandatory-statement-of-condition) with a comprehensive list of existing damage. The tenant has 15 days to return corrections.
+
+Washington requires a written checklist covering walls, floors, furniture, and appliances (https://www.washingtonlawhelp.org/vi/deposits-and-damages) when a deposit is collected.
+
+This isn’t optional. If you collect a $3,000 deposit for a 90-day stay and try to withhold $800 for damage, you need documentation that meets your state’s legal standard. A few photos from turnover might not cut it.
+
+We’ve written extensively about how security deposits compare to damage waivers and platform protection (https://www.rapideyeinspections.com/blog/security-deposits-vs-damage-waivers-vs-platform-protection). For extended stays, deposits often make more sense, but the documentation burden is higher.
+
+Cap Considerations
+
+California’s AB 12 (effective July 2024) limits security deposits to one month’s rent (https://a17.asmdc.org/press-releases/20240628-starting-monday-it-will-be-illegal-landlords-charge-more-one-months-rent) for most landlords. If your monthly rate is $3,500 and you’re expecting $5,000+ in deposit coverage, check your local laws.
+
+What Baseline Comparison Looks Like Across Months
+
+Here’s where the temporal problem becomes really clear.
+
+Standard baseline comparison works when you’re comparing photos taken days apart. The lighting is similar. The furniture hasn’t shifted much. Changes are obvious.
+
+Compare photos from January to photos from March, and you’re dealing with:
+
+- Different natural lighting (sun angle changes)
+
+- Seasonal differences (holiday decorations, then none)
+
+- Furniture that’s been moved and put back slightly differently
+
+- Minor wear that accumulated legitimately
+
+- Changes the guest made and reversed
+
+Manual review can’t reliably separate intentional damage from this noise. Even careful property managers miss things.
+
+This is where RapidEye does something different. Our system doesn’t just compare “before” and “after.” It’s comparing against a structured baseline (https://www.rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss) that accounts for expected variation. It’s trained to distinguish between the couch being in a slightly different position (normal) and the couch having a new tear in the upholstery (damage).
+
+For extended stays specifically, the mid-stay documentation touchpoints I mentioned earlier become even more valuable when you’re feeding them into automated analysis. Each 30-day checkpoint creates an intermediate baseline. If something appears at checkout, the system can pinpoint which window it appeared in.
+
+You can see real examples of what this catches (https://rapideyeinspections.com/showcase/) on our showcase page, including subtle changes that would be nearly impossible to spot manually across a 60-day gap.
+
+Practical Scenarios
+
+The Traveling Nurse at Day 45
+
+You do a mid-stay visit and notice a burn mark on the kitchen counter. The nurse has been there 45 days. They say they don’t know what caused it.
+
+Without mid-stay documentation, this is their word against yours. With a 30-day checkpoint showing no burn mark, you’ve narrowed it to a 15-day window. Still not perfect, but much stronger for a claim.
+
+Corporate Relocation, Company Paying
+
+The guest’s company booked 90 days for a relocation. At checkout, there’s significant damage to a bedroom closet door. The guest acknowledges it happened but says it was an accident.
+
+The company won’t authorize damage charges without documentation proving the damage occurred during this specific stay and showing the actual repair cost. You need timestamped pre-arrival photos, checkout photos, and repair estimates. The company’s accounts payable department doesn’t care about your word.
+
+Digital Nomad Disputes Everything
+
+A remote worker stayed 60 days. At checkout, you find several issues: stained carpet, scratched hardwood, missing kitchen items. The guest disputes all of it. They have credit card statements showing they traveled extensively during the stay, barely using the property.
+
+Their argument: “I was barely there. This is wear and tear or pre-existing.” Without granular documentation showing these specific issues appeared during this booking, you’re stuck.
+
+The Bottom Line
+
+Extended stays are operationally attractive. Less turnover, premium rates, professional guests. But they require a completely different documentation approach.
+
+At minimum:
+
+- Set up proper baselines (https://www.rapideyeinspections.com/blog/property-documentation-before-first-guest-baseline-setup) before the stay starts
+
+- Include inspection rights in your lease
+
+- Schedule mid-stay touchpoints (housekeeping, maintenance, or explicit inspections)
+
+- Document at each touchpoint, not just turnover
+
+- Know your platform’s claim deadlines and your state’s deposit rules
+
+The market is moving toward more extended stays. Airbnb reports 17% of gross nights booked are now 28+ days (https://s26.q4cdn.com/656283129/files/doc_financials/2024/q1/Airbnb_Q1-2024-Shareholder-Letter_Final-1.pdf). This isn’t a niche segment anymore.
+
+If you’re adding medium-term rentals to your portfolio, build the documentation infrastructure first. If you’re already taking these bookings with your standard STR process, you’re exposed in ways you might not realize until a claim gets denied.
+
+FAQ
+
+Do Airbnb monthly stays have different damage claim rules?
+
+The timelines are the same: 14 days to pursue reimbursement, 30 days to file with Host Damage Protection. The challenge is that Airbnb excludes damage from “degradation over time due to use, age, or lack of maintenance.” After 60+ days, more damage looks like gradual wear, making claims harder to win.
+
+Does Furnished Finder have damage protection?
+
+As of October 2025, Furnished Finder no longer partners with Waivo for damage protection. Hosts must handle deposits and damage claims independently through their lease agreements.
+
+Can I inspect my property during a 30+ day stay?
+
+Depends on your jurisdiction. Once tenant rights attach (often at 30 days in states like California, Illinois, and New York), you typically need proper notice (12-24 hours) and a legitimate purpose. Include inspection rights in your lease and frame visits as maintenance checks.
+
+How do I prove damage on a 60-day stay isn’t just normal wear?
+
+Mid-stay documentation. If you can show the damage didn’t exist at the 30-day mark, you’ve narrowed the window and demonstrated it wasn’t gradual wear. Specific incidents (burns, stains, breaks) are claimable. General fabric wear and surface dulling usually aren’t.

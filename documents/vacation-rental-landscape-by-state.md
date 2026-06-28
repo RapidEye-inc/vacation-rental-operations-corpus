@@ -1,0 +1,104 @@
+# Vacation Rental Management Companies by State (2026 Data Map)
+
+Source: https://rapideyeinspections.com/blog/vacation-rental-landscape-by-state/
+
+_How many vacation rental management companies operate in each US state, ranked. We mapped the full VRMA member directory of 5,091 companies: Florida leads with 688, then California, Texas, North Carolina. Primary-source data, cleaned of franchise and HOA outliers._
+
+# Vacation Rental Management Companies by State (2026 Data Map)
+
+We compiled the entire VRMA member directory — 5,091 vacation rental management companies — and mapped it by state. Here is where the professional short-term rental industry actually lives.
+
+**Florida has the most vacation rental management companies of any US state with 688 VRMA members**, followed by California, Texas, and North Carolina. In total, the VRMA public member directory lists 5,091 management companies; 3,521 of them are headquartered in a US state and analyzed here.
+
+Vacation rental management is overwhelmingly a coastal-and-mountain business. The markets that dominate by unit count are beach destinations (the Gulf Coast, the Carolinas, the Grand Strand) and ski towns (Colorado, Utah), not the largest metro areas, where short-term rental rules are tightest.
+
+## 01The national picture
+
+## 02Every state, ranked
+
+VRMA member vacation rental management companies by headquarters state. States with deep-dive reports are linked.
+
+| State | Companies | Reported units | Units reported |
+| --- | --- | --- | --- |
+| [Florida](https://rapideyeinspections.com/blog/florida-vacation-rental-landscape/) | 688 | 322 | 28,057 |
+| [California](https://rapideyeinspections.com/blog/california-vacation-rental-landscape/) | 432 | 175 | 8,536 |
+| [Texas](https://rapideyeinspections.com/blog/texas-vacation-rental-landscape/) | 234 | 111 | 6,443 |
+| [North Carolina](https://rapideyeinspections.com/blog/north-carolina-vacation-rental-landscape/) | 192 | 106 | 14,987 |
+| [Colorado](https://rapideyeinspections.com/blog/colorado-vacation-rental-landscape/) | 189 | 73 | 12,084 |
+| [South Carolina](https://rapideyeinspections.com/blog/south-carolina-vacation-rental-landscape/) | 160 | 82 | 12,367 |
+| [Georgia](https://rapideyeinspections.com/blog/georgia-vacation-rental-landscape/) | 117 | 56 | 3,663 |
+| [Tennessee](https://rapideyeinspections.com/blog/tennessee-vacation-rental-landscape/) | 107 | 48 | 3,284 |
+| [Hawaii](https://rapideyeinspections.com/blog/hawaii-vacation-rental-landscape/) | 106 | 45 | 6,077 |
+| Washington | 100 | 32 | 3,969 |
+| New York | 99 | 31 | 1,758 |
+| Arizona | 97 | 48 | 4,253 |
+| Utah | 77 | 34 | 4,311 |
+| Oregon | 66 | 28 | 3,931 |
+| [Michigan](https://rapideyeinspections.com/blog/michigan-vacation-rental-landscape/) | 61 | 32 | 2,092 |
+| [Alabama](https://rapideyeinspections.com/blog/alabama-vacation-rental-landscape/) | 54 | 27 | 3,128 |
+| Illinois | 53 | 18 | 1,206 |
+| [Virginia](https://rapideyeinspections.com/blog/virginia-vacation-rental-landscape/) | 52 | 29 | 5,026 |
+| [Massachusetts](https://rapideyeinspections.com/blog/massachusetts-vacation-rental-landscape/) | 50 | 20 | 3,115 |
+| Maryland | 41 | 19 | 2,376 |
+| New Jersey | 39 | 12 | 3,130 |
+| Ohio | 38 | 17 | 208 |
+| Nevada | 35 | 14 | 294 |
+| Missouri | 33 | 22 | 859 |
+| Maine | 30 | 15 | 1,054 |
+| New Hampshire | 30 | 10 | 729 |
+| Pennsylvania | 30 | 13 | 477 |
+| Louisiana | 27 | 20 | 907 |
+| Idaho | 26 | 11 | 461 |
+| Minnesota | 24 | 13 | 438 |
+| Montana | 24 | 13 | 388 |
+| Vermont | 22 | 11 | 377 |
+| Indiana | 20 | 10 | 228 |
+| Wisconsin | 20 | 14 | 930 |
+| District of Columbia | 18 | 6 | 1,035 |
+| New Mexico | 17 | 8 | 425 |
+| Connecticut | 14 | 8 | 56 |
+| Delaware | 12 | 2 | 49 |
+| Kansas | 9 | 4 | 32 |
+| Kentucky | 9 | 4 | 177 |
+| Oklahoma | 9 | 5 | 110 |
+| South Dakota | 9 | 3 | 97 |
+| Alaska | 8 | 4 | 99 |
+| Arkansas | 8 | 6 | 199 |
+| West Virginia | 8 | 2 | 67 |
+| Wyoming | 8 | 7 | 641 |
+| Mississippi | 6 | 3 | 577 |
+| Iowa | 5 | 3 | 49 |
+
+## 03State deep dives
+
+Full market reports, cleaned of franchise and HOA outliers.
+
+## 04What the map shows
+
+According to the VRMA directory, vacation rental management is a coastal-and-mountain industry. Florida (688 companies) leads on raw company count, but the markets divide by character: Florida is extraordinarily fragmented, North Carolina runs on decades-old Outer Banks realty firms, and Colorado is dominated by a handful of ski-resort operators. We unpack each in the state reports above, and we cover the national leaders in [The Largest Short-Term Rental Management Companies](https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/).
+
+Source: RapidEye's analysis of the **VRMA public member directory**, compiled March 2026. Company counts are de-duplicated by brand. Unit counts are **self-reported**, and only a subset of members disclose one, so the “units reported” column is a floor for each state, not a count of every short-term rental there.
+
+We excluded entries whose self-reported totals reflect national franchise networks (iTrip), timeshare or HOA portfolios (Marina Hawaii), or brands since absorbed into a national operator (TurnKey, Wyndham Vacation Rentals, and Vacasa's own corporate figure), because attributing those to a single state HQ would badly distort the map.
+
+## 05Sources
+
+- VRMA (Vacation Rental Management Association) — Public Member Directory, compiled March 2026.https://www.vrma.org/search/newsearch.asp
+
+- RapidEye — The Largest Short-Term Rental Management Companies (2026).https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/
+
+- RapidEye — Only 17% of Vacation Rental Management Companies Operate in More Than One State.https://rapideyeinspections.com/blog/vacation-rental-management-single-state-analysis/
+
+## 06Frequently asked
+
+### How many vacation rental management companies are there in the United States?
+
+The VRMA public member directory lists 5,091 vacation rental management companies as of March 2026. Of those, 3,521 list a US state headquarters. This counts association members, not every operator in the country, so it is best read as a map of the professional core of the industry.
+
+### Which state has the most vacation rental management companies?
+
+Florida has the most, with 688 VRMA-member management companies, more than any other state. California, Texas, and North Carolina follow. Vacation rental management concentrates in coastal and mountain destinations rather than large metro areas.
+
+### Where does this data come from?
+
+Every figure is drawn from RapidEye's analysis of the VRMA public member directory, compiled March 2026. Unit counts are self-reported and de-duplicated; national-franchise, timeshare, and HOA totals are excluded so they do not distort individual state figures.

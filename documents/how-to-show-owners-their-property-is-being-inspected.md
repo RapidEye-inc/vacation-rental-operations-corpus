@@ -1,0 +1,79 @@
+# How to Show Owners Their Property Is Being Inspected
+
+Source: https://rapideyeinspections.com/blog/how-to-show-owners-their-property-is-being-inspected/
+
+_Owners want proof of inspection, not a photo dump. How to surface timestamped inspection evidence, curated and on a cadence, so it reassures owners instead of overwhelming them._
+
+# How to show owners their property is being inspected
+
+The owner does not want access to everything. They want one clear signal that someone is watching the house. The trick is sending proof, not data.
+
+Surface a small amount of high-signal evidence on a regular cadence: a few timestamped inspection photos per period, a count of inspections completed, and a line on anything caught and resolved. The point is reassurance, not raw access. A handful of clearly dated images proving the property was checked beats a folder of two hundred photos the owner will never open. Curate, timestamp, and send on a rhythm.
+
+## Proof, not a photo dump
+
+The instinct is to forward everything as a show of effort. It backfires: volume buries the signal and reads as offloading work onto the owner.
+
+### Overwhelms
+
+- Every photo from every turnover, unsorted
+
+- No timestamps the owner can see
+
+- No note on what to look at or why
+
+- Sent irregularly, only when prompted
+
+### Reassures
+
+- A few representative, clearly dated shots
+
+- A simple count of inspections completed
+
+- A line on any issue caught and how it was handled
+
+- Sent on a predictable cadence
+
+## How to surface it, step by step
+
+- Lead with the count"Your property was inspected 6 times this month" is the headline. The number alone answers the owner's core question before they see a single photo.
+
+### Lead with the count
+
+"Your property was inspected 6 times this month" is the headline. The number alone answers the owner's core question before they see a single photo.
+
+- Show a few timestamped photosAccording to [Hostaway](https://www.hostaway.com/blog/generating-STR-owner-reports/), timestamped inspection images prove inspection completion and consistent standards. Pick a small, representative set, the date visible, so the proof is self-evident.
+
+### Show a few timestamped photos
+
+According to [Hostaway](https://www.hostaway.com/blog/generating-STR-owner-reports/), timestamped inspection images prove inspection completion and consistent standards. Pick a small, representative set, the date visible, so the proof is self-evident.
+
+- Name what you caughtOne line per issue: what it was, that you found it, and that it is resolved. A caught-and-fixed leak is the single most reassuring thing you can report, because it shows the watching is real.
+
+### Name what you caught
+
+One line per issue: what it was, that you found it, and that it is resolved. A caught-and-fixed leak is the single most reassuring thing you can report, because it shows the watching is real.
+
+- Put it on a rhythmSame place in the monthly report, or a steady standalone cadence. Predictability is the message: this is a system, not a one-off favor.
+
+### Put it on a rhythm
+
+Same place in the monthly report, or a steady standalone cadence. Predictability is the message: this is a system, not a one-off favor.
+
+## It protects you, too
+
+Showing inspection evidence is not only an owner-comfort exercise. A documented, timestamped inspection record is your defense if an owner later questions the property's condition, and it is what turns a difficult damage conversation into one more entry in a visible history of you caring for the home. [Avantio](https://www.avantio.com/blog/owner-transparency/) frames owner transparency as the foundation of trust; proof of inspection is that transparency made concrete. The record reassures the owner today and covers you tomorrow.
+
+### RapidEye makes the proof a byproduct, already timestamped
+
+Every turnover RapidEye reviews produces dated, baseline-checked documentation, so the inspection count, the representative photos, and the issues caught are generated for you, ready to curate into an owner update. You get owner-grade proof of inspection without assembling it by hand. It runs inside your existing Breezeway workflow.
+
+## Common questions
+
+## Sources
+
+- Hostaway, "The Easiest Way to Generate Owner Reports for Short-Term Rentals" (timestamped inspection images prove completion and consistent standards)https://www.hostaway.com/blog/generating-STR-owner-reports/
+
+- Avantio, "How Owner Transparency Builds Trust in the Vacation Rental Industry"https://www.avantio.com/blog/owner-transparency/
+
+## Related

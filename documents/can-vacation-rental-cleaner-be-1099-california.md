@@ -1,0 +1,93 @@
+# Can My Vacation Rental Cleaner Be 1099 in California?
+
+Source: https://rapideyeinspections.com/blog/can-vacation-rental-cleaner-be-1099-california/
+
+_Almost never. Under California AB 5, a vacation rental cleaner is presumed to be an employee unless all three prongs of the ABC test are met. Most property managers fail Prong B._
+
+## What the Law Actually Says
+
+California codified the ABC test in Assembly Bill 5, which took effect January 1, 2020. The current governing statute is California Labor Code §§ 2775-2787. Under this law, the [California Department of Industrial Relations](https://www.dir.ca.gov/dlse/faq_independentcontractor.htm) presumes every worker is an employee and places the burden of proving independent contractor status on the hiring entity.
+
+To classify a worker as an independent contractor, the hiring entity must prove all three of the following:
+
+#### Prong A · Freedom from control
+
+The worker is free from the control and direction of the hiring entity in connection with the performance of the work, both under the contract and in fact.
+
+#### Prong B · Outside the usual course of business
+
+The work performed is outside the usual course of the hiring entity's business.
+
+#### Prong C · Independently established trade
+
+The worker is customarily engaged in an independently established trade, occupation, or business of the same nature as the work performed.
+
+All three prongs must be satisfied. Failing any one prong means the worker is classified as an employee by default. No weighing of factors, no totality analysis.
+
+## Why Property Managers Fail Prong B
+
+Prong B is the killer for vacation rental management companies. To pass it, you have to prove that the cleaner's work is outside your usual course of business.
+
+A vacation rental management company exists to deliver clean, guest-ready properties to paying guests. Turnover cleaning is not a tangential service the company occasionally arranges. It is the operational heart of what the company does. It is how the company delivers the product. Trying to argue that cleaning is outside the usual course of a property management company's business is like arguing that cooking is outside the usual course of a restaurant's business. Courts do not accept this argument.
+
+The California Labor and Workforce Development Agency confirms this directly. In its [ABC test guidance](https://www.labor.ca.gov/employmentstatus/abctest/), it lists "janitors, maids and other cleaners" as among the most common occupations where the ABC test applies and where the business typically cannot satisfy Prong B.
+
+## The Referral Agency Exemption Does Not Help Most Property Managers
+
+California law carves out a narrow exemption for referral agencies that connect customers to independent service providers. The exemption covers home cleaning services among other categories, and it allows the looser Borello test to apply instead of the ABC test. Many property managers hear about this exemption and assume it applies to them. It does not.
+
+### Why the exemption does not apply to property management
+
+The referral agency exemption only applies to genuine referral agencies that match independent service providers with end customers. A property management company is not a referral agency. It is the direct hiring entity. The company decides who cleans which property, sets the schedule, provides the checklists, and pays the cleaner directly.
+
+Even for businesses that do operate as referral agencies, janitorial services are [explicitly excluded](https://cleanfax.com/what-californias-ab5-law-means-for-cleaning-service-referral/) from the referral agency exemption. The exclusion is broad enough that many cleaning arrangements fall outside the safe harbor even with careful structuring.
+
+## What the Penalties Look Like
+
+California Labor Code § 226.8 imposes civil penalties between $5,000 and $25,000 per violation for willful misclassification of workers. The penalty applies per worker, not per company. A 20-cleaner portfolio facing a willful misclassification finding faces $100,000 to $500,000 in civil penalties under this statute alone.
+
+Additional exposure stacks:
+
+- Back wages and unpaid overtime under the California Labor Code
+
+- Unpaid workers compensation premiums with penalties
+
+- Unpaid unemployment insurance contributions with interest
+
+- Unpaid payroll taxes at federal and state level
+
+- Private Attorney General Act (PAGA) claims for additional statutory penalties
+
+- Plaintiff attorney fees if the case goes to civil litigation
+
+According to [California Chamber of Commerce reporting](https://hrwatchdog.calchamber.com/2025/02/remember-misclassifying-employees-as-independent-contractors-is-costly/), a single 2024 Labor Commissioner citation against one employer totaled $2,327,257 including interest and additional penalties. In a separate 2024 matter, a California company was ordered to pay $1.5 million in worker restitution, an additional $350,000 for accrued sick leave, and $250,000 in civil penalties. These are single-employer outcomes.
+
+## What to Do Instead
+
+If you operate vacation rentals in California and currently use 1099 cleaners, you have a few realistic paths forward:
+
+### Reclassify to W2
+
+The cleanest option. Move your cleaners onto payroll, withhold taxes, pay overtime, carry workers compensation, and adjust your cost model. The additional employer cost is real but predictable. It is almost always smaller than the tail risk of a bad audit.
+
+### Contract with a cleaning company
+
+Structurally different. Instead of directly hiring individual cleaners, contract with an established cleaning company that has its own employees, its own insurance, and other clients. You pay the cleaning company. The cleaning company handles employment of the cleaners. Your exposure is limited to the vendor relationship, not a direct employment classification question.
+
+This approach typically costs 15 to 30 percent more than directly hiring 1099 cleaners, but the legal risk shifts away from you. It only works if you use a genuine cleaning company, not a shell entity that exists only to service your properties.
+
+### Use the IRS Voluntary Classification Settlement Program
+
+The IRS operates a settlement program for employers that want to reclassify workers going forward in exchange for reduced federal tax liability on prior periods. The program resolves federal exposure. It does not affect California state liability at all. Use it as one piece of a broader reclassification effort, not as a standalone fix.
+
+## Sources
+
+- California Department of Industrial Relations. [Independent contractor versus employee](https://www.dir.ca.gov/dlse/faq_independentcontractor.htm).
+
+- California Labor and Workforce Development Agency. [ABC Test](https://www.labor.ca.gov/employmentstatus/abctest/).
+
+- Cleanfax. [What California's AB5 Law Means for Cleaning Service Referral](https://cleanfax.com/what-californias-ab5-law-means-for-cleaning-service-referral/).
+
+- California Chamber of Commerce (HRWatchdog). [Remember Misclassifying Employees as Independent Contractors Is Costly](https://hrwatchdog.calchamber.com/2025/02/remember-misclassifying-employees-as-independent-contractors-is-costly/).
+
+- California Labor Code § 226.8. Willful misclassification civil penalties.

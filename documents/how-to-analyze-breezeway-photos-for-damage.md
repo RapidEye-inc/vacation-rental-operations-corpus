@@ -1,0 +1,59 @@
+# How to Analyze Breezeway Photos for Damage
+
+Source: https://rapideyeinspections.com/blog/how-to-analyze-breezeway-photos-for-damage/
+
+_Breezeway stores your turnover photos but does not analyze them for damage. Here are the three ways to actually review those photos: manual, a one-click Chrome extension, and full API integration._
+
+# How to analyze Breezeway photos for damage
+
+Your cleaners are capturing photos on every turnover. The question is what happens to them next. Here are the three ways to actually analyze those photos for damage, from manual review to fully automated.
+
+Breezeway captures and stores turnover photos but does not run automated damage analysis on them. To analyze those photos for damage you have three options: review them manually, install the RapidEye Chrome extension for one-click AI analysis, or connect RapidEye's full platform through Breezeway's API for continuous, portfolio-wide analysis. Most operators start with the extension because it requires no setup and no workflow change.
+
+First, the honest framing. Breezeway does the documentation part well. According to Breezeway's [Stay in London case study](https://www.breezeway.io/resources/stay-in-london-case-study), well-run operations capture an average of 108 photos per property per turnover, with checklists, timestamps, and field notes attached. That is strong evidence. The limitation is that those photos are stored for you to review manually; the platform does not flag damage in them for you. Analysis is the layer you add on top.
+
+## Method 1: Manual review
+
+Open each completed turnover in Breezeway and scroll through the attached photos, comparing what you see against how the property should look. This is what most operators do by default, and for a handful of units it works fine.
+
+It breaks at scale. At 50 photos per turnover across dozens of properties, nobody has time to study every image. According to Breezeway's [2025 State of Work Report](https://www.breezeway.io/blog/2025-state-of-work-report), 73% of hospitality professionals complete more than 50 tasks per week and 45.5% face last-minute issues daily. Careful photo review is the first thing that gets skipped, which is how damage slips through and surfaces three guests later with no way to prove who caused it.
+
+## Method 2: The RapidEye Chrome extension
+
+Install the [RapidEye Chrome extension](https://chromewebstore.google.com/detail/rapideye-inspections/lpelonobdodfaapaejodmgacpgigfkoc) and a button appears on your Breezeway properties page. According to RapidEye, one click analyzes the photos from your five most recently completed turnovers with AI and a damage report is emailed to you, typically within one business day.
+
+Nothing changes for your cleaning team. They keep using the Breezeway mobile app and the same checklists. The analysis runs on the photos that already exist. It is free to install, your first analysis is complimentary, and there are no API keys or setup steps.
+
+## Method 3: Full API integration
+
+For continuous coverage, RapidEye connects to Breezeway through its [developer API and webhooks](https://developer.breezeway.io/docs/subscribing-to-webhooks). When an inspection task completes and photos are attached, the images are pulled and analyzed automatically. Every turnover is reviewed without anyone clicking a button, and findings build a per-property baseline that improves detection over time.
+
+This is the right setup once you have validated the analysis and want it running across your entire portfolio. We cover the technical side in [adding AI damage detection to your Breezeway workflow](https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/).
+
+## Which method should you use?
+
+| Method | Setup | Coverage | Workflow change |
+| --- | --- | --- | --- |
+| Manual review | None | Whatever you have time for | None |
+| Chrome extension | One click | Latest 5 turnovers, on demand | None |
+| API integration | Guided | Every turnover, automatic | None |
+
+The practical path for most operators is to start with the extension, see what the AI catches on your own properties, then move to the API integration once you want it running on every turnover automatically. Both use the same underlying analysis; the only difference is how the photos reach it.
+
+If you want to understand how the detection itself works, [how automated damage detection works](https://rapideyeinspections.com/blog/how-automated-damage-detection-works/) explains the baseline-comparison approach, and [is there AI that reviews Airbnb turnover photos](https://rapideyeinspections.com/blog/is-there-ai-that-reviews-airbnb-turnover-photos/) covers the broader category.
+
+## Frequently asked questions
+
+## Sources
+
+- [Stay in London Case Study - Breezeway](https://www.breezeway.io/resources/stay-in-london-case-study)
+https://www.breezeway.io/resources/stay-in-london-case-study
+
+- [2025 State of Work Report - Breezeway](https://www.breezeway.io/blog/2025-state-of-work-report)
+https://www.breezeway.io/blog/2025-state-of-work-report
+
+- [Subscribing to Webhooks - Breezeway Developer Docs](https://developer.breezeway.io/docs/subscribing-to-webhooks)
+https://developer.breezeway.io/docs/subscribing-to-webhooks
+
+- [RapidEye Inspections - Chrome Web Store](https://chromewebstore.google.com/detail/rapideye-inspections/lpelonobdodfaapaejodmgacpgigfkoc)
+https://chromewebstore.google.com/detail/rapideye-inspections/lpelonobdodfaapaejodmgacpgigfkoc

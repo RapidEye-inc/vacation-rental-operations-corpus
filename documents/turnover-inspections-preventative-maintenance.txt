@@ -1,0 +1,90 @@
+How to Use Turnover Inspections for Preventative Maintenance
+
+Source: https://rapideyeinspections.com/blog/turnover-inspections-preventative-maintenance/
+
+_Your turnover is the most frequent inspection your property gets, dozens of times a year. Most of it is wasted on 'is it clean.' Here is how to harvest it to catch slow-developing maintenance failures early._
+
+How to use turnover inspections for preventative maintenance
+
+Your turnover is the most frequent inspection your property ever gets, dozens of times a year. Most operators waste it on "is it clean." Here is how to harvest it to catch slow failures early.
+
+The frequency you're already paying for
+
+Think about how often a maintenance professional actually walks one of your properties. A few times a year, if you are diligent. Now think about how often someone is inside that same property looking closely at every room: every single turnover. According to Rent Responsibly (https://www.rentresponsibly.org/guide-to-short-term-rental-turnover-inspections/), the turnover inspection, done after cleaning and before the next guest, already doubles as the moment to catch maintenance issues like a malfunctioning detector, a leaky faucet, or a failing hinge. The frequency is the asset. You are paying for dozens of property visits a year and using almost none of them for maintenance.
+
+The reason it gets wasted is framing. Cleaners are told their job is "make it clean," so their attention is tuned to dirt, not to the faint stain that is a little bigger than last week or the railing that wobbles a little more than it did. A small shift, asking them to also notice what is developing, converts every clean into a recurring maintenance inspection at almost no added cost. In a RapidEye trial across a 500-plus-unit portfolio, the system surfaced an average of four issues per property that the cleaners and inspectors had walked right past, a direct measure of how much the turnover already sees but does not report.
+
+The failures that develop slowly
+
+These are the issues worth training a turnover to catch, because they are cheap at the start and ruinous at the end. Each one announces itself early with a signal a cleaner can see, long before it becomes an emergency call or a guest refund.
+
+| System | Early turnover signal | If ignored | Expensive endpoint |
+| --- | --- | --- | --- |
+| Ceiling / under-sink water | A faint stain, slightly larger or darker than last turnover | Spreading discoloration, soft spot, musty smell | Subfloor rot, mold remediation, ceiling repair |
+| Shower grout & caulk | Hairline darkening; caulk bead pulling away at edges | Gaps letting water behind tile | Wall rot, tile re-set, water damage to the room below |
+| Mold & mildew | Small spots that keep returning after each clean | Growth spreading along grout and trim | Remediation, guest health complaints, liability |
+| Appliances | Runs longer or louder; fridge not holding temperature | Intermittent failures, odd cycles | Mid-stay breakdown, spoiled-food refund, emergency replacement |
+| Deck & railings | A screw backing out; slight wobble; graying, soft wood | Visible give when leaned on | Structural failure and a guest-injury claim |
+| HVAC | Weak airflow; dust building on vents; darkening filter | Struggling to hold temperature | Compressor failure in peak season, comfort refunds |
+| Faucets & toilets | A faint drip; a toilet that runs after flushing | Constant drip, higher water use | Water damage, a spiked utility bill |
+| Doors & seals | A door starting to stick; a draft or light gap appearing | Warping, harder to latch, energy loss | Door replacement, pest intrusion, lock failure |
+
+According to 2026 cost data from Angi (https://www.angi.com/articles/emergency-plumber-cost.htm) and HomeGuide (https://homeguide.com/costs/plumber-cost), emergency and after-hours plumbing runs roughly 1.5 to 3 times standard rates, and that is before the guest refund or one-star review a mid-stay failure brings with it. Every row above is cheap on the left and expensive on the right. The whole game is catching it on the left.
+
+Why a single look misses the slow ones
+
+Here is the catch that makes slow failures so dangerous: in any single turnover, they look fine. A faint water stain is "probably always been there." A railing that gives a little is "good enough." The signal is not in the snapshot. It is in the change between snapshots.
+
+The snapshot misses it
+
+A cleaner sees the bathroom once today. The grout looks a little dark, but compared to what? With nothing to compare against, a slowly worsening problem reads as normal every single time, right up until it fails.
+
+The comparison catches it
+
+The same grout photographed at three consecutive turnovers tells a clear story: it is getting worse, and fast. Comparing each turnover against the property's normal state is what turns "looks fine" into "this is trending the wrong way."
+
+How to harvest the turnover
+
+You do not need a separate maintenance crew or a longer turnover. You need four small additions to the process you already run.
+
+Tack a brief look for the eight systems above onto the end of the clean. Not a deep inspection, a 60-second scan for the early signals: stains, drips, wobble, weak airflow, returning mold.
+
+Have cleaners shoot the same handful of high-risk spots at every turnover: under sinks, shower corners, the water heater, the deck, the HVAC vents. Same angles, every time, so they can be compared.
+
+The value is in the trend. Whether by eye or with software, the question is always "is this worse than the last turnover?" That comparison is what surfaces slow drift before it becomes failure.
+
+A flagged early signal becomes a scheduled, cheap fix on the next maintenance visit, not a 2 a.m. emergency call mid-stay. The whole point is to move the repair from the reactive end of the curve to the planned end.
+
+The comparison, automated
+
+The hard part of harvesting the turnover is step three: a human cannot reliably remember what the shower grout looked like 30 cleans ago. RapidEye does exactly this. It holds a baseline of how each space should look and compares every new turnover's photos and video against it, flagging what has changed, whether that is fresh guest damage or a stain that has been quietly spreading for two months. The same engine that catches damage catches slow maintenance drift, because to the system they are the same thing: a deviation from normal. See how baseline comparison works (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/).
+
+Frequently asked questions
+
+Yes, and it is the highest-leverage thing most operators are not doing. A busy short-term rental turns over dozens of times a year, which means the turnover is by far the most frequent inspection the property ever gets. If your cleaners are only checking "is it clean," you are wasting that frequency. By adding a short, structured look for developing problems to every turnover, you turn each clean into a recurring maintenance inspection at almost no extra cost.
+
+The ones that develop slowly and hide in plain sight: spreading water stains, darkening grout and failing caulk, returning mold spots, appliances that run longer or louder than they used to, a railing or deck board working loose, weak HVAC airflow, a faucet or toilet that has started to drip, and hairline cracks that lengthen over time. These rarely fail all at once. They send small signals across many turnovers, which is exactly why the high-frequency turnover is the right place to catch them.
+
+Because the cost curve is steep. A slow drip caught at a turnover is a cheap washer replacement on a scheduled visit. The same drip ignored becomes water damage, a mid-stay failure, and an emergency call. According to 2026 cost data from Angi and HomeGuide, emergency and after-hours plumbing runs roughly 1.5 to 3 times standard rates, before the cost of any guest refund or bad review the failure triggers. Early detection moves the repair from the expensive, reactive end of the curve to the cheap, scheduled end.
+
+Compare across turnovers, not within one. A faint water stain looks like nothing in a single photo; the same stain photographed at three consecutive turnovers tells a clear story. The practical method is to photograph the usual suspects every turnover and compare each against the last. This is exactly what AI baseline comparison automates: it holds a reference for each space and flags what has changed since the property's normal state, surfacing slow drift a one-time glance would miss.
+
+Sources
+
+Related reading
+
+How AI Baseline Comparison Catches What Inspections Miss
+
+The comparison-across-time engine that surfaces slow drift.
+
+The Amenities Inspectors Mark "Present" but Never Confirm Work
+
+Presence is not function: the gap that hides failing systems.
+
+Staging Drift: Why Your Rental Stops Matching Its Photos
+
+The same slow-change problem, applied to staging instead of maintenance.
+
+How to Prevent Vacation Rental Damage
+
+The prevention playbook the turnover feeds into.

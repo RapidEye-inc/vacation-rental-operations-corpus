@@ -1,0 +1,41 @@
+# Spot Inspections vs Full Inspections for Vacation Rentals
+
+Source: https://rapideyeinspections.com/blog/spot-inspections-vs-full-inspections-vacation-rentals/
+
+_Spot-checking only covers the turnovers you sample. The miss in the rest reaches the guest. When each approach makes sense, and how AI ends the coverage-vs-cost tradeoff._
+
+# Spot inspections vs full inspections for vacation rentals
+
+Sampling is a reasonable way to save money on inspection. It is also a bet that the turnovers you didn't look at are fine, and the guest collects on that bet when they aren't.
+
+A full inspection reviews every turnover; a spot inspection reviews a sample and assumes the rest match. Full inspection buys complete coverage at the cost of time and labor. Spot inspection buys savings at the cost of coverage, every problem in an unsampled turnover reaches the guest. The right call has historically depended on the cleaner's track record. AI photo review changes the question entirely, because it makes full coverage affordable.
+
+## What spot-checking actually leaves uncovered
+
+If you inspect a quarter of turnovers, you are blind to the other three quarters. The defect that lands in one of them is the one your guest finds.
+
+A missed item in any of the 30 light squares ships to the guest unseen. Sampling does not reduce the number of defects, it reduces how many you find before checkout.
+
+## When each approach makes sense
+
+If full coverage is off the table, sampling well beats sampling randomly. Inspect by risk.
+
+As [Breezeway](https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors) frames it, inspection is not about distrust; it is verification that protects a consistent guest experience by catching the small things, a burnt-out bulb, a missing remote, before they become the big things, a bad review.
+
+## The tradeoff AI removes
+
+Every spot-check policy is a workaround for one constraint: full human inspection of every turnover is too expensive and too slow to do at scale. Take that constraint away and the entire debate dissolves. There is no reason to sample if full coverage costs about what sampling costs.
+
+That is exactly what AI photo review does. It reviews every turnover's photos against the property baseline at a fraction of the per-inspection cost of a human, so you get the complete coverage of full inspection at roughly the economics of spot-checking. You stop choosing between catching everything and affording it.
+
+### RapidEye full-inspects every turnover at spot-check cost
+
+RapidEye reviews the photos from every turnover, not a sample, against the property's baseline and surfaces only what needs attention. You get 100 percent coverage without staffing 100 percent inspection. It runs inside your existing Breezeway workflow.
+
+## Common questions
+
+## Sources
+
+- Breezeway, "Operations 101: The Value of Vacation Rental Inspectors" (inspection as verification that catches small issues before they become bad reviews)https://www.breezeway.io/blog/the-value-of-vacation-rental-inspectors
+
+## Related

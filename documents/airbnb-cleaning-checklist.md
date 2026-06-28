@@ -1,0 +1,321 @@
+# Airbnb Cleaning Checklist: Room-by-Room Turnover Guide With Time Estimates (2026)
+
+Source: https://rapideyeinspections.com/blog/airbnb-cleaning-checklist/
+
+_Complete Airbnb cleaning checklist with time estimates by room and property size. 80+ tasks organized room-by-room for vacation rental turnover cleaners. Interactive, printable, built for operations teams managing 50+ units._
+
+# The Airbnb Cleaning Checklist Your Cleaners Will Actually Use
+
+80+ tasks organized room-by-room with time estimates by property size. Built for operations teams managing professional cleaning crews, not individual hosts winging it.
+
+A complete Airbnb turnover clean covers 80 to 100 tasks across six areas: kitchen, bathrooms, bedrooms, living spaces, entry and outdoor, and laundry with final walkthrough. According to CleanBnB, a solo cleaner takes 2 to 2.5 hours for a studio and 3.5 to 4.5 hours for a 2-bedroom. According to Uplisting, most turnover cleaning jobs for smaller units take between one and three hours. The checklist below is organized in the order cleaners should work through each room, starting with tasks that need time to set (laundry, soaking) and ending with visual staging.
+
+## Estimate your turnover time
+
+Select your property configuration. Times are for a solo cleaner doing a standard turnover.
+
+## Room-by-room checklist
+
+Work through each room in order. Start laundry and soaking tasks first, then clean top-to-bottom, left-to-right within each space.
+
+### Kitchen
+
+- Start dishwasher if dirty dishes are presentRun immediately so it finishes before you leave
+
+- Clear and wipe all countertops with disinfectant
+
+- Clean stovetop, burner grates, and drip pans
+
+- Clean inside microwave (walls, ceiling, turntable)
+
+- Wipe oven exterior and check interior for spillsOpen door and look. Scrub visible spills. Full oven clean is a deep-clean item.
+
+- Clean refrigerator interior: remove all guest food, wipe shelves and drawers
+
+- Wipe refrigerator exterior and handles
+
+- Empty and wipe dishwasher filter area; unload when cycle completes
+
+- Clean and dry sink basin and faucet
+
+- Run garbage disposal with ice and citrus peel if applicable
+
+- Wipe small appliances (coffee maker, toaster, blender)
+
+- Flush coffee maker with clean water cycleGuest complaint hotspot. Stale coffee residue is visible and smells.
+
+- Clean cabinet fronts and drawer pulls (fingerprints)
+
+- Restock: dish soap, sponge, trash bags, paper towels
+
+- Restock: coffee pods/grounds, sugar, creamer, tea bags
+
+- Check knife block or drawer: all pieces present, clean
+
+- Replace kitchen towels and dishcloths with fresh set
+
+- Empty all trash and recycling; replace liners
+
+- Sweep and mop kitchen floor
+
+- Final visual: staged welcome arrangement if applicable (fruit bowl, snacks, welcome note)
+
+Microwave interior (grease on ceiling), coffee maker residue, refrigerator produce drawers, and crumbs in silverware drawer. These are the four items guests mention most in negative cleaning reviews.
+
+Photograph: full kitchen counter view, open refrigerator (empty shelves), stovetop, and staged amenities. Four photos, 30 seconds.
+
+### Bathrooms
+
+- Spray shower/tub with cleaning solution and let sit while you work other surfacesDwell time does the work. Spray first, scrub last.
+
+- Clean toilet exterior, seat, bowl interior, and base
+
+- Clean mirror until streak-free
+
+- Wipe and disinfect sink basin, faucet, and counter
+
+- Scrub shower/tub walls, floor, door or curtain
+
+- Clean shower door glass (both sides) or replace shower curtain liner if stained
+
+- Check drain for hair and clear if needed
+
+- Wipe all fixtures (towel bars, robe hooks, TP holder) for water spots
+
+- Wipe exhaust fan cover (dust buildup)
+
+- Restock: toilet paper (2 rolls minimum, one on holder, one backup visible)
+
+- Restock: hand soap, shampoo, conditioner, body wash
+
+- Stage fresh towel sets (bath towel, hand towel, washcloth per guest)
+
+- Place fresh bath mat
+
+- Empty trash; replace liner
+
+- Sweep and mop floor, paying attention to base of toilet and behind door
+
+- Final check: no hair on any surface (floor, pillow, countertop)
+
+Hair on the floor behind the toilet is the single most common guest complaint in cleaning reviews. Second is water spots on faucets and mirrors. Third is mildew at the base of the shower door track or along the caulk line.
+
+Photograph: full bathroom from doorway, staged towels, shower/tub (dry and clean), and toilet area. One wide shot plus one detail if anything looks borderline.
+
+### Bedrooms
+
+- Strip all bedding: sheets, pillowcases, duvet cover. Start laundry immediately.
+
+- Check mattress protector for stains; replace if soiled
+
+- Make bed with fresh linens: fitted sheet, flat sheet, pillowcases, duvet
+
+- Fluff and stage pillows and decorative throws
+
+- Dust all surfaces: nightstands, dresser, headboard, shelving
+
+- Wipe lamp bases and check bulbs (replace if burned out)
+
+- Check under bed for guest belongingsCheck every time. Left items create awkward guest messages and shipping costs.
+
+- Open and check nightstand drawers for guest items
+
+- Check closet: empty hangers aligned, luggage rack positioned, extra blanket folded
+
+- Wipe light switches and door handles
+
+- Clean mirror or glass surfaces
+
+- Vacuum carpet or sweep/mop hard floors (including under bed edge)
+
+- Empty trash; replace liner
+
+Hair on pillowcases (check the far side of the pillow), dust on headboard top edge, and guest belongings in nightstand drawers. Pillowcase hair is the cleaning miss most likely to generate a one-star cleanliness sub-rating.
+
+Photograph: made bed from foot of bed (full frame), and one wide shot from the doorway showing the whole room. Two photos per bedroom.
+
+### Living & Dining Areas
+
+- Check sofa and chair cushions: lift, vacuum underneath, check for lost items
+
+- Spot-clean upholstery stains; flag for deep clean if needed
+
+- Fluff and arrange throw pillows and blankets
+
+- Dust all surfaces: coffee table, side tables, entertainment center, shelving
+
+- Clean TV screen (dry microfiber only, no spray)
+
+- Test TV and confirm correct input; place remote in standard location
+
+- Wipe dining table, chairs, and any bar or counter seating
+
+- Check chair seats for crumbs or sticky residue
+
+- Clean windows interior (if visibly smudged) and sliding glass door
+
+- Wipe light switches, door handles, thermostat
+
+- Reset thermostat to property default temperature
+
+- Check ceiling corners for cobwebs
+
+- Vacuum carpet or sweep/mop hard floors (move furniture if accessible)
+
+- Empty all trash; replace liners
+
+TV remotes placed in random locations (guests blame cleaning for this), sticky residue on dining chair seats, and cobwebs in ceiling corners near light fixtures. Also: forgotten items wedged between sofa cushions.
+
+Photograph: one wide shot of the living area showing staged furniture, and one of the dining area with table and chairs. Two photos total.
+
+### Entry & Outdoor
+
+- Sweep or vacuum entryway
+
+- Clean front door (both sides), door handle, and lock
+
+- Verify smart lock or lockbox code is set for next guest
+
+- Shake out or replace welcome mat
+
+- Place welcome guide / info binder in standard location
+
+- Check porch or patio: sweep, wipe furniture, remove debris
+
+- Check grill: clean grates, confirm propane level if applicable
+
+- Check hot tub if applicable: water clarity, cover position, chemical levelsHot tub turnovers add 15-30 min depending on condition
+
+- Inspect pool area if applicable: remove debris, check gate latch
+
+- Remove any guest-generated trash from exterior areas
+
+- Verify exterior lights are working (porch, pathway)
+
+Dirty door handle (the first thing the guest touches), grill grates left crusty from the previous guest, and porch furniture cushions that were rained on and not dried. Outdoor misses set the tone before the guest walks in.
+
+Photograph: front entry (clean door and mat), patio or deck from one angle, and hot tub/pool if applicable. First and last impression areas.
+
+### Laundry & Final Walkthrough
+
+- Transfer laundry: fold or bag for off-site processing
+
+- Wipe washer/dryer exteriors and clean lint trap
+
+- Restock laundry detergent pod/container if guest-accessible
+
+- Walk entire property: lights off except staging lights
+
+- Verify all windows are closed and locked
+
+- Verify HVAC set to property default
+
+- Check smoke detectors: indicator lights visiblePress test button quarterly, not every turnover. Visual check only during standard clean.
+
+- Verify WiFi is working (check with phone)
+
+- Sniff test: walk through each room. Note any odors, especially pet, smoke, or mildew.
+
+- Note and photograph any pre-existing damage or maintenance issuesReport to ops team immediately if urgent (leak, broken lock, safety hazard)
+
+- Lock all doors; confirm property is secure
+
+- Upload photos and mark task complete in operations platform
+
+Lint trap left full (fire risk and guest frustration), windows left unlocked (security and HVAC waste), and thermostat left at the previous guest's setting (72 degrees when the default is 68 adds up fast across a portfolio).
+
+Photograph any damage or maintenance issues found during walkthrough. Include a wide shot for context and a close-up for detail. These photos are your documentation if damage attribution becomes a question later.
+
+## Deep clean schedule (every 3-4 months)
+
+Standard turnovers do not cover everything. These items need scheduled deep cleans every 3 to 4 months, or after every 15 to 20 turnovers, whichever comes first. A deep clean typically adds 2 to 4 hours beyond the standard turnover time depending on property size. [Turno's deep cleaning guide](https://www.turno.com/airbnb-deep-cleaning/) covers the full scope in detail.
+
+#### Kitchen
+
+- Full oven interior clean
+
+- Inside all cabinets and drawers
+
+- Behind and under refrigerator
+
+- Behind stove and microwave
+
+- Range hood filter (soak and scrub)
+
+- Descale coffee maker and kettle
+
+#### Bathrooms
+
+- Grout scrub (shower, floor, backsplash)
+
+- Recaulk if discolored or peeling
+
+- Inside medicine cabinet or vanity
+
+- Shower head descale (vinegar soak)
+
+- Exhaust fan interior cleaning
+
+#### Bedrooms
+
+- Rotate or flip mattress
+
+- Wash mattress protectors
+
+- Wash all pillow inserts
+
+- Vacuum under bed (full access)
+
+- Dust ceiling fan blades
+
+- Wipe baseboards
+
+#### Whole Property
+
+- Window tracks and sills (all rooms)
+
+- Light fixture interiors (bugs, dust)
+
+- HVAC filter replacement
+
+- Carpet deep clean or hard floor polish
+
+- Upholstery deep clean
+
+- Behind and under all furniture
+
+## Why photo documentation is part of the clean
+
+Photo documentation during turnover cleaning is not optional for professional operations. It protects the property manager, the cleaner, and the owner. According to [Airbnb's Host Damage Protection](https://www.airbnb.com/help/article/2869) terms, hosts must provide photographs, videos, or receipts as proof when filing damage claims within 30 days of checkout.
+
+Most operations platforms, including [Breezeway](https://www.breezeway.io/), require photo uploads as part of task completion. Breezeway and similar platforms automate task workflows so that photos flow into a central system without manual file management. The photos your cleaners take during turnover become the property's condition record.
+
+At scale, these photos pile up fast. A 200-unit portfolio generating 8 photos per turnover at 70% occupancy produces roughly 3,000 to 4,000 photos per week. Reviewing them all manually is not realistic. Some operations teams use [structured review workflows](https://rapideyeinspections.com/blog/how-to-review-turnover-photos-at-scale/), and a growing number are adding AI inspection layers like [RapidEye](https://rapideyeinspections.com) that compare new turnover photos against a per-property baseline to flag damage, missing items, and cleanliness failures that human reviewers miss.
+
+## Sources
+
+- CleanBnB. "How Long Should It Take an Airbnb Cleaner to Clean?"
+ [getcleanbnb.com](https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/)
+https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/
+
+- Uplisting. "Airbnb Turnover Cleaning Guide."
+ [uplisting.io](https://www.uplisting.io/blog/airbnb-turnover-cleaning)
+https://www.uplisting.io/blog/airbnb-turnover-cleaning
+
+- ResortCleaning. "Strategies for Efficient Airbnb Turnover Time Management."
+ [resortcleaning.com](https://www.resortcleaning.com/blog/strategies-efficient-airbnb-turnover-time-management)
+https://www.resortcleaning.com/blog/strategies-efficient-airbnb-turnover-time-management
+
+- Turno. "Airbnb Deep Cleaning: The Complete Guide."
+ [turno.com](https://www.turno.com/airbnb-deep-cleaning/)
+https://www.turno.com/airbnb-deep-cleaning/
+
+- Airbnb. "Host Damage Protection Terms."
+ [airbnb.com](https://www.airbnb.com/help/article/2869)
+https://www.airbnb.com/help/article/2869
+
+- Breezeway. Property operations platform used by short-term rental managers for task automation, photo documentation, and inspection workflows.
+ [breezeway.io](https://www.breezeway.io/)
+https://www.breezeway.io/
+
+### Related guides

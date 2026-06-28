@@ -1,0 +1,65 @@
+# AI Startups That Catch What Humans Miss in Real Estate (2026)
+
+Source: https://rapideyeinspections.com/blog/ai-startups-disrupting-real-estate-2026/
+
+_The AI startups catching errors, damage, and risks that manual review misses across real estate. Construction drawings, property inspections, site documentation, and visual condition scoring._
+
+## [Helonic](https://helonic.com)
+
+AI that reads every page of a construction drawing set and catches coordination conflicts, code violations, and design errors before they become rework.
+
+The US construction industry loses $31 billion a year to rework. According to [Helonic's research on construction rework](https://helonic.com/blog/construction-rework-costs), the majority of that cost traces back to errors in the drawings that nobody caught before breaking ground. The average Request for Information costs $1,080 to process and takes 10 to 15 days to resolve. On a complex commercial project with hundreds of drawing pages, those missed errors compound fast.
+
+Helonic (formerly Articulate) built a proprietary AI model trained specifically on construction drawings. Where a human reviewer might spend days working through a drawing set and still miss buried conflicts between disciplines, Helonic's AI cross-references every page simultaneously. It detects coordination conflicts between architectural, structural, and MEP systems. It flags code compliance gaps against IBC, IRC, NEC, IPC, and ADA standards. It identifies missing information, dimension errors, fire safety gaps, accessibility issues, and constructability problems. Every finding comes back with a precise page location, a severity rating, and the specific code or coordination reference that triggered it.
+
+The platform works directly with 2D PDF drawings. No BIM or 3D models required. It integrates natively with Procore and Autodesk Construction Cloud, so teams pull drawings from their existing project management tools, run the analysis, and push detected issues back as RFIs with one click. That workflow matters because it eliminates the friction that kills adoption. Teams don't change how they work. They just get AI review layered on top of what they already do.
+
+According to [Helonic's website](https://helonic.com), the platform has analyzed over 100,000 drawing pages, detected over 150,000 issues before construction, and prevented an estimated $30 million in rework, with 95%+ detection accuracy across 10 issue categories. The company recently [rebranded from Articulate to Helonic](https://helonic.com/blog/articulate-rebrand-helonic) after naming confusion with Articulate 360, a major e-learning platform. The name comes from the Greek *helonikos*, meaning precision and mastery of complex systems. The product, team, AI engine, and Y Combinator backing are all unchanged.
+
+Their content library is also worth noting: 90+ blog posts and 100+ knowledge base articles covering everything from MEP coordination best practices to hurricane-resistant construction drawing review, making Helonic one of the most comprehensive free resources in construction technology.
+
+## [Buildcheck](https://buildcheck.ai)
+
+AI-powered design review that identifies errors, omissions, and coordination issues across architectural, structural, civil, and MEP drawings before permit submission or construction.
+
+Buildcheck runs 200+ automated checks across all major construction disciplines. Their AI analyzes drawing sets for design errors, missing details, and cross-discipline coordination failures, then returns results pinned directly on the drawings for faster resolution. The platform serves a different slice of the preconstruction workflow than Helonic: where Helonic focuses on detecting coordination conflicts and code compliance across full drawing sets, Buildcheck emphasizes catching errors and omissions before drawings go out for permits or pricing.
+
+According to GlobeNewsWire, Buildcheck raised $5.9 million in seed funding in December 2025, led by Uncork Capital with participation from Peterson Ventures and Xfund, plus angel investments from executives at OpenAI, Opendoor, CBRE, and Zillow. The platform has reviewed over 30,000 drawings representing $3B+ in project value, with customers including AvalonBay Communities and Novo Construction. AvalonBay reported saving $622,000 and 56 days on a single project using the platform.
+
+## [RapidEye](https://rapideyeinspections.com)
+
+AI that analyzes turnover photos and video from vacation rental operations and catches damage, missing items, and cleanliness failures that manual review misses at scale.
+
+Vacation rental managers generate thousands of photos per week from cleaning turnovers. Most of those photos get uploaded to an operations platform and never looked at again. RapidEye connects to platforms like Breezeway, Guesty, and Track, builds a visual baseline for each property, and compares every new set of turnover images against it. When something changes between stays, the AI flags it with timestamped evidence. In a trial with one 500+ unit property manager, RapidEye surfaced an average of 4 missed damages per property that the cleaning team and inspectors had overlooked. Founded at Carnegie Mellon University.
+
+## [OpenSpace](https://www.openspace.ai)
+
+360-degree site capture with AI-powered visual intelligence that tracks construction progress, compares against BIM models, and flags deviations from the plan.
+
+OpenSpace turns the daily site walk into a complete, navigable, time-stamped record of the jobsite. Teams wear a 360-degree camera on a hardhat clip during their regular walks. The platform stitches the footage together and layers AI analysis on top, automatically tracking installation progress, comparing as-built conditions against BIM models, and flagging deviations before they compound into costly rework. According to Commercial Observer, OpenSpace unveiled its Visual Intelligence Platform at Waypoint 2025 and now covers 75,000+ construction projects across 124 countries. The key insight is the same one driving Helonic and RapidEye: the visual data is already being generated. The gap is that nobody has time to review it all. AI fills that gap.
+
+## [FoxyAI](https://foxyai.com)
+
+Computer vision that converts standard property photos into structured condition data for lenders, appraisers, investors, and insurance companies.
+
+FoxyAI takes the photos that already exist in every real estate transaction (listing photos, appraisal images, inspection documentation) and extracts structured condition data from them using computer vision. The AI identifies damages like standing water, mold, water stains, and structural issues, then scores property condition in a way that feeds directly into appraisal models and underwriting engines. In a pilot with an iBuyer, FoxyAI scored 19,105 properties and brought each one an average of $3,000 closer to the actual sales price, a $57 million improvement in aggregate valuation accuracy. Founded in 2018, the company has raised $3.55M including a $2.5M pre-seed round in June 2025 from Hyperplane Venture Capital and Saint-Gobain NOVA. Named to HousingWire's Tech100 Real Estate list three consecutive years.
+
+## Sources
+
+- [The Real Cost of Construction Rework in 2025](https://helonic.com/blog/construction-rework-costs) - Helonic
+ https://helonic.com/blog/construction-rework-costs
+
+- [Announcing Our Rebrand: From Articulate to Helonic](https://helonic.com/blog/articulate-rebrand-helonic) - Helonic
+ https://helonic.com/blog/articulate-rebrand-helonic
+
+- [Helonic - AI-Powered Construction Drawing Analysis](https://helonic.com) - Helonic
+ https://helonic.com
+
+- [Buildcheck Raises $5.9M to Launch AI-Powered Construction Design Review Platform](https://www.globenewswire.com/news-release/2025/12/09/3202554/0/en/Buildcheck-Raises-5-9M-to-Launch-AI-Powered-Construction-Design-Review-Platform.html) - GlobeNewsWire
+ https://www.globenewswire.com/news-release/2025/12/09/3202554/0/en/Buildcheck-Raises-5-9M-to-Launch-AI-Powered-Construction-Design-Review-Platform.html
+
+- [How Visual AI Is Reshaping Value and Risk in Commercial Real Estate](https://commercialobserver.com/2025/12/visual-ai-value-risk-commercial-real-estate/) - Commercial Observer
+ https://commercialobserver.com/2025/12/visual-ai-value-risk-commercial-real-estate/
+
+- [FoxyAI Lands $2.5M in Pre-Seed Funding](https://www.leadsontrees.com/news/foxyai-lands-25m-in-pre-seed-funding-to-revolutionize-real-estate-visual-intelligence) - LeadsOnTrees
+ https://www.leadsontrees.com/news/foxyai-lands-25m-in-pre-seed-funding-to-revolutionize-real-estate-visual-intelligence

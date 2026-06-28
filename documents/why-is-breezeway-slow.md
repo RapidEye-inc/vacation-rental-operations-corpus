@@ -1,0 +1,92 @@
+# Breezeway Feels Slow: A Diagnostic Guide (6 Patterns) 2026
+
+Source: https://rapideyeinspections.com/blog/why-is-breezeway-slow/
+
+_If Breezeway feels slow, the cause is usually one of six specific patterns. Here is the diagnostic guide that matches your symptom to the fix, plus a summary of the performance improvements Breezeway shipped in 2025._
+
+# Breezeway Feels Slow: A Diagnostic Guide
+
+When Breezeway feels slow, the cause is almost always one of six specific patterns. Most have straightforward operator-side improvements; some are infrastructure that Breezeway has been actively shipping fixes for in recent release cycles. Match your symptom to the pattern below and start with the fastest fix.
+
+Breezeway is a deep platform with a lot of surface area (scheduling, inspections, messaging, payments, PMS sync), which means "it feels slow" can mean six different things. Each has a different cause. Most are fixable with operator-side habits like filter scoping, using offline sync on photo-heavy tasks, or keeping the mobile app updated. A few are infrastructure-side, and Breezeway publishes quarterly product updates with measurable improvements in those areas.
+
+The six-pattern diagnostic below walks through each one with the practical fix. Start by matching your symptom. For most teams, steps 1 through 3 resolve the majority of the pain.
+
+## The Six Patterns (Match Your Symptom)
+
+Find the pattern that matches the kind of slow you are seeing. Start with the fix listed for that pattern.
+
+### Task list or schedule view loads slowly
+
+Filter count multiplied by portfolio size. The task list and calendar views run heavier queries as you add filters and scale past a few hundred properties.
+
+Collapse unused filters. Use Groups to scope your default view to the subset you actually work with. If you have 400 properties but handle 80, save a filtered view and use it by default. Q4 2025 updates added a collapsed schedule view that loads faster on large portfolios.
+
+### Filters glitch or feel inconsistent
+
+Some operators report occasional filter behavior where the view does not reflect the selected criteria on first apply. Often a stale cache on the client or a timing issue with a large data query.
+
+Remove the filter, refresh the page, re-apply the filter. If the data still does not match, report the specific combination to Breezeway support with a screenshot so their team can reproduce it. Specific repro steps are what lets engineering fix it.
+
+### Photo upload is slow
+
+Almost always mobile network plus image size. Modern iPhones take 5 to 10 MB photos by default. On weak cell signal at a property, uploading 30 photos sequentially takes minutes.
+
+Use Breezeway's offline sync. Complete the task with photos captured; the app queues uploads and syncs when the device is back on WiFi. Breezeway's mobile apps are designed for this workflow. If you need immediate sync, a Q1 2025 update fixed several offline error messages that had been blocking this path.
+
+### Everything slows during peak turnover hours
+
+Heavy concurrent usage across the platform during peak turnover windows. This is infrastructure-side, not your setup, and it is a known scaling challenge for every property ops platform at their volume.
+
+Stagger your team's login times when possible so not everyone is running the same bulk queries at the same moment. If the peak-time pattern is hurting you consistently, mention it to your customer success manager with specific dates and times. That signal is what informs where Breezeway's engineering team invests capacity.
+
+### Calendar does not reflect a recent reservation change
+
+PMS integration sync timing. Different PMS platforms propagate reservation changes to Breezeway at different frequencies. A new reservation created in the last few minutes may not have made it through the sync yet.
+
+Manually refresh the property from the property view. If that does not resolve it, check your PMS side for the sync status. Common culprits are duplicate listings in the PMS or a reservation created seconds before you checked. Wait a minute and refresh again.
+
+### Mobile app feels sluggish in general
+
+Usually an out-of-date app version or a corrupted local cache. Mobile apps accumulate state over time and benefit from periodic resets.
+
+Update the app to the latest version. If still slow, uninstall and reinstall. If the issue persists after a fresh install, capture a specific reproducible scenario (which screen, which action, approximate delay) and email support@breezeway.io. Specific repro steps are what lets the engineering team diagnose and ship a fix.
+
+## Performance Improvements Breezeway Shipped in 2025
+
+Breezeway publishes quarterly product updates with verifiable shipped improvements. If performance matters to you, it is worth keeping up with these because several directly address the slowness patterns above.
+
+### Recent shipped work
+
+- **Q4 2025:** Property schedule got infinite loading, fixed property name columns, and a new collapsed view that loads faster on large portfolios. A new Workflow filter was added to task lists so operators can quickly find automation-created tasks without scrolling.
+
+- **Q1 2025:** Offline error messages for assignee were fixed, which resolved a common source of mobile-app confusion where the app appeared sluggish but was actually waiting for a sync that had failed silently.
+
+If a particular slowness pattern matters a lot to your team, mention it to your customer success manager with specific dates, times, and affected screens. Customer feedback is how these performance improvements get prioritized.
+
+## Filing a Good Support Ticket
+
+### What helps support move fast
+
+Support teams can act on reproducible scenarios. A ticket that says "Breezeway is slow" gets a generic reply. A ticket that says "Filter by Tag 'Oceanfront' plus Subdepartment 'Deep Clean' returns 0 results on the Scheduling page even though I have 14 matching tasks, reproduced on Chrome and Safari on April 21" gets diagnosed quickly.
+
+When you email support@breezeway.io, include the exact screen where the slowness happens, the action or filter that triggers it, your device and browser, the approximate time of day, and whether the issue is reproducible or intermittent. A screen recording helps a lot. The more specific your report, the faster their team can diagnose.
+
+## Checking Whether It's Platform-Wide
+
+Breezeway does not publish a public status dashboard as of April 2026. The practical substitute is cross-checking with other operators in your network. If two or three other PMs running Breezeway on different internet and device setups see the same symptom at the same time, it is probably an infrastructure blip that will resolve shortly. If only you see it, it is device or environment.
+
+For more context on the Breezeway platform and related operator playbooks, see our [bulk edit guide](https://rapideyeinspections.com/blog/breezeway-bulk-edit/) and [templates and triggers setup guide](https://rapideyeinspections.com/blog/breezeway-templates-and-triggers/).
+
+## Sources
+
+- Breezeway. [Q4 2025 Breezeway Product Updates](https://www.breezeway.io/blog/q4-2025-breezeway-product-updates). Documented performance improvements: property schedule infinite loading, collapsed view, Workflow filter in task lists.
+ https://www.breezeway.io/blog/q4-2025-breezeway-product-updates
+
+- Breezeway. [Q1 2025 Breezeway Product Updates](https://www.breezeway.io/blog/breezewayproductupdatesq125). Offline error message fixes and related mobile improvements.
+ https://www.breezeway.io/blog/breezewayproductupdatesq125
+
+- Breezeway Help Center. [Complete Tasks in the Mobile App](https://help.breezeway.io/en/articles/8314160-complete-tasks-in-the-mobile-app). Covers Breezeway's offline sync capability for mobile task completion.
+ https://help.breezeway.io/en/articles/8314160-complete-tasks-in-the-mobile-app
+
+## Related

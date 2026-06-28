@@ -1,0 +1,59 @@
+# Florida Vacation Rental Fire Extinguisher Requirements (2026)
+
+Source: https://rapideyeinspections.com/blog/florida-vacation-rental-fire-extinguisher-requirements/
+
+_Florida requires a 2A:10B:C fire extinguisher on every floor of a licensed vacation rental per FAC 69A-43. Type, placement, inspection, and maintenance requirements._
+
+# Florida Vacation Rental Fire Extinguisher Requirements
+
+According to [Florida Administrative Code Chapter 69A-43](https://regulations.justia.com/states/florida/69/69a/chapter-69a-43/section-69a-43-018/), uniform fire safety standards apply to all transient public lodging establishments, which includes all DBPR-licensed vacation rentals. Section 69A-43.018 specifically covers one- and two-family dwellings, recreational vehicles, and mobile homes licensed as public lodging.
+
+## What the rating means
+
+The "2A:10B:C" rating tells you what types of fires the extinguisher can handle and how effective it is:
+
+A multi-purpose dry chemical (ABC) extinguisher covers all three classes. This is the standard residential extinguisher available at any hardware store for $30-60.
+
+## Placement rules
+
+According to [FAC 69A-43 (via Walton County's official FAQ)](https://www.mywaltonfl.gov/FAQ.aspx?QID=263), the extinguisher must be:
+
+- **One per floor/level** of the living unit
+
+- **Wall-mounted** in an open common area, or in an enclosed space with visible markings showing the location
+
+- **Within 40 feet of travel distance** from any point on that floor
+
+- **Unobstructed** and accessible (not behind locked doors, inside cabinets, or blocked by furniture)
+
+## Inspection and maintenance
+
+According to NFPA 10 (Standard for Portable Fire Extinguishers), fire extinguishers must be inspected and maintained on a regular schedule. In Florida, licensed fire equipment dealers are required to perform this service per [FAC Chapter 69A-21](https://www.myfloridacfo.com/docs-sf/state-fire-marshal-libraries/sfm-documents/bfp/florida-fire-prevention-code/69a-21.pdf).
+
+- **Annual professional inspection** by a licensed dealer, documented with an inspection tag
+
+- **6-year maintenance** (internal exam and recharge)
+
+- **12-year hydrostatic test** or replacement
+
+At most properties, the simplest approach is to replace extinguishers every 6 years rather than paying for maintenance on a $40 unit.
+
+## What your team should check every turnover
+
+- Extinguisher present on each floor, in its designated location
+
+- Pressure gauge is in the green zone (not in red/recharge)
+
+- Safety pin and tamper seal are intact (not discharged by a guest)
+
+- Annual inspection tag is current
+
+- No visible corrosion, dents, or damage to the unit
+
+Guests occasionally discharge extinguishers (sometimes playfully, sometimes to deal with a cooking fire they don't report). A missing tamper seal or a gauge in the red zone means the unit was used and needs immediate replacement before the next guest checks in.
+
+### Sources
+
+[Walton County FAQ: Fire Safety Standards for Vacation Rentals](https://www.mywaltonfl.gov/FAQ.aspx?QID=263) (citing FAC 69A-43, verified April 2026)https://www.mywaltonfl.gov/FAQ.aspx?QID=263
+
+[FAC 69A-43.018 via Justia](https://regulations.justia.com/states/florida/69/69a/chapter-69a-43/section-69a-43-018/)https://regulations.justia.com/states/florida/69/69a/chapter-69a-43/section-69a-43-018/

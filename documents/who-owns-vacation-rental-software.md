@@ -1,0 +1,164 @@
+# Who Owns Your Vacation Rental Software? The 2026 Ownership Map
+
+Source: https://rapideyeinspections.com/blog/who-owns-vacation-rental-software/
+
+_A verified map of who owns the vacation rental software industry. One private company, Inhabit, owns Streamline, LiveRez, VRM, iTrip and more. Hostaway, Guesty, Breezeway, AirDNA and Vacasa, sourced and dated._
+
+# Who actually owns your vacation rental software?
+
+The tools you log into every day look like a field of independent companies. Underneath, the vacation rental tech stack is far more consolidated than it appears. Here is the sourced, dated map of who owns what.
+
+A single privately held company, **Inhabit** (formerly Inhabit IQ), owns at least nine of the vacation rental software brands operators use to run their business: **Streamline, LiveRez, Virtual Resort Manager, LMPM, SuperControl, Bluetent, iTrip, RentalGuardian, and Lynnbrook Group**. Inhabit is backed by Blackstone, Goldman Sachs, Insight Partners, PSG, and Greater Sum Ventures. It is not alone. A second firm, Blue Star Innovation Partners, holds Track and Hostfully. Most of the remaining large platforms (Hostaway, Guesty, Breezeway, PriceLabs) are still founder-run but have taken nine-figure or strategic investments from firms like General Atlantic, KKR, and Resurgens.
+
+### Inhabit
+
+Backed by **Blackstone**, **Goldman Sachs**, **Insight Partners**, **PSG**, and **Greater Sum Ventures**. Built as a rollup starting 2018–2019; Blackstone joined the cap table via a preferred-equity investment in December 2024.
+
+Inhabit also owns multifamily/residential software (including ResMan), which sits outside the vacation rental category. Brands above are confirmed on Inhabit's own solutions directory.
+
+### Blue Star Innovation Partners
+
+A private equity firm headquartered at the Dallas Cowboys' complex. Holds two vacation rental platforms.
+
+### Alpine Investors
+
+Owns AirDNA through its **predictis** platform (acquired March 2022). AirDNA in turn bought Arrivalist.
+
+### Lighthouse
+
+Acquired STR data company **Transparent** in March 2022, then rebranded the parent from OTA Insight to Lighthouse in November 2023.
+
+### Deckard Technologies
+
+Acquired short-term rental analytics provider **AllTheRooms** in August 2025.
+
+### Casago
+
+Took **Vacasa**, once the largest US vacation rental manager, private off the Nasdaq in 2025. Proptech firm Roofstock invested and became a partner in Casago.
+
+## 01The invisible giant: Inhabit
+
+If you manage vacation rentals in North America, there is a strong chance the company behind your software is one you have never heard of. **Inhabit**, a Knoxville, Tennessee holding company originally built by the investment firm **Greater Sum Ventures (GSV)**, has quietly assembled most of a category. The rollup began around 2018–2019 under the banner "Vacation Brands," which combined with a sister residential platform to form Inhabit IQ in September 2019, later shortened to simply Inhabit.
+
+According to Inhabit's own solutions directory, its vacation rental portfolio includes the property management systems **Streamline, LiveRez, Virtual Resort Manager, LMPM, and SuperControl**; the marketing-and-direct-booking brand **Bluetent** (and its Rezfusion product); the management franchise **iTrip**; the damage-protection product **RentalGuardian**; and the payments business **Lynnbrook Group**. LMPM was the most recent addition, joining in March 2023; according to that announcement, it slotted in "alongside" Streamline, LiveRez, VRM, and SuperControl.
+
+The capital behind Inhabit reads like a who's who of institutional finance. According to Inhabit's December 2024 announcement, **Blackstone** made a preferred-equity investment through its Tactical Opportunities arm, joining **Greater Sum Ventures, Goldman Sachs, Insight Partners, and PSG** as shareholders. Goldman Sachs had first invested back in December 2020. In other words, five major investment firms sit behind a single company that controls a meaningful slice of the PMS market.
+
+## 02The second cluster: Blue Star Innovation Partners
+
+Inhabit is the largest holder, but it is not the only one running this play. **Blue Star Innovation Partners**, a private equity firm based at the Dallas Cowboys' headquarters in Frisco, Texas, has built a smaller vacation rental cluster of its own. According to PhocusWire and VRM Intel, Blue Star acquired a **majority stake in TravelNet Solutions** (the maker of the Track PMS) in July 2022. In September 2025, the firm added a significant investment in **Hostfully**, another property management platform, with founder-CEO Margot Schmorak staying on to run the business.
+
+## 03Investment is not the same as ownership
+
+It would be easy to read this map and conclude that private equity now owns the entire industry. That is not quite right, and the distinction matters. There is a real difference between a firm that *acquires* a company and one that takes a *minority growth investment* while the founders keep control. Several of the largest platforms fall squarely in the second bucket.
+
+- **Hostaway** minority raised a $365 million strategic growth investment led by **General Atlantic** in December 2024, with PSG Equity also participating. According to General Atlantic, both are "significant minority shareholders." PSG had led an earlier $175 million round in 2023.
+
+- **Guesty** minority raised a $130 million Series F led by **KKR** in April 2024, with Apax Funds, Inovia Capital, BDT & MSD Partners, and Sixth Street participating. Guesty remains independent and has itself acquired companies like Rentals United.
+
+- **Breezeway** minority announced a strategic growth investment from **Resurgens Technology Partners** in March 2026 to accelerate its AI roadmap and international expansion. Founder Jeremiah Gall continues to lead the company, which supports operations for more than 265,000 properties.
+
+- **PriceLabs** minority took a $30 million minority growth investment from **Summit Partners** in July 2022, remaining founder-led.
+
+- **Lodgify** minority raised a $30 million Series B led by **Octopus Ventures** in November 2022.
+
+And a few notable platforms have taken no outside capital at all. **OwnerRez** independent, a widely used PMS and channel manager, has been bootstrapped with no outside funding. Independence is still a feature some operators actively shop for.
+
+## 04The data layer consolidated first
+
+The market-data companies that operators and journalists cite for occupancy and pricing benchmarks went through their own wave of consolidation, mostly in 2022. **AirDNA** was acquired by the private equity firm **Alpine Investors** in March 2022 (terms undisclosed) and now sits within Alpine's predictis platform. **Transparent**, the STR data company, was acquired by **OTA Insight** in March 2022; OTA Insight rebranded itself as **Lighthouse** in November 2023. And in August 2025, **AllTheRooms** was acquired by the compliance-data firm **Deckard Technologies**. When you read an STR market statistic, there is a good chance the source sits inside one of these three structures. Not all of it consolidated: **Key Data**, a newer benchmarking provider, raised a $5 million Series B led by Ballast Point Ventures in 2022 and remains founder-led.
+
+## 05The operators are consolidating too
+
+Software is not the only layer collapsing into fewer hands. On the management side, **Vacasa**, once the largest vacation rental manager in the United States and a public company, was taken private by the franchise operator **Casago** in a deal that closed in 2025; Vacasa's stock stopped trading on the Nasdaq, and proptech firm Roofstock invested to become a partner in Casago. In Europe, the picture rhymes: **[Awaze](https://www.platinumequity.com/our-company/awaze/)** has been owned by **Platinum Equity** since a 2018 carve-out from Wyndham, and **[Sykes Holiday Cottages](https://www.vitruvianpartners.com/investment/sykes-holiday-cottages/)** (now Forge Holiday Group) has been majority-owned by **Vitruvian Partners** since 2019. We cover the manager side in depth in our [largest STR management companies](https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/) analysis.
+
+## 06The full map, in one table
+
+Here is every relationship above in a single reference, with the control type and the year of the most recent ownership event. Superscripts map to the sourced citations at the bottom of the page.
+
+| Software / brand | Category | Who controls it | Backed by | Latest event |
+| --- | --- | --- | --- | --- |
+| Streamline | PMS | Owned | Inhabit | Rollup '18–'19 1,2 |
+| LiveRez | PMS | Owned | Inhabit | Acquired by GSV '19 1,2 |
+| Virtual Resort Manager | PMS | Owned | Inhabit | Rollup '18–'19 1,2 |
+| LMPM | PMS | Owned | Inhabit | Joined Mar '23 1,3 |
+| SuperControl | PMS (UK) | Owned | Inhabit | Inhabit brand 1 |
+| Bluetent / Rezfusion | Marketing | Owned | Inhabit | Rollup '18–'19 1,2 |
+| iTrip | Franchise | Owned | Inhabit | Inhabit brand 1,2 |
+| RentalGuardian | Damage protection | Owned | Inhabit | Rollup '18–'19 1,2 |
+| Lynnbrook Group | Payments | Owned | Inhabit | Inhabit brand 1 |
+| Track / TravelNet | PMS | Majority | Blue Star Innovation Partners | Majority stake Jul '22 4 |
+| Hostfully | PMS | Minority | Blue Star Innovation Partners | Invested Sep '25 5 |
+| Hostaway | PMS | Minority | General Atlantic, PSG Equity | $365M, Dec '24 6 |
+| Guesty | PMS | Minority | KKR (+ Apax, Sixth Street) | $130M Series F, Apr '24 7 |
+| Breezeway | Operations | Minority | Resurgens Technology Partners | Growth investment, Mar '26 8 |
+| PriceLabs | Pricing | Minority | Summit Partners | $30M, Jul '22 9 |
+| Lodgify | PMS | Minority | Octopus Ventures | $30M Series B, Nov '22 10 |
+| Key Data | Data | Minority | Ballast Point Ventures | $5M Series B, Jul '22 11 |
+| OwnerRez | PMS | Independent | Bootstrapped | No outside funding 12 |
+| AirDNA | Data | Owned | Alpine Investors (predictis) | Acquired Mar '22 13 |
+| Transparent | Data | Owned | Lighthouse (ex-OTA Insight) | Acquired Mar '22 14 |
+| AllTheRooms | Data | Owned | Deckard Technologies | Acquired Aug '25 15 |
+| Vacasa | PM operator | Owned | Casago (+ Roofstock) | Taken private '25 16 |
+
+Control types: **Owned** = a parent holds the company. **Majority** = a parent holds a controlling stake. **Minority** = founders retain control after an outside investment. **Independent** = no outside capital. Years reflect the most recent confirmed ownership event, not necessarily the founding or first investment.
+
+## 07Why this matters if you run properties
+
+None of this is a warning. Consolidation can be good for operators: better-capitalized vendors ship faster, integrate more, and survive downturns. But it is worth knowing, for three practical reasons. First, "switching vendors" sometimes means switching to a different brand owned by the same parent, which changes the leverage in a renewal conversation. Second, when two tools you rely on share an owner, an integration roadmap can move faster, or a product can get deprioritized, based on portfolio strategy rather than your needs. Third, knowing who is actually behind a tool tells you something about its incentives and its runway.
+
+The one layer that has stayed genuinely fragmented is the work itself: the turnovers, the inspections, the photo documentation that proves a property's condition. That is the part of the operation no holding company has rolled up, because it still happens property by property. It is also where [RapidEye](https://rapideyeinspections.com) focuses: AI that reviews turnover photos against a baseline to catch damage before the next guest checks in, regardless of which PMS sits above it.
+
+### Cite this page
+
+Writing about vacation rental industry consolidation? This map is free to reference. Suggested citation:
+
+### Related verified research
+
+- [Who owns AirDNA?](https://rapideyeinspections.com/blog/who-owns-airdna/)
+
+- [What happened to Transparent?](https://rapideyeinspections.com/blog/what-happened-to-transparent-short-term-rental/)
+
+- [Did Deckard acquire AllTheRooms?](https://rapideyeinspections.com/blog/did-deckard-acquire-alltherooms/)
+
+- [Largest STR management companies](https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/)
+
+- [The PMS generational shift](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/)
+
+- [Industry concentration analysis](https://rapideyeinspections.com/blog/vacation-rental-industry-concentration-analysis/)
+
+### Sources
+
+- [Inhabit Solutions directory](https://inhabit.com/solutions/) – Inhabit (lists Streamline, LiveRez, VRM, SuperControl, LMPM, Bluetent, iTrip, RentalGuardian, Lynnbrook Group)https://inhabit.com/solutions/
+
+- [GSV Initiates Technology Rollup in the Vacation Rental Industry (LiveRez, Streamline, VRM, Bluetent and more)](https://vrmintel.com/gsv-initiates-large-technology-rollup-in-the-vacation-rental-industry-including-liverez-streamline-vrm-bluetent-and-more/) – VRM Intelhttps://vrmintel.com/gsv-initiates-large-technology-rollup-in-the-vacation-rental-industry-including-liverez-streamline-vrm-bluetent-and-more/
+
+- [LMPM Joins Inhabit's Suite of Vacation Rental Management Solutions](https://www.globenewswire.com/news-release/2023/03/03/2620498/0/en/LMPM-Joins-Inhabit-s-Suite-of-Vacation-Rental-Management-Solutions.html) – GlobeNewswire, March 3, 2023https://www.globenewswire.com/news-release/2023/03/03/2620498/0/en/LMPM-Joins-Inhabit-s-Suite-of-Vacation-Rental-Management-Solutions.html
+
+- [Blue Star Acquires Majority Stake in Rentals Software Provider TravelNet Solutions](https://www.phocuswire.com/blue-star-acquires-majority-stake-in-rentals-software-provider-travelnet-solutions) – PhocusWire, July 2022https://www.phocuswire.com/blue-star-acquires-majority-stake-in-rentals-software-provider-travelnet-solutions
+
+- [A Huge Hostfully Announcement: Investment from Blue Star Innovation Partners](https://www.hostfully.com/blog/investment-from-blue-star-innovation-partners/) – Hostfully, September 16, 2025https://www.hostfully.com/blog/investment-from-blue-star-innovation-partners/
+
+- [Hostaway Announces $365 Million Strategic Growth Investment Led by General Atlantic](https://www.generalatlantic.com/media-article/hostaway-announces-365-million-strategic-growth-investment-led-by-general-atlantic/) – General Atlantic, December 17, 2024https://www.generalatlantic.com/media-article/hostaway-announces-365-million-strategic-growth-investment-led-by-general-atlantic/
+
+- [Guesty Raises $130M to Accelerate Global Expansion](https://www.prnewswire.com/news-releases/guesty-raises-130m-to-accelerate-global-expansion-302112918.html) – PR Newswire, April 10, 2024https://www.prnewswire.com/news-releases/guesty-raises-130m-to-accelerate-global-expansion-302112918.html
+
+- [Breezeway Announces Strategic Growth Investment from Resurgens](https://resurgenstech.com/news/breezeway-announces-strategic-growth-investment-from-resurgens-to-accelerate-ai-innovation-and-global-expansion/) – Resurgens Technology Partners, March 3, 2026https://resurgenstech.com/news/breezeway-announces-strategic-growth-investment-from-resurgens-to-accelerate-ai-innovation-and-global-expansion/
+
+- [PriceLabs Announces $30 Million Investment from Summit Partners](https://www.summitpartners.com/news/pricelabs-announces-30-million-investment-from-summit-partners) – Summit Partners, July 28, 2022https://www.summitpartners.com/news/pricelabs-announces-30-million-investment-from-summit-partners
+
+- [Vacation Rental SaaS Lodgify Raises $30M in Series B Funding](https://www.globenewswire.com/news-release/2022/11/04/2548930/0/en/Vacation-Rental-SaaS-Lodgify-Raises-30M-in-Series-B-Funding-to-Ramp-Up-Global-Growth.html) – GlobeNewswire, November 4, 2022https://www.globenewswire.com/news-release/2022/11/04/2548930/0/en/Vacation-Rental-SaaS-Lodgify-Raises-30M-in-Series-B-Funding-to-Ramp-Up-Global-Growth.html
+
+- [Key Data Secures Additional $5M in Funding (Series B led by Ballast Point Ventures)](https://www.prweb.com/releases/2022/7/prweb18814687.htm) – PRWeb, July 28, 2022https://www.prweb.com/releases/2022/7/prweb18814687.htm
+
+- [OwnerRez – Company Profile (listed as unfunded / bootstrapped)](https://www.crunchbase.com/organization/ownerrez) – Crunchbasehttps://www.crunchbase.com/organization/ownerrez
+
+- [AirDNA Announces Acquisition Partnership with Alpine Investors](https://www.prnewswire.com/news-releases/airdna-announces-acquisition-partnership-with-alpine-investors-301501733.html) – PR Newswire, March 14, 2022https://www.prnewswire.com/news-releases/airdna-announces-acquisition-partnership-with-alpine-investors-301501733.html
+
+- [OTA Insight Buys Transparent to Offer Both Hotel and Vacation Rental Data](https://skift.com/2022/03/10/ota-insight-buys-transparent-to-offer-both-hotel-and-vacation-rental-data/) – Skift, March 10, 2022https://skift.com/2022/03/10/ota-insight-buys-transparent-to-offer-both-hotel-and-vacation-rental-data/
+
+- [Deckard Technologies Enters New Growth Phase with AllTheRooms Acquisition](https://www.businesswire.com/news/home/20250807086049/en/) – Business Wire, August 7, 2025https://www.businesswire.com/news/home/20250807086049/en/
+
+- [Casago Completes Acquisition of Vacasa](https://www.vacasa.com/news/casago-completes-vacasa-acquisition) – Vacasa, 2025https://www.vacasa.com/news/casago-completes-vacasa-acquisition
+
+Last verified: June 14, 2026. Ownership and investment relationships change; figures and stakes reflect the most recent disclosures we could confirm against primary or reputable-trade sources as of this date. Several investments listed as "minority" leave founders in operational control; deal terms are undisclosed except where a dollar figure is stated. Inhabit's full portfolio extends beyond vacation rentals into multifamily and residential software.

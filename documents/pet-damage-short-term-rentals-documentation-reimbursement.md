@@ -1,0 +1,145 @@
+# Pet Damage in Short-Term Rentals: How to Document, Prove, and Actually Get Reimbursed
+
+Source: https://rapideyeinspections.com/blog/pet-damage-short-term-rentals-documentation-reimbursement/
+
+_Learn exactly how to document pet damage in your STR, why claims get denied, and the step-by-step process to get reimbursed through Airbnb, Vrbo, or insurance._
+
+# Pet Damage in Short-Term Rentals: How to Document, Prove, and Actually Get Reimbursed
+
+Allowing pets in your short-term rental is almost always the right business decision. [Pet-friendly properties see about 24% higher RevPAR](https://www.keydatadashboard.com/es-es/blog/are-pet-friendly-vacation-rentals-taking-over) than properties that don’t allow pets, with higher occupancy and ADR across the board. Only about 22-27% of STRs allow pets, so you’re competing in a smaller pool with more demand.
+
+But here’s the thing. Pet damage claims are notoriously hard to win. Scratches on hardwood, urine stains that only show under blacklight, odors that linger for weeks. Proving this stuff happened during a specific guest’s stay is genuinely difficult. I’ve talked to property managers who’ve given up on filing pet damage claims entirely because they keep getting denied.
+
+This post breaks down exactly what you need to do differently.
+
+## The Real Cost of Pet Damage
+
+Pet damage isn’t cheap, and it’s often more expensive than people expect.
+
+| Damage Type | Typical Cost Range |
+| --- | --- |
+| Hardwood scratch repair | [$25-$100 per scratch](https://homeguide.com/costs/hardwood-floor-repair-cost) |
+| Hardwood refinishing | [$1,107-$2,680](https://www.homeadvisor.com/cost/flooring/refinish-wood-flooring) |
+| Carpet replacement | [$780-$2,813](https://www.angi.com/articles/carpet-installation-cost-and-advantages.htm) |
+| Pet odor removal (per room) | [$100-$200](https://www.fixr.com/costs/pet-odor-removal-service) |
+| Flea treatment | [$270 average](https://www.forbes.com/home-improvement/pest-control/flea-exterminator-cost/) |
+
+One STR insurance provider, Proper Insurance, shared an example claim where guests with a pet caused nearly [$10,000 in damages](https://www.proper.insure/coverages/pet-and-animal-liability/). That’s not typical, but it happens.
+
+## Visible vs. Hidden Damage
+
+Pet damage falls into two categories, and they require different documentation approaches.
+
+### Visible Damage
+
+- Scratches on hardwood floors, doors, or trim
+
+- Torn or chewed furniture
+
+- Stains on carpet or upholstery
+
+- Broken items (knocked over lamps, damaged blinds)
+
+This is the easier category. You can photograph it, compare it to previous photos, and show exactly what changed.
+
+### Hidden Damage
+
+- Urine that soaked into carpet padding or subfloor
+
+- Odors that persist after cleaning
+
+- Flea infestations
+
+- Stains only visible under UV/blacklight
+
+Hidden damage is where claims fall apart. [Urine shows as pale yellow under a blacklight](https://www.arcamax.com/homeandleisure/pets/catsanddogs/s-348912), but you need to document it properly. And here’s a frustrating reality: many insurance products explicitly exclude pet odor remediation and flea treatment. [Safely’s damage coverage](https://hello.safely.com/support-center/safely-damage-coverage-faqs-1), for example, covers physical damage from pets but not odor remediation or flea infestations.
+
+## Why Pet Damage Claims Get Denied
+
+Both Airbnb and Vrbo deny pet damage claims for predictable reasons. Understanding these helps you avoid them.
+
+**1. “Normal wear and tear”**
+
+[Airbnb explicitly excludes wear and tear](https://www.airbnb.com/help/article/279/) from AirCover. A few light scratches on a 5-year-old hardwood floor? They might call that normal use. You need to show the damage is beyond what’s expected.
+
+**2. Missed deadlines**
+
+Both platforms give you [14 days after checkout](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) to file a claim. Miss that window and you’re out of luck. Airbnb also wants you to file before your next guest checks in when possible.
+
+**3. Insufficient documentation**
+
+This is the big one. [Airbnb’s terms require](https://www.airbnb.com/help/article/2869) photos, videos, an inventory of damaged items with make/model/condition, detailed repair estimates, and receipts. Vrbo wants photos shared through their messaging system. A single photo of a scratch isn’t enough.
+
+**4. No baseline to compare against**
+
+If you can’t prove what the property looked like before the guest arrived, it becomes your word against theirs. Guests dispute charges. Platforms side with whoever has better evidence.
+
+## The Documentation Protocol That Works
+
+Here’s what actually holds up when you file a claim.
+
+### Before Every Stay
+
+- **Capture baseline photos of high-risk areas**: hardwood floors, carpet, furniture, doors, window treatments. Date and timestamp everything.
+
+- **Document the condition after cleaning but before check-in**. This is your “before” evidence.
+
+- **If you allow pets, photograph pet-specific areas**: any beds, bowls, or designated pet spaces you provide.
+
+### After Every Stay
+
+- **Inspect and photograph within hours of checkout**. The sooner the better.
+
+- **Compare against your baseline**. Look for new scratches, stains, damage.
+
+- **For hidden damage**: Do a blacklight sweep for urine. Check for odors. Document with video if possible.
+
+- **Get repair estimates immediately**. Don’t wait until after you file.
+
+### When Filing
+
+- **File within 14 days**. Earlier is better.
+
+- **Include side-by-side comparisons**. Before photo, after photo, same angle.
+
+- **Itemize everything**: what’s damaged, make/model if applicable, when you acquired it, condition before, cost to repair or replace.
+
+- **Attach professional estimates**. Platforms take contractor quotes more seriously than your own calculations.
+
+## Platform-Specific Requirements
+
+### Airbnb
+
+[AirCover includes pet damage protection](https://www.airbnb.com/resources/hosting-homes/a/how-aircover-for-hosts-works-469) and covers extra cleaning for pet accidents. File through the Resolution Center. The guest has 24 hours to respond before Airbnb Support can review.
+
+One important note: [pet fees on Airbnb are meant for expected cleaning](https://www.airbnb.com/help/article/3623), not damage. For unexpected damage, you go through AirCover.
+
+### Vrbo
+
+Vrbo’s system works differently. You can require a damage deposit or have guests purchase [Property Damage Protection through Generali](https://help.vrbo.com/articles/What-is-Damage-Protection) (coverage from $1,500 to $5,000). [Most damage deposit claims process immediately](https://help.vrbo.com/articles/How-do-I-file-a-damage-deposit-claim) with funds deposited in 3-7 business days. Vrbo says they’ll cover valid claims up to your deposit maximum even if they can’t collect from the guest.
+
+## A Note on Service Animals
+
+This trips people up. Both [Airbnb](https://www.airbnb.com/help/article/3052/welcoming-guests-with-accessibility-needs) and [Vrbo](https://www.vrbo.com/tlp/trust-and-safety/service-animal-policy) require you to accommodate service animals regardless of your pet policy. You cannot charge pet fees or deposits for service animals. If a service animal causes damage, you can still file a claim, but you need to be careful about how you handle the situation.
+
+## How RapidEye Helps
+
+The hardest part of pet damage claims is proving the damage wasn’t there before. That requires consistent baseline documentation across every property, every stay. At scale, that’s impossible to do manually.
+
+RapidEye automatically compares inspection photos against previous records to detect new damage. Scratches, stains, broken items, missing items. The system flags changes so you catch them immediately and have timestamped evidence ready for claims.
+
+We’re not going to catch odors or flea infestations. That’s a different problem. But for visible damage like scratched floors, stained carpets, or damaged furniture, having an automated baseline comparison means you actually have the evidence you need when a claim gets disputed.
+
+## The Bottom Line
+
+Pet-friendly policies make financial sense. The revenue upside is real. But you have to treat pet damage documentation as a system, not something you figure out after damage happens.
+
+- Capture baselines before every stay
+
+- Inspect and compare immediately after checkout
+
+- File within 14 days with itemized evidence and professional estimates
+
+- Use before/after comparisons that make the damage undeniable
+
+Do this consistently and you’ll actually win the claims that matter.

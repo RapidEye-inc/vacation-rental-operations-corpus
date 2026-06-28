@@ -1,0 +1,83 @@
+How to Give Your Accountant Access to Breezeway Data (2026)
+
+Source: https://rapideyeinspections.com/blog/breezeway-accountant-access-invoices/
+
+_Breezeway is built as an operations platform and routes financial data outward to QuickBooks via its Accountable integration, where real finance roles exist. Here is the intended architecture for accounting teams plus two fallback options for smaller portfolios._
+
+How to Give Your Accountant Access to Breezeway Data
+
+Breezeway is built as an operations platform and cleanly separates operations from accounting by routing financial data outward to QuickBooks through its Accountable integration. That is the intended architecture for accounting teams. Here is how it works, plus two simpler fallback paths for smaller portfolios.
+
+Breezeway's design for accounting teams is to route financial data outward to QuickBooks, not to add finance-specific roles inside the platform. The primary path is the Breezeway Accountable integration: task-level expenses sync from Breezeway to Accountable to QuickBooks in real time, and your accountant works in QuickBooks where proper finance roles and reporting already exist.
+
+For smaller portfolios or one-off audits, an Administrator can also export payment and invoice reports from Breezeway directly and share them with your accountant on a regular cadence. Both paths are covered below. Most teams above 100 properties end up using the Accountable integration because it eliminates the manual step.
+
+First, Which Financial Data Does Your Accountant Need?
+
+Breezeway touches three different financial streams. Each goes to a different place, and matching the right stream to the right workflow makes the setup much simpler.
+
+Breezeway subscription bills
+
+What Breezeway charges you for the platform each month. Subscription fees, add-ons like Breezeway Assist, per-property line items.
+
+Vendor payout invoices
+
+What you pay OUT to cleaners, inspectors, and maintenance techs through Breezeway Payments. Stripe-powered. Every task-to-pay record.
+
+Owner-facing invoices
+
+What you bill property owners for work completed at their properties. Line items from tasks flow through to owner statements.
+
+For a team with an accountant or bookkeeper doing real reconciliation work, the stream that matters most is usually Stream 2 (vendor payouts) plus Stream 3 (owner-facing invoices). Both of those flow cleanly through the Accountable integration described below.
+
+The Primary Path: Accountable + QuickBooks
+
+Breezeway designed the accounting team experience around its Accountable integration (https://www.breezeway.io/connect-accountable-with-breezeway-breezeway-integrations). It is the intended architecture, not a workaround. The flow is:
+
+- A team member uses an Accountable-connected card for a business expense (supplies, vendor payment).
+
+- They receive a text with a link to categorize the charge, attach a receipt, and select the Breezeway task and property.
+
+- The charge auto-matches to that Breezeway task and syncs in real time to Breezeway, QuickBooks, and owner statements.
+
+- Your accountant works in QuickBooks, where they already have proper roles, audit trails, and reconciliation tools.
+
+This is the architecturally correct path. Breezeway handles operations. QuickBooks handles accounting. Accountable is the bridge. Your accountant never needs direct Breezeway access because everything they need is in QuickBooks, with the property and task context intact. For teams above 100 properties with active accounting workflows, this is the setup that scales.
+
+Setup is handled through your Breezeway customer success manager. Contact them to begin Accountable onboarding; both accounts are provisioned and linked on the Breezeway side.
+
+Simpler Fallbacks for Smaller Portfolios
+
+Administrator exports reports on a regular cadence
+
+Breezeway Payments includes detailed reporting on vendor payouts, payment status, and transaction history. The Administrator can export these reports from the dashboard and share them with the accounting team via email or shared drive on a weekly or monthly cadence. This works well for portfolios under 50 properties or teams that only reconcile monthly.
+
+For ad-hoc audits or end-of-quarter reconciliation, an Administrator export is often the fastest path. Pick the reporting period you need, export to CSV, share it. Simple.
+
+Use the Office role for ops-adjacent visibility
+
+The Office role in Breezeway has read-only access across the platform and can create tasks, issues, and comments. For bookkeepers who need operational context (which task, which property, which worker) but not the full Administrator surface, the Office role is often enough when paired with Accountable-pushed data in QuickBooks.
+
+Per Breezeway's Invite Your Team help article (https://help.breezeway.io/en/articles/8224900-invite-your-team), Office users can see data across the platform without edit permissions. For accounting teams that primarily work in QuickBooks but occasionally need to cross-reference operational context, this is a useful supplementary access level.
+
+For Larger Portfolios
+
+Once you are running 200-plus properties with a dedicated accounting team, the Accountable + QuickBooks setup is worth investing in upfront. The real win is not just visibility; it is the property- and task-level context that flows through automatically. Your accountant stops asking "what was this charge for?" because the answer is already attached in Accountable.
+
+Your Breezeway customer success manager can walk you through the onboarding process, pricing, and card provisioning for your team. For the broader Breezeway operator playbook at scale, see our guide on bulk operations in Breezeway (https://rapideyeinspections.com/blog/breezeway-bulk-edit/).
+
+Sources
+
+- Breezeway. Connect Accountable with Breezeway (https://www.breezeway.io/connect-accountable-with-breezeway-breezeway-integrations). Primary source for the Accountable integration architecture, data flow from cards through to Breezeway tasks and QuickBooks, and the setup path through Breezeway customer success.
+ https://www.breezeway.io/connect-accountable-with-breezeway-breezeway-integrations
+
+- Breezeway. Get to know Accountable (https://www.breezeway.io/blog/get-to-know-accountable). Partnership context and how Accountable fits into Breezeway's accounting team architecture.
+ https://www.breezeway.io/blog/get-to-know-accountable
+
+- Breezeway Help Center. Invite your Team (https://help.breezeway.io/en/articles/8224900-invite-your-team). Five-role permission model and the read-only scope of the Office role.
+ https://help.breezeway.io/en/articles/8224900-invite-your-team
+
+- Breezeway. Breezeway Payments product page (https://www.breezeway.io/payments). Stripe-powered payout architecture and reporting dashboard.
+ https://www.breezeway.io/payments
+
+Related

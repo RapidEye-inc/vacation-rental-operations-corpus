@@ -1,0 +1,37 @@
+What Checkout Time Should Vacation Rentals Use?
+
+Source: https://rapideyeinspections.com/blog/what-checkout-time-vacation-rental/
+
+_11am is the standard vacation rental checkout time. Airbnb defaults to 11am if no time is set. Earlier checkouts (10am) give more turnover buffer but risk lower guest satisfaction._
+
+What Checkout Time Should Vacation Rentals Use?
+
+The tradeoff
+
+According to Rental Recon (https://www.rentalrecon.com/host-advice-and-ideas/what-is-a-typical-airbnb-check-out-time/), most hosts choose a checkout time of 11am or later. If no time is specified, Airbnb assumes 11am. For weekday guests, a 10am checkout is often acceptable since they tend to be up early. Weekend guests generally prefer the later time.
+
+| Checkout Time | Turnover Window (3pm check-in) | Best For |
+| --- | --- | --- |
+| 10:00 AM | 5 hours | Large properties (3BR+), back-to-back bookings, properties far from cleaner base |
+| 11:00 AM | 4 hours | Most properties, standard turnovers, guest-friendly default |
+| 12:00 PM | 3 hours | Small units (studio/1BR) with fast turnovers, low-season flexibility |
+
+Why it matters for operations
+
+The checkout time directly determines your turnover window. With a 3pm or 4pm check-in and an 11am checkout, your cleaning team has 4 to 5 hours. For a 2-bedroom property that takes 3.5 to 4.5 hours to clean (according to CleanBnB (https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/)), that is cutting it close on a same-day turnover.
+
+A 10am checkout buys you an extra hour, which can be the difference between a comfortable turnover and a scramble. According to iGMS (https://www.igms.com/vacation-rental-check-out-instructions/), clear checkout instructions with specific departure times reduce late checkouts and the cascading delays they cause.
+
+Late checkouts
+
+Some operators offer paid late checkouts (12pm or 1pm) as an upsell when there is no same-day arrival. This generates incremental revenue without operational risk. When there is a same-day turnover, late checkout is not an option, and having a firm, clearly communicated time is critical.
+
+Related
+
+Sources
+
+- Rental Recon. What Is a Typical Airbnb Check Out Time? (https://www.rentalrecon.com/host-advice-and-ideas/what-is-a-typical-airbnb-check-out-time/)
+
+- CleanBnB. How Long Should It Take an Airbnb Cleaner to Clean? (https://getcleanbnb.com/blog/how-long-should-it-take-an-airbnb-cleaner-to-clean/)
+
+- iGMS. What to Include in Vacation Rental Check Out Instructions (https://www.igms.com/vacation-rental-check-out-instructions/)

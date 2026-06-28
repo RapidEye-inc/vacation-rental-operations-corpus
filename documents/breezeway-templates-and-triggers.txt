@@ -1,0 +1,192 @@
+Breezeway Templates and Triggers: The Complete Setup Guide (2026)
+
+Source: https://rapideyeinspections.com/blog/breezeway-templates-and-triggers/
+
+_How Breezeway templates, Automated Workflows, and triggers actually work. Covers the mental model (template vs workflow), the 60-day scheduling window, Draft vs Commit mode, dynamic scheduling behavior, the critical Checkout vs Checkout (turn) distinction, and the common setup mistakes operators make._
+
+Breezeway Templates and Triggers: The Complete Setup Guide
+
+The mental model behind Breezeway templates and Automated Workflows, plus the specific traps (Checkout vs Checkout turn, Draft vs Commit, dynamic scheduling, Elements categorization) that operators run into when they scale. Written for the ops lead who just inherited a messy Breezeway setup and needs to understand what is doing what.
+
+Breezeway separates the "what" from the "when." A template defines what work needs to happen (checklist items, required photos, time estimate, pay rate, Subdepartment). An Automated Workflow is a rule that tells Breezeway when to apply that template to which reservations. Workflows are reservation-triggered (check-in, checkout, turn) and can schedule tasks up to 60 days before or after the event.
+
+Most setup failures come from four specific misunderstandings: confusing Checkout with Checkout (turn), leaving workflows in Draft mode when you meant Commit, not understanding how dynamic scheduling handles reservation changes, and expecting recurring indefinite tasks (quarterly, annual) to work like reservation triggers. This guide walks through each one.
+
+The Mental Model: Template vs Workflow vs Trigger
+
+Before you build anything, get the three concepts straight. They are often referred to interchangeably in conversation but they are distinct objects in Breezeway.
+
+A template is reused across many workflows. A workflow can fire multiple templates. The relationship is many-to-many. If you find yourself building one workflow per template, you are probably building too many workflows. Consolidate.
+
+Setting Up Your First Template
+
+According to Breezeway's checklist documentation (https://help.breezeway.io/en/articles/8258488-customize-your-checklists), templates can be based on a Housekeeping or Inspection checklist and are fully customizable. The build process is more involved than the UI suggests, because the decisions you make in the template propagate to every task it generates.
+
+- Choose the template type (Housekeeping or Inspection)
+Housekeeping templates are for cleaning tasks. Inspection templates are for walkthrough tasks where the completion criterion is verification, not physical work. Both support photos, checklist items, and notes. Pick the one that matches the task's intent. You can layer an Inspection template after a Housekeeping template in the same workflow.
+
+Choose the template type (Housekeeping or Inspection)
+
+Housekeeping templates are for cleaning tasks. Inspection templates are for walkthrough tasks where the completion criterion is verification, not physical work. Both support photos, checklist items, and notes. Pick the one that matches the task's intent. You can layer an Inspection template after a Housekeeping template in the same workflow.
+
+- Build the checklist items
+Each item can be a required completion, an optional note, or a photo requirement. Photo requirements are the ones that matter most for damage detection and post-turnover review at scale (https://rapideyeinspections.com/blog/how-to-review-turnover-photos-at-scale/). Err on the side of more required photos rather than fewer: the incremental cost to the cleaner is small and the downstream value is large.
+
+Build the checklist items
+
+Each item can be a required completion, an optional note, or a photo requirement. Photo requirements are the ones that matter most for damage detection and post-turnover review at scale (https://rapideyeinspections.com/blog/how-to-review-turnover-photos-at-scale/). Err on the side of more required photos rather than fewer: the incremental cost to the cleaner is small and the downstream value is large.
+
+- Set the Subdepartment
+Subdepartments tie templates to specific teams. A template with Subdepartment "Deep Clean Crew" will only assign to workers in that Subdepartment by default. Per Breezeway's Subdepartments documentation (https://help.breezeway.io/en/articles/7939205-subdepartments), when you schedule a template the Subdepartment is automatically added, which keeps assignment routing clean.
+
+Set the Subdepartment
+
+Subdepartments tie templates to specific teams. A template with Subdepartment "Deep Clean Crew" will only assign to workers in that Subdepartment by default. Per Breezeway's Subdepartments documentation (https://help.breezeway.io/en/articles/7939205-subdepartments), when you schedule a template the Subdepartment is automatically added, which keeps assignment routing clean.
+
+- Configure time estimate and pay structure
+Time estimates drive scheduling gaps between back-to-back work. Pay structure can be Piece (per-task) or Hourly. Getting pay wrong here means every future task generated from this template also has the wrong pay. This is one of the values that cannot be bulk-edited in the UI (https://rapideyeinspections.com/blog/breezeway-bulk-edit/) and requires a CSV via Breezeway support to fix across many templates.
+
+Configure time estimate and pay structure
+
+Time estimates drive scheduling gaps between back-to-back work. Pay structure can be Piece (per-task) or Hourly. Getting pay wrong here means every future task generated from this template also has the wrong pay. This is one of the values that cannot be bulk-edited in the UI (https://rapideyeinspections.com/blog/breezeway-bulk-edit/) and requires a CSV via Breezeway support to fix across many templates.
+
+- Assign default workers at the template level (optional)
+You can set default cleaners, inspectors, or maintenance workers at the template level. When the Automated Workflow has "Assign Tasks to Default Workers" enabled, those workers get auto-assigned. This is the cleanest way to handle consistent worker routing.
+
+Assign default workers at the template level (optional)
+
+You can set default cleaners, inspectors, or maintenance workers at the template level. When the Automated Workflow has "Assign Tasks to Default Workers" enabled, those workers get auto-assigned. This is the cleanest way to handle consistent worker routing.
+
+Building an Automated Workflow
+
+Automated Workflows live on the Scheduling page. Per Breezeway's Automated Workflows documentation (https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows), they are the layer that connects reservation events to templates. The workflow has four major configuration sections:
+
+1. Scheduling Days Ahead
+
+Setting: Scheduling Days Ahead
+
+Controls how far forward Breezeway looks for reservation events each day. A 30 setting means the scheduler looks 30 days out and creates tasks for any matching reservation it finds in that window.
+
+Trap: If you set this to 7 days and a guest books a reservation 45 days out, no task will be scheduled for their stay until the reservation is within the 7-day window. Most operators at scale set this to 30 or 60 days.
+
+2. Draft vs Commit Mode
+
+Setting: Schedule Mode (Draft or Commit)
+
+Draft mode: Tasks appear on the schedule but workers receive no assignment notifications until you manually commit them. Good for reviewing a new workflow before it fires live.
+
+Commit mode: Tasks are created and workers are notified immediately. The normal production mode.
+
+Trap: Operators sometimes build a new workflow in Draft mode to test it, then forget to flip it to Commit. The tasks show up in the schedule, cleaners never receive them, and the property is unclean on check-in day.
+
+3. Conditions (Filtering)
+
+Setting: Filter the workflow to specific reservations
+
+Three filter categories. All are optional; no filter means the workflow applies to everything.
+
+Guest Type: "Guest Reservations," "Host Reservations," or both. Owner stays are typically filtered out of the main housekeeping workflow with their own separate rule.
+
+Stay Length: Filter by reservation duration. Common setup: "1-2 nights" triggers a quick-turn template, "3-7 nights" the standard, "8-plus" a deep template.
+
+Properties: "All Properties," specific Groups, or Tags. Multi-select is supported. This is how you route different templates to different property tiers (standard vs luxury, city vs mountain, etc.).
+
+4. Schedule These Tasks
+
+Setting: Event type, timing, and templates
+
+Event Type: Checkout, Check-in, Checkout (turn), or Check-in (turn).
+
+Timing: Same day through 60 days before or after the event. You can trigger a pre-arrival walkthrough 3 days before check-in, or a post-stay deep inspection 7 days after checkout.
+
+Templates: Select one or more from the dropdown. Multiple templates on a single event mean they all fire (a Housekeeping + an Inspection together, for example).
+
+Building for Checkout but forgetting Checkout (turn)
+
+Breezeway distinguishes standard Checkouts (where there is a gap before the next arrival) from Checkout (turn) events (same-day turnovers where a guest checks out and another checks in the same day). They are separate event types.
+
+If your workflow fires on Checkout but not Checkout (turn), every same-day turnover in your portfolio will not get the template applied. The task never generates, the cleaner never shows up, the incoming guest checks into a dirty property. Worse, dynamic scheduling will actively cancel your already-scheduled cleanings when the next guest syncs in.
+
+Rule of thumb: for every housekeeping workflow, build a parallel rule for the (turn) variant. Or combine them into a single workflow that matches both event types. For a walkthrough of the cancellation symptom specifically, see Why Does Breezeway Cancel My Cleaning Between Same-Day Guests? (https://rapideyeinspections.com/blog/breezeway-cancels-cleaning-same-day-turnover/).
+
+Dynamic Scheduling: What Happens When Reservations Change
+
+One of the least-documented parts of Breezeway's Automated Workflows is what happens when a reservation shifts mid-cycle. Per Breezeway's help center, dynamic scheduling handles four scenarios automatically when enabled:
+
+| Reservation change | What Breezeway does |
+| --- | --- |
+| Extension (guest stays longer) | Removes the original checkout workflow; adds a turn workflow if the new dates align with another reservation. Assignees keep their tasks where possible. |
+| Shortening (guest leaves early) | Adjusts due dates forward; preserves existing assignees. Already-committed task changes trigger automatic notifications to the worker. |
+| Cancellation | Removes the workflow entirely. If the task was already committed, the assignee gets alerted that it is canceled. |
+| New reservation inside an existing window | Reschedules tasks based on the reservation event that is found. Admins and Supervisors with "Reservation Update" notifications enabled get alerted. |
+
+The trap here is that dynamic scheduling is an opt-in toggle. If it is off, a reservation change does not update the existing tasks. You end up with a cleaner scheduled for Tuesday when the guest actually extended through Wednesday, or a task still on the schedule for a canceled booking. For operators running more than 50 properties, dynamic scheduling should almost always be on.
+
+Common Setup Mistakes at Scale
+
+Based on published reviews from operators at 100-plus property portfolios, these are the mistakes that surface repeatedly.
+
+Too many near-duplicate templates
+
+Operators at 300+ units often accumulate 40 or more templates as they onboard new property tiers, markets, and owner preferences. Most of them are near-duplicates that differ by one or two checklist items or a different default worker.
+
+Fix: consolidate to 8 to 15 well-defined templates. Use Subdepartments and Property Tags to route within a smaller template count. Template sprawl makes every downstream problem worse, especially bulk editing.
+
+Auto-assign enabled with messy default worker data
+
+The "Assign Tasks to Default Workers" toggle only works well if default worker assignments are clean across properties. If 30 percent of your properties have no default cleaner set, the auto-assign toggle silently drops those tasks into the unassigned pool.
+
+Fix: audit default workers via the Default Workers page (https://help.breezeway.io/en/articles/8510786-add-default-workers-to-each-property) before enabling the toggle. For portfolios above 100 units, ask Breezeway support for the Default People CSV upload template to fix assignments in bulk.
+
+Expecting a Breezeway trigger for "every 90 days"
+
+There is no native recurring-indefinite trigger. Workflows only fire on reservation events. Operators who need quarterly deep cleans or annual HVAC service often set up a recurring workflow with the "same day" or "1 day before" check-in timing, which fires when a guest arrives, not on a calendar schedule.
+
+Fix: for truly calendar-based recurring work, use Property Tags to mark homes due for service and run a scheduled review. Or layer a calendar reminder outside Breezeway. Do not try to fake recurring with reservation triggers.
+
+Not accounting for Elements auto-categorization
+
+Breezeway's Elements feature (appliances, fixtures, furniture with attached photos and model numbers) auto-categorizes new additions. Operators at scale report items falling into "Interior" when they want "Mechanical," or vice versa. Once miscategorized, reporting by category gets noisy.
+
+Fix: audit Elements after any onboarding batch. Manually recategorize before the data gets tangled. There is currently no bulk recategorization path.
+
+Task chains that don't exist
+
+There is no native "when this task closes, trigger this next task" feature. Operators want chains like: mattress cleaned by vendor → housekeeping to remake bed. Breezeway's workflows trigger on reservation events, not on other task events.
+
+Fix: the practical workaround is to schedule both tasks on the same workflow with different time offsets (mattress at 9 AM, bed remake at 11 AM) and accept that if the first task runs late, the second still starts on schedule. The cleaner way to do this is with a PMS-side automation that fires a new Breezeway task via API when the first completes, but that requires custom integration work.
+
+What Templates Do Not Do (And What Fills the Gap)
+
+Templates are the engine for work assignment. They do not review the work that gets done. Every photo a cleaner uploads through a template sits in Breezeway waiting for a human to look at it, and at mid-market scale most of those photos never get reviewed. A 200-unit portfolio running two turnovers per property per week at 30 photos per turnover generates 12,000 photos a week. No ops team reviews 12,000 photos a week.
+
+This is the companion layer RapidEye fills for Breezeway users. RapidEye plugs directly into Breezeway (https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/), analyzing the turnover photos your templates already collect and flagging damage, missing items, and cleanliness failures against a learned per-property baseline (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/). No template change required. No cleaner workflow change. The photos your templates are already collecting start getting analyzed instead of piling up.
+
+See RapidEye running on your Breezeway photos
+
+Book a 15-minute demo. We run the analysis on your actual turnover photos from Breezeway and show you what your team missed.
+
+Sources
+
+- Breezeway Help Center. Adjust your Automated Workflows (https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows). Primary source for Scheduling Days Ahead (up to 60 days), Draft vs Commit mode, Assign Tasks to Default Workers toggle, dynamic scheduling, Conditions (Guest Type, Stay Length, Properties by Group/Tag), and event types (Checkout, Check-in, Checkout turn, Check-in turn).
+ https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows
+
+- Breezeway Help Center. Guide - Multiple Templates (https://help.breezeway.io/en/articles/8399444-guide-multiple-templates). Primary source for template assignment, single-template-per-property rule, Default Template fallback, and template deletion behavior.
+ https://help.breezeway.io/en/articles/8399444-guide-multiple-templates
+
+- Breezeway Help Center. Customize your Checklists (https://help.breezeway.io/en/articles/8258488-customize-your-checklists). Template types (Housekeeping, Inspection), customization options, photo requirements.
+ https://help.breezeway.io/en/articles/8258488-customize-your-checklists
+
+- Breezeway Help Center. Subdepartments (https://help.breezeway.io/en/articles/7939205-subdepartments). How Subdepartments associate with templates and auto-add on scheduling.
+ https://help.breezeway.io/en/articles/7939205-subdepartments
+
+- Breezeway Help Center. Add Default Workers to each Property (https://help.breezeway.io/en/articles/8510786-add-default-workers-to-each-property). Default worker assignment at property level and template level.
+ https://help.breezeway.io/en/articles/8510786-add-default-workers-to-each-property
+
+- Breezeway Help Center. Release Notes November 2025 (https://help.breezeway.io/en/articles/12732899-release-notes-november-2025). Expanded workflow filters, 60-day before/after trigger window (up from 5 days), multi-select Group, Building, and Tag filters.
+ https://help.breezeway.io/en/articles/12732899-release-notes-november-2025
+
+- Capterra. Breezeway Reviews (https://www.capterra.com/p/186514/Breezeway/). Reviewer quotes from Jennifer S., Nichole C., Mitchell H., covering template setup difficulty, recurring task gap, and Elements auto-categorization.
+ https://www.capterra.com/p/186514/Breezeway/
+
+Related

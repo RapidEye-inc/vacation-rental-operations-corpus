@@ -1,0 +1,78 @@
+# Virginia Vacation Rental Management Companies: The 2026 Market in Numbers
+
+Source: https://rapideyeinspections.com/blog/virginia-vacation-rental-landscape/
+
+_We mapped 52 Virginia vacation rental management companies from the VRMA directory: the largest operators, top-5 concentration (80%), dominant software, and what the data means. Primary-source figures, cleaned._
+
+# Virginia Vacation Rental Management Companies: The 2026 Market in Numbers
+
+We pulled every Virginia member of the national vacation rental managers’ association and ranked the market by the numbers: how many companies, who manages the most units, how concentrated it is, and what software runs it.
+
+**Virginia is home to 52 VRMA-member vacation rental management companies**, of which 29 disclosed a unit count totaling 5,026 managed units. The market is best described as a concentrated, operator-led market.
+
+The largest reporting operator is **Towne Vacations** at roughly 2,800 units. The top five reporting operators control about 80 percent of all units disclosed, the most common property management system among members is HomeAway / Escapia (legacy), and the median member company was founded around 2006.
+
+## 01Virginia at a glance
+
+VRMA member companies headquartered in Virginia, March 2026.
+
+## 02The largest operators
+
+Ranked by self-reported units managed. Figures are disclosed by the operators themselves.
+
+| # | Operator | Units (self-reported) |
+| --- | --- | --- |
+| 1 | Towne VacationsNorfolk | 2,800 |
+| 2 | Siebert RealtyVirginia Beach | 377 |
+| 3 | Atkinson RealtyVirginia Beach | 350 |
+| 4 | Sandbridge Realty, Inc.Virginia Beach | 331 |
+| 5 | Coastal Shore Vacations - Captain's CoveGreenbackville | 185 |
+| 6 | Tesseract Rentals LLCNorfolk | 180 |
+| 7 | CORTChantilly | 175 |
+| 8 | Sanctuary Realty at SandbridgeVirginia Beach | 115 |
+| 9 | Sandbridge Life Realty GroupVirginia Beach | 75 |
+| 10 | Beach Pros Realty Inc.Virginia Beach | 70 |
+
+## 03How concentrated is the market?
+
+The five largest reporting operators control about **80 percent** of every unit disclosed by Virginia members. That is unusually concentrated, the mark of a resort-anchored market.
+
+## 04What software runs the market
+
+Most-named property management systems among Virginia members.
+
+According to the VRMA directory, the unit-heavy incumbents in Virginia still lean on Streamline and legacy HomeAway/Escapia systems, the same generational pattern we documented across the whole industry in [the PMS market analysis](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/).
+
+## 05What the data says
+
+According to the VRMA public member directory (compiled March 2026), Virginia has 52 member vacation rental management companies, of which 29 disclosed a unit count totaling 5,026 managed units. The largest reporting operator is Towne Vacations at roughly 2,800 units, and the top five reporting operators hold about 80 percent of disclosed units, making Virginia unusually concentrated for its size.
+
+Most Virginia members are small independents rather than large portfolio operators; the median member company was founded around 2006. Among members that named a property management system, HomeAway / Escapia (legacy) is the most common, consistent with the broader industry pattern in which Streamline and legacy HomeAway and Escapia systems still run most unit-heavy incumbents.
+
+## 06Compare other states
+
+Figures come from RapidEye's analysis of the **VRMA (Vacation Rental Management Association) public member directory**, compiled March 2026. Counts cover companies that list a Virginia headquarters. Unit counts are **self-reported**; only 29 of 52 Virginia members disclosed one, so the 5,026-unit total is a floor, not a census of every short-term rental in the state.
+
+We de-duplicated companies that appear under multiple brand spellings (keeping the higher figure) and excluded entries whose self-reported totals reflect national franchise networks, timeshare or HOA portfolios, or brands since acquired and folded into a national operator. Virginia required only standard de-duplication; no national-franchise, timeshare, or HOA totals needed to be removed.
+
+## 07Sources
+
+- VRMA (Vacation Rental Management Association) — Public Member Directory, compiled March 2026 (primary data set).https://www.vrma.org/search/newsearch.asp
+
+- RapidEye — The Largest Short-Term Rental Management Companies (2026).https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/
+
+- RapidEye — The Vacation Rental PMS Market Just Flipped: 40 Years in One Chart.https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/
+
+## 08Frequently asked
+
+### How many vacation rental management companies are in Virginia?
+
+According to the VRMA public member directory compiled in March 2026, Virginia has 52 member vacation rental management companies. Of those, 29 disclosed a unit count, together reporting 5,026 managed units.
+
+### Who is the largest vacation rental management company in Virginia?
+
+Based on self-reported figures in the VRMA directory, the largest reporting operator in Virginia is Towne Vacations with approximately 2,800 units. The five largest reporting operators together account for about 80 percent of all units disclosed by Virginia members.
+
+### What property management software do Virginia vacation rental companies use?
+
+Among Virginia members that named a property management system, HomeAway / Escapia (legacy) is the most common, consistent with the broader pattern in which Streamline and legacy HomeAway/Escapia systems still run most unit-heavy incumbents.

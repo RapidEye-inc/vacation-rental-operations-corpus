@@ -1,0 +1,77 @@
+Why We Built RapidEye: A Rental Property Problem We Couldn't Ignore
+
+Source: https://rapideyeinspections.com/blog/why-we-built-rapideye-rental-property-problem/
+
+_The origin story of RapidEye - how a family rental property headache and a chance meeting at CMU led two founders to build AI-powered damage detection._
+
+Why We Built RapidEye: A Rental Property Problem We Couldn't Ignore
+
+I get asked pretty often how RapidEye started. The short answer: Rohan’s dad owns rental property, and the inspection process was a mess.
+
+The longer answer is more interesting.
+
+The Problem That Started Everything
+
+Rohan’s dad has been managing rental properties for years. A few years back, he had a tenant move out and leave behind damage that wasn’t caught during the walkthrough. We’re talking scratches on hardwood, stains on carpet, a crack in the countertop that somehow got missed. By the time anyone noticed, the security deposit was already returned and there was no documentation to support a claim.
+
+This wasn’t a one-time thing. It kept happening. The inspections were rushed, inconsistent, and relied entirely on whoever was doing the walkthrough that day. Sometimes things got photographed, sometimes they didn’t. There was no baseline to compare against, so proving that damage was new became nearly impossible.
+
+That experience stuck with Rohan. When he started thinking about what to build, he kept coming back to it.
+
+How We Met
+
+I met Rohan at a Swartz Center for Entrepreneurship (https://www.cmu.edu/swartz-center-for-entrepreneurship/) bootcamp at CMU in Fall 2025. At the time, I was working on something completely different. I’d been trying to automate video editing using vision-language models and agentic scaffolding. I loved video as a medium but absolutely hated the manual editing process. So I was building tools to make that faster.
+
+I actually tried to recruit Rohan for that project. He said no.
+
+Instead, he pitched me on his idea: using computer vision to automatically detect damage in rental properties by comparing inspection footage over time. He’d been thinking about it for a while, and his background in computer vision from Rivian meant he actually knew how to build the core tech.
+
+I thought about it for a few days. The more I dug in, the more I realized this was a real problem with a clear market. Property managers are dealing with turnover costs around $4,000 per unit (https://www.multifamilydive.com/news/turnover-costs-4000-apartment-multifamily/696298/). Operating expenses keep climbing. And now California is rolling out new regulations requiring photographic evidence (https://www.sf.gov/reports--security-deposits) when landlords withhold security deposits for repairs. The timing felt right.
+
+So I joined him.
+
+Why Founder-Market Fit Matters
+
+There’s this Paul Graham essay that basically says the best startup ideas come from problems founders have themselves (https://www.paulgraham.com/startupideas.html). He writes that you should “look for problems, preferably problems you have yourself.”
+
+Rohan lived this problem through his family. That’s not something you can fake.
+
+This pattern shows up a lot in successful proptech companies. Vacasa started because the founder couldn’t find a good property manager (https://www.vacasa.com/about-us) for his family’s vacation home. Guesty came from founders who rented their own properties on Airbnb (https://en.wikipedia.org/wiki/Guesty) and got frustrated with guest management. The personal connection creates urgency that’s hard to manufacture.
+
+There’s also research showing (https://www.nature.com/articles/s41598-023-41980-y) that founder characteristics and team composition genuinely correlate with startup outcomes. Having direct experience in the industry you’re building for isn’t just a nice story. It’s predictive.
+
+What We Bring to This
+
+Rohan handles the backend and spatial AI. He’s getting his Masters in AI Engineering at CMU and currently works as a Computer Vision & Robotics Automation Engineer at Rivian. Before that, he was at Lucid Motors, GM, and Western Digital. He has four patents and a publication in IEEE. When it comes to building the core detection system that compares property conditions over time, he knows what he’s doing.
+
+I handle frontend, VLM integration, and sales. My background is in Business Administration and Human-Computer Interaction at CMU with an AI concentration. Before RapidEye, I worked at two YC startups: ValueMate (X25) on product and growth, and Anara (S24) on content. That VLM work I mentioned earlier taught me a lot about the limitations and possibilities of these models, which carried directly into how we architect RapidEye’s analysis pipeline.
+
+CMU is ranked #1 in AI (https://www.cmu.edu/news/stories/archives/2025/september/carnegie-mellon-named-a-top-20-us-university) by U.S. News, and the Swartz Center ecosystem has produced over $1 billion in follow-on funding (https://www.cmu.edu/swartz-center-for-entrepreneurship/mentorship-and-learning/project-olympus/index.html) for startups that came through Project Olympus. Being here gives us access to resources and mentorship that would be hard to find anywhere else.
+
+The complementary skill sets matter. Rohan can build the computer vision system. I can make it usable and get it in front of customers. Neither of us could do this alone.
+
+What RapidEye Actually Does
+
+The product uses computer vision and spatial AI to:
+
+- Create a baseline visual record of each property
+
+- Compare new inspection footage against that baseline
+
+- Automatically detect changes like scratches, stains, or missing items
+
+- Generate timestamped, itemized damage reports
+
+It works with video or existing photos, so property managers don’t need to change their workflow. We integrate with tools like Breezeway that they’re already using.
+
+The value is straightforward. Manual inspections miss things. Our system catches the roughly 1% of stays that result in damage, which averages around $13k when it happens. And when you do need to file a claim or dispute a chargeback, having timestamped visual evidence makes a huge difference.
+
+Where We’re Headed
+
+We’re deployed on thousands of properties, working with property management companies across the US and internationally. The goal is to become the default damage detection layer for property operations.
+
+The regulatory environment is moving in our direction. California’s new photo documentation requirements for security deposit deductions take effect in 2025. That’s just one state, but the trend is clear: landlords need better evidence, and manual processes won’t cut it.
+
+That’s the story. A family rental property problem, a chance meeting at a CMU bootcamp, and two people with the right skills to actually build a solution.
+
+If you’re a property manager dealing with inconsistent inspections or damage that slips through the cracks, reach out. We’d love to show you what we’ve built.

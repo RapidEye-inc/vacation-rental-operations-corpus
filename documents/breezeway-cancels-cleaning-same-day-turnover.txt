@@ -1,0 +1,79 @@
+Why Does Breezeway Cancel My Cleaning Between Same-Day Guests? (2026)
+
+Source: https://rapideyeinspections.com/blog/breezeway-cancels-cleaning-same-day-turnover/
+
+_Breezeway keeps sending cleaning cancellation notifications on your back-to-back turnovers even though the guests are different people. Here is the exact mechanism (dynamic scheduling + Checkout turn events) and the two-minute fix._
+
+Why Does Breezeway Cancel My Cleaning Between Same-Day Guests?
+
+You built a Checkout workflow, it applied to your reservations, and then Breezeway starts sending cancellation notifications on your same-day turnovers even though the incoming guest is a completely different person. Here is exactly what is happening and the two-minute fix.
+
+Breezeway is not confused about the guests. It is doing what dynamic scheduling tells it to do. When a new reservation syncs in from your PMS with a check-in date equal to the current guest's checkout date, Breezeway's Extension handler removes the Checkout workflow and adds a Turn workflow in its place. If you only built a Checkout workflow rule and not a Checkout (turn) rule, the Turn workflow has no template behind it, so the cancellation fires and no replacement task gets scheduled. You see the cancellation, never see the replacement, and assume Breezeway is broken.
+
+The fix is to build a Checkout (turn) workflow that mirrors your Checkout rule, or combine both event types into a single rule. Either way takes under five minutes.
+
+What Is Actually Happening
+
+Breezeway's Automated Workflow engine treats four event types as distinct: Checkout, Check-in, Checkout (turn), and Check-in (turn). A "turn" event fires only when a guest checks out on the same day another guest checks in. Per Breezeway's Automated Workflows help article (https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows), these events are tracked separately and you typically need separate workflow rules for each.
+
+On top of that, Breezeway has a dynamic scheduling layer that adjusts tasks automatically when reservations change. Its documented Extension behavior, per the same help article, is explicit: "Remove checkout workflow; add turn workflow." That is the line of logic that triggers your cancellation notification.
+
+So the sequence on a typical same-day turnover is:
+
+- First guest checks in. Breezeway applies your Checkout workflow for their checkout day. The cleaner gets the task.
+
+- A new reservation syncs in from your PMS with a check-in date equal to the first guest's checkout date.
+
+- Dynamic scheduling detects the adjacency and fires the Extension handler.
+
+- Breezeway removes the original Checkout workflow. You get the cancellation notification.
+
+- Breezeway tries to add a Turn workflow in its place. With no configured Checkout (turn) template, nothing gets scheduled. Silent gap.
+
+The guests' names are irrelevant to this logic. Breezeway is pattern-matching on reservation date adjacency, not on guest identity. This is why you see the same problem every time regardless of which guests are involved.
+
+The Two-Minute Fix
+
+You have two options. Both prevent the cancellations going forward. Pick whichever fits your templating setup.
+
+Build a parallel Checkout (turn) workflow
+
+Go to Settings → Scheduling. Duplicate your existing Checkout workflow rule. On the copy, change the Event Type from Checkout to Checkout (turn). Leave everything else identical (same template, same filters, same timing). Save.
+
+Every same-day turnover now has its cleaning template applied by the Turn rule. Use this option if you might eventually want a different template for turns (for example a faster quick-turn template versus a longer standard checkout template).
+
+Combine both events in one workflow
+
+Open your existing Checkout workflow. In the "Schedule These Tasks" section, add a second event: Checkout (turn). Assign the same template to the second event. Save.
+
+Single rule now covers both standard checkouts and same-day turnovers. Use this option if you want the exact same template behavior on both event types. Lighter-weight than Option 1 because you only maintain one workflow.
+
+If You Are Still Seeing Cancellations After the Fix
+
+Three other edge cases can produce the same symptom. Check these in order:
+
+- Your Checkout workflow has a filter that excludes the incoming guest. Common example: your rule filters by Stay Length "2 or more nights," and the incoming turn guest has a one-night stay. The new Turn workflow fires but gets filtered out. Check the Stay Length and Guest Type filters on both your Checkout and Checkout (turn) rules.
+
+- The new workflow is in Draft mode. Draft mode creates tasks on the schedule without notifying workers. If you just built the Checkout (turn) rule and left the schedule mode as Draft, the cleaner task is there but silent. Flip it to Commit.
+
+- Your PMS is not syncing the turn reservation reliably. Some PMS integrations delay turn reservation syncs, which can cause the Extension handler to fire before the full data arrives. Check your PMS sync log and verify the reservation is actually in Breezeway at the time the cancellation happens.
+
+If none of those apply, email support@breezeway.io with the specific reservation IDs and dates. Their team can trace the auto-scheduler log and tell you exactly which rule fired and why.
+
+Why This Is Not a Bug
+
+The Extension handler in dynamic scheduling solves a real problem: when a guest actually does extend their stay, the checkout task scheduled for Tuesday needs to move to Wednesday without the operator having to manually reschedule. Without the handler, you would have ghost tasks cluttering the schedule and sending false notifications to cleaners every time a reservation shifts.
+
+The cost of the feature is the edge case this page covers. When a PMS sync creates a data pattern that looks like an extension (adjacent dates, same property) but is actually two separate reservations, the Extension handler fires and removes a task that should have stayed. The fix lives on the operator side: configure both Checkout and Checkout (turn) rules, and the system handles the rest.
+
+For the full mental model of how templates, workflows, and triggers connect in Breezeway, including the four event types and the full dynamic scheduling table, see the Breezeway Templates and Triggers complete setup guide (https://rapideyeinspections.com/blog/breezeway-templates-and-triggers/).
+
+Sources
+
+- Breezeway Help Center. Adjust your Automated Workflows (https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows). Primary source for the four event types (Checkout, Check-in, Checkout turn, Check-in turn), dynamic scheduling behavior, and the explicit Extension handler rule: "Remove checkout workflow; add turn workflow."
+ https://help.breezeway.io/en/articles/8224895-adjust-your-automated-workflows
+
+- Breezeway Help Center. Guide - Multiple Templates (https://help.breezeway.io/en/articles/8399444-guide-multiple-templates). Template-to-property assignment and default fallback behavior.
+ https://help.breezeway.io/en/articles/8399444-guide-multiple-templates
+
+Related

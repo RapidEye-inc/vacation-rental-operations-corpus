@@ -1,0 +1,105 @@
+How to Add AI Damage Detection to Your Breezeway Workflow
+
+Source: https://rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow/
+
+_Already using Breezeway for inspections? Learn how to automatically analyze those photos for damage without changing your current workflow or retraining staff._
+
+How to Add AI Damage Detection to Your Breezeway Workflow
+
+If you’re managing rentals with Breezeway, you already have a solid inspection workflow. Your cleaners capture photos, tasks get tracked, everything’s timestamped. But here’s what I keep hearing from property managers: those photos just sit there.
+
+You’ve got documentation. What you don’t have is someone actually looking at all of it.
+
+What Breezeway Does Really Well
+
+I’m not here to bash Breezeway. It’s genuinely good software and there’s a reason 270,000+ properties (https://www.breezeway.io/about) use it across 90 countries.
+
+The checklist and mobile app setup is solid. You can create custom checklists per property, require photo uploads for specific tasks, and your team can work offline and sync later. Staff see reference photos showing how things should look. GPS tracking confirms they were actually on site. It supports 12+ languages (https://www.breezeway.io/breezeway-pricing) so you can work with diverse cleaning crews.
+
+The Stay in London case study on Breezeway’s site shows what a well run operation looks like. They use a 100+ point inspection template (https://www.breezeway.io/resources/stay-in-london-case-study) with mandatory photos and average 108 photos per property. That level of documentation helped them hit a 100% damage claim success rate.
+
+So the photo capture infrastructure? It works. The scheduling and coordination? Great.
+
+Where Things Fall Short
+
+The problem is what happens after those photos get uploaded.
+
+Breezeway’s product pages emphasize “photo proof” and documentation. What they don’t mention is automated analysis of those images. Your cleaner snaps 50 photos of a unit. Those photos get stored. And then… nothing happens unless someone manually reviews them.
+
+One Capterra review from 2025 (https://www.capterra.com/p/186514/Breezeway/reviews/) mentioned there are “no notifications when photos are attached to tasks.” That’s the gap I’m talking about. Photos get captured but nobody’s systematically checking them for damage.
+
+When you’re managing 20, 50, 100+ units with turnovers happening constantly, you can’t realistically scroll through hundreds of photos looking for new scratches or stains. So damage slips through. You notice it three guests later and have no way to prove who caused it.
+
+How AI Damage Detection Fits In
+
+This is where RapidEye comes in, and the key thing is it doesn’t require changing your workflow.
+
+Your cleaners already take photos through Breezeway. They don’t need to learn a new app or change what they’re doing. RapidEye processes those existing photos automatically.
+
+The system works by comparing new inspection photos against a baseline record of your property. It’s looking for changes: new scratches on hardwood, stains on upholstery, broken items, missing items. Computer vision does the comparison and flags anything that looks different from last time.
+
+Breezeway has a developer API with webhooks (https://developer.breezeway.io/docs/subscribing-to-webhooks) that fire on task updates. That’s the technical connection point. When an inspection task completes and photos are attached, those images can be pulled and analyzed without any manual steps.
+
+The Actual Workflow
+
+Here’s what it looks like in practice:
+
+- Reservation ends and Breezeway auto schedules the turnover task (this part you’re already doing)
+
+- Cleaner arrives, works through the checklist, takes photos as required
+
+- Photos sync to Breezeway when task is marked complete
+
+- RapidEye pulls those photos and runs them through damage detection
+
+- If something’s flagged, you get a report with the specific issue, location, and timestamp
+
+Your cleaner’s job doesn’t change at all. They’re using the same app, same checklist, same process. The analysis happens in the background.
+
+If you want even better coverage, RapidEye can also guide inspectors through video capture in real time. But if you’re happy with your current photo based workflow, that works too.
+
+What You Actually Get
+
+The output is an itemized damage report with:
+
+- Specific damage identified (scratch, stain, crack, missing item)
+
+- Location within the property
+
+- Timestamped photos showing the damage
+
+- Comparison against baseline showing it’s new
+
+This is exactly what you need for insurance claims or guest disputes. Airbnb’s AirCover requires you to submit evidence within 14 days of checkout. Having automatically generated, timestamped documentation makes that process way easier.
+
+The Stay in London team mentioned in that Breezeway case study got to 100% claim success through meticulous documentation. AI analysis gets you there without requiring someone to manually review every photo.
+
+Why This Matters Operationally
+
+Breezeway’s 2025 State of Work Report (https://www.breezeway.io/blog/2025-state-of-work-report) surveyed 350+ hospitality professionals and found some relevant numbers:
+
+- 45.5% report last minute issues daily
+
+- 73% complete more than 50 tasks per week
+
+- 90% say they’re constantly coordinating with colleagues
+
+That’s a lot going on. Manually reviewing inspection photos for damage across your entire portfolio isn’t realistic with that workload.
+
+The same report found 67% believe AI will change their jobs in the next few years, and 61% of operators (https://www.hostaway.com/blog/2026-short-term-rental-report/) are already using AI tools. The shift is happening. The question is whether you’re using AI for damage detection or still relying on someone to catch it manually.
+
+No Workflow Disruption Is the Point
+
+I think the biggest thing here is that you don’t have to rip out what’s working. Breezeway handles scheduling, task management, and photo capture well. Keep using it for that.
+
+The gap is analysis. Your photos get captured but don’t get systematically reviewed. RapidEye fills that specific gap.
+
+Your cleaners don’t need training on a new app. Your operations workflow stays the same. You just get damage detection added on top of what you’re already doing.
+
+About 1% of stays result in damage, and when it happens the average cost is around $13k. Missing one incident because nobody reviewed the photos carefully enough can cost you more than a year of software fees.
+
+Getting Started
+
+If you want to add damage detection to your Breezeway workflow, reach out to us (https://www.rapideyeinspections.com/). We can walk through your current setup and show you what the integration looks like with your actual properties.
+
+The technical connection uses Breezeway’s existing API, so there’s no complex setup on your end. Most property managers can be up and running without changing anything about how their cleaning teams operate.

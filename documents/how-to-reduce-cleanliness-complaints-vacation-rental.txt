@@ -1,0 +1,55 @@
+How to Reduce Cleanliness Complaints in Your Vacation Rentals
+
+Source: https://rapideyeinspections.com/blog/how-to-reduce-cleanliness-complaints-vacation-rental/
+
+_You don't reduce cleanliness complaints by cleaning harder. Decompose the seven complaints guests actually file, fix the process behind each, and close the verify-the-clean loop._
+
+How to Reduce Cleanliness Complaints in Your Vacation Rentals
+
+You don't reduce cleanliness complaints by cleaning harder. You reduce them by closing the gap between "cleaned" and "verified clean." Most complaints are not about a turnover being skipped. They are about a specific category the checklist missed, or a problem nobody caught after the cleaner left.
+
+Three moves: decompose your complaints into specific categories instead of treating "cleanliness" as one thing, fix the process behind your top two or three, and review every turnover so problems are caught before the guest, not after.
+
+Cleanliness isn't a review line. It's a ranking lever.
+
+It is worth being precise about why this matters. According to Airbnb's own review system (https://www.airbnb.com/help/article/1257), cleanliness ("Did the home meet our standards?") is one of seven separate star categories guests rate after every stay. A low cleanliness score doesn't sit in its own corner. It drags your overall rating down directly.
+
+It is a discovery lever too. According to Vrbo's cleaning standards page (https://help.vrbo.com/articles/About-vacation-rental-cleaning-standards), Vrbo runs a "Highly rated for cleanliness" search filter, so a strong cleanliness rating decides whether some guests ever see your listing at all.
+
+So a cleanliness complaint is never just a complaint. It is a star category, an overall-rating hit, a search-ranking signal, and eventually a booking you didn't get. The good news: cleanliness is also the most controllable category on that list, because every complaint traces to a specific, fixable operational failure.
+
+Stop treating "cleanliness" as one thing
+
+The biggest mistake operators make is reading "the place wasn't clean" as a single problem and responding with "tell the cleaners to do better." It almost never works, because "cleanliness" is at least seven different failures wearing one label. Each has a different root cause and a different fix. Here is the decomposition.
+
+Notice the pattern. Almost none of these are solved by "scrub harder." They are solved by a checklist change, a process step, or a verification photo. Once you decompose your own complaints this way (read the last 20 reviews that mention cleanliness and tag each one), you usually find two or three categories driving most of the volume. Fix those first.
+
+The real lever: close the gap between cleaned and verified clean
+
+Every complaint above shares one thing. It reached the guest because nobody looked in the window between the cleaner finishing and the guest checking in. That gap is where cleanliness complaints are actually born.
+
+Requiring cleaners to take photos does not close this gap by itself. Photos nobody reviews are a paper trail, not quality control. The loop only closes when someone actually reviews the turnover before the guest arrives, which is exactly the workflow we cover in reviewing turnover photos at scale (https://rapideyeinspections.com/blog/how-to-review-turnover-photos-at-scale/).
+
+The metric that tells you whether the loop is working is re-clean rate: the share of turnovers caught and redone before a guest arrives. It is the best leading indicator you have, because it measures problems stopped before the guest rather than complaints counted after. Most operators target a re-clean rate under 10%, the same threshold we use for a healthy inspection pass rate (https://rapideyeinspections.com/blog/what-is-good-inspection-pass-rate-vacation-rentals/). When re-clean rate climbs for a specific cleaner or property, complaints are about to follow.
+
+At scale, make complaints measurable per cleaner
+
+One bad clean is an incident. A pattern is a process. At 100-plus units you cannot manage cleanliness on vibes, so track cleanliness complaints and re-clean rate per cleaner and per property, not just portfolio-wide. According to Hospitable's 2026 Industry Report (https://www.rentalscaleup.com/why-finding-reliable-cleaners-is-getting-harder-and-why-it-likely-wont-improve-in-2026-short-term-rental-cleaning-staff-shortages-2026/) (554 property managers surveyed), more than a third said staffing issues directly cost them bookings or negative reviews, so knowing exactly which cleaner or vendor drives your complaints is the difference between fixing the problem and guessing at it.
+
+If you run multiple cleaning companies, this is the same accountability data you use to compare and manage them, covered in managing multiple cleaning vendors (https://rapideyeinspections.com/blog/how-to-manage-cleaning-vendors-vacation-rental/). Per-cleaner complaint data turns "our cleanliness has slipped" into "this vendor's re-clean rate doubled in March," which is something you can actually act on.
+
+The gap between "cleaned" and "verified clean" is impossible to close by hand once you are running hundreds of turnovers a week. RapidEye reviews the turnover photos and video from every clean and flags missed hair, residue, staged-item errors, and damage before the guest checks in, so the catch happens inside the gap instead of in a one-star review. Start a free trial (https://rapideyeinspections.com/#contact).
+
+FAQ
+
+Related
+
+Sources
+
+- Airbnb. How star ratings work (https://www.airbnb.com/help/article/1257). Cleanliness is one of seven rated review categories ("Did the home meet our standards?").https://www.airbnb.com/help/article/1257
+
+- Vrbo. About vacation rental cleaning standards (https://help.vrbo.com/articles/About-vacation-rental-cleaning-standards). References the "Highly rated for cleanliness" search filter and high-touch surface guidance.https://help.vrbo.com/articles/About-vacation-rental-cleaning-standards
+
+- Hospitable / Rental Scale-Up. Short-Term Rental Cleaning Staff Shortages (2026 Industry Report) (https://www.rentalscaleup.com/why-finding-reliable-cleaners-is-getting-harder-and-why-it-likely-wont-improve-in-2026-short-term-rental-cleaning-staff-shortages-2026/). Survey of 554 property managers; more than a third lost bookings or got negative reviews due to staffing.https://www.rentalscaleup.com/why-finding-reliable-cleaners-is-getting-harder-and-why-it-likely-wont-improve-in-2026-short-term-rental-cleaning-staff-shortages-2026/
+
+- AirDNA (2023) and Opago, via our star-rating impact analysis (https://rapideyeinspections.com/blog/airbnb-star-rating-impact-on-bookings/). 4.9+ listings earn 18.2% more revenue; a 0.2-star drop correlates with 5 to 10% fewer page views.https://rapideyeinspections.com/blog/airbnb-star-rating-impact-on-bookings/

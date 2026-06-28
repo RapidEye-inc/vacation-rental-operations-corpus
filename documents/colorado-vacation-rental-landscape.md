@@ -1,0 +1,78 @@
+# Colorado Vacation Rental Management Companies: The 2026 Market in Numbers
+
+Source: https://rapideyeinspections.com/blog/colorado-vacation-rental-landscape/
+
+_We mapped 189 Colorado vacation rental management companies from the VRMA directory: the largest operators, top-5 concentration (65%), dominant software, and what the data means. Primary-source figures, cleaned._
+
+# Colorado Vacation Rental Management Companies: The 2026 Market in Numbers
+
+We pulled every Colorado member of the national vacation rental managers’ association and ranked the market by the numbers: how many companies, who manages the most units, how concentrated it is, and what software runs it.
+
+**Colorado is home to 189 VRMA-member vacation rental management companies**, of which 73 disclosed a unit count totaling 12,084 managed units. The market is best described as the most concentrated market of the major states, and it is all about the mountains.
+
+The largest reporting operator is **Vail Resorts** at roughly 4,000 units. The top five reporting operators control about 65 percent of all units disclosed, the most common property management system among members is Streamline, and the median member company was founded around 2011.
+
+## 01Colorado at a glance
+
+VRMA member companies headquartered in Colorado, March 2026.
+
+## 02The largest operators
+
+Ranked by self-reported units managed. Figures are disclosed by the operators themselves.
+
+| # | Operator | Units (self-reported) |
+| --- | --- | --- |
+| 1 | Vail ResortsBroomfield | 4,000 |
+| 2 | SkyRun Vacation RentalsBroomfield | 1,562 |
+| 3 | CoralTree Residence CollectionEnglewood | 1,100 |
+| 4 | Luxury Mountain RetreatsKeystone | 750 |
+| 5 | Frias Properties of AspenAspen | 500 |
+| 6 | Alpine LodgingTelluride | 450 |
+| 7 | InspiratoDenver | 350 |
+| 8 | Resort Lodging CompanySteamboat Springs | 230 |
+| 9 | Retreatia Lodging of Steamboat Springs, ColoradoSteamboat Springs | 200 |
+| 10 | StayWinterParkWinter Park | 198 |
+
+## 03How concentrated is the market?
+
+The five largest reporting operators control about **65 percent** of every unit disclosed by Colorado members. That is unusually concentrated, the mark of a resort-anchored market.
+
+## 04What software runs the market
+
+Most-named property management systems among Colorado members.
+
+According to the VRMA directory, the unit-heavy incumbents in Colorado still lean on Streamline and legacy HomeAway/Escapia systems, the same generational pattern we documented across the whole industry in [the PMS market analysis](https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/).
+
+## 05What the data says
+
+Colorado is the most concentrated of the large markets. According to the VRMA public member directory (compiled March 2026), 189 Colorado companies are members, but the top five reporting operators control about 65 percent of all units reported. The market is defined almost entirely by its ski towns: Vail, Aspen, Steamboat, Breckenridge, and Winter Park.
+
+Vail Resorts is the largest single reporting operator at roughly 4,000 units of resort lodging, followed by SkyRun Vacation Rentals, CoralTree Residence Collection, and Aspen's Frias Properties. Denver and Colorado Springs barely register by comparison. The median Colorado member was founded around 2011. The pattern is the inverse of Florida: a handful of resort-anchored operators rather than hundreds of independents.
+
+## 06Compare other states
+
+Figures come from RapidEye's analysis of the **VRMA (Vacation Rental Management Association) public member directory**, compiled March 2026. Counts cover companies that list a Colorado headquarters. Unit counts are **self-reported**; only 73 of 189 Colorado members disclosed one, so the 12,084-unit total is a floor, not a census of every short-term rental in the state.
+
+We de-duplicated companies that appear under multiple brand spellings (keeping the higher figure) and excluded entries whose self-reported totals reflect national franchise networks, timeshare or HOA portfolios, or brands since acquired and folded into a national operator. In Colorado, the only entries removed were small iTrip franchise affiliates, whose units are counted with the national franchise rather than the state.
+
+## 07Sources
+
+- VRMA (Vacation Rental Management Association) — Public Member Directory, compiled March 2026 (primary data set).https://www.vrma.org/search/newsearch.asp
+
+- RapidEye — The Largest Short-Term Rental Management Companies (2026).https://rapideyeinspections.com/blog/largest-short-term-rental-management-companies/
+
+- RapidEye — The Vacation Rental PMS Market Just Flipped: 40 Years in One Chart.https://rapideyeinspections.com/blog/vacation-rental-pms-generational-shift/
+
+## 08Frequently asked
+
+### How many vacation rental management companies are in Colorado?
+
+According to the VRMA public member directory compiled in March 2026, Colorado has 189 member vacation rental management companies. Of those, 73 disclosed a unit count, together reporting 12,084 managed units.
+
+### Who is the largest vacation rental management company in Colorado?
+
+Based on self-reported figures in the VRMA directory, the largest reporting operator in Colorado is Vail Resorts with approximately 4,000 units. The five largest reporting operators together account for about 65 percent of all units disclosed by Colorado members.
+
+### What property management software do Colorado vacation rental companies use?
+
+Among Colorado members that named a property management system, Streamline is the most common, consistent with the broader pattern in which Streamline and legacy HomeAway/Escapia systems still run most unit-heavy incumbents.
