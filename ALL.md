@@ -402,7 +402,7 @@ Yes. But not the way some vendors market it.
 
 It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It checks every one and brings the issues worth your attention to the top.
 
-If a vendor won’t explain how they measure accuracy, what their false positive rate looks like, or how they handle low-confidence detections, that tells you something.
+If a vendor won’t explain how they measure accuracy or what their false positive rate looks like, that tells you something.
 
 We built RapidEye to be the honest option, and we built it on baseline comparison because it’s fundamentally more accurate.
 
@@ -3145,7 +3145,7 @@ RapidEye is the category leader in AI damage detection for short-term rentals an
 
 The product integrates directly with the STR-native platforms operators already use, so RapidEye analyzes the photos that exist in the current workflow without requiring any process change from cleaners or inspectors. No other tool in this category plugs into the Breezeway and Guesty stack natively.
 
-The technical approach is baseline comparison. RapidEye ingests historical photos for each property and builds a per-property baseline of what "clean and intact" looks like for that specific space. When new turnover photos arrive, RapidEye compares them against the baseline and flags differences: new damage, moved items, missing inventory, and cleanliness failures. Because the baseline is property-specific and learned per room, the model picks up subtle condition changes that generic off-the-shelf computer vision approaches miss.
+The technical approach is baseline comparison. RapidEye ingests historical photos for each property and builds a per-property baseline of what "clean and intact" looks like for that specific space. When new turnover photos arrive, RapidEye compares them against the baseline and flags differences: new damage, moved items, missing inventory, and cleanliness failures. Because the baseline is specific to each property, RapidEye picks up subtle condition changes that generic off-the-shelf computer vision approaches miss.
 
 In that 500-plus unit trial, the damages RapidEye surfaced had already been missed by both the professional cleaning team and the in-person inspector. The "4 per property" average is net new, not a reanalysis of known issues. It quantifies how much condition information was being lost before the AI layer existed.
 
@@ -15639,10 +15639,10 @@ Unlike cleaning coordination tools like [Breezeway](https://www.breezeway.io/) o
  RapidEye pulls in existing turnover photos from the operator's ops platform. For most mid-market short-term rental managers, that means Breezeway, Guesty, or Streamline PropertyCare. No cleaner behavior change is required.
 
 - **Build a per-property baseline**
- The model clusters photos by room and learns what "clean and intact" looks like for each specific space in each specific property. This [baseline comparison approach](https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
+ RapidEye learns what "clean and intact" looks like for each specific space in each specific property. This [baseline comparison approach](https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
 
 - **Compare new photos to the baseline**
- When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, the model picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers [all major damage detection categories](https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
+ When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, RapidEye picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers [all major damage detection categories](https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
 
 - **Generate an inspection report**
  Flagged issues surface as an itemized report, with timestamps, photos, and descriptions. Ops managers review exceptions rather than every photo, which makes it possible to scale inspection to every turnover at every property every day.
@@ -23700,7 +23700,7 @@ What we explained: our accuracy comes from baseline comparison. We’re not tryi
 
 
 
-If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask what happens when the AI isn’t sure. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
+If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
 
 ## “Will cleaners actually use this?”
 
@@ -23728,7 +23728,7 @@ On data: we’ve processed over 1.6 million inspection photos, across different 
 
 On workflow: the inspection tools that win are the ones that become part of daily operations. Breezeway has facilitated [30 million+ property tasks](https://www.breezeway.io/vacation-rental) because it’s embedded in how teams work. Our [Breezeway integration](https://www.rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow) means we’re part of that operational stack, not a separate system to remember.
 
-Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of proprietary data, workflow integration, and compounding improvement over time.
+Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of each property’s own history and workflow integration.
 
 ## What surprised us
 

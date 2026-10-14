@@ -26,7 +26,7 @@ What we explained: our accuracy comes from baseline comparison. We’re not tryi
 
 
 
-If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask what happens when the AI isn’t sure. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
+If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
 
 ## “Will cleaners actually use this?”
 
@@ -54,7 +54,7 @@ On data: we’ve processed over 1.6 million inspection photos, across different 
 
 On workflow: the inspection tools that win are the ones that become part of daily operations. Breezeway has facilitated [30 million+ property tasks](https://www.breezeway.io/vacation-rental) because it’s embedded in how teams work. Our [Breezeway integration](https://www.rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow) means we’re part of that operational stack, not a separate system to remember.
 
-Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of proprietary data, workflow integration, and compounding improvement over time.
+Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of each property’s own history and workflow integration.
 
 ## What surprised us
 

@@ -97,7 +97,7 @@ Yes. But not the way some vendors market it.
 
 It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It checks every one and brings the issues worth your attention to the top.
 
-If a vendor won’t explain how they measure accuracy, what their false positive rate looks like, or how they handle low-confidence detections, that tells you something.
+If a vendor won’t explain how they measure accuracy or what their false positive rate looks like, that tells you something.
 
 We built RapidEye to be the honest option, and we built it on baseline comparison because it’s fundamentally more accurate.
 
