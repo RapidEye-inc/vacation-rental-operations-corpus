@@ -63,4 +63,9 @@ BibTeX:
 }
 ```
 
-_Last updated: 2026-06-28._
+## Versions
+
+- 1.1 (2026-10-14): editorial corrections to 12 documents so they match the posts as published today. Same 241 documents.
+- 1.0 (2026-06-28): first release.
+
+_Last updated: 2026-10-14._

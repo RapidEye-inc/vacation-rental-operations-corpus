@@ -20,7 +20,7 @@ That experience stuck with Rohan. When he started thinking about what to build, 
 
 How We Met
 
-I met Rohan at a Swartz Center for Entrepreneurship (https://www.cmu.edu/swartz-center-for-entrepreneurship/) bootcamp at CMU in Fall 2025. At the time, I was working on something completely different. I’d been trying to automate video editing using vision-language models and agentic scaffolding. I loved video as a medium but absolutely hated the manual editing process. So I was building tools to make that faster.
+I met Rohan at a Swartz Center for Entrepreneurship (https://www.cmu.edu/swartz-center-for-entrepreneurship/) bootcamp at CMU in Fall 2025. At the time, I was working on something completely different. I’d been trying to automate video editing with AI. I loved video as a medium but absolutely hated the manual editing process. So I was building tools to make that faster.
 
 I actually tried to recruit Rohan for that project. He said no.
 
@@ -44,7 +44,7 @@ What We Bring to This
 
 Rohan handles the backend and spatial AI. He’s getting his Masters in AI Engineering at CMU and currently works as a Computer Vision & Robotics Automation Engineer at Rivian. Before that, he was at Lucid Motors, GM, and Western Digital. He has four patents and a publication in IEEE. When it comes to building the core detection system that compares property conditions over time, he knows what he’s doing.
 
-I handle frontend, VLM integration, and sales. My background is in Business Administration and Human-Computer Interaction at CMU with an AI concentration. Before RapidEye, I worked at two YC startups: ValueMate (X25) on product and growth, and Anara (S24) on content. That VLM work I mentioned earlier taught me a lot about the limitations and possibilities of these models, which carried directly into how we architect RapidEye’s analysis pipeline.
+I handle frontend and sales. My background is in Business Administration and Human-Computer Interaction at CMU with an AI concentration. Before RapidEye, I worked at two YC startups: ValueMate (X25) on product and growth, and Anara (S24) on content.
 
 CMU is ranked #1 in AI (https://www.cmu.edu/news/stories/archives/2025/september/carnegie-mellon-named-a-top-20-us-university) by U.S. News, and the Swartz Center ecosystem has produced over $1 billion in follow-on funding (https://www.cmu.edu/swartz-center-for-entrepreneurship/mentorship-and-learning/project-olympus/index.html) for startups that came through Project Olympus. Being here gives us access to resources and mentorship that would be hard to find anywhere else.
 

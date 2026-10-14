@@ -73,17 +73,7 @@ This is how RapidEye works. We create a visual baseline of each property, then c
 
 [Paraspot mentions](https://www.paraspot.ai/california) they compare “before-and-after scans” too. But here’s the thing: claiming baseline comparison and publishing your actual precision/recall numbers are different things. Most vendors in this space don’t share methodology.
 
-## How Confidence Thresholds Work
-
-Every AI detection comes with a confidence score. The system might be 95% confident something is new damage, or 60% confident, or 30% confident.
-
-The question is: what do you do with low-confidence detections?
-
-Some systems make binary calls. Above 50% confidence? It’s damage. Below? It’s fine. This creates problems at the margins. A 51% confidence scratch gets treated the same as a 99% confidence hole in the wall.
-
-At RapidEye, we take a different approach. High-confidence issues get flagged as damage. Low-confidence issues get flagged for human review. We’re not pretending the AI is perfect. We’re using it to surface the things worth looking at.
-
-This matters because [human inspectors miss stuff too](https://www.sciencedirect.com/science/article/abs/pii/S0278612518302012). Studies in manufacturing inspection show Type II error rates (missed defects) around 30%. And that’s with fresh inspectors. [Vigilance research](https://en.wikipedia.org/wiki/Mackworth_Clock) shows detection accuracy drops significantly after about 30 minutes of monotonous visual inspection.
+[Human inspectors miss stuff too](https://www.sciencedirect.com/science/article/abs/pii/S0278612518302012). Studies in manufacturing inspection show Type II error rates (missed defects) around 30%. And that’s with fresh inspectors. [Vigilance research](https://en.wikipedia.org/wiki/Mackworth_Clock) shows detection accuracy drops significantly after about 30 minutes of monotonous visual inspection.
 
 You’ve got cleaners taking 20-100 photos per turnover, across dozens of properties per day. Nobody’s reviewing all of that carefully.
 
@@ -105,10 +95,10 @@ So does AI damage detection work?
 
 Yes. But not the way some vendors market it.
 
-It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It catches the obvious stuff automatically and flags the uncertain stuff for human review.
+It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It checks every one and brings the issues worth your attention to the top.
 
 If a vendor won’t explain how they measure accuracy, what their false positive rate looks like, or how they handle low-confidence detections, that tells you something.
 
-We built RapidEye to be the honest option. Baseline comparison because it’s fundamentally more accurate. Confidence thresholds because binary calls don’t reflect reality. Human review integration because AI and humans working together beats either alone.
+We built RapidEye to be the honest option, and we built it on baseline comparison because it’s fundamentally more accurate.
 
 If you want to see how it actually performs on your properties, we can run a trial on photos you already have in Breezeway. No workflow changes needed. Just real results you can evaluate.
