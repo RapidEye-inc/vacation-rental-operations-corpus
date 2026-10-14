@@ -378,17 +378,7 @@ This is how RapidEye works. We create a visual baseline of each property, then c
 
 [Paraspot mentions](https://www.paraspot.ai/california) they compare “before-and-after scans” too. But here’s the thing: claiming baseline comparison and publishing your actual precision/recall numbers are different things. Most vendors in this space don’t share methodology.
 
-## How Confidence Thresholds Work
-
-Every AI detection comes with a confidence score. The system might be 95% confident something is new damage, or 60% confident, or 30% confident.
-
-The question is: what do you do with low-confidence detections?
-
-Some systems make binary calls. Above 50% confidence? It’s damage. Below? It’s fine. This creates problems at the margins. A 51% confidence scratch gets treated the same as a 99% confidence hole in the wall.
-
-At RapidEye, we take a different approach. High-confidence issues get flagged as damage. Low-confidence issues get flagged for human review. We’re not pretending the AI is perfect. We’re using it to surface the things worth looking at.
-
-This matters because [human inspectors miss stuff too](https://www.sciencedirect.com/science/article/abs/pii/S0278612518302012). Studies in manufacturing inspection show Type II error rates (missed defects) around 30%. And that’s with fresh inspectors. [Vigilance research](https://en.wikipedia.org/wiki/Mackworth_Clock) shows detection accuracy drops significantly after about 30 minutes of monotonous visual inspection.
+[Human inspectors miss stuff too](https://www.sciencedirect.com/science/article/abs/pii/S0278612518302012). Studies in manufacturing inspection show Type II error rates (missed defects) around 30%. And that’s with fresh inspectors. [Vigilance research](https://en.wikipedia.org/wiki/Mackworth_Clock) shows detection accuracy drops significantly after about 30 minutes of monotonous visual inspection.
 
 You’ve got cleaners taking 20-100 photos per turnover, across dozens of properties per day. Nobody’s reviewing all of that carefully.
 
@@ -410,11 +400,11 @@ So does AI damage detection work?
 
 Yes. But not the way some vendors market it.
 
-It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It catches the obvious stuff automatically and flags the uncertain stuff for human review.
+It’s not magic that catches 100% of damage with zero false positives. It’s a tool that lets you actually review the thousands of photos your team is already taking. It checks every one and brings the issues worth your attention to the top.
 
-If a vendor won’t explain how they measure accuracy, what their false positive rate looks like, or how they handle low-confidence detections, that tells you something.
+If a vendor won’t explain how they measure accuracy or what their false positive rate looks like, that tells you something.
 
-We built RapidEye to be the honest option. Baseline comparison because it’s fundamentally more accurate. Confidence thresholds because binary calls don’t reflect reality. Human review integration because AI and humans working together beats either alone.
+We built RapidEye to be the honest option, and we built it on baseline comparison because it’s fundamentally more accurate.
 
 If you want to see how it actually performs on your properties, we can run a trial on photos you already have in Breezeway. No workflow changes needed. Just real results you can evaluate.
 
@@ -2894,9 +2884,9 @@ A hotel housekeeping and operations optimization platform used to schedule and d
 
 ## Inspection & condition (the layer most lists skip)
 
-Here is the layer the typical "best AI tools for hotels" list never reaches. Once a room is cleaned, something has to verify it is actually up to standard, undamaged, and complete, on every turnover, not just on audit day. Historically that was a supervisor spot-checking a fraction of rooms. AI inspection now reads the housekeeping and turnover photos a team already captures, checks each room against standard, and flags damage, missed cleaning, missing items, and brand-standard deviations, with a human making the final call. It is the part of the stack with the clearest line to guest review scores and to the cost of damage that ships unseen, and it is exactly where RapidEye is built to work.
+Here is the layer the typical "best AI tools for hotels" list never reaches. Once a room is cleaned, something has to verify it is actually up to standard, undamaged, and complete, on every turnover, not just on audit day. Historically that was a supervisor spot-checking a fraction of rooms. AI inspection now reads the housekeeping and turnover photos a team already captures, checks each room against standard, and flags damage, missed cleaning, missing items, and brand-standard deviations. It is the part of the stack with the clearest line to guest review scores and to the cost of damage that ships unseen, and it is exactly where RapidEye is built to work.
 
-RapidEye is AI inspection for hotels and short-term rental operators. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, and missing items, then routes each flag to a human for the final call. Because it works on the photos you already take, it adds coverage and consistency without adding a step on the floor, and it gives a brand or management group one comparable measure of room condition across every property, every day.
+RapidEye is AI inspection for hotels and short-term rental operators. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, and missing items. Because it works on the photos you already take, it adds coverage and consistency without adding a step on the floor, and it gives a brand or management group one comparable measure of room condition across every property, every day.
 
 Other names in this layer:
 
@@ -3155,7 +3145,7 @@ RapidEye is the category leader in AI damage detection for short-term rentals an
 
 The product integrates directly with the STR-native platforms operators already use, so RapidEye analyzes the photos that exist in the current workflow without requiring any process change from cleaners or inspectors. No other tool in this category plugs into the Breezeway and Guesty stack natively.
 
-The technical approach is baseline comparison. RapidEye ingests historical photos for each property, clusters them by room, and builds a per-property baseline of what "clean and intact" looks like for that specific space. When new turnover photos arrive, RapidEye compares them against the baseline and flags differences: new damage, moved items, missing inventory, and cleanliness failures. Because the baseline is property-specific and learned per room, the model picks up subtle condition changes that generic off-the-shelf computer vision approaches miss.
+The technical approach is baseline comparison. RapidEye ingests historical photos for each property and builds a per-property baseline of what "clean and intact" looks like for that specific space. When new turnover photos arrive, RapidEye compares them against the baseline and flags differences: new damage, moved items, missing inventory, and cleanliness failures. Because the baseline is specific to each property, RapidEye picks up subtle condition changes that generic off-the-shelf computer vision approaches miss.
 
 In that 500-plus unit trial, the damages RapidEye surfaced had already been missed by both the professional cleaning team and the in-person inspector. The "4 per property" average is net new, not a reanalysis of known issues. It quantifies how much condition information was being lost before the AI layer existed.
 
@@ -8593,7 +8583,7 @@ This is why AI quality control reads as augmentation, not replacement. The anony
 
 ## RapidEye is the continuous brand-standard check
 
-RapidEye is AI inspection for hotels and short-term rental operators, built to hold the physical standard in place between audits. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, missing items, and setup that is off, then routes each flag to a human for the final call. For a brand or a management group, that turns brand-standard compliance from a once-a-year score into a daily, comparable measure across every property, which is exactly the consistency a portfolio struggles to get from human spot-checks that vary by inspector and property.
+RapidEye is AI inspection for hotels and short-term rental operators, built to hold the physical standard in place between audits. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, missing items, and setup that is off. For a brand or a management group, that turns brand-standard compliance from a once-a-year score into a daily, comparable measure across every property, which is exactly the consistency a portfolio struggles to get from human spot-checks that vary by inspector and property.
 
 Built by two Carnegie Mellon researchers on patented inspection technology, it plugs into the photo workflow a team already runs. The audit still certifies the standard a couple of times a year; RapidEye keeps it true the other 363 days.
 
@@ -8615,7 +8605,7 @@ Far less often than guests assume. Leading Quality Assurance (LQA), one of the m
 
 AI is strong on the physical and visual half of a standard: whether a bed is made to brand standard, amenities are placed correctly, brand-mandated items are present, the room is clean, and there is no damage. It reads this from photos in seconds, on every room. What it cannot judge is the human service experience, the warmth, anticipation, and emotional impact that audits like LQA and Forbes Travel Guide weight most heavily. The practical model is AI for the continuous physical check, humans for service and the final call.
 
-A brand audit is an infrequent, comprehensive snapshot by an anonymous human inspector scoring hundreds of standards, including service. AI quality control is a continuous, narrower check of the physical and visual standards on every room and turnover, with a human reviewing each flag. They are complementary: the audit sets and certifies the standard a few times a year, and AI holds the physical side of that standard in place between audits, so the property is not only compliant on inspection day.
+A brand audit is an infrequent, comprehensive snapshot by an anonymous human inspector scoring hundreds of standards, including service. AI quality control is a continuous, narrower check of the physical and visual standards on every room and turnover. They are complementary: the audit sets and certifies the standard a few times a year, and AI holds the physical side of that standard in place between audits, so the property is not only compliant on inspection day.
 
 Yes, and consistency across properties is one of its strongest use cases. Because the AI applies the same standard to every room's photos regardless of which property or inspector captured them, it gives a brand or management group a single, comparable measure of physical-standard compliance across the portfolio, every day, rather than waiting for each property's annual audit. That is difficult to achieve with human spot-checks that vary by inspector and property.
 
@@ -8659,7 +8649,7 @@ Source: AHLA and Hireology hotel staffing survey, fielded December 2024 to Janua
 
 The most established use. Instead of a static printed room list, AI assigns and re-sequences cleans in real time from checkout and check-in data, balances workloads across attendants, and cuts wasted movement between floors. It is scheduling software with live data, and it is where most hotels start.
 
-The job that actually protects the guest experience. AI reads the photos an attendant captures during a cleaning checklist and checks them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. It turns a sampled, subjective supervisor walk-through into a documented check on every single room, with a human making the final call on each flag.
+The job that actually protects the guest experience. AI reads the photos an attendant captures during a cleaning checklist and checks them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. It turns a sampled, subjective supervisor walk-through into a documented check on every single room.
 
 AI forecasts demand for linens, toiletries, and amenities from occupancy, booking pace, and guest-request history, so par levels are set by data instead of a monthly manual count. It quietly removes stockouts and the labor of counting closets.
 
@@ -8683,7 +8673,7 @@ If you take one thing from the vendor noise, take this. The honest split between
 
 ## RapidEye is the AI inspector for hotel housekeeping
 
-RapidEye does this job for hotels today. It is built for the one with the clearest return: photo verification of room condition and cleaning quality. It reads the housekeeping and turnover photos a team already captures, checks them against standard, and flags missed cleaning, damage, and missing items, on every room rather than the roughly one in ten a supervisor can reach. Every flag goes to a human for the final call. For an operator, that is the most direct way to make housekeeping AI-native: same teams, same photos, full coverage.
+RapidEye does this job for hotels today. It is built for the one with the clearest return: photo verification of room condition and cleaning quality. It reads the housekeeping and turnover photos a team already captures, checks them against standard, and flags missed cleaning, damage, and missing items, on every room rather than the roughly one in ten a supervisor can reach. For an operator, that is the most direct way to make housekeeping AI-native: same teams, same photos, full coverage.
 
 It is built by two Carnegie Mellon researchers on patented inspection technology, and it plugs into the photo workflow a housekeeping team already runs, whether rooms are documented in a brand app or an existing inspection tool, so the change is coverage and consistency, not a new burden on the floor.
 
@@ -8713,7 +8703,7 @@ Across five jobs: scheduling and dynamically routing room cleans from real-time 
 
 According to a roundup by the cleaning-industry organization Interclean, named adopters include Wyndham (cleanliness monitoring), Hilton Tokyo Bay (predictive restocking and maintenance), a Ritz-Carlton property reporting a 20 percent efficiency gain from AI scheduling, and IHG, Accor, and Marriott on scheduling and condition sensing. Depth varies widely; most are pilots or single-property programs, not chain-wide rollouts.
 
-Yes. AI photo-verification tools read the photos taken during a cleaning checklist and check them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. Because supervisors inspect only a fraction of rooms by hand, often cited at around 10 percent, AI extends a quality check to every room. A human still makes the final call on each flag.
+Yes. AI photo-verification tools read the photos taken during a cleaning checklist and check them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. Because supervisors inspect only a fraction of rooms by hand, often cited at around 10 percent, AI extends a quality check to every room.
 
 No. Physical cleaning in unstructured rooms stays human, and the robot-staffed hotel experiments mostly failed. The AI that works in housekeeping is software: it schedules and routes the team, verifies cleaning from photos, forecasts supplies, and flags maintenance. It removes blind spots, not cleaners, and with housekeeping the hardest role to staff, it is mostly used to stretch the teams hotels already have.
 
@@ -15580,9 +15570,9 @@ If the operator is not documenting turnovers yet, that is not a reason to pass. 
 
 - **Ingest existing media.** RapidEye pulls historical turnover photos and video from your operations platform. No new app for cleaners, no workflow change.
 
-- **Build a baseline per room.** It clusters images by room and learns what guest-ready looks like for each space. Matterport scans can add context.
+- **Build a baseline per room.** It learns what guest-ready looks like for each space. Matterport scans can add context.
 
-- **Compare each new turnover.** New photos or video are checked against the baseline, and changes are flagged for a human to confirm.
+- **Compare each new turnover.** New photos or video are checked against the baseline, and changes are flagged.
 
 - **Report.** A dashboard surfaces cleaner performance and property-level patterns over time.
 
@@ -15649,10 +15639,10 @@ Unlike cleaning coordination tools like [Breezeway](https://www.breezeway.io/) o
  RapidEye pulls in existing turnover photos from the operator's ops platform. For most mid-market short-term rental managers, that means Breezeway, Guesty, or Streamline PropertyCare. No cleaner behavior change is required.
 
 - **Build a per-property baseline**
- The model clusters photos by room and learns what "clean and intact" looks like for each specific space in each specific property. This [baseline comparison approach](https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
+ RapidEye learns what "clean and intact" looks like for each specific space in each specific property. This [baseline comparison approach](https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
 
 - **Compare new photos to the baseline**
- When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, the model picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers [all major damage detection categories](https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
+ When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, RapidEye picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers [all major damage detection categories](https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
 
 - **Generate an inspection report**
  Flagged issues surface as an itemized report, with timestamps, photos, and descriptions. Ops managers review exceptions rather than every photo, which makes it possible to scale inspection to every turnover at every property every day.
@@ -16644,7 +16634,7 @@ Notice that every profile above lives mostly in layers 01 and 02, the guest-faci
 
 Back-of-house operations, layer 04, is the part of the hotel guests never see and the part that quietly decides margins: whether a room was actually cleaned to standard, whether damage gets caught at checkout instead of discovered by the next guest, whether maintenance issues get routed before they become complaints. Historically this layer ran on supervisors spot-checking a fraction of rooms and on paper checklists. It is now the fastest-moving frontier for AI vision, because the work is repetitive, high-volume, and image-based, which is exactly what computer vision is good at.
 
-This is the layer where the AI-native shift is least visible from the outside and most valuable from the inside. A model that reads housekeeping and turnover photos can flag missed cleaning, surface damage, and missing items on every room at every turnover, not the sample a supervisor has time to spot-check, and it routes each flag to a human for the final call. We cover how this works in [how hotels detect room damage at checkout](https://rapideyeinspections.com/blog/how-hotels-detect-room-damage/) and compare the tools in [the best AI hotel room inspection software](https://rapideyeinspections.com/blog/best-ai-hotel-room-inspection-software/). It is also the layer where a single property or a whole portfolio can move first, without rebuilding the booking stack or risking a guest-facing bot.
+This is the layer where the AI-native shift is least visible from the outside and most valuable from the inside. A model that reads housekeeping and turnover photos can flag missed cleaning, surface damage, and missing items on every room at every turnover, not the sample a supervisor has time to spot-check. We cover how this works in [how hotels detect room damage at checkout](https://rapideyeinspections.com/blog/how-hotels-detect-room-damage/) and compare the tools in [the best AI hotel room inspection software](https://rapideyeinspections.com/blog/best-ai-hotel-room-inspection-software/). It is also the layer where a single property or a whole portfolio can move first, without rebuilding the booking stack or risking a guest-facing bot.
 
 ## How to make your hotel more AI-native
 
@@ -16656,7 +16646,7 @@ Walk discovery, in-stay, revenue, and operations and mark where AI already touch
 
 #### Start where AI can fail safely
 
-The robot-hotel lesson is that guest-facing AI fails in public. Back-of-house operations is the opposite. An AI that reads housekeeping and turnover photos to flag damage and missed cleaning has a human reviewing every flag, so a wrong guess costs a second look, not a guest's trust. For most operators it is the lowest-risk, fastest-payback first move, and it needs no change to the guest experience.
+The robot-hotel lesson is that guest-facing AI fails in public. Back-of-house operations is the opposite. An AI that reads housekeeping and turnover photos to flag damage and missed cleaning works behind the scenes, so a wrong guess costs your team a second look, not a guest's trust. For most operators it is the lowest-risk, fastest-payback first move, and it needs no change to the guest experience.
 
 #### Connect your data before your agents
 
@@ -16682,7 +16672,7 @@ According to Wyndham's May 2026 announcement, its native ChatGPT app, which lets
 
 No. The robot-staffed hotel era is mostly a cautionary tale. Japan's Henn-na Hotel opened in 2015 as the Guinness-recognized first hotel staffed by robots, then pulled many of them by 2019 because they broke down, were costly to maintain, and annoyed guests. Modern AI-native hotels use software agents and AI vision behind the scenes, with humans in the loop, rather than humanoid robots at the desk.
 
-Map which of the four layers (discovery, in-stay, revenue, operations) already use AI, then start where AI can fail safely, which is usually back-of-house operations such as AI that reads housekeeping and turnover photos to flag damage and missed cleaning with a human reviewing each flag. Confirm your PMS exposes an open API so tools can read your data, then add guest-facing AI once the foundation exists, and measure everything in revenue and labor rather than novelty.
+Map which of the four layers (discovery, in-stay, revenue, operations) already use AI, then start where AI can fail safely, which is usually back-of-house operations such as AI that reads housekeeping and turnover photos to flag damage and missed cleaning. Confirm your PMS exposes an open API so tools can read your data, then add guest-facing AI once the foundation exists, and measure everything in revenue and labor rather than novelty.
 
 ## Sources
 
@@ -21587,7 +21577,7 @@ The key difference from photo checklists: no human has to review every photo. Th
 
 ### How it works in practice
 
-The system ingests all historical photos from your existing platform (Breezeway, etc.), clusters them by room, and builds a visual baseline for each property. When new turnover photos come in, AI compares them against the baseline and flags differences: new scratches, stains, missing items, wall damage, staging changes. Managers review the flagged items, not every photo. Some systems also analyze video walkthroughs for richer coverage.
+The system ingests all historical photos from your existing platform (Breezeway, etc.) and builds a visual baseline for each property. When new turnover photos come in, AI compares them against the baseline and flags differences: new scratches, stains, missing items, wall damage, staging changes. Managers review the flagged items, not every photo. Some systems also analyze video walkthroughs for richer coverage.
 
 - New scratches, stains, dents, scuffs
 
@@ -23708,9 +23698,9 @@ And honestly, judges should be skeptical. Bessemer’s State of AI report notes 
 
 What we explained: our accuracy comes from baseline comparison. We’re not trying to detect “damage” in a vacuum. We’re comparing today’s photos against a visual record of what the property looked like before. That’s a fundamentally different (and easier) problem than general image classification. The AI is looking for *changes*, not trying to decide if a scratch is “bad.”
 
-We also talked about how we handle uncertainty. When the system isn’t confident, it flags for human review rather than making a call. That’s the right tradeoff when you’re dealing with damage claims worth hundreds or thousands of dollars.
 
-If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask what happens when the AI isn’t sure. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
+
+If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
 
 ## “Will cleaners actually use this?”
 
@@ -23734,11 +23724,11 @@ This question has extra weight at McGinnis because the competition is public. Se
 
 We were pretty open about our answer: data and workflow integration.
 
-On data: we’ve processed over 1.6 million inspection photos. That training data compounds. Every property we onboard, every turnover we analyze, the system gets better at understanding what “normal” looks like across different property types, furniture styles, lighting conditions. A competitor starting today doesn’t have that.
+On data: we’ve processed over 1.6 million inspection photos, across different property types, furniture styles, and lighting conditions. A competitor starting today doesn’t have that.
 
 On workflow: the inspection tools that win are the ones that become part of daily operations. Breezeway has facilitated [30 million+ property tasks](https://www.breezeway.io/vacation-rental) because it’s embedded in how teams work. Our [Breezeway integration](https://www.rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow) means we’re part of that operational stack, not a separate system to remember.
 
-Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of proprietary data, workflow integration, and compounding improvement over time.
+Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of data and workflow integration.
 
 ## What surprised us
 
@@ -23756,9 +23746,9 @@ What did need explanation: the specifics of how platform claims work. Why timest
 
 The questions judges asked aren’t unique to pitch competitions. They’re the same questions sophisticated buyers ask when evaluating any tool.
 
-- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
-**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
 - **On adoption:** Consider the human side. Will your team actually use this? Does it require new behavior or new hardware? The best AI in the world doesn’t help if it sits unused.
 
@@ -25473,7 +25463,7 @@ The core technology is **baseline comparison**. Here’s the process:
 
 **Deliver evidence** - You get visual proof showing exactly what changed and when. Not “something might be wrong”: specific, documented damage with timestamps.
 
-We’ve trained on [over 1 million inspection images](https://www.rapideyeinspections.com/) so far. The system gets better at understanding what’s normal wear versus actual damage worth flagging.
+We’ve analyzed [over 1 million inspection images](https://www.rapideyeinspections.com/) so far.
 
 ## Works With Your Existing Tools
 
@@ -26765,7 +26755,7 @@ That experience stuck with Rohan. When he started thinking about what to build, 
 
 ## How We Met
 
-I met Rohan at a [Swartz Center for Entrepreneurship](https://www.cmu.edu/swartz-center-for-entrepreneurship/) bootcamp at CMU in Fall 2025. At the time, I was working on something completely different. I’d been trying to automate video editing using vision-language models and agentic scaffolding. I loved video as a medium but absolutely hated the manual editing process. So I was building tools to make that faster.
+I met Rohan at a [Swartz Center for Entrepreneurship](https://www.cmu.edu/swartz-center-for-entrepreneurship/) bootcamp at CMU in Fall 2025. At the time, I was working on something completely different. I’d been trying to automate video editing with AI. I loved video as a medium but absolutely hated the manual editing process. So I was building tools to make that faster.
 
 I actually tried to recruit Rohan for that project. He said no.
 
@@ -26789,7 +26779,7 @@ There’s also [research showing](https://www.nature.com/articles/s41598-023-419
 
 Rohan handles the backend and spatial AI. He’s getting his Masters in AI Engineering at CMU and currently works as a Computer Vision & Robotics Automation Engineer at Rivian. Before that, he was at Lucid Motors, GM, and Western Digital. He has four patents and a publication in IEEE. When it comes to building the core detection system that compares property conditions over time, he knows what he’s doing.
 
-I handle frontend, VLM integration, and sales. My background is in Business Administration and Human-Computer Interaction at CMU with an AI concentration. Before RapidEye, I worked at two YC startups: ValueMate (X25) on product and growth, and Anara (S24) on content. That VLM work I mentioned earlier taught me a lot about the limitations and possibilities of these models, which carried directly into how we architect RapidEye’s analysis pipeline.
+I handle frontend and sales. My background is in Business Administration and Human-Computer Interaction at CMU with an AI concentration. Before RapidEye, I worked at two YC startups: ValueMate (X25) on product and growth, and Anara (S24) on content.
 
 CMU is [ranked #1 in AI](https://www.cmu.edu/news/stories/archives/2025/september/carnegie-mellon-named-a-top-20-us-university) by U.S. News, and the Swartz Center ecosystem has produced over [$1 billion in follow-on funding](https://www.cmu.edu/swartz-center-for-entrepreneurship/mentorship-and-learning/project-olympus/index.html) for startups that came through Project Olympus. Being here gives us access to resources and mentorship that would be hard to find anywhere else.
 
@@ -26883,11 +26873,11 @@ Japan's Henn-na Hotel opened in 2015 as the Guinness-recognized first hotel staf
 
 Reframe the question and it gets useful. The right target for AI in a hotel is not the people, it is the work the people never get to.
 
-A housekeeping supervisor can hand-inspect only a fraction of rooms, so most are released to the next guest without a second set of eyes. That is not a person doing a job; it is a job nobody has time to do. AI fits there exactly: it can verify the condition of every room at every turnover, catch missed cleaning and damage, and route each flag to a human for the final call. The cleaner still cleans, the supervisor still decides, and the rooms that used to ship unchecked now get a look. That is the shape of AI that adds coverage without subtracting people, and it is precisely the work RapidEye does.
+A housekeeping supervisor can hand-inspect only a fraction of rooms, so most are released to the next guest without a second set of eyes. That is not a person doing a job; it is a job nobody has time to do. AI fits there exactly: it can verify the condition of every room at every turnover and catch missed cleaning and damage. The cleaner still cleans, the supervisor still decides, and the rooms that used to ship unchecked now get a look. That is the shape of AI that adds coverage without subtracting people, and it is precisely the work RapidEye does.
 
 ## RapidEye replaces the blind spot, not the inspector
 
-RapidEye is AI inspection for hotels and short-term rental operators, and it is built around the augment-not-replace idea. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, and missing items, then hands each flag to a human for the final call. It does not remove the cleaner or the supervisor. It removes the gap between the rooms that get inspected and the rooms that do not, which is the part no amount of hiring has ever fully closed, least of all during a housekeeping shortage.
+RapidEye is AI inspection for hotels and short-term rental operators, and it is built around the augment-not-replace idea. It reads the housekeeping and turnover photos a team already captures, checks every room against standard, and flags missed cleaning, damage, and missing items. It does not remove the cleaner or the supervisor. It removes the gap between the rooms that get inspected and the rooms that do not, which is the part no amount of hiring has ever fully closed, least of all during a housekeeping shortage.
 
 Built by two Carnegie Mellon researchers on patented inspection technology, it plugs into the photo workflow a team already runs. The result is more coverage and more consistency from the same staff, which is the version of "AI in hotels" that survives contact with a real operation.
 

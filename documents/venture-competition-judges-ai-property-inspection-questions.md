@@ -24,9 +24,9 @@ And honestly, judges should be skeptical. Bessemer’s State of AI report notes 
 
 What we explained: our accuracy comes from baseline comparison. We’re not trying to detect “damage” in a vacuum. We’re comparing today’s photos against a visual record of what the property looked like before. That’s a fundamentally different (and easier) problem than general image classification. The AI is looking for *changes*, not trying to decide if a scratch is “bad.”
 
-We also talked about how we handle uncertainty. When the system isn’t confident, it flags for human review rather than making a call. That’s the right tradeoff when you’re dealing with damage claims worth hundreds or thousands of dollars.
 
-If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask what happens when the AI isn’t sure. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
+
+If you’re evaluating AI inspection tools, this is the right question to start with. Ask vendors about their false positive rates. Ask to see real examples. [We publish ours](https://rapideyeinspections.com/showcase/).
 
 ## “Will cleaners actually use this?”
 
@@ -50,11 +50,11 @@ This question has extra weight at McGinnis because the competition is public. Se
 
 We were pretty open about our answer: data and workflow integration.
 
-On data: we’ve processed over 1.6 million inspection photos. That training data compounds. Every property we onboard, every turnover we analyze, the system gets better at understanding what “normal” looks like across different property types, furniture styles, lighting conditions. A competitor starting today doesn’t have that.
+On data: we’ve processed over 1.6 million inspection photos, across different property types, furniture styles, and lighting conditions. A competitor starting today doesn’t have that.
 
 On workflow: the inspection tools that win are the ones that become part of daily operations. Breezeway has facilitated [30 million+ property tasks](https://www.breezeway.io/vacation-rental) because it’s embedded in how teams work. Our [Breezeway integration](https://www.rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow) means we’re part of that operational stack, not a separate system to remember.
 
-Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of proprietary data, workflow integration, and compounding improvement over time.
+Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of data and workflow integration.
 
 ## What surprised us
 
@@ -72,9 +72,9 @@ What did need explanation: the specifics of how platform claims work. Why timest
 
 The questions judges asked aren’t unique to pitch competitions. They’re the same questions sophisticated buyers ask when evaluating any tool.
 
-- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
-**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
 - **On adoption:** Consider the human side. Will your team actually use this? Does it require new behavior or new hardware? The best AI in the world doesn’t help if it sits unused.
 

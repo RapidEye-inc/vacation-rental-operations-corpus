@@ -70,7 +70,7 @@ Notice that every profile above lives mostly in layers 01 and 02, the guest-faci
 
 Back-of-house operations, layer 04, is the part of the hotel guests never see and the part that quietly decides margins: whether a room was actually cleaned to standard, whether damage gets caught at checkout instead of discovered by the next guest, whether maintenance issues get routed before they become complaints. Historically this layer ran on supervisors spot-checking a fraction of rooms and on paper checklists. It is now the fastest-moving frontier for AI vision, because the work is repetitive, high-volume, and image-based, which is exactly what computer vision is good at.
 
-This is the layer where the AI-native shift is least visible from the outside and most valuable from the inside. A model that reads housekeeping and turnover photos can flag missed cleaning, surface damage, and missing items on every room at every turnover, not the sample a supervisor has time to spot-check, and it routes each flag to a human for the final call. We cover how this works in [how hotels detect room damage at checkout](https://rapideyeinspections.com/blog/how-hotels-detect-room-damage/) and compare the tools in [the best AI hotel room inspection software](https://rapideyeinspections.com/blog/best-ai-hotel-room-inspection-software/). It is also the layer where a single property or a whole portfolio can move first, without rebuilding the booking stack or risking a guest-facing bot.
+This is the layer where the AI-native shift is least visible from the outside and most valuable from the inside. A model that reads housekeeping and turnover photos can flag missed cleaning, surface damage, and missing items on every room at every turnover, not the sample a supervisor has time to spot-check. We cover how this works in [how hotels detect room damage at checkout](https://rapideyeinspections.com/blog/how-hotels-detect-room-damage/) and compare the tools in [the best AI hotel room inspection software](https://rapideyeinspections.com/blog/best-ai-hotel-room-inspection-software/). It is also the layer where a single property or a whole portfolio can move first, without rebuilding the booking stack or risking a guest-facing bot.
 
 ## How to make your hotel more AI-native
 
@@ -82,7 +82,7 @@ Walk discovery, in-stay, revenue, and operations and mark where AI already touch
 
 #### Start where AI can fail safely
 
-The robot-hotel lesson is that guest-facing AI fails in public. Back-of-house operations is the opposite. An AI that reads housekeeping and turnover photos to flag damage and missed cleaning has a human reviewing every flag, so a wrong guess costs a second look, not a guest's trust. For most operators it is the lowest-risk, fastest-payback first move, and it needs no change to the guest experience.
+The robot-hotel lesson is that guest-facing AI fails in public. Back-of-house operations is the opposite. An AI that reads housekeeping and turnover photos to flag damage and missed cleaning works behind the scenes, so a wrong guess costs your team a second look, not a guest's trust. For most operators it is the lowest-risk, fastest-payback first move, and it needs no change to the guest experience.
 
 #### Connect your data before your agents
 
@@ -108,7 +108,7 @@ According to Wyndham's May 2026 announcement, its native ChatGPT app, which lets
 
 No. The robot-staffed hotel era is mostly a cautionary tale. Japan's Henn-na Hotel opened in 2015 as the Guinness-recognized first hotel staffed by robots, then pulled many of them by 2019 because they broke down, were costly to maintain, and annoyed guests. Modern AI-native hotels use software agents and AI vision behind the scenes, with humans in the loop, rather than humanoid robots at the desk.
 
-Map which of the four layers (discovery, in-stay, revenue, operations) already use AI, then start where AI can fail safely, which is usually back-of-house operations such as AI that reads housekeeping and turnover photos to flag damage and missed cleaning with a human reviewing each flag. Confirm your PMS exposes an open API so tools can read your data, then add guest-facing AI once the foundation exists, and measure everything in revenue and labor rather than novelty.
+Map which of the four layers (discovery, in-stay, revenue, operations) already use AI, then start where AI can fail safely, which is usually back-of-house operations such as AI that reads housekeeping and turnover photos to flag damage and missed cleaning. Confirm your PMS exposes an open API so tools can read your data, then add guest-facing AI once the foundation exists, and measure everything in revenue and labor rather than novelty.
 
 ## Sources
 

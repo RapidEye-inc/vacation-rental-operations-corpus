@@ -74,9 +74,9 @@ How it works
 
 - Ingest existing media. RapidEye pulls historical turnover photos and video from your operations platform. No new app for cleaners, no workflow change.
 
-- Build a baseline per room. It clusters images by room and learns what guest-ready looks like for each space. Matterport scans can add context.
+- Build a baseline per room. It learns what guest-ready looks like for each space. Matterport scans can add context.
 
-- Compare each new turnover. New photos or video are checked against the baseline, and changes are flagged for a human to confirm.
+- Compare each new turnover. New photos or video are checked against the baseline, and changes are flagged.
 
 - Report. A dashboard surfaces cleaner performance and property-level patterns over time.
 
