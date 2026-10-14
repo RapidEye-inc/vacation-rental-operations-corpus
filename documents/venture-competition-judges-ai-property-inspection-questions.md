@@ -54,7 +54,7 @@ On data: we’ve processed over 1.6 million inspection photos, across different 
 
 On workflow: the inspection tools that win are the ones that become part of daily operations. Breezeway has facilitated [30 million+ property tasks](https://www.breezeway.io/vacation-rental) because it’s embedded in how teams work. Our [Breezeway integration](https://www.rapideyeinspections.com/blog/add-ai-damage-detection-breezeway-workflow) means we’re part of that operational stack, not a separate system to remember.
 
-Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of each property’s own history and workflow integration.
+Judges seemed satisfied with this. The moat isn’t any single feature. It’s the combination of data and workflow integration.
 
 ## What surprised us
 
@@ -72,9 +72,9 @@ What did need explanation: the specifics of how platform claims work. Why timest
 
 The questions judges asked aren’t unique to pitch competitions. They’re the same questions sophisticated buyers ask when evaluating any tool.
 
-- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+- **On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
-**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask what happens when the AI is uncertain. Ask to see real detections, not cherry-picked demos.
+**On accuracy:** Don’t accept vague claims. Ask for specifics on false positive rates. Ask to see real detections, not cherry-picked demos.
 
 - **On adoption:** Consider the human side. Will your team actually use this? Does it require new behavior or new hardware? The best AI in the world doesn’t help if it sits unused.
 
