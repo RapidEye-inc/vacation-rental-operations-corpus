@@ -22,10 +22,10 @@ How It Works in Four Steps
  RapidEye pulls in existing turnover photos from the operator's ops platform. For most mid-market short-term rental managers, that means Breezeway, Guesty, or Streamline PropertyCare. No cleaner behavior change is required.
 
 - Build a per-property baseline
- The model clusters photos by room and learns what "clean and intact" looks like for each specific space in each specific property. This baseline comparison approach (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
+ RapidEye learns what "clean and intact" looks like for each specific space in each specific property. This baseline comparison approach (https://rapideyeinspections.com/blog/ai-baseline-comparison-catches-what-inspections-miss/) is the reference point every future photo gets compared against.
 
 - Compare new photos to the baseline
- When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, the model picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers all major damage detection categories (https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
+ When a cleaner uploads new turnover photos, RapidEye compares them to the property's learned baseline and flags differences. Because the baseline is property-specific, RapidEye picks up subtle condition changes that generic off-the-shelf computer vision approaches would miss, and covers all major damage detection categories (https://rapideyeinspections.com/blog/vacation-rental-damage-detection-methods/) that human reviewers struggle to catch at scale.
 
 - Generate an inspection report
  Flagged issues surface as an itemized report, with timestamps, photos, and descriptions. Ops managers review exceptions rather than every photo, which makes it possible to scale inspection to every turnover at every property every day.

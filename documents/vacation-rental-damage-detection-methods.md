@@ -108,7 +108,7 @@ The key difference from photo checklists: no human has to review every photo. Th
 
 ### How it works in practice
 
-The system ingests all historical photos from your existing platform (Breezeway, etc.), clusters them by room, and builds a visual baseline for each property. When new turnover photos come in, AI compares them against the baseline and flags differences: new scratches, stains, missing items, wall damage, staging changes. Managers review the flagged items, not every photo. Some systems also analyze video walkthroughs for richer coverage.
+The system ingests all historical photos from your existing platform (Breezeway, etc.) and builds a visual baseline for each property. When new turnover photos come in, AI compares them against the baseline and flags differences: new scratches, stains, missing items, wall damage, staging changes. Managers review the flagged items, not every photo. Some systems also analyze video walkthroughs for richer coverage.
 
 - New scratches, stains, dents, scuffs
 

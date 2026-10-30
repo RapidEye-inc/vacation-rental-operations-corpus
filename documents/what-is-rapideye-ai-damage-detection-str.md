@@ -52,7 +52,7 @@ The core technology is **baseline comparison**. Here’s the process:
 
 **Deliver evidence** - You get visual proof showing exactly what changed and when. Not “something might be wrong”: specific, documented damage with timestamps.
 
-We’ve trained on [over 1 million inspection images](https://www.rapideyeinspections.com/) so far. The system gets better at understanding what’s normal wear versus actual damage worth flagging.
+We’ve analyzed [over 1 million inspection images](https://www.rapideyeinspections.com/) so far.
 
 ## Works With Your Existing Tools
 

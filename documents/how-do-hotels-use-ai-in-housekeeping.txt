@@ -24,7 +24,7 @@ The five jobs AI does in hotel housekeeping
 
 The most established use. Instead of a static printed room list, AI assigns and re-sequences cleans in real time from checkout and check-in data, balances workloads across attendants, and cuts wasted movement between floors. It is scheduling software with live data, and it is where most hotels start.
 
-The job that actually protects the guest experience. AI reads the photos an attendant captures during a cleaning checklist and checks them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. It turns a sampled, subjective supervisor walk-through into a documented check on every single room, with a human making the final call on each flag.
+The job that actually protects the guest experience. AI reads the photos an attendant captures during a cleaning checklist and checks them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. It turns a sampled, subjective supervisor walk-through into a documented check on every single room.
 
 AI forecasts demand for linens, toiletries, and amenities from occupancy, booking pace, and guest-request history, so par levels are set by data instead of a monthly manual count. It quietly removes stockouts and the labor of counting closets.
 
@@ -48,7 +48,7 @@ Cleaning robots replacing housekeepers. Physical work in unpredictable rooms sta
 
 RapidEye is the AI inspector for hotel housekeeping
 
-RapidEye does this job for hotels today. It is built for the one with the clearest return: photo verification of room condition and cleaning quality. It reads the housekeeping and turnover photos a team already captures, checks them against standard, and flags missed cleaning, damage, and missing items, on every room rather than the roughly one in ten a supervisor can reach. Every flag goes to a human for the final call. For an operator, that is the most direct way to make housekeeping AI-native: same teams, same photos, full coverage.
+RapidEye does this job for hotels today. It is built for the one with the clearest return: photo verification of room condition and cleaning quality. It reads the housekeeping and turnover photos a team already captures, checks them against standard, and flags missed cleaning, damage, and missing items, on every room rather than the roughly one in ten a supervisor can reach. For an operator, that is the most direct way to make housekeeping AI-native: same teams, same photos, full coverage.
 
 It is built by two Carnegie Mellon researchers on patented inspection technology, and it plugs into the photo workflow a housekeeping team already runs, whether rooms are documented in a brand app or an existing inspection tool, so the change is coverage and consistency, not a new burden on the floor.
 
@@ -78,7 +78,7 @@ Across five jobs: scheduling and dynamically routing room cleans from real-time 
 
 According to a roundup by the cleaning-industry organization Interclean, named adopters include Wyndham (cleanliness monitoring), Hilton Tokyo Bay (predictive restocking and maintenance), a Ritz-Carlton property reporting a 20 percent efficiency gain from AI scheduling, and IHG, Accor, and Marriott on scheduling and condition sensing. Depth varies widely; most are pilots or single-property programs, not chain-wide rollouts.
 
-Yes. AI photo-verification tools read the photos taken during a cleaning checklist and check them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. Because supervisors inspect only a fraction of rooms by hand, often cited at around 10 percent, AI extends a quality check to every room. A human still makes the final call on each flag.
+Yes. AI photo-verification tools read the photos taken during a cleaning checklist and check them against brand standards, confirming beds are made correctly, amenities are stocked, and safety items are present, while flagging damage like stained carpets or broken fixtures. Because supervisors inspect only a fraction of rooms by hand, often cited at around 10 percent, AI extends a quality check to every room.
 
 No. Physical cleaning in unstructured rooms stays human, and the robot-staffed hotel experiments mostly failed. The AI that works in housekeeping is software: it schedules and routes the team, verifies cleaning from photos, forecasts supplies, and flags maintenance. It removes blind spots, not cleaners, and with housekeeping the hardest role to staff, it is mostly used to stretch the teams hotels already have.
 
